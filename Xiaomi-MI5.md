@@ -2,7 +2,7 @@
 
 **XDA Thread:** https://forum.xda-developers.com/mi-5/development/jdcteam-treble-support-project-t3761296
 
-**Current version:** (20180329) BETA v3
+**Current version:** v3 (20180329) BETA
 
 **Changelog:**
 
