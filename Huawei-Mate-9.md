@@ -1,5 +1,4 @@
-Missing hardware support:
-- fingerprint gestures (WIP at https://github.com/phhusson/treble_experimentations/tree/master/vendor-HAL/Huawei/fingerprint-nav )
+Device supported.
 
 Known work-arounds:
 - Full-screen composer: https://github.com/phhusson/platform_frameworks_native/commit/632d84faa78ab02286d7663efdd325d374a9d9ba
@@ -9,3 +8,7 @@ https://github.com/phhusson/platform_frameworks_native/commit/cdc0f4b5e81347a39a
 
 Kwown bugs:
 - In some cases (TBD), the user needs to hotplug SIM card for it to be detected
+- In some cases, the device no longer wants to register touchscreen events when learning. This is probably linked to some factory reset issues.
+
+Additional infos:
+- Ported stock Camera exists and mostly work, keeping original quality.
