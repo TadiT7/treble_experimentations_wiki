@@ -7,3 +7,4 @@ Device compatibility: (If the device has no existing page, consider the device i
 * [[Essential PH-1]]
 * [[Xiaomi MI5]]
 * [[Xiaomi MI5s]]
+* [[Galaxy S9 and S9 Plus]]
