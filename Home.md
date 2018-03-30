@@ -6,3 +6,4 @@ Device compatibility: (If the device has no existing page, consider the device i
 * [[Huawei View 10]]
 * [[Essential PH-1]]
 * [[Xiaomi MI5]]
+* [[Xiaomi MI5s]]
