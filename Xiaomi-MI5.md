@@ -1,5 +1,7 @@
 **FULL TREBLE support implemented by JDCTeam (Big thanks to @sirmordred)**
 
+**Device codename:** Gemini
+
 **XDA Thread:** https://forum.xda-developers.com/mi-5/development/jdcteam-treble-support-project-t3761296
 
 **Current version:** v3 (20180329) BETA
