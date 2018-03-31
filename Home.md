@@ -8,3 +8,4 @@ Device compatibility: (If the device has no existing page, consider the device i
 * [[Xiaomi MI5]]
 * [[Xiaomi MI5s]]
 * [[Galaxy S9 and S9 Plus]]
+* [[Zuk Z2 Plus and Z2 Pro]]
