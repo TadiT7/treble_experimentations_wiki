@@ -42,6 +42,7 @@ A: To get **Treble support**, you'll need to flash a latest **ROM which has vend
 
 
 Q: Your device doesn't have **/factory** partition?
+
 A: Flash **ZUI 3.5 Oreo** and after that **unlock bootloader** and **flash a TWRP flashable Treble ROM**
 
 
