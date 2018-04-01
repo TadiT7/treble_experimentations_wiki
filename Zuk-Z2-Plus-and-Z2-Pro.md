@@ -28,6 +28,9 @@ Full Treble enabled by [Zuk-devs](https://github.com/Zuk-devs) (**Cosmedd, David
 * Fingerprint Reader
 > Working
 
+* Offline charging
+> Working
+
 ***
 ## Additional Notes
 
