@@ -12,6 +12,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Huawei View 10]]|berkeley|
 |[[Razer Phone]]|cheryl|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte \ star2lte|
+|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar \ lilac|
 |[[Xiaomi Mi 5]]|gemini|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn \ natrium|
 |[[Xiaomi Mi 6]]|sagit|
