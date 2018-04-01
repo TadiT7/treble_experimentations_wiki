@@ -20,7 +20,7 @@ Full Treble enabled by [Zuk-devs](https://github.com/Zuk-devs) (**Cosmedd, David
 > Calling works, Mobile Data works. 
 
 * GPS
-> Not Working
+> Working
 
 * VoLTE
 > Not working
