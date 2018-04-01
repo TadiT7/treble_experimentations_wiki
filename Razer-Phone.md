@@ -16,7 +16,7 @@
 
 * SIM / Mobile Data / Voice
 > Only detected as 3G, not capable of 4G/LTE (hotplugging Sim-card may fix issue)
-> No incoming audio in voicecalls (to be fixed). See #hold-on
+> No incoming audio in voicecalls (to be fixed). See #12
 
 * VoLTE
 > Not tested
