@@ -8,8 +8,9 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Huawei Mate 9]]|hi3660|
 |[[Huawei P20 Lite]]||
 |[[Huawei View 10]]|berkeley|
-|[[Galaxy S9 and S9 Plus]]|starlte \ star2lte|
-|[[Xiaomi MI5]]|gemini|
-|[[Xiaomi MI5s]]|capricorn|
+|[[Razer Phone]]|cheryl|
+|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte \ star2lte|
+|[[Xiaomi Mi 5]]|gemini|
+|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn \ natrium|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus \ z2_row|
