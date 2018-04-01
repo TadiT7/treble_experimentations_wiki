@@ -4,6 +4,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |:-:|:-:|
 |[[AllView V3 Viper]]||
 |[[Essential PH-1]]|mata|
+|[[Huawei Honor 7X]]|bnd|
 |[[Huawei Honor 8 Pro]]|duk|
 |[[Huawei Honor 9]]|stf|
 |[[Huawei Honor 9 Lite]]|lld|
