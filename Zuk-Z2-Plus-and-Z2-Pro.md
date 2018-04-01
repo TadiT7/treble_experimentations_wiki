@@ -68,6 +68,6 @@ Z2_row  (by Cosmedd) : [Download](https://github.com/cosmedd/android_device_zuk_
 * **Davidevinavil** - Z2_plus/Z2_row - 30/03/2018
 * **Cosmedd** - Z2_row - 30/03/2018
 * **Kuber Sharma** - Z2_plus - 30/03/2018
-* **Faiz Arthur** - Z2_plus - 25/03/2018
+* **Faiz Authar** - Z2_plus - 25/03/2018
 * **Subhajeet** - Z2_plus - 23/03/2018
 
