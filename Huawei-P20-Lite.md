@@ -6,9 +6,9 @@ Tested with system.img for A-only ARM64 devices with GApps and SU v14 (2018-03-2
 - Corrupted SD card. 
 - Camera
 - Status Icons can be cropped.
+- Luminosity Slider
 
 ***
 **Working:**
 
 Everything Else.
-
