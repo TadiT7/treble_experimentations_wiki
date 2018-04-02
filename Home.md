@@ -5,8 +5,8 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[AllView V3 Viper]]||✓|A|
 |[[Asus Zenfone 4 (2017)]]|z01k|✓|A|
 |[[Essential PH-1]]|mata|✓|A/B|
-|[[Google Pixel and Pixel XL]]|sailfish / marlin|✓|A/B|
-|[[Google Pixel 2 and Pixel 2 XL]]|walleye / taimen|✓|A/B|
+|[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|
+|[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|
 |[[HTC U11+]]|ocm|✓|A|
 |[[Huawei Honor 7X]]|bnd|✓|A|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|
@@ -17,13 +17,18 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Huawei P10 and P10 Plus]]|vtr|✓|A|
 |[[Huawei P20 Lite]]||✓|A|
 |[[Huawei View 10]]|berkeley|✓|A|
-|[[Nokia 7 Plus]]||✓|
+|[[Nokia 6 (2018)]]|pl2|✓|A/B|
+|[[Nokia 7]]|c1n|✓|A/B|
+|[[Nokia 7 Plus]]|b2n|✓|A/B|
+|[[Nokia 8 Sirocco]]|a1n|✓|A/B|
 |[[Razer Phone]]|cheryl|✓|A/B|
-|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte \ star2lte|✓|A|
-|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar \ lilac|✓|A|
+|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|
+|[[Sharp Aquos S2]]|ss2 / sat|✓||
+|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|
 |[[Xiaomi Mi 5]]|gemini||A|
-|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn \ natrium||A|
+|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
 |[[Xiaomi Mi 6]]|sagit||A|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|
+|[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|
-|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus \ z2_row||A|
+|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|
