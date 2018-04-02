@@ -5,8 +5,9 @@
 * Camera:
 > Working
 
-* Speaker / Microphone
-> Speaker and microphone workinng (mono only)
+* Speakers / Microphone
+> Speaker working (mono, single speaker only)
+> Microphone Working
 
 * Bluetooth
 > Working
@@ -18,8 +19,11 @@
 > Working
 
 * Fingerprint Reader
-> Not working, Setting fingerprint causes touch issues
+> Not working 
+> Adding and using a fingerprint causes system ui to crash and locks up touch input.
 
+* VoLTE 
+> Not working (tested with carrier EE, UK)
 
 ## Tested By:
 * Aaron Doe - S9+ (SM-G965F) - 26/03/2018
