@@ -23,7 +23,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|
 |[[Razer Phone]]|cheryl|✓|A/B|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|
-|[[Sharp Aquos S2]]|ss2 / sat|✓||
+|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|
 |[[Xiaomi Mi 5]]|gemini||A|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
