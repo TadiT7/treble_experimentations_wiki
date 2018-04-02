@@ -7,6 +7,7 @@
 
 * Speakers / Microphone
 > Speaker working (mono, single speaker only)
+
 > Microphone Working
 
 * Bluetooth
@@ -20,6 +21,7 @@
 
 * Fingerprint Reader
 > Not working 
+
 > Adding and using a fingerprint causes system ui to crash and locks up touch input.
 
 * VoLTE 
