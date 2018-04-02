@@ -2,7 +2,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 
 |Device Name|Codename|Support from OEM|Partition Style|
 |:-:|:-:|:-:|:-:|
-|[[AllView V3 Viper]]||✓|A|
+|[[AllView V3 Viper]]|V3_Viper|✓|A|
 |[[Asus Zenfone 4 (2017)]]|z01k|✓|A|
 |[[Essential PH-1]]|mata|✓|A/B|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|
