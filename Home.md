@@ -2,7 +2,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 
 |Device Name|Codename|Support from OEM|Partition Style|
 |:-:|:-:|:-:|:-:|
-|[[AllView V3 Viper]]|V3_Viper|✓|A|
+|[[AllView V3 Viper]]|v3_viper|✓|A|
 |[[Asus Zenfone 4 (2017)]]|z01k|✓|A|
 |[[Essential PH-1]]|mata|✓|A/B|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|
@@ -11,6 +11,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Huawei Honor 7X]]|bnd|✓|A|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|
 |[[Huawei Honor 9]]|stf|✓|A|
+|[[Huawei Honor 9i / Mate 10 Lite]]|bll / rne|✓|A|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|
 |[[Huawei Mate 9]]|hi3660|✓|A|
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|
