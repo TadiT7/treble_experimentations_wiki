@@ -58,6 +58,10 @@ Z2_plus (by DD3Boh)  : [Download](https://www.androidfilehost.com/?fid=746010030
 
 Z2_row  (by Cosmedd) : [Download](https://github.com/cosmedd/android_device_zuk_z2_row/releases/download/20180311/20180311_recovery.img)
 
+[Magisk for Z2 - Treble builds](https://forum.xda-developers.com/showpost.php?p=76103355&postcount=8505)
+
+Note : It is a modified version of Magisk mounting our /factory partition ( which of course we are using as our /vendor partition) It will work in both treble and non treble builds.
+
 **XDA Forum**
 
 [Z2_plus](https://forum.xda-developers.com/lenovo-zuk-z2)
