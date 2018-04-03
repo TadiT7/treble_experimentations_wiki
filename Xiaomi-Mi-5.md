@@ -8,12 +8,12 @@
 
 **Changelog:**
 
-**v3** (20180329) - Beta status with the following updates:
+**v3** (20180329) - Beta build with the following updates:
 - Updated camera Hal from latest qualcomm 8996 repo
 - Hexedited more libs and removed more vendor <-> system dependency (better treble and preparation for versioned vndk)
 - Updated wifi configs from lates CAF
 
-**v2** (20180318) - Still alpha build but with the following updates:
+**v2** (20180318) - Alpha build with the following updates:
 - Upstreamed kernel
 - Hexedited blobs to correct path (for treble)
 - Linker issues fixed
