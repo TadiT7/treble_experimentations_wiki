@@ -18,6 +18,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Huawei P10 and P10 Plus]]|vtr|✓|A|
 |[[Huawei P20 Lite]]||✓|A|
 |[[Huawei View 10]]|berkeley|✓|A|
+|[[Moto Z]]|griffin||A|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|
 |[[Nokia 7]]|c1n|✓|A/B|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|
