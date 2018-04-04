@@ -1,4 +1,8 @@
-Device compatibility: (If the device has no existing page, consider the device is fully supported)
+### Device compatibility
+
+If the device has no existing page, consider the device is fully supported.
+
+**Device testers/maintainers:**  Please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).
 
 |Device Name|Codename|Support from OEM|Partition Style|
 |:-:|:-:|:-:|:-:|
