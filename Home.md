@@ -32,6 +32,7 @@ Device compatibility: (If the device has no existing page, consider the device i
 |[[Xiaomi Mi 5]]|gemini||A|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
 |[[Xiaomi Mi 6]]|sagit||A|
+|[[Xiaomi Redmi 3S/Prime/3X]]|land||A|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|
 |[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|
