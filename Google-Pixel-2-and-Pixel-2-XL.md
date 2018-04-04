@@ -1,6 +1,14 @@
 2018-04-04
 
-on the Pixel 2 (walleye), the v15 system image successfully boots over top of the OPM2.171019.029 factory image:
+on the Pixel 2 (walleye), the v15 system image (8.1) successfully boots over top of the OPM2.171019.029 factory image (8.1) after reflashing the vbmeta partition as follows:
+
+```bash
+$ fastboot --version
+fastboot version 0.0.1-4500957
+Installed as XXX
+# extract vbmeta from the factory image zip and reflash:
+$ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+```
 
 ```bash
 $ md5sum system-arm64-ab-vanilla-nosu.img
