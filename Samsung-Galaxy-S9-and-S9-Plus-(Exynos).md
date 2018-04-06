@@ -32,6 +32,7 @@
 
 GSI's tested:
 Phh-AOSP 26th March build GApps/Su
+
 Phh-RR 26th March build GApps/Su
 
 Both flashed over current (ARCC) stock system. 
