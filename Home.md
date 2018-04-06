@@ -31,7 +31,7 @@ If the device has no existing page, consider the device is fully supported.
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|
 |[[Razer Phone]]|cheryl|✓|A/B|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|
-|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]||✓|A|
+|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|
 |[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|
