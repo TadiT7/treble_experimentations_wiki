@@ -21,6 +21,7 @@ If the device has no existing page, consider the device is fully supported.
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|
 |[[Huawei P10 and P10 Plus]]|vtr|✓|A|
 |[[Huawei P20 Lite]]||✓|A|
+|[[Huawei P20 Pro]]||✓|A|
 |[[Huawei View 10]]|berkeley|✓|A|
 |[[Moto Z]]|griffin||A|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|
