@@ -7,6 +7,7 @@ Tested with system.img for A-only ARM64 devices with GApps and SU v15 (2018-04-0
 
 - "There's an internal problem with your device. Contact your manufacturer for details." Message.
 - NFC isn't show in settings
+- The signal is always low (it can't reach up to 2 bars)
 
 **Working:**
 
