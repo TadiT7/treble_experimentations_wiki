@@ -31,8 +31,9 @@
 * Aaron Doe - S9+ (SM-G965F) - 26/03/2018
 
 GSI's tested:
+
 Phh-AOSP 26th March build GApps/Su
 
-Phh-RR 26th March build GApps/Su
+Phh-RR 26th March build with pico GApps
 
 Both flashed over current (ARCC) stock system. 
