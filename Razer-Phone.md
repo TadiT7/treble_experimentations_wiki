@@ -16,7 +16,7 @@
 
 * SIM / Mobile Data / Voice
 > Only detected as 3G, not capable of 4G/LTE (hotplugging Sim-card may fix issue)
-> No incoming audio in voicecalls (to be fixed). See [#12](https://github.com/phhusson/treble_experimentations/issues/12)
+> **Incoming audio in voicecalls (FIXED)**. See [#12](https://github.com/phhusson/treble_experimentations/issues/12)
 
 * VoLTE
 > Not tested
