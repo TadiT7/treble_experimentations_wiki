@@ -35,7 +35,7 @@ If the device has no existing page, consider the device is fully supported.
 |[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|
-|[[Sony Xperia XZ2 and XZ2 Compact]]||✓|A/B|
+|[[Sony Xperia XZ2 and XZ2 Compact]]|Akari and Apollo|✓|A/B|
 |[[Xiaomi Mi 5]]|gemini||A|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
 |[[Xiaomi Mi 6]]|sagit||A|
