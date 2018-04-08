@@ -19,9 +19,9 @@ If the device has no existing page, consider the device is fully supported.
 |[[Huawei Honor 9 Lite]]|lld|✓|A|
 |[[Huawei Mate 9]]|hi3660|✓|A|
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|
-|[[Huawei P8 Lite 2017]]|pra-lx*/pra-tl*/pra-al*||A
+|[[Huawei P8 Lite 2017]]|pra||A
 |[[Huawei P10 and P10 Plus]]|vtr|✓|A|
-|[[Huawei P20 Lite]]|Anne|✓|A|
+|[[Huawei P20 Lite]]|anne|✓|A|
 |[[Huawei P20 Pro]]|clt|✓|A|
 |[[Huawei View 10]]|berkeley|✓|A|
 |[[Moto Z]]|griffin||A|
