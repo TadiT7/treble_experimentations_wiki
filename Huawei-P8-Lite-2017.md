@@ -9,8 +9,8 @@ Tested with system.img for A-only ARM64 devices with GApps and SU v15 (2018-04-0
 - NFC isn't show in settings
 - Auto-brightness isn't available
 - Offmode charger don't work (reboot in eRecovery)
-- The signal is always low (it can't reach up to 2 bars)
-- Using same method as i did to install AOSP, i can't get LineageOS or RR booting
+- The signal is always low (it can't get over to 2 bars)
+- RRos and LOS booting only after flashing over AOSP system, without Data/Cache wiping. 
 
 **Working:**
 
