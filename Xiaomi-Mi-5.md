@@ -4,9 +4,15 @@
 
 **XDA Thread:** https://forum.xda-developers.com/mi-5/development/jdcteam-treble-support-project-t3761296
 
-**Current version:** v3 (20180329) BETA
+**Current version:** v4 (20180409) BETA versioned_vndk
 
 **Changelog:**
+
+**v4** (20180409) - Beta partially versioned_vndk with the following updates:
+- Updated kernel and ready for versioned_vndk support
+- Hexedited last libs and removed mostly all vendor/system dependency (versioned vndk)
+- **ro.vendor.vndk.version=27.1.0**
+- misc updates and fixes
 
 **v3** (20180329) - Beta build with the following updates:
 - Updated camera Hal from latest qualcomm 8996 repo
