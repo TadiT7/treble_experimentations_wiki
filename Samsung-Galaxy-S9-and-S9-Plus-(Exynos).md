@@ -17,7 +17,7 @@
 > Working
 
 * SIM / Mobile Data / Voice
-> Working
+> Working (SIM Pin needs to be disabled when using the dual-sim (FD) S9, failing to do so will result in the secondary sim not being recognised) 
 
 * Fingerprint Reader
 > Not working 
