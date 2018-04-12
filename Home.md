@@ -29,8 +29,8 @@ If the device has no existing page, consider the device is fully supported.
 |[[Nokia 7]]|c1n|✓|A/B|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|
-|[[OnePlus 5]]|cheeseburger||A|
-|[[OnePlus 5T]]|dumpling||A|
+|[[OnePlus 5 and 5T]]|cheeseburger and dumpling||A|
+|[[Oppo R11 / R11s]]|r11|✓|A|
 |[[Razer Phone]]|cheryl|✓|A/B|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|
