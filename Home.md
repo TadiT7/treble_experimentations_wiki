@@ -25,6 +25,7 @@ If the device has no existing page, consider the device is fully supported.
 |[[Huawei P20 Pro]]|clt|✓|A|
 |[[Huawei View 10]]|berkeley|✓|A|
 |[[Moto Z]]|griffin||A|
+|[[Moto Z Play]]|addison||A|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|
 |[[Nokia 7]]|c1n|✓|A/B|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|
