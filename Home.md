@@ -2,7 +2,7 @@
 
 Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. wifi, nfc, bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
 
-**Device testers/maintainers:**  Please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).
+**Device testers/maintainers:**  In additional to hardware support information, please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).  There is a device-specific wiki template here:  [[New-Devices-Template-WIP]].
 
 |Device Name|Codename|Support from OEM|Partition Style|
 |:-:|:-:|:-:|:-:|
