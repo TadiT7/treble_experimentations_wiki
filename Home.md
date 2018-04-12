@@ -1,6 +1,6 @@
-### Device compatibility
+### Device List
 
-If the device has no existing page, consider the device is fully supported.
+Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. wifi, nfc, bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
 
 **Device testers/maintainers:**  Please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).
 
