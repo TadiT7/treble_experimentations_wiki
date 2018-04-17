@@ -6,7 +6,7 @@
 > Can't focus properly
 
 * Speaker / Microphone
-> info about Speaker & Microphone support/workarounds
+> 
 
 * Bluetooth
 > 
