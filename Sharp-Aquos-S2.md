@@ -26,13 +26,12 @@
 ***
 ## Additional Notes
 
-> The OS doesn't display properly due to it's screen like Essentials PH-1. 
 > Since Android 8.1 isn't released on SHARP Aquos S2 when I'm testing, you must use boot kernel from Nokia 7 or 7+ in order to make the phone boot, if you want to test builds based on Android 8.1.
 But an error will prompt:
 
 There's an internal problem with your device. Contact your manufacturer for details.
 
-
+> The OS doesn't display properly due to it's screen like Essentials PH-1. 
 
 ***
 
