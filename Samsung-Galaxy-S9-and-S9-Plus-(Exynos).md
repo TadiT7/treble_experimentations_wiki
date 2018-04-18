@@ -1,4 +1,4 @@
-# [Galaxy S9 and S9+] - [SM-G9650F(D) and SM-G965F(D)]
+# [Galaxy S9 and S9+] - [SM-G960F(D) and SM-G965F(D)]
 
 ## Hardware Support
 
