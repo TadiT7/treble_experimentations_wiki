@@ -32,7 +32,7 @@ android tag is `android-8.1.0_r19`
 ***
 ## Additional Notes
 
-logcat output shows a number of link failures due to two missing libraries:
+logcat output shows a number of link failures:
 
 ```
 $ grep -i cannot phh-logcat-1.txt | head -n 6
