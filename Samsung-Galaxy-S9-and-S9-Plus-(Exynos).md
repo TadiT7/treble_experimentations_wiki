@@ -27,13 +27,18 @@
 * VoLTE 
 > Not working (tested with carrier EE, UK)
 
+* Brightness
+> Not working
+
+* Live Display
+> Not working
+
 ## Tested By:
 * Aaron Doe - S9+ (SM-G965F) - 26/03/2018
+  - Phh-AOSP 26th March build GApps/Su
+  - Phh-RR 26th March build with pico GApps
+  - Both flashed over current (ARCC) stock system. 
 
-GSI's tested:
+* Josh Sharp - S9 (SM-G960F/DS) - 2018-04-21
+  - Phh-Lineage 4th April build with Stock GApps
 
-Phh-AOSP 26th March build GApps/Su
-
-Phh-RR 26th March build with pico GApps
-
-Both flashed over current (ARCC) stock system. 
