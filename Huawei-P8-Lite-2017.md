@@ -6,9 +6,10 @@ So, to get Treble Project working on it, you will need following this thread : [
 ***
 **Not Working:**
 
-- "There's an internal problem with your device. Contact your manufacturer for details." Message after booting phone
+- "There's an internal problem with your device. Contact your manufacturer for details." Message after booting 
+  phone (this is should be related)
 - NFC isn't showing in settings
-- Muting calls over RIL 
+- [Muting calls over RIL](https://pastebin.com/c76HWXwS) 
 
 **Working:**
 - Auto-brightness is now available on RROS build
