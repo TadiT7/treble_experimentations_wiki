@@ -7,7 +7,6 @@ Tested with system.img for A-only ARM64 devices with GApps and SU v15 (2018-04-0
 
 - "There's an internal problem with your device. Contact your manufacturer for details." Message after booting phone
 - NFC isn't showing in settings
-- Auto-brightness is not available
 - Muting calls over RIL 
 
 **Working:**
