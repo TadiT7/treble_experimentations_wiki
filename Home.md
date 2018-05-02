@@ -42,7 +42,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 5]]|gemini||A|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
 |[[Xiaomi Mi 6]]|sagit||A|
+|[[Xiaomi Mi Mix]]|lithium||A|
 |[[Xiaomi Mi Mix 2s]]|polaris|✓|A|
+|[[Xiaomi Mi Note 2]]|scorpio||A|
 |[[Xiaomi Redmi 3S/Prime/3X]]|land||A|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|
 |[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|
