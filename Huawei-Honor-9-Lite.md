@@ -1,8 +1,8 @@
-Most stuff works fine except every 5 seconds there are some green lines on the camera and the brightness is stuck at 40% and can't be adjusted. SafetyNet does not pass. Play store needs to be cleared and force closed several times before it starts working for the first time, but then it works. 
+Most stuff works fine except every 5 seconds there are some green lines on the camera and the brightness is stuck at 40% and can't be adjusted. SafetyNet does not pass. Play store needs to be cleared and force closed several times before it starts working for the first time, but then it works. Every time the device boots it says "There's an internal problem with your device. Contact your manufacturer for details."
 
 Steps to install: Unlock your bootloader using this guide: https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903
 
-After that reboot to system, enable developer settings and disable FRP lock. Then reboot to recovery (it should tell you bootloader is unlocked and FRP is unlocked) and run these 2 commands: 
+After that reboot to system, enable developer settings and disable OEM/FRP lock. Then reboot to fastboot (it should tell you bootloader is unlocked and FRP is unlocked) and run these 2 commands: 
 fastboot -w
 fastboot flash system system-arm64-aonly-gapps-su.img
 
