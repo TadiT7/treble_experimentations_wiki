@@ -1,4 +1,6 @@
-Most stuff works fine except every 5 seconds there are some green lines on the camera and the brightness is stuck at 40% and can't be adjusted. I also can't get the play store to start a download. Steps to install: Unlock your bootloader using this guide: https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903
+Most stuff works fine except every 5 seconds there are some green lines on the camera and the brightness is stuck at 40% and can't be adjusted. SafetyNet does not pass. Play store needs to be cleared and force closed several times before it starts working for the first time, but then it works. 
+
+Steps to install: Unlock your bootloader using this guide: https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903
 
 After that reboot to system, enable developer settings and disable FRP lock. Then reboot to recovery (it should tell you bootloader is unlocked and FRP is unlocked) and run these 2 commands: 
 fastboot -w
@@ -14,13 +16,13 @@ Speaker / Microphone
 Speaker and microphone work fine
 
 Bluetooth
-not tested yet
+Bluetooth works fine
 
 Wifi
 Wifi works fine
 
 SIM / Mobile Data / Voice
-not tested yet
+SIM/Mobile Data/Voice works fine
 
 VoLTE
 I will not be able to test VoLTE
@@ -29,7 +31,7 @@ Fingerprint Reader
 works fine
 
 Additional Notes
-Put any additional info/notes regarding treble support for this device.
+see above the first few lines of this text.
 
 Tested By:
 kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018
