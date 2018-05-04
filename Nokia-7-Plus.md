@@ -26,6 +26,8 @@
 ***
 ## Additional Notes
 
+In fact the boot kernel of [[Nokia 6 (2018)]], [[Nokia 7]], [[Nokia 7 Plus]] and [[Sharp Aquos S2]] are identical.
+
 The Nokia 7 Plus released in China (TA-1062) does have both IMEI and MEID, but the rom won't recognize MEID, which isn't a big problem.
 I really don't recommend you to use this as daily driver unless you don't use it for telephone calls. 
 
