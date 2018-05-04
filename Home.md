@@ -26,6 +26,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei View 10]]|berkeley|✓|A|
 |[[Moto Z]]|griffin||A|
 |[[Moto Z Play]]|addison||A|
+|[[Nokia 1]]|frt|✓|A|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|
 |[[Nokia 7]]|c1n|✓|A/B|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|
