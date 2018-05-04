@@ -26,6 +26,8 @@
 ***
 ## Additional Notes
 
+In fact the boot kernel of [[Nokia 6 (2018)]], [[Nokia 7]], [[Nokia 7 Plus]] and [[Sharp Aquos S2]] are identical.
+
 > Since Android 8.1 isn't released on SHARP Aquos S2 when I'm testing, you must use boot kernel from Nokia 7 or 7+ in order to make the phone boot, if you want to test builds based on Android 8.1.
 But an error will prompt:
 
