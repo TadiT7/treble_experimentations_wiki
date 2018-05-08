@@ -52,15 +52,17 @@ A: Flash **ZUI 3.5 Oreo** and after that **unlock bootloader** and **flash a TWR
 ***
 
 ## Important Links
-**TWRP with Treble support (/vendor mounted)**
 
-Z2_plus (by DD3Boh)  : [Download](https://www.androidfilehost.com/?fid=746010030569960709)
+### Here is a Guide on how to flash Treble builds and how to revert back to Non Treble
 
-Z2_row  (by Cosmedd) : [Download](https://github.com/cosmedd/android_device_zuk_z2_row/releases/download/20180311/20180311_recovery.img)
+**You can find the latest Treble TWRP and a GUIDE on how get TREBLE on your phone here:**
 
-[Magisk for Z2 - Treble builds](https://forum.xda-developers.com/showpost.php?p=76103355&postcount=8505)
+**Z2 Plus:** [Click Here](https://forum.xda-developers.com/lenovo-zuk-z2/how-to/z2plus-treble-roms-flashing-reverting-t3778287)
 
-Note : It is a modified version of Magisk mounting our /factory partition ( which of course we are using as our /vendor partition) It will work in both treble and non treble builds.
+**Z2 Pro:** [Click Here](https://forum.xda-developers.com/zuk-z2-pro/how-to/z2pro-treble-roms-flashing-reverting-t3778697)
+
+**Note:** From [this](https://github.com/zuk-devs/android_device_zuk_msm8996-common/commit/49409f2132a055590f5d986071e1e1ce174cebc7) commit we have now renamed /factory to /vendor which means now factory is converted into vendor with this you no more need to use modded Magisk, normal Magisk shall work
+
 
 **XDA Forum**
 
@@ -69,9 +71,9 @@ Note : It is a modified version of Magisk mounting our /factory partition ( whic
 [Z2_row](https://forum.xda-developers.com/zuk-z2-pro)
 
 ## Tested By:
-* **Davidevinavil** - Z2_plus/Z2_row - 30/03/2018
-* **Cosmedd** - Z2_row - 30/03/2018
-* **Kuber Sharma** - Z2_plus - 30/03/2018
+* **Davidevinavil** - Z2_plus/Z2_row - 20/03/2018
+* **Cosmedd** - Z2_row - 20/03/2018
+* **Kuber Sharma** - Z2_plus - 25/03/2018
 * **Faiz Authar** - Z2_plus - 25/03/2018
 * **Subhajeet** - Z2_plus - 23/03/2018
 
