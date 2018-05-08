@@ -1,6 +1,8 @@
 # [Lenovo Zuk Z2] - [Z2_plus and Z2_row]
 Full Treble enabled by [Zuk-devs](https://github.com/Zuk-devs) (**Cosmedd, Davidevinavil and DD3Boh**)
 
+**REMEMBER** : Zuk Z2 Plus and Z2 Pro are arm64 and System A-ONLY
+
 ## Hardware Support
 
 * Camera & Camcorder
