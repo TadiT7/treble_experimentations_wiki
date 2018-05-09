@@ -19,6 +19,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 9 Lite]]|lld|✓|A|
 |[[Huawei Mate 9]]|hi3660|✓|A|
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|
+|[[Huawei Mate SE]]|bnd|✓|A|
 |[[Huawei P8 Lite 2017]]|pra||A
 |[[Huawei P10 and P10 Plus]]|vtr|✓|A|
 |[[Huawei P20 Lite]]|anne|✓|A|
