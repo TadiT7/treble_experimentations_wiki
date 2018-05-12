@@ -29,7 +29,11 @@ Unable to test.
 Working.
 But working like a button when the screen is on (Don't know if it's right).
 
-## _Additional Notes_
+
+***
+
+
+# Additional Notes
 
 There's no option to remap buttons on Extras.
 
