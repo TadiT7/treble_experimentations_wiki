@@ -37,4 +37,4 @@ And some problems with certification (Safetynet FIX helped me, but i think it's 
 
 ## _Tested By:_
 
-Granrage @ Redmi 4 Prime @ 12/05/2018
+Granrage @ Redmi 4 Prime @ 08/05/2018
