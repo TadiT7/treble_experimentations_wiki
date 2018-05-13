@@ -49,6 +49,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Note 2]]|scorpio||A|
 |[[Xiaomi Redmi 3S/Prime/3X]]|land||A|
 |[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|
+|[[Xiaomi Redmi 4A]]|rolex||A|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|
 |[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|
