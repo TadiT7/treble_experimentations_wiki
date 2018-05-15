@@ -29,10 +29,6 @@
 ## Install Help
 **Command Prompt**
 
-**Boot into Recovery and Factory Reset** 
-
-adb reboot recovery
-
 **Boot into Bootloader**
 
 adb reboot bootloader
@@ -51,10 +47,6 @@ fastboot reboot
 
 **Powershell**
 
-**Boot into Recovery and Factory Reset**
-
-.\adb reboot recovery
-
 **Boot into Bootloader**
 
 .\adb reboot bootloader
@@ -70,6 +62,11 @@ fastboot reboot
 **Reboot**
 
 .\fastboot reboot
+
+# POST FLASH INSTRUCTIONS
+
+After entering the reboot command, your 7x will reboot and you will see the warning screen where it tell you that your device is unlocked. On that screen "PRESS AND HOLD THE VOLUME UP KEY" to boot into erecovery to perform a Factory Reset. 
+If you do not, the phone will boot loop til it forces you too.
 ***
 ***
 ## Additional Notes
