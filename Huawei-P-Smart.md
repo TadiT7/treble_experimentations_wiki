@@ -3,7 +3,7 @@
 ## Hardware Support
 
 * Camera:
-> Back facing camera sometimes flickers, other than that it works fine. Front facing camera has no flickers and doesn't drop in quality.
+> Back facing camera sometimes flickers and only the left lens works. Front facing camera has no flickers. No noticeable drop in quality in both front and back-facing cameras.
 
 * Speaker / Microphone
 > Works, no problems here.
