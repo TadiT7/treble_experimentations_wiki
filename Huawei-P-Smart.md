@@ -24,7 +24,7 @@
 > Works, no problems here.
 
 * Substratum
-> Works, no problem here.
+> Works, no problem here. (ONLY TESTED ON PHH AOSP ROM!)
 
 ***
 ## Additional Notes
