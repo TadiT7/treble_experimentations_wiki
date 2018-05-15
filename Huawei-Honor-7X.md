@@ -1,4 +1,4 @@
-# Huawei Honor 7X - [BND-L24]
+# Huawei Honor 7X - [BND-L24] [BND-AL00/AL10/AL20/L21/L22/L31&TL10(Hopefully)]
 
 ## Hardware Support
 
@@ -26,37 +26,49 @@
 > worked on AOSP.did not test on lineageOS
 
 ***
-##Install Help
-Command Prompt
+## Install Help
+**Command Prompt**
 
-Boot into Recovery and Factory Reset
+**Boot into Recovery and Factory Reset** 
+
 adb reboot recovery
 
-Boot into Bootloader
+**Boot into Bootloader**
+
 adb reboot bootloader
 
-Flashing the System Img
+**Flashing the System Img**
+
 fastboot flash system system-arm64-aonly.img (LineageOS or RR)
+
 fastboot flash system system-arm64-aonly-gapps-su.img (AOSP w/ GAPPS and Root)
+
 fastboot flash systemsystem-arm64-aonly-vanilla-nosu.img (AOSP)
 
-Reboot
+**Reboot**
+
 fastboot reboot
 
-Powershell
+**Powershell**
 
-Boot into Recovery and Factory Reset
+**Boot into Recovery and Factory Reset**
+
 .\adb reboot recovery
 
-Boot into Bootloader
+**Boot into Bootloader**
+
 .\adb reboot bootloader
 
-Flashing the System Img
+**Flashing the System Img**
+
 .\fastboot flash system system-arm64-aonly.img 	(LineageOS or RR)
+
 .\fastboot flash system system-arm64-aonly-gapps-su.img	(AOSP w/ GAPPS and Root)
+
 .\fastboot flash systemsystem-arm64-aonly-vanilla-nosu.img  (AOSP)
 
-Reboot
+**Reboot**
+
 .\fastboot reboot
 ***
 ***
@@ -67,6 +79,4 @@ Reboot
 
 
 ## Tested By:
-* shadowsiul - BND-L24 - 05/15/2018
-  AOSP
-  LineageOS
+* shadowsiul - BND-L24 - 05/15/2018 - AOSP & LineageOS
