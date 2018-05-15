@@ -35,7 +35,7 @@ XDA Forum: https://forum.xda-developers.com/t/huawei-p-smart
 
 Project Treble Discussion Thread: https://forum.xda-developers.com/android/general/-t3767744
 
-All of my tests has exclusively been on the **Phh-Treble AOSP A-ONLY ARM64 WITH GAPPS AND SU rom**, version 17 and 18.
+All of my tests has exclusively been on the Phh-Treble AOSP **A-ONLY ARM64** WITH GAPPS AND SU rom, version 17 and 18.
 
 ***
 
