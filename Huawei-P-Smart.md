@@ -29,7 +29,7 @@
 ***
 ## Additional Notes
 
-_To successfully flash a treble rom, please follow my post on xda: https://forum.xda-developers.com/showpost.php?p=76350440&postcount=6_
+_To successfully flash a treble rom on the Huawei P Smart, please follow my post on xda: https://forum.xda-developers.com/showpost.php?p=76350440&postcount=6_
 
 XDA Forum: https://forum.xda-developers.com/t/huawei-p-smart
 
