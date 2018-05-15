@@ -26,9 +26,43 @@
 > worked on AOSP.did not test on lineageOS
 
 ***
+##Install Help
+Command Prompt
+
+Boot into Recovery and Factory Reset
+adb reboot recovery
+
+Boot into Bootloader
+adb reboot bootloader
+
+Flashing the System Img
+fastboot flash system system-arm64-aonly.img (LineageOS or RR)
+fastboot flash system system-arm64-aonly-gapps-su.img (AOSP w/ GAPPS and Root)
+fastboot flash systemsystem-arm64-aonly-vanilla-nosu.img (AOSP)
+
+Reboot
+fastboot reboot
+
+Powershell
+
+Boot into Recovery and Factory Reset
+.\adb reboot recovery
+
+Boot into Bootloader
+.\adb reboot bootloader
+
+Flashing the System Img
+.\fastboot flash system system-arm64-aonly.img 	(LineageOS or RR)
+.\fastboot flash system system-arm64-aonly-gapps-su.img	(AOSP w/ GAPPS and Root)
+.\fastboot flash systemsystem-arm64-aonly-vanilla-nosu.img  (AOSP)
+
+Reboot
+.\fastboot reboot
+***
+***
 ## Additional Notes
 
-PSA > After Flashing. A factory reset is required to boot. 
+
 ***
 
 
