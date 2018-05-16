@@ -41,6 +41,6 @@ All of my tests has exclusively been on the Phh-Treble AOSP **A-ONLY ARM64** WIT
 
 
 ## Tested By:
-* Miniature - FIX-LX1 8.0.0.128(C423) - 15 May 2018
+* Miniature - FIG-LX1 8.0.0.128(C423) - 15 May 2018
 
 Template created by @zguithues
