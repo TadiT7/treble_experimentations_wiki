@@ -5,54 +5,54 @@ Devices where someone has claimed to have successfully booted a version of phh's
 **Device testers/maintainers:**  In additional to hardware support information, please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).  There is a device-specific wiki template here:  [[New-Devices-Template-WIP]].
 
 |Device Name|Codename|Support from OEM|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|
-|[[AllView V3 Viper]]|v3_viper|✓|A|
-|[[Asus Zenfone 4 (2017)]]|z01k|✓|A|
+|:-:|:-:|:-:|:-:|:-:|
+|[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
+|[[Asus Zenfone 4 (2017)]]|z01k|✓|A|arm64|
 |[[Blackview A20]]|A20|✓|A|arm|
-|[[Essential PH-1]]|mata|✓|A/B|
-|[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|
-|[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|
-|[[HTC U11+]]|ocm|✓|A|
-|[[Huawei Honor 7X]]|bnd|✓|A|
-|[[Huawei Honor 8 Pro]]|duk|✓|A|
-|[[Huawei Honor 9]]|stf|✓|A|
-|[[Huawei Honor 9i / Mate 10 Lite]]|bll / rne|✓|A|
-|[[Huawei Honor 9 Lite]]|lld|✓|A|
-|[[Huawei Mate 9]]|hi3660|✓|A|
-|[[Huawei Mate 10 Pro]]|blanc|✓|A|
-|[[Huawei Mate SE]]|bnd|✓|A|
-|[[Huawei P Smart]]|dunno|✓|A|
-|[[Huawei P8 Lite 2017]]|pra||A
-|[[Huawei P10 and P10 Plus]]|vtr|✓|A|
-|[[Huawei P20 Lite]]|anne|✓|A|
-|[[Huawei P20 Pro]]|clt|✓|A|
-|[[Huawei View 10]]|berkeley|✓|A|
-|[[Moto Z]]|griffin||A|
-|[[Moto Z Play]]|addison||A|
-|[[Nokia 1]]|frt|✓|A|
-|[[Nokia 6 (2018)]]|pl2|✓|A/B|
-|[[Nokia 7]]|c1n|✓|A/B|
-|[[Nokia 7 Plus]]|b2n|✓|A/B|
-|[[Nokia 8 Sirocco]]|a1n|✓|A/B|
-|[[OnePlus 5 and 5T]]|cheeseburger and dumpling||A|
-|[[Oppo R11 / R11s]]|r11|✓|A|
-|[[Razer Phone]]|cheryl|✓|A/B|
-|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|
-|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|
-|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|
-|[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|
-|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|
-|[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|
-|[[Xiaomi Mi 5]]|gemini||A|
-|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|
-|[[Xiaomi Mi 6]]|sagit||A|
-|[[Xiaomi Mi Mix]]|lithium||A|
-|[[Xiaomi Mi Mix 2s]]|polaris|✓|A|
-|[[Xiaomi Mi Note 2]]|scorpio||A|
-|[[Xiaomi Redmi 3S/Prime/3X]]|land||A|
-|[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|
-|[[Xiaomi Redmi 4A]]|rolex||A|
-|[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|
-|[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|
-|[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|
-|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|
+|[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
+|[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
+|[[HTC U11+]]|ocm|✓|A|arm64|
+|[[Huawei Honor 7X]]|bnd|✓|A|arm64|
+|[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
+|[[Huawei Honor 9]]|stf|✓|A|arm64|
+|[[Huawei Honor 9i / Mate 10 Lite]]|bll / rne|✓|A|arm64|
+|[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
+|[[Huawei Mate 9]]|hi3660|✓|A|arm64|
+|[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
+|[[Huawei Mate SE]]|bnd|✓|A|arm64|
+|[[Huawei P Smart]]|dunno|✓|A|arm64|
+|[[Huawei P8 Lite 2017]]|pra||A|arm64|
+|[[Huawei P10 and P10 Plus]]|vtr|✓|A|arm64|
+|[[Huawei P20 Lite]]|anne|✓|A|arm64|
+|[[Huawei P20 Pro]]|clt|✓|A|arm64|
+|[[Huawei View 10]]|berkeley|✓|A|arm64|
+|[[Moto Z]]|griffin||A|arm64|
+|[[Moto Z Play]]|addison||A|arm64|
+|[[Nokia 1]]|frt|✓|A|arm64|
+|[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
+|[[Nokia 7]]|c1n|✓|A/B|arm64|
+|[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
+|[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
+|[[OnePlus 5 and 5T]]|cheeseburger and dumpling||A|arm64|
+|[[Oppo R11 / R11s]]|r11|✓|A|arm64|
+|[[Razer Phone]]|cheryl|✓|A/B|arm64|
+|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
+|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|arm64|
+|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|arm64|
+|[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
+|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
+|[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
+|[[Xiaomi Mi 5]]|gemini||A|arm64|
+|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|arm64|
+|[[Xiaomi Mi 6]]|sagit||A|arm64|
+|[[Xiaomi Mi Mix]]|lithium||A|arm64|
+|[[Xiaomi Mi Mix 2s]]|polaris|✓|A|arm64|
+|[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
+|[[Xiaomi Redmi 3S/Prime/3X]]|land||A|arm64|
+|[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|arm64|
+|[[Xiaomi Redmi 4A]]|rolex||A|arm64|
+|[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
+|[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|arm64|
+|[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|arm64|
+|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
