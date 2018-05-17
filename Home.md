@@ -8,6 +8,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |:-:|:-:|:-:|:-:|:-:|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
 |[[Asus Zenfone 4 (2017)]]|z01k|✓|A|arm64|
+|[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
 |[[Blackview A20]]|A20|✓|A|arm|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
