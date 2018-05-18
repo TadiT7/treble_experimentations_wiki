@@ -15,10 +15,10 @@ Working.
 SIM / Mobile Data / Voice --->
 Working.
 
-VoLTE
+VoLTE--->
 Working.
 
-Fingerprint Reader
+Fingerprint Reader--->
 Working.
 
 
@@ -31,3 +31,9 @@ Dencel babu
 Vvr rock star
 
 Prin2ce (😁)
+
+**CHANGELOGS--->**
+
+v1--> initial build
+
+°Treble booted on santoni finally,enjoy.
