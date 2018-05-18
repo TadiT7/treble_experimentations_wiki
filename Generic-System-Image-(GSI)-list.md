@@ -5,6 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Developer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
+|AOSP Extended|AryanPatidar|[Here](https://androidfilehost.com/?fid=818222786056031077)|A|arm64|
 |AOKP|sixohtew|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aokp-t3772379)|A - A/B|arm64|
 |BootleggersROM|merothh|[Here](https://www.androidfilehost.com/?fid=890278863836285424)|A|arm64|
 |dotOS|dotOS Devs|[Here](https://sourceforge.net/projects/dotos-2-x/files/dotGSI/)|A - A/B|arm64|
