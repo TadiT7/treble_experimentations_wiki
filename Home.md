@@ -32,6 +32,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
 |[[Huawei View 10]]|berkeley|✓|A|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓|A|arm|
+|[[LG V30]]|joan||A|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Nokia 1]]|frt|✓|A|arm64|
