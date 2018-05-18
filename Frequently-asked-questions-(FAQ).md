@@ -23,7 +23,11 @@ GSI stands for Generic System Image.  It is a file-system image that you flash t
 
 ### What does "AB" and "A-only" mean? Should I use an "AB" GSI or an "A-only" GSI?
 
-phh has provided "AB" and "A-only" GSIs.  The terms "AB" and "A-only" (or just "A") refer to the partition style used by a device.  The AB partition style was introduced in Android N to support [seamless OTA updates](https://source.android.com/devices/tech/ota/ab/).  A-only, A, or non-AB refers to the [legacy partition style](https://source.android.com/devices/tech/ota/nonab/).
+phh has provided "AB" and "A-only" GSIs.  The terms "AB" and "A-only" (or just "A") refer to the partition style used by a device.
+
+The AB partition style was introduced in Android N to support [seamless OTA updates](https://source.android.com/devices/tech/ota/ab/).
+
+A-only, A, or non-AB refers to the [legacy partition style](https://source.android.com/devices/tech/ota/nonab/).
 
 If you have an AB device, then you must flash it with an AB GSI.  If you have an A-only device, then you must flash it with an A-only GSI.  The two types of system images are not compatible with each other.
 
