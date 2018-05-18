@@ -22,7 +22,7 @@ Fingerprint Reader--->
 Working.
 
 
-**Thanks to Swapnil soni sir for building treble for santoni.**
+**Thanks to Swapnil Soni for building treble for santoni.**
 
 Testers--->
 
@@ -30,10 +30,13 @@ Dencel babu
 
 Vvr rock star
 
-Prin2ce (😁)
+Kshitij Shrivastava(prin2ce)
 
 **CHANGELOGS--->**
 
 v1--> initial build
 
 °Treble booted on santoni finally,enjoy.
+
+**LINK---->**
+https://forum.xda-developers.com/xiaomi-redmi-4x/development/treble-lineageos-15-1-beta-t3790991
