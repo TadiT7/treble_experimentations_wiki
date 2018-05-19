@@ -1,36 +1,36 @@
 **H A R D W A R E.  S U P P O R T**
 
-Camera --->
+*Camera --->
 Working.
 
-Speaker / Microphone --->
+*Speaker / Microphone --->
 Working.
 
-Bluetooth --->
+*Bluetooth --->
 Working.
 
-Wifi --->
+*Wifi --->
 Working.
 
-SIM / Mobile Data / Voice --->
+*SIM / Mobile Data / Voice --->
 Working.
 
-VoLTE--->
+*VoLTE--->
 Working.
 
-Fingerprint Reader--->
+*Fingerprint Reader--->
 Working.
 
 
 **Thanks to Swapnil Soni for building treble for santoni.**
 
-Testers--->
+**TESTERS--->**
 
-Dencel babu
+*Dencel babu
 
-Vvr rock star
+*Vvr rock star
 
-Kshitij Shrivastava(prin2ce)
+*Kshitij Shrivastava(prin2ce)
 
 **CHANGELOGS--->**
 
