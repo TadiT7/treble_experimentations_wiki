@@ -1,4 +1,4 @@
-# [DEVICE NAME] - [Model Name/Info]
+# Blackview A20
 
 ## Hardware Support
 
