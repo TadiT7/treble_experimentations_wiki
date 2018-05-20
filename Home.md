@@ -13,6 +13,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone 4 (2017)]]|z01k|✓|A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
 |[[Blackview A20]]|A20|✓|A|arm|
+|[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
