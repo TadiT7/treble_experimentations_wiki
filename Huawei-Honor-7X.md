@@ -2,7 +2,7 @@
 
 # **HIGHLY EXPERIMENTAL(USE AT YOUR OWN RISK)**
 
-#Only have test LineageOS and AOSP
+# have test LineageOS,AOSP and Dotos
 
 ## Hardware Support
 
