@@ -3,7 +3,7 @@
 ## Hardware Support
 
 * Camera:
-> Front and back both working, including flash
+> Front and back both working, including flash. Stock cam is dark but gcam works fine
 
 * Speaker / Microphone
 > Loud-speak (bottom) works, earpiece (top-front) works in some of the gsi/roms (eg: in aex it works, in rr for huawei p8 lite it doesn't), microphone works
