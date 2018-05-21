@@ -26,8 +26,8 @@
 ***
 ## Additional Notes
 
-3.5mm jack not working i.e. earphones doesn't get detected
-some of the gsi boots (aex, rr, aosp, dotos, crdroid of p8-lite, aokp, DU by MZO) some doesn't boot (AquariOS, BootleggersROM, DU by ATechnoHazard, FireHound, Aosip)
+3.5mm jack not working i.e. earphones doesn't get detected; 
+some of the gsi boots (aex, rr, aosp, dotos, crdroid of p8-lite, aokp, DU by MZO) some doesn't boot (AquariOS, BootleggersROM, DU by ATechnoHazard, FireHound, Aosip); 
 Earpiece/front-top speaker works in some roms, doesn't in some
 
 ***
