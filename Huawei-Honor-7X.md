@@ -87,3 +87,4 @@ If you do not, the phone will boot loop til it forces you too.
 
 ## Tested By:
 * shadowsiul - BND-L24 - 05/15/2018 - AOSP & LineageOS
+*Twigimc - Bnd-L21 - 5/21/2018 - Dotos
