@@ -2,7 +2,7 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
-|ROM|Developer|Thread/Download|Partition Style|Architecture|
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
 |AOSP Extended|AryanPatidar|[Here](https://androidfilehost.com/?w=files&flid=271118)|A - A/B |arm64|
