@@ -80,7 +80,7 @@ If you do not, the phone will boot loop til it forces you too.
 ***
 
 ## Additional Notes
-
+When flashing a Gsi , sometimes the system image size gets reduced to the flashed image , to solve this simply resize the system partition via twrp 
 
 ***
 
