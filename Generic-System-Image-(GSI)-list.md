@@ -4,8 +4,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSIP|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
-|AOSP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
+|AOSIP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
+|AOSP|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
 |AOSP Extended|AryanPatidar|[Here](https://androidfilehost.com/?w=files&flid=271118)|A - A/B |arm64|
 |AOKP|sixohtew|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aokp-t3772379)|A - A/B|arm64|
 |AquariOS|a1Pha|[Here](https://www.storozhev.net/p20pro/aquarios-system-arm64_aonly_0.1.img)|A|arm64|
