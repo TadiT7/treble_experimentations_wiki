@@ -4,7 +4,7 @@
 
 # have test LineageOS,AOSP and Dotos
 
-## Hardware Support
+## Hardware Support (RR and AOSP)
 
 * Camera:
 > Works, but does not look as good as stock
@@ -29,6 +29,18 @@
 * Fingerprint Reader
 > works
 ***
+**#Dotos Hardware support**
+* SDcard
+> Sdcard doesnt seem to be working in the build used (5/15/2018)
+* Camera 
+>Works fine
+* Mic
+>Works fine
+* Speakers 
+>Working fine
+* Bluetooth
+>Only tested file transfer and it works fine
+
 
 # Prerequisite
 
