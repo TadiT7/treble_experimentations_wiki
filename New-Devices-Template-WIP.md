@@ -1,38 +1,39 @@
-# [DEVICE NAME] - [Model Name/Info]
+# Asus ZenFone Max Pro M1
 
 ## Hardware Support
 
 * Camera:
-> info about camera support/workarounds
+> Front and back both working, including flash
 
 * Speaker / Microphone
-> info about Speaker & Microphone support/workarounds
+> Loud-speak (bottom) works, earpiece (top-front) works in some of the gsi/roms (eg: in aex it works, in rr for huawei p8 lite it doesn't), microphone works
 
 * Bluetooth
-> info about Bluetooth support/workarounds
+> File transfer works, Bluetooth headphone connects with no audio
 
 * Wifi
-> info about Wifi support/workarounds
+> Works
 
 * SIM / Mobile Data / Voice
-> info about SIM / Mobile Data / Voice support/workarounds
+> No audio in calls, works with patch.
 
 * VoLTE
-> info about VoLTE support
+> VoLTE in works, SMS works, VoLTE out doesn't work
 
 * Fingerprint Reader
-> info about Fingerprint Reader support
+> Works
 
 ***
 ## Additional Notes
 
-_Put any additional info/notes regarding treble support for this device._
-
+3.5mm jack not working i.e. earphones doesn't get detected
+some of the gsi boots (aex, rr, aosp, dotos, crdroid of p8-lite, aokp, DU by MZO) some doesn't boot (AquariOS, BootleggersROM, DU by ATechnoHazard, FireHound, Aosip)
+Earpiece/front-top speaker works in some roms, doesn't in some
 
 ***
 
 
 ## Tested By:
-* Name - Device Specifics - Date
+* Sudeep Duhoon- Asus Max Pro 4gb Ram variant - 2018-05-21
 
 Template created by @zguithues
