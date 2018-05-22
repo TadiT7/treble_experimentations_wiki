@@ -46,7 +46,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|arm64|
-|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|arm64|
+|[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
