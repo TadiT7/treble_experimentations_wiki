@@ -15,7 +15,7 @@
 > Working
 
 * SIM / Mobile Data / Voice
-> Working
+> SIM and mobile data are working, unable to test voice
 
 * VoLTE
 > Unable to test
