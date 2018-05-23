@@ -36,6 +36,6 @@ Your warranty is now void. Wiko declines all responsibility.
 ## Tested By:
 * Max Renusson - Wiko R&D
 * Pre-Production sample running Mass Production SW (V01.15)
-* Flashed using Phh-Treble v18 - arm Go Flavor 
+* Flashed using Phh-Treble v18 - arm
 
 Template created by @zguithues
