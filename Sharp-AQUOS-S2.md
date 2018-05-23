@@ -26,7 +26,7 @@
 ***
 ## Additional Notes
 
-* In fact the boot kernel of [[Nokia 6 (2018)]], [[Nokia 7]], [[Nokia 7 plus]] and [[Sharp AQUOS S2]] are identical.  
+* In fact the boot kernel of [[Nokia 6 (2018)]], [[Nokia 7]], [[Nokia 7 Plus]] and [[Sharp AQUOS S2]] are identical.  
 You can use Nokia 7 or 7 plus kernel on AQUOS S2, but camera, Wi-Fi and some other functions won't work properly.
 
 * The OS doesn't display status bar properly due to notch (cutout) and Sharp / FIH Mobile aren't providing proper vendor image.  
