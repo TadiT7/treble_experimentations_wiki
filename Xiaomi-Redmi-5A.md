@@ -1,4 +1,4 @@
-# Commonized with Redmi 4A
+**Commonized with Redmi 4A**
 
 ***
 
