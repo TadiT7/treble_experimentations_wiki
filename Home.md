@@ -16,7 +16,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
-|[[HTC U11+]]|ocm|✓|A|arm64|
+|[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
