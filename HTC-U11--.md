@@ -1,0 +1,1 @@
+* earphone and bluetooth handset keep silent,the sound is always on the phone speakers
