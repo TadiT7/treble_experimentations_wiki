@@ -49,10 +49,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
-|[[Wiko Lenny5]]|W_K400|✓|A|arm|
+|[[Wiko Lenny5]]|w_k400|✓|A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|arm64|
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
+|[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi Mix]]|lithium||A|arm64|
 |[[Xiaomi Mi Mix 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
