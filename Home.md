@@ -37,6 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Nokia 1]]|frt|✓|A|arm64|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
+|[[Nokia X6]]|drg|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
