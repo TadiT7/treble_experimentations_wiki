@@ -6,8 +6,7 @@ So, to get Treble Project working on it, you will need following this thread : [
 ***
 **Not Working:**
 
-- "There's an internal problem with your device. Contact your manufacturer for details." Message after booting (Not faced on honor 6x)
-  phone (this is should be related)
+- "There's an internal problem with your device. Contact your manufacturer for details." Message after booting phone (this is should be related)[Not faced on Honor 6x]
 - NFC isn't showing in settings
 - Muting calls over RIL(Still present)
 
