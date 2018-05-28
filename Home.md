@@ -35,7 +35,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG V30]]|joan||A|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
-|[[Nokia 1]]|frt|✓|A|arm64|
+|[[Nokia 1]]|frt|✓|A|arm|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
 |[[Nokia X6]]|drg|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
