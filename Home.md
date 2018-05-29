@@ -55,6 +55,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|arm64|
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
+|[[Xiaomi Mi 6x]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi Mix]]|lithium||A|arm64|
 |[[Xiaomi Mi Mix 2s]]|polaris|✓|A|arm64|
@@ -67,4 +68,5 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / 5 Plus]]|vince||A|arm64|
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|arm64|
+|[[Xiaomi Redmi S2)]]|ysl|✓|A|arm64|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
