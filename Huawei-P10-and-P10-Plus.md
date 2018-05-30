@@ -9,7 +9,7 @@ No issues comparing stock Huawei ROM
 * Camera:
 > Ugly LineageOS stock camera app, OpenCamera is good but with slow autofocus.
 
-There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/huawei-stock-camera-app-treble-roms-t3735169) under LineageOS.
+There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/showpost.php?p=76662319&postcount=225) under LineageOS.
 
 * SIM
 > LineageOS asking to reboot when pulling in/out the SIM card. Just reject this requests.
