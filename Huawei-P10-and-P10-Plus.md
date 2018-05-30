@@ -43,9 +43,11 @@ Working image: LineageOS by phhusson from [here (XDA)](https://forum.xda-develop
 * Perform factory reset using **stock Recovery**
 * Install GSI image using fastboot as described on XDA
 
-### Superuser (root) and/or Google Apps:
+### Superuser (root) and/or Google Apps, if you wish:
 
 * Install TWRP using fastboot from [here (XDA)](https://forum.xda-developers.com/p10-plus/development/recovery-twrp-3-2-1-0-oreo-t3734993)
+* Reboot to TWRP pressing VolumeUp till it's loaded
+* Leave system non-modified when TWRP ask for it
 * In TWRP: install LineageOS **addonsu** from [LineageOS Extras](https://download.lineageos.org/extras) for arm64 v15.1
 * In TWRP: install [from MindTheGapps](http://downloads.codefi.re/jdcteam/javelinanddart/gapps) the file MindTheGapps-8.1.0-arm64-20180320_011441.zip
 
