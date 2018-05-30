@@ -12,7 +12,7 @@ No issues comparing stock Huawei ROM
 There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/huawei-stock-camera-app-treble-roms-t3735169) under LineageOS.
 
 * SIM
-> LineageOS asking to reboot when pulling in/out the SIM card. Solution: turn on/off the Airplane Mode.
+> LineageOS asking to reboot when pulling in/out the SIM card. Just reject this requests.
 
 > USSD (like *100#) requests are not working
 
