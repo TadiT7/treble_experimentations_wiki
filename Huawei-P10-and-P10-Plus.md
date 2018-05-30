@@ -1,5 +1,3 @@
-# Huawei P10 and P10 Plus
-
 Tested LineageOS, only on Huawei P10 Plus (VKY-L29)
 
 ## Hardware Support
