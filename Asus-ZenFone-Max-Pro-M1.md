@@ -9,7 +9,7 @@
 > Loud-speak (bottom) works, earpiece (top-front) works since gsi built on 2018-05-19, microphone works
 
 * Bluetooth
-> File transfer works, Bluetooth headphone work, No in call audio in BT headphone
+> File transfer works, Bluetooth headphone work, In call audio works in BT headphone
 
 * Wifi
 > Works
@@ -18,7 +18,7 @@
 > Works since gsi built on 2018-05-19.
 
 * VoLTE
-> VoLTE in works, SMS works, VoLTE out doesn't work
+> VoLTE works with vendor patch
 
 * Fingerprint Reader
 > Works
@@ -34,6 +34,6 @@ Earpiece/front-top speaker works in some roms (built after 2018-05-19), doesn't 
 
 
 ## Tested By:
-* Sudeep Duhoon- Asus Max Pro on rr by phhusson and aex by AryanPatidar- 2018-05-26
+* Sudeep Duhoon- Asus Max Pro on official AEX - on 2018-06-01
 
 Template created by @zguithues
