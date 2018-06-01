@@ -6,16 +6,16 @@
 > Front and back both working, including flash. Stock cam is dark but gcam works fine
 
 * Speaker / Microphone
-> Loud-speak (bottom) works, earpiece (top-front) works since gsi built on 2018-05-19, microphone works
+> Loud-speak (bottom) works, earpiece (top-front) works, microphone works
 
 * Bluetooth
-> File transfer works, Bluetooth headphone work, In call audio works in BT headphone
+> File transfer works, Bluetooth headphone work, In call audio works
 
 * Wifi
 > Works
 
 * SIM / Mobile Data / Voice
-> Works since gsi built on 2018-05-19.
+> Works
 
 * VoLTE
 > VoLTE works with vendor patch
@@ -25,7 +25,7 @@
 
 ***
 ## Additional Notes
-
+Old gsi builds will have bugs
 3.5mm jack works after installing overlay by phhusson; 
 some of the gsi boots (aex, rr, aosp, dotos, crdroid of p8-lite, aokp, DU by MZO) some doesn't boot (AquariOS, BootleggersROM, DU by ATechnoHazard, FireHound, Aosip); 
 Earpiece/front-top speaker works in some roms (built after 2018-05-19), doesn't in some (old builds).
