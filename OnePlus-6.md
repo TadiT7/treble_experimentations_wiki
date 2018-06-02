@@ -40,7 +40,7 @@ Not all GSI's work, one person got it to boot to lineage, I only managed to make
 
 
 ## Tested By:
-* axmirza2 - 02 Jun 2018
+* @axm2 - 02 Jun 2018
 
 Template created by @zguithues
 
