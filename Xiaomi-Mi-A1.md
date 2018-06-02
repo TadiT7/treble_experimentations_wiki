@@ -9,13 +9,13 @@
 > Working
 
 * Bluetooth
-> Untested, enables
+> Working
 
 * Wifi
 > Working
 
 * SIM / Mobile Data / Voice
-> Working (dual SIM untested)
+> Working
 
 * VoLTE
 > Untested
@@ -36,3 +36,6 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 * kdrag0n - Resized userdata - 5/27/2018
   - Phh-AOSP, Phh-RR, dotOS working
   - Phh-Lineage and AOSIP stuck on boot animation
+
+* dgadelha - Resized userdata - 6/2/2018
+  - Phh-Pixel Experience working
