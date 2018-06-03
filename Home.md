@@ -1,3 +1,6 @@
+### What is Project Treble, GSI, etc?
+Here's [[Frequently asked questions (FAQ)]]
+
 ### Device List
 
 Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. Wi-Fi, NFC, Bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
