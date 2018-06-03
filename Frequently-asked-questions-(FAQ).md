@@ -5,7 +5,7 @@ Here are some answers to the most asked questions about GSIs and Project Treble 
 A good overview of Project Treble is provided in the following XDA article by M. Rahman:
 [Google’s Project Treble Modularizes Android so OEMs can Update Devices Faster](https://www.xda-developers.com/googles-project-treble-modularize-android-so-oems-can-update-devices-faster/)
 
-For a more technical discussion of Treble, take a listen to Episode 75 of the Android Developers Backstage podcast:  http://androidbackstage.blogspot.ca/2017/08/episode-75-project-treble-for-hal-of-it.html
+For a more technical discussion of Treble, take a listen to Episode 75 of the Android Developers Backstage podcast: http://androidbackstage.blogspot.ca/2017/08/episode-75-project-treble-for-hal-of-it.html
 
 ### Why is it called "treble"?
 
@@ -17,9 +17,13 @@ It might be a play on the Meghan Trainor song [All About That Bass](https://yout
 
 Note that any device that launched with Oreo on it must be treble-enabled.
 
+You can find an updated supported devices list here: [[Home]]
+
 ### What is a GSI?
 
 GSI stands for Generic System Image.  It is a file-system image that you flash to your device's system partition.  It is generic because it accesses hardware using the new standardized hardware APIs (so it should work on any treble-enabled device).
+
+You can find an updated list for avilable GSIs here: [[Generic System Image (GSI) list]]
 
 ### What does "AB" and "A-only" mean? Should I use an "AB" GSI or an "A-only" GSI?
 
