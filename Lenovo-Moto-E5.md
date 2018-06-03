@@ -3,22 +3,22 @@
 ## Hardware Support
 
 * Camera:
-Broken
+> Broken
 
 * Speaker / Microphone
-Works
+> Works
 
 * Bluetooth
-Can scan devices
+> Can scan devices
 
 * Wifi
-Can connect
+> Can connect
 
 * SIM / Mobile Data / Voice
-Works
+> Works
 
 * Fingerprint Reader
-Works
+> Works
 
 ***
 ## Additional Notes
