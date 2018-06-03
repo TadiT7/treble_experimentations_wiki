@@ -1,33 +1,38 @@
-# [device name] - [device codename]
+# [DEVICE NAME] - [Model Name/Info]
 
 ## Hardware Support
 
 * Camera:
-> Working/Not working/comments
+> info about camera support/workarounds
 
 * Speaker / Microphone
-> Working/Not working/comments
+> info about Speaker & Microphone support/workarounds
 
 * Bluetooth
-> Working/Not working/comments
+> info about Bluetooth support/workarounds
 
 * Wifi
-> Working/Not working/comments
+> info about Wifi support/workarounds
 
 * SIM / Mobile Data / Voice
-> Working/Not working/comments
+> info about SIM / Mobile Data / Voice support/workarounds
+
+* VoLTE
+> info about VoLTE support
 
 * Fingerprint Reader
-> Working/Not working/comments
+> info about Fingerprint Reader support
 
 ***
 ## Additional Notes
+
+_Put any additional info/notes regarding treble support for this device._
 
 
 ***
 
 
 ## Tested By:
-* Name - Device specific - date
+* Name - Device Specifics - Date
 
 Template created by @zguithues
