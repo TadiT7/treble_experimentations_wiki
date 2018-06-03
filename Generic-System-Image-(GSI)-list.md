@@ -15,6 +15,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |CosmicOS|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/cosmic-ospulsar8-1-0201805243-2-t3794806)|A - A/B|arm64|
 |dotOS|kubersharma|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-droidontime-dotos-2-x-t3794338)|A - A/B|arm64|
 |DU|ATechnoHazard|[Here](https://androidfilehost.com/?fid=674106145207487736)|A|arm64|
+|DU|Faiyaz|[Here](https://drive.google.com/open?id=1GFHJgnP_PY3KpEnrvHnz1fy3IZGFLKSU)|A|arm64|
 |DU|MZO|[Here](https://androidfilehost.com/?fid=890129502657595791)|A|arm64|
 |FireHound|ATechnoHazard|[Here](https://basketbuild.com/uploads/devs/ATechnoHazard/FireHound-4.5-UNOFFICIAL-20180430-treble.zip)|A|arm64|
 |LineageOS|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690)|A - A/B|arm - arm64|
