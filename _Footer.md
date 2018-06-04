@@ -1,1 +1,0 @@
-# HTC e8 Dual Sim ## mecdug ### armv7
