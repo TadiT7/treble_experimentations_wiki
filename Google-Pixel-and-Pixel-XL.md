@@ -24,4 +24,23 @@ It was not tested in depths, but all majors functionalities seems to work: camer
 
 # Pixel XL (Marlin)
 
-Not tested.
+## Hardware
+
+Has been tested on:
+* Marlin US 32Go
+
+## GSI tested
+
+[phh](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659) and [LineageOS](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690). Both work.
+
+## Procedure used
+
+1. Download latest Google image available [here](https://developers.google.com/android/images#marlin). For me it was 8.1.0 (OPM4.171019.021.D1, Jun 2018).
+2. `./flash-all.sh`
+3. Reboot to fastboot, then flash the image: `fastboot flash system system-arm64-ab-vanilla-nosu.img` (phh v19 2018-06-03, sha256: `9d130f709f063953a9d941f1ed4f33e050a60e61794cef459e22b3ac8f7eca20`) or `fastboot flash system system-arm64-ab.img` (LineageOS v4 2019-05-19, sha256: `3f67636ba164d1c0f7b750070b6db16349e761e1e4dea2ee193b176477152b91`)
+4. Erase the data partition: `fastboot -w`
+5. Boot the phone
+
+## Notes
+
+As for Sailfish, it was not tested in depths, but all majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds. Phone call not tested.
