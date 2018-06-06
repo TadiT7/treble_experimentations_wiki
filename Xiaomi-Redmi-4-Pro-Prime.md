@@ -30,7 +30,9 @@ I couldn't setup my e-mail with MicroG.
 
 There's no option to remap buttons on Extras.
 
-On lastest build enabled device specific props override(model, product, fingerprint etc). It's fix for SafetyNet.
+On latest build enabled device specific props override(model, product, fingerprint etc). It's fix for SafetyNet.
+
+Enabled RRO for override devices settings on GSI rom's.
 ***
 
 
