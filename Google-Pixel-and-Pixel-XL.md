@@ -12,7 +12,7 @@ Has been tested on:
 
 ## Procedure used
 
-**Warning:** this has an [link](https://github.com/phhusson/treble_experimentations/issues/55) which prevents the phone from booting more than three time. The workaround is in the linked issue.
+**Warning:** this has an [issue](https://github.com/phhusson/treble_experimentations/issues/55) which prevents the phone from booting more than three time. The workaround is in the linked issue.
 
 1. Download latest Google image available [here](https://developers.google.com/android/images#sailfish). For me it was 8.1.0 (OPM2.171019.029, Apr 2018).
 2. `./flash-all.sh`
@@ -37,7 +37,7 @@ Has been tested on:
 
 ## Procedure used
 
-**Warning:** this has an [link](https://github.com/phhusson/treble_experimentations/issues/55) which prevents the phone from booting more than three time. The workaround is in the linked issue.
+**Warning:** this has an [issue](https://github.com/phhusson/treble_experimentations/issues/55) which prevents the phone from booting more than three time. The workaround is in the linked issue.
 
 1. Download latest Google image available [here](https://developers.google.com/android/images#marlin). For me it was 8.1.0 (OPM4.171019.021.D1, Jun 2018).
 2. `./flash-all.sh`
