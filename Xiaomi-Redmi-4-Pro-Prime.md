@@ -21,7 +21,7 @@
 > Unable to test.
 
 * Fingerprint Reader
-> Working. But working like a button when the screen is on (Don't know if it's right).
+> Working.
 
 ***
 ## Additional Notes
