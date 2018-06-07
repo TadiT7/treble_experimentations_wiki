@@ -22,7 +22,6 @@ Fingerprint Reader
 Work
 
 Headphone
-
 Not work
 
 Additional Notes:
