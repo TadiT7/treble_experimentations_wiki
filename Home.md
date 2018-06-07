@@ -37,7 +37,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei View 10]]|berkeley|✓|A|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓|A|arm|
 |[[Lenovo Moto E5]]|nora_row|✓|A|arm|
-|[[Lenovo P2]]|kuntao||A|arm64|](https://github.com/phhusson/treble_experimentations/wiki/Lenovo-P2)
+|[[Lenovo P2]]|kuntao||A|arm64|
+|[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[LG V30]]|joan||A|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
