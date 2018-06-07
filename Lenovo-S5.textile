@@ -21,6 +21,10 @@ Not tested yet
 Fingerprint Reader
 Work
 
+Headphone
+
+Not work
+
 Additional Notes:
 Unlock the bootloader first.
 
