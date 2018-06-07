@@ -1,0 +1,29 @@
+Hardware Support
+
+Camera:
+Work（Both front and back）
+
+Speaker / Microphone
+Work
+
+Bluetooth
+Work
+
+Wifi
+Work
+
+SIM / Mobile Data / Voice
+Work
+
+VoLTE
+Not tested yet
+
+Fingerprint Reader
+Work
+
+Additional Notes:
+Unlock the bootloader first.
+
+Tested By: @QiMingWH -2018/06/07
+
+Template created by @zguithues
