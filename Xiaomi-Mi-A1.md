@@ -39,3 +39,6 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 
 * dgadelha - Resized userdata - 6/2/2018
   - Phh-Pixel Experience working
+
+* Prochy - Resized userdata - 6/4/2018
+  - AEX 5.4 working
