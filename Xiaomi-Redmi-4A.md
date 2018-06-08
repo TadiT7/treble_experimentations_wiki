@@ -26,9 +26,6 @@ Full Treble enabled by [33bca](https://github.com/33bca)
 * VoLTE
 > Working (the rom needs CAF VoLTE patches)
 
-* Fingerprint Reader
-> Working
-
 * Offline charging
 > Working
 
