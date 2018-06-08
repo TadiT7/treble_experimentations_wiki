@@ -80,4 +80,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|arm64|
 |[[Xiaomi Redmi S2]]|ysl|✓|A|arm64|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
-|[[HTC E8 Dual Sim]]|mecdug||A|armv7|
+|[[HTC E8 Dual Sim]]|mecdug||A|arm|
