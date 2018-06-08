@@ -40,6 +40,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Lenovo Moto E5]]|nora_row|✓|A|arm|
 |[[Lenovo P2]]|kuntao||A|arm64|](https://github.com/phhusson/treble_experimentations/wiki/Lenovo-P2)
 |[[LG V30]]|joan||A|arm64|
+|[[Moto G5 Plus]]|potter||A|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Nokia 1]]|frt|✓|A|arm|
