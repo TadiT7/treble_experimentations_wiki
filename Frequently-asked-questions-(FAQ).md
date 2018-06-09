@@ -42,6 +42,10 @@ First, you must unlock your bootloader; that is a capability your device manufac
 For more complete information, please see the following XDA article by M. Rahman:
 [How to flash a Generic System Image (GSI) on Project Treble supported devices](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 
+### How to build a GSI?
+
+Follow this guide [Here](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F)
+
 ***
 
 this page will be updated soon with more....
