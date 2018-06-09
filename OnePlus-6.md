@@ -3,28 +3,28 @@
 ## Hardware Support
 
 * Camera:
-> Not tested
+> Works with both AOSP camera and OP6-specific MGC
 
 * Speaker / Microphone
-> Not tested
+> Works
 
 * Bluetooth
-> Not tested
+> Works
 
 * Wifi
-> Not tested
+> Works
 
 * SIM / Mobile Data / Voice
-> Not tested
+> Works (tested with one SIM)
 
 * VoLTE
-> Not tested
+> Not working
 
 * Fingerprint Reader
-> Not tested
+> Works
 
 * Brightness control
-> Not working
+> Works
 
 ***
 ## Additional Notes
@@ -41,6 +41,7 @@ Not all GSI's work, one person got it to boot to lineage, I only managed to make
 
 ## Tested By:
 * @axm2 - 02 Jun 2018
+* @phhusson - 09 Jun 2018
 
 Template created by @zguithues
 
