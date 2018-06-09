@@ -7,8 +7,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **Device testers/maintainers:**  In additional to hardware support information, please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).  There is a device-specific wiki template here:  [[New-Devices-Template-WIP]].
 
-**ROMs:** check available GSI ROMs here [[Generic System Image (GSI) list]]
+**ROMs:** Check available GSI ROMs here [[Generic System Image (GSI) list]]
 
+**How to build a GSI?** : Check this guide here [[How to build a GSI?]]
 
 |Device Name|Codename|Support from OEM|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
