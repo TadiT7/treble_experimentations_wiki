@@ -13,7 +13,7 @@ Wifi
 Work
 
 SIM / Mobile Data / Voice
-Work(except China Telecom)
+Work(expect China Telecom)
 
 VoLTE
 Not tested yet
@@ -22,6 +22,9 @@ Fingerprint Reader
 Work
 
 Headphone
+Work
+
+adb/MTP
 Work
 
 Additional Notes:
