@@ -1,4 +1,4 @@
-# Huawei Honor 7X - [BND-L24] [BND-AL00/AL10/AL20/L21/L22/L31&TL10(Hopefully)]
+## ### # # Huawei Honor 7X - [BND-L24] [BND-AL00/AL10/AL20/L21/L22/L31&TL10(Hopefully)]
 
 # **HIGHLY EXPERIMENTAL(USE AT YOUR OWN RISK)**
 
@@ -10,21 +10,23 @@
 > Works, but does not look as good as stock
 
 * Speaker / Microphone
-> Speaker - yes
-> Mic - ?
-> Headphone Jack- ?
+> Speaker - works (Works on both ROMs ^^^)
+> Mic - works (AOSP, did not try RR)
+> Headphone Jack- works (AOSP, did not try RR)
 
 * Bluetooth
 > I am able to connect to another phone to fileshare but not able to connect bluetooth headphones
+> Connected to bluetooth headphones for me on AOSP
 
 * Wifi
 > Works fine
 
 * SIM / Mobile Data / Voice
-> Unable to provide as this is secondary phone, no sim is attach to device
+> SIM works, not sure if data works because I don't have it, calls work fine
 
 * VoLTE
 > Unable to provide as this is secondary phone, no sim is attach to device
+>Can't check because there is no Volte for my provider
 
 * Fingerprint Reader
 > works
