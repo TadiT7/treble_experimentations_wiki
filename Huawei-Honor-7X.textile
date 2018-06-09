@@ -12,7 +12,7 @@
 > Works, but does not look as good as stock
 
 * Speaker / Microphone
-> Speaker - works (Works on both ROMs ^^^)
+> Speaker - works (Works on both ROMs, RR and AOSP)
 > Mic - works (AOSP, did not try RR)
 > Headphone Jack- works (AOSP, did not try RR)
 
