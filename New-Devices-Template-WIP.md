@@ -14,7 +14,7 @@
 * Wifi
 > info about Wifi support/workarounds
 
-* SIM / Mobile Data / Voice
+* SIM / Mobile Data / ingoing voice calls / outgoing voice calls
 > info about SIM / Mobile Data / Voice support/workarounds
 
 * VoLTE
@@ -22,6 +22,9 @@
 
 * Fingerprint Reader
 > info about Fingerprint Reader support
+
+* 3.5mm audio jack
+> info about 3.5mm audio jack support
 
 ***
 ## Additional Notes
