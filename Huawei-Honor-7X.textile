@@ -102,3 +102,4 @@ When flashing a Gsi , sometimes the system image size gets reduced to the flashe
 ## Tested By:
 * shadowsiul - BND-L24 - 05/15/2018 - AOSP & LineageOS
 * Twigimc - Bnd-L21 - 5/21/2018 - Dotos
+* osly888 (crayonicle [on XDA]) - BND-L24 - 6-09-2018 - CosmicOS, Pixel Experience, AEX, AOSiP, XenonHD, AOKP, BootleggersROM
