@@ -38,5 +38,17 @@ v1--> initial build
 
 °Treble booted on santoni finally,enjoy.
 
+v2--> Second build
+
+°all sensors fixed
+
+°video playback fixed
+
+°merged latest kernel version and CAF tag merged
+
+°led working
+
+°Enjoy bugless treble 😋😋
+
 **LINK---->**
 https://forum.xda-developers.com/xiaomi-redmi-4x/development/treble-lineageos-15-1-beta-t3790991
