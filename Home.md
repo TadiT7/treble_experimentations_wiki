@@ -20,6 +20,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
+|[[HTC E8 Dual Sim]]|mecdug||A|arm|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[Huawei Honor 6X]]|BLN|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
@@ -59,7 +60,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
-|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte and star2qlte|✓|A|arm64|
+|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
@@ -84,4 +85,3 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|arm64|
 |[[Xiaomi Redmi S2]]|ysl|✓|A|arm64|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
-|[[HTC E8 Dual Sim]]|mecdug||A|arm|
