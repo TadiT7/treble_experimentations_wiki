@@ -1,5 +1,9 @@
 # Pixel (Sailfish)
 
+## Testers
+
+* [Jim-Bar|https://github.com/Jim-Bar]
+
 ## Hardware
 
 Has been tested on:
@@ -25,6 +29,10 @@ Has been tested on:
 It was not tested in depths, but all majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds. Phone call not tested.
 
 # Pixel XL (Marlin)
+
+## Testers
+
+* [Jim-Bar|https://github.com/Jim-Bar]
 
 ## Hardware
 
