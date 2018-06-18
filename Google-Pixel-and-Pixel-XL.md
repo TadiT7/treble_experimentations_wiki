@@ -2,7 +2,7 @@
 
 ## Testers
 
-* [Jim-Bar|https://github.com/Jim-Bar]
+* [Jim-Bar](https://github.com/Jim-Bar)
 
 ## Hardware
 
@@ -32,7 +32,7 @@ It was not tested in depths, but all majors functionalities seems to work: camer
 
 ## Testers
 
-* [Jim-Bar|https://github.com/Jim-Bar]
+* [Jim-Bar](https://github.com/Jim-Bar)
 
 ## Hardware
 
