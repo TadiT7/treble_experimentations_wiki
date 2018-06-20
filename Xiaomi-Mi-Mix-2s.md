@@ -5,7 +5,7 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 ## Hardware Support
 
 * Camera:
-> Works
+> Front Works, Back only one and max 1080p
 
 * Speaker / Microphone
 > Works
