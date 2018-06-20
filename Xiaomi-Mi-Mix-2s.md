@@ -10,8 +10,11 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 * Speaker / Microphone
 > Works
 
-* Bluetooth
+* Type-C Audio Adapter
 > Works
+
+* Bluetooth
+> Works (bluetooth audio encode can be SBC only)
 
 * Wifi
 > Works
