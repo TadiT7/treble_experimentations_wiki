@@ -7,7 +7,7 @@ $ fastboot --version
 fastboot version 0.0.1-4500957
 Installed as XXX
 # extract vbmeta from the factory image zip and reflash:
-$ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+$ fastboot --disable-verity flash vbmeta vbmeta.img
 ```
 
 ```bash
