@@ -1,4 +1,4 @@
-# [Lenovo Moto E5]
+# [Moto E5]
 
 ## Hardware Support
 
