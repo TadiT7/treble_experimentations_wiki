@@ -13,7 +13,7 @@ Wifi
 Work
 
 SIM / Mobile Data / Voice
-Work(expect China Telecom)
+Work(except China Telecom)
 
 VoLTE
 Not tested yet
@@ -22,12 +22,13 @@ Fingerprint Reader
 Work
 
 Headphone
-Work
+Work(only some model)
 
 adb/MTP
 Work
 
 Additional Notes:
+Had test AOSP,PixelExperience.
 Unlock the bootloader first.
 
 Tested By: @QiMingWH -2018/06/07
