@@ -20,7 +20,7 @@
 > Working (SIM Pin needs to be disabled when using the dual-sim (FD) S9, failing to do so will result in the secondary sim not being recognised) 
 
 * Fingerprint Reader
-> Not working 
+> Works, but needs to turn the screen when setting finger
 
 > Adding and using a fingerprint causes system ui to crash and locks up touch input.
 
@@ -28,7 +28,7 @@
 > Not working (tested with carrier EE, UK)
 
 * Brightness
-> Not working
+> Works
 
 * Live Display
 > Not working
