@@ -46,6 +46,11 @@ For more complete information, please see the following XDA article by M. Rahman
 
 Follow this guide [Here](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F)
 
+### Why is latest GSI packages end with .xz format and have very small size?
+
+From v19 (2018-06-03) - Releases are now compressed with xz. Uncompress before flashing.
+Though the idea of Flashable ZIP is discussed @CosmicDan /*Include a busybox binary (assuming it has xz extraction applet, I haven't checked) and a simg2img binary (is it a sparse image? It should be), and you could probably just pipe the output of xz extraction to simg2img. I don't see why not.*/
+
 ***
 
 this page will be updated soon with more....
