@@ -42,6 +42,18 @@ First, you must unlock your bootloader; that is a capability your device manufac
 For more complete information, please see the following XDA article by M. Rahman:
 [How to flash a Generic System Image (GSI) on Project Treble supported devices](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 
+### How to bypass certified device after first boot?
+
+- Reboot to recovery
+
+```
+adb root
+adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db'
+```
+
+- Select * from main where name = \"android_id\";"
+- Then register here https://www.google.com/android/uncertified/ and reboot
+
 ### How to build a GSI?
 
 Follow this guide [Here](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F)
