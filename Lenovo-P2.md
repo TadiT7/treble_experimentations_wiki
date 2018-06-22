@@ -12,7 +12,7 @@
 > Not Working
 
 * Bluetooth
-> Working.
+> Not Working
 
 * Wifi
 > Working.
