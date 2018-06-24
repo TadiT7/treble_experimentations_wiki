@@ -19,6 +19,9 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 * Wifi
 > Works
 
+* GPS
+> Works
+
 * NFC
 > Works (Works on AOSP, Lineage not released yet)
 
@@ -36,6 +39,14 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 
 * Quick Charge
 > Works (Charging with 3200mA current on stock charger)
+
+* Sensors
+> - Gravity: Works
+> - Barometer: Works
+> - Orientation: Works
+> - Gyroscope: Works
+> - Proximity: Works
+> - AmbientLight: Works
 
 ## Tested By:
 * @notsyncing - 20 Jun 2018
