@@ -23,7 +23,7 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > Works (Works on AOSP, Lineage not released yet)
 
 * SIM / Mobile Data / Voice
-> Works, dual LTE standby works
+> Works, dual LTE standby works, LTE+ works (CHN-CT on LTE cannot fallback to 2G/3G voice)
 
 * VoLTE
 > Not tested (my CHN-UNICOM not VoLTE enabled, cannot test)
