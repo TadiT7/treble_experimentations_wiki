@@ -34,6 +34,8 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 * Brightness control
 > Works (Not released yet)
 
+* Quick Charge
+> Works (Charging with 3200mA current on stock charger)
 
 ## Tested By:
 * @notsyncing - 20 Jun 2018
