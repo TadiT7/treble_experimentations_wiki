@@ -20,7 +20,7 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > Works
 
 * NFC
-> Works (Works on AOSP, not on Lineage)
+> Works (Works on AOSP, Lineage not released yet)
 
 * SIM / Mobile Data / Voice
 > Works, dual LTE standby works
