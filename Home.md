@@ -15,7 +15,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |:-:|:-:|:-:|:-:|:-:|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
-|[[Blackview A20]]|A20|✓|A|arm|
+|[[Blackview A20]]|A20|✓ (Go)|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
@@ -37,7 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20 Lite]]|anne|✓|A|arm64|
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
 |[[Huawei View 10]]|berkeley|✓|A|arm64|
-|[[Koolnee Rainbow]]|rainbow|✓|A|arm|
+|[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[LG V30]]|joan||A|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
@@ -64,11 +64,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
-|[[Wiko Lenny5]]|w_k400|✓|A|arm|
+|[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|arm64|
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
-|[[Xiaomi Mi 6x]]|wayne|✓|A|arm64|
+|[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi Mix]]|lithium||A|arm64|
