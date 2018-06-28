@@ -1,5 +1,17 @@
 Here are the tests that have been done for every release:
 
+AOSP v21 2018-06-27:
+- Galaxy S9+: system-arm64-aonly-gapps-su.img, clean flashed, boots, wifi works, fde ok, bluetooth inits, back aosp cam works
+- Huawei Mate 9: system-arm64-aonly-gapps-su.img, clean flashed, boots, bluetooth inits, boots without usb, fbe works (incl. without usb)
+- Huawei View 10 (running android 8.0): system-arm64-aonly-gapps-su.img clean flashed, boots, bluetooth inits
+- Lenovo Moto E5: system-arm-aonly-vanilla-nosu: dirty flashed, boots, broken camera
+- OnePlus 6: system-arm64-ab-gapps-su.img: dirty flashed, boots, fbe works, wifi works, bluetooth inits, 3G calls works with earpiece
+- Allview Viper V3 system-arm64-aonly-gapps-su.img clean flashed, boots, (dirty flashed) fde works
+- Google Pixel 2 XL system-arm64-ab-gapps-su.img dirty flashed, boots, no in-call sound
+- Razer Phone, system-arm64-ab-gapps-su.img, dirty flashed, fde works, boots, 
+
+
+
 AOSP v19 2018-06-03:
 - Razer phone: system-arm64-ab-gapps-su.img: dirty flashed, boots, fde ok, bluetooth inits, wifi connects, aosp camera back preview, MGC back preview & snap
 - Google Pixel 2 XL: system-arm64-ab-gapps-su.img: dirty flashed, fbe ok, bluetooth inits, wifi connects, aosp camera back preview, MGC back preview & snap
