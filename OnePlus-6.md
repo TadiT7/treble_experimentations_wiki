@@ -35,6 +35,7 @@ https://forum.xda-developers.com/oneplus-6/how-to/guide-how-to-flash-treble-roms
 
 Not all GSI's work, one person got it to boot to lineage, I only managed to make it boot with AOSP, other GSIs were stuck at boot animation for me
 
+This post on XDA could come in handy too: https://forum.xda-developers.com/oneplus-6/how-to/treble-mistery-solved-developer-t3800716
 
 ***
 
@@ -42,6 +43,7 @@ Not all GSI's work, one person got it to boot to lineage, I only managed to make
 ## Tested By:
 * @axm2 - 02 Jun 2018
 * @phhusson - 09 Jun 2018
+* @[Jim-Bar](https://github.com/Jim-Bar)
 
 Template created by @zguithues
 
