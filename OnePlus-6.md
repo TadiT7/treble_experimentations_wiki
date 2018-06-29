@@ -43,7 +43,7 @@ This post on XDA could come in handy too: https://forum.xda-developers.com/onepl
 ## Tested By:
 * @axm2 - 02 Jun 2018
 * @phhusson - 09 Jun 2018
-* @[Jim-Bar](https://github.com/Jim-Bar)
+* @[Jim-Bar](https://github.com/Jim-Bar) - 29 Jun 2018
 
 Template created by @zguithues
 
