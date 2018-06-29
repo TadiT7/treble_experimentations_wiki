@@ -1,5 +1,10 @@
 Here are the tests that have been done for every release:
 
+Lineage v21:
+- Pixel 2 XL system-arm64-ab-gapps-su.img clean flash, boots, bluetooth inits, 3g works
+- Razer Phone system-arm64-ab-gapps-su.img clean flash, boots, bluetooth inits 
+- Lenovo Moto E5 system-arm-aonly-gapps.img clean flash, boots, bluetooth inits
+
 AOSP v21 2018-06-27:
 - Galaxy S9+: system-arm64-aonly-gapps-su.img, clean flashed, boots, wifi works, fde ok, bluetooth inits, back aosp cam works
 - Huawei Mate 9: system-arm64-aonly-gapps-su.img, clean flashed, boots, bluetooth inits, boots without usb, fbe works (incl. without usb)
