@@ -28,10 +28,11 @@ adb/MTP
 Work
 
 Additional Notes:
-Had test AOSP,PixelExperience.
+Had test AOSP,PixelExperience,LineageOS 15.1.
 Unlock the bootloader first.
 
-Tested By: @QiMingWH -2018/06/07
+Tested By: @Luca0101 -2018/06/29
+           @QiMingWH -2018/06/07
            @QiMingWH -2018/06/09
 
 Template created by @zguithues
