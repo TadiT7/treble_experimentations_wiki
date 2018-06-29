@@ -15,14 +15,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |:-:|:-:|:-:|:-:|:-:|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
-|[[Blackview A20]]|A20|✓ (Go)|A|arm|
+|[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[HTC E8 Dual Sim]]|mecdug||A|arm|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
-|[[Huawei Honor 6X]]|BLN|✓|A|arm64|
+|[[Huawei Honor 6X]]|bln|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
@@ -38,6 +38,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
 |[[Huawei View 10]]|berkeley|✓|A|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
+|[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[LG V30]]|joan||A|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
