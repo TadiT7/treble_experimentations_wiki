@@ -33,12 +33,17 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 
 
 ## Tested By:
-* kdrag0n - Resized userdata - 5/27/2018
+* kdrag0n - Resized userdata - 2018-05-27
   - Phh-AOSP, Phh-RR, dotOS working
   - Phh-Lineage and AOSIP stuck on boot animation
 
-* dgadelha - Resized userdata - 6/2/2018
+* dgadelha - Resized userdata - 2018-06-02
   - Phh-Pixel Experience working
 
-* Prochy - Resized userdata - 6/4/2018
+* Prochy - Resized userdata - 2018-06-04
   - AEX 5.4 working
+
+* Cj-Malone - Resized userdata - 2018-07-02
+  - [Lineage OS (2018-06-27, vanilla)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690) booting
+  - [AOSP (2018-06-27, vanilla)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659) booting
+  - [CosmicOS (2018-06-14)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/cosmic-ospulsar8-1-0201805243-2-t3794806) booting
