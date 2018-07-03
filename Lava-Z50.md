@@ -22,12 +22,12 @@ Your warranty is now void, though it's pretty easy to re-flash stock firmware & 
 ***
 ## Additional Notes
 ### Flashing procedure for Lava Z50 (z50) retail unit running build LAVA_Z50_1_8_V2.0_S129_20180301_ENG_IN
-1. Enable USB debugging and oem unlock in developer options
-2. adb reboot bootloader
-3. fastboot oem unlock / fastboot flashing unlock (Both work and give same result)
-4. fastboot flash system  _your_gsi_path_
-5. fastboot format userdata
-6. fastboot reboot
+1. Enable USB debugging and OEM unlock in developer options
+2. `adb reboot bootloader`
+3. `fastboot oem unlock` / `fastboot flashing unlock` (Both work and give same result)
+4. `fastboot flash system  _your_gsi_path_`
+5. `fastboot format userdata`
+6. `fastboot reboot`
 
 
 ***
