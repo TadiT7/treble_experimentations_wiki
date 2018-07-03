@@ -5,7 +5,7 @@ Your warranty is now void, though it's pretty easy to re-flash stock firmware & 
 
 ## Hardware Support
 
-* Camera: Works out of the box
+* Camera: Works out of the box (Both back and front)
 
 * Speaker / Microphone : Needs further testing but looks good
 
