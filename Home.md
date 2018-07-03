@@ -84,5 +84,5 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
 |[[Xiaomi Redmi Note 5 (Pro)]]|whyred|✓|A|arm64|
-|[[Xiaomi Redmi S2]]|ysl|✓|A|arm|
+|[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
