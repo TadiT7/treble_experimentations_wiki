@@ -35,6 +35,6 @@ Your warranty is now void, though it's pretty easy to re-flash stock firmware & 
 
 ## Tested By:
 * [Titokhan](https://github.com/Titokhan)
-* Tested with Phh-Treble v21 (arm-aonly-go-su)
+* Tested with [Phh-Treble AOSP v21](https://github.com/phhusson/treble_experimentations/releases/tag/v21) (arm-aonly-go-su)
 
 Template created by @zguithues
