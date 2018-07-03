@@ -37,7 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20 Lite]]|anne|✓|A|arm64|
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
 |[[Huawei View 10]]|berkeley|✓|A|arm64|
-|[[Huawei Y6 (2018)]]|idk, sry|✓|A|arm64|
+|[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
