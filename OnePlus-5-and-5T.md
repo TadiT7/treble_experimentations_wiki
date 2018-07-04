@@ -1,4 +1,4 @@
-# Camera: Working
+# Camera: Working (Mokka Treble only, OOS treble doesn't work.)
 # Speaker: Not tested
 # Screen Brightness control: Working
 # Notification LED: working
