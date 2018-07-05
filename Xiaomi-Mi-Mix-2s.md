@@ -32,7 +32,8 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > Not tested (my CHN-UNICOM not VoLTE enabled, cannot test)
 
 * Fingerprint Reader
-> Works
+> - Works for unlocking
+> - Gestures does not work, but return cursor to start of line if touched while in text editing mode.
 
 * Brightness control
 > Works (since v21)
@@ -49,7 +50,8 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > - AmbientLight: Works
 
 ## Tested By:
-* @notsyncing - 20 Jun 2018
+* @notsyncing - 20 June 2018
+* @cnrd - 6 July 2018
 
 Template created by @zguithues
 
