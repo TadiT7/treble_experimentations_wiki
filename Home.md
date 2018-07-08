@@ -44,6 +44,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG V30]]|joan||A|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto G5 Plus]]|potter||A|arm64|
+|[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
