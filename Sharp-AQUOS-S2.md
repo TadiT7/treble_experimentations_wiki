@@ -33,7 +33,7 @@ You can use Nokia 7 or 7 Plus kernel on AQUOS S2, but camera, Wi-Fi and some oth
 To fix this problem, you have to add overlay by yourself or flash [modded vendor image for 00CN_2_070](https://drive.google.com/open?id=1h_lby181FerHcs3pg45SAoiY9-nGtomO) and [boot image](https://drive.google.com/open?id=1_uginpiJ_JfRuE0Z8oeR1D-qnsHUZWN-).
 
 * For some reason, bootloader sometimes forget what slot he is using now and reboot to bootloader continuously.  
-You can check current slot by `fastboot getvar current-slot` and re-set by `fastboot --set-active=_a reboot` or `fastboot --set-active=_b reboot`.
+You can check current slot by `fastboot getvar current-slot` and re-set by `fastboot --set-active=_a reboot` or `fastboot --set-active=_b reboot`. This bug is fixed in v20.
 
 ***
 
