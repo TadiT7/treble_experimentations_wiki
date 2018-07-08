@@ -1,4 +1,5 @@
 2018-07-08
- Oppo R11
-   Recent task button doesn't work.
-   Home button with fingerprint doesn't work.
+
+• Oppo R11
+  Recent task button doesn't work.
+  Home button with fingerprint doesn't work.
