@@ -20,9 +20,7 @@
 > Working (SIM Pin needs to be disabled when using the dual-sim (FD) S9, failing to do so will result in the secondary sim not being recognised) 
 
 * Fingerprint Reader
-> Works, but needs to turn the screen when setting finger
-
-> Adding and using a fingerprint causes system ui to crash and locks up touch input.
+> Works. Need to kill Settings app after removing a fingerprint.
 
 * VoLTE 
 > Not working (tested with carrier EE, UK)
@@ -41,4 +39,7 @@
 
 * Josh Sharp - S9 (SM-G960F/DS) - 2018-04-21
   - Phh-Lineage 4th April build with Stock GApps
+
+* phh - S9+(SM-G965F) 09/07/2018
+  - AOSP v22
 
