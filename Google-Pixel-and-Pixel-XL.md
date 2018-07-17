@@ -27,7 +27,7 @@ Has been tested on:
 
 ## Notes
 
-It was not tested in depths, but all majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds. Phone call not tested.
+Phone call doesn't work (tested with phhtreble only, which means it's likely it won't work with LineageOS neither). It was not tested in depths, but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
 
 # Pixel XL (Marlin)
 
@@ -57,4 +57,4 @@ Has been tested on:
 
 ## Notes
 
-As for Sailfish, it was not tested in depths, but all majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds. Phone call not tested.
+As for Sailfish, phone call doesn't work (tested with phhtreble only, which means it's likely it won't work with LineageOS neither). It was not tested in depths, but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
