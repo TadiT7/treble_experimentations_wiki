@@ -9,7 +9,7 @@
 > Working perfectly
 
 * Bluetooth
-> Not tested
+> Working perfectly
 
 * Wifi
 > Wifi is working perfectly
