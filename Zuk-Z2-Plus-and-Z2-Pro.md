@@ -25,7 +25,7 @@ Full Treble enabled by [Zuk-devs](https://github.com/Zuk-devs) (**Cosmedd, David
 > Working
 
 * VoLTE
-> Not working
+> Working
 
 * Fingerprint Reader
 > Working
