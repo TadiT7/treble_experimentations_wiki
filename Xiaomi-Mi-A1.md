@@ -47,3 +47,6 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
   - [Lineage OS (2018-06-27, vanilla)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690) booting
   - [AOSP (2018-06-27, vanilla)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659) booting
   - [CosmicOS (2018-06-14)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/cosmic-ospulsar8-1-0201805243-2-t3794806) booting
+
+* Codie - Resized userdata - 2018-07-19
+  - Andriod PGSI DP4 working
