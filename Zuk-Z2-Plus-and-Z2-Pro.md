@@ -78,4 +78,5 @@ A: Flash **ZUI 3.5 Oreo** and after that **unlock bootloader** and **flash a TWR
 * **Kuber Sharma** - Z2_plus - 25/03/2018
 * **Faiz Authar** - Z2_plus - 25/03/2018
 * **Subhajeet** - Z2_plus - 23/03/2018
+* **Devabhi** - Z2_plus - 22/07/2018
 
