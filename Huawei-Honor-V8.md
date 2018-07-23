@@ -1,3 +1,5 @@
+# [Huawei Honor V8](https://www.gsmarena.com/huawei_honor_v8-8061.php) - knt
+
 Tested with system.img for A-only ARM64 devices with GApps and SU v18
 
 all cameras do not work
