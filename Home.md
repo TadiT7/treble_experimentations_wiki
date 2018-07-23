@@ -28,7 +28,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9i / Mate 10 Lite]]|bll / rne|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
-|[[Huawei Mate 9]]|hi3660|✓|A|arm64|
+|[[Huawei Mate 9]]|mha|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei P Smart]]|figo|✓|A|arm64|
