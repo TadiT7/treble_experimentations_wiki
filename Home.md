@@ -41,6 +41,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
+|[[LeEco Le Max 2]]|x2||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[LG V30]]|joan||A|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
