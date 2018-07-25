@@ -15,7 +15,7 @@ Works
 Works
 
 * SIM / Mobile Data / Voice
-Only slot 1 works
+Only slot 1 works / Data Works / Voice only works on outgoing, no incoming calls
 
 ***
 
