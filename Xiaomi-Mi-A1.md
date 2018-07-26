@@ -51,4 +51,4 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 * Codie - Resized userdata - 2018-07-19
    - [Android P DP3/Beta 2 (2018-07-17)](https://forum.xda-developers.com/mi-a1/how-to/guide-install-android-p-dp3-mi-a1-t3817937) booting
   - [Android P DP4/Beta 3 (2018-07-19)](https://forum.xda-developers.com/mi-a1/how-to/guide-install-android-p-dp3-mi-a1-t3817937) booting
- - [Android P DP5/Beta 4 (2018-07-25)](https://forum.xda-developers.com/mi-a1/how-to/guide-install-android-p-dp3-mi-a1-t3817937) booting
+  - [Android P DP5/Beta 4 (2018-07-25)](https://forum.xda-developers.com/mi-a1/how-to/guide-install-android-p-dp3-mi-a1-t3817937) booting
