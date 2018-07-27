@@ -12,10 +12,10 @@ Bluetooth
 * BLE working
 
 Wifi
-* working
+* Working
 
 SIM / Mobile Data / Voice
-* working
+* Working
 
 Fingerprint Reader
 * Working
