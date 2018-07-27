@@ -14,33 +14,33 @@ It is probably easiest to flash the "no-op" vbmeta image that phh created (altho
 ## Hardware Support
 
 * Camera:
-> info about camera support/workarounds
+> camera does not work.  The aosp camera app is not responsive -- it just shows a black screen with a camera icon in the middle.
 
 * Speaker / Microphone
-> info about Speaker & Microphone support/workarounds
+> working (tested YouTube, in-call audio).  Strangely, the built-in audio player reports that it does not support mp3.
 
 * Bluetooth
-> info about Bluetooth support/workarounds
+> working (tested device pairing and file transfer).
 
 * Wifi
-> info about Wifi support/workarounds
+> working
 
 * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-> info about SIM / Mobile Data / Voice support/workarounds
+> Outgoing voice calls are working.  Incoming calls were not tested. Mobile-data was not tested.
 
 * VoLTE
-> info about VoLTE support
+> note tested
 
 * Fingerprint Reader
-> info about Fingerprint Reader support
+> working
 
 * 3.5mm audio jack
-> info about 3.5mm audio jack support
+> the XZ2 does not have a 3.5mm audio jack.  You need a usb-c to audio-jack adapter.
 
 ***
 ## Additional Notes
 
-_Put any additional info/notes regarding treble support for this device._
+The screen-backlight flickers.  If you adjust the screen brightness, it is very noticeable.
 
 
 ***
