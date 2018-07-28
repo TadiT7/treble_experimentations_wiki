@@ -29,7 +29,7 @@ It is probably easiest to flash the "no-op" vbmeta image that phh created (altho
 > Outgoing voice calls are working.  Incoming calls were not tested. Mobile-data was not tested.
 
 * VoLTE
-> note tested
+> not tested
 
 * Fingerprint Reader
 > working
@@ -40,8 +40,9 @@ It is probably easiest to flash the "no-op" vbmeta image that phh created (altho
 ***
 ## Additional Notes
 
-The screen-backlight flickers.  If you adjust the screen brightness, it is very noticeable.
+The screen-backlight flickers.  If you adjust the screen brightness, it is very noticeable.  The defect is the same as what is described in Issue #128:
 
+https://github.com/phhusson/treble_experimentations/issues/128
 
 ***
 
