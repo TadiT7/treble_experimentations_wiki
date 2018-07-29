@@ -22,4 +22,5 @@ Fingerprint Reader
 
 Next known bugs:
 * Google play services keep crashing
-* Moto G6 have only one partition (A-only) ![](https://drive.google.com/open?id=1nO3aStuZ7dY03Vdxkn2y6f1t5FO5cAfg)
+* Moto G6 have only one partition (A-only)
+[Treble Checker](https://drive.google.com/open?id=1nO3aStuZ7dY03Vdxkn2y6f1t5FO5cAfg)
