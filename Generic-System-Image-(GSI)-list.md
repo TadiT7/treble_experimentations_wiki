@@ -7,14 +7,14 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AICP-mordiford|AndroPlus|[Here](https://drive.google.com/open?id=1LtPNR6R4dxJslXFIjpF9FhyfEfhBTCOa)|A - A/B|arm64|
 |AOSIP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
 |AOSP|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
-|AOSP Extended|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aosp-extended-t3821934)|A - A/B |arm64|
+|AOSP Extended|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aosp-extended-t3821934)|A - A/B |arm - arm64|
 |AOSP Extended|TingyiChen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aospextended-rom-v5-5-t3797509)|A|arm64|
 |AOKP|sixohtew|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aokp-t3772379)|A - A/B|arm64|
 |AquariOS|a1Pha|[Here](https://www.storozhev.net/p20pro/aquarios-system-arm64_aonly_0.1.img)|A|arm64|
 |ArrowOS|bauuuuu|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-arrowos-gsi-t3819467)|A - A/B|arm64|
 |BootleggersROM|merothh|[Here](https://www.androidfilehost.com/?fid=890278863836285424)|A|arm64|
 |BootleggersROM|dil3mm4.dev|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/shishufied-bootleggers-2-3-gsi-t3808144)|A - A/B|arm64|
-|CarbonRom|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-carbonrom-noct-t3821947)|A - AB |arm64|
+|CarbonRom|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-carbonrom-noct-t3821947)|A - AB |arm - arm64|
 |CosmicOS|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/cosmic-ospulsar8-1-0201805243-2-t3794806)|A - A/B|arm64|
 |CrDroid|dil3mm4.dev|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-crdroid-4-4-t3813104)|A - A/B|arm64|
 |dotOS|dotOS Team|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-droidontime-dotos-2-x-t3794338)|A - A/B|arm64|
