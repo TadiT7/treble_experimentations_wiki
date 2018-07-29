@@ -20,5 +20,5 @@ SIM / Mobile Data / Voice
 Fingerprint Reader
 * Working
 
-Google play services keep crashing
-Moto G6 have only one partition (A-only)
+*Google play services keep crashing
+*Moto G6 have only one partition (A-only)
