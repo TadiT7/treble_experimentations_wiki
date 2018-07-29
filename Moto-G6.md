@@ -10,6 +10,7 @@ Speaker / Microphone
 Bluetooth
 * No a2dp
 * BLE working
+* File transfer (Send/Receive) working fine
 
 Wifi
 * Working
