@@ -20,5 +20,6 @@ SIM / Mobile Data / Voice
 Fingerprint Reader
 * Working
 
+Next known bugs:
 * Google play services keep crashing
-* Moto G6 have only one partition (A-only)
+* Moto G6 have only one partition (A-only) ![](https://drive.google.com/open?id=1nO3aStuZ7dY03Vdxkn2y6f1t5FO5cAfg)
