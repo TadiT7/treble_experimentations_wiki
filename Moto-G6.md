@@ -21,3 +21,4 @@ Fingerprint Reader
 * Working
 
 Google play services keep crashing
+Moto G6 have only one partition (A-only)
