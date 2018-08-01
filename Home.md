@@ -77,6 +77,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
+|[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi Mix]]|lithium||A|arm64|
 |[[Xiaomi Mi Mix 2]]|chiron||A|arm64|
