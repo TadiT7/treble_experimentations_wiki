@@ -36,8 +36,8 @@ In Android P DP5 camera works but very lag.
 
 
 ## Tested By:
-* Arbaz - YU Yureka 2 - 26/7/2018
-* Gabbar - YU Yureka 2 - 26/7/2018
-* Manoj Raina - YU Yureka 2 - 28/7/2018
+* Arbaz - YU Yureka 2 using Android P DP5- 26/7/2018
+* Gabbar - YU Yureka 2 using Lineage OS - 26/7/2018
+* Manoj Raina - YU Yureka 2  using DotOS- 28/7/2018
 
 Template created by @zguithues
