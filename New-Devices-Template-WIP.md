@@ -1,41 +1,43 @@
-# [DEVICE NAME] - [Model Name/Info]
+# YU - Yureka 2
 
 ## Hardware Support
 
 * Camera:
-> info about camera support/workarounds
+> Front and back both working in some GSI 
 
 * Speaker / Microphone
-> info about Speaker & Microphone support/workarounds
+> Loud-speaker works, earpiece works, microphone works
 
 * Bluetooth
-> info about Bluetooth support/workarounds
+> Working
 
 * Wifi
-> info about Wifi support/workarounds
+> Working
 
 * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-> info about SIM / Mobile Data / Voice support/workarounds
+> Working
 
 * VoLTE
-> info about VoLTE support
+> Not Working
 
 * Fingerprint Reader
-> info about Fingerprint Reader support
+> Working
 
 * 3.5mm audio jack
-> info about 3.5mm audio jack support
+> Working
 
 ***
 ## Additional Notes
 
-_Put any additional info/notes regarding treble support for this device._
+In Android P DP5 camera works but very lag.
 
 
 ***
 
 
 ## Tested By:
-* Name - Device Specifics - Date
+* Arbaz - YU Yureka 2 - 26/7/2018
+* Gabbar - YU Yureka 2 - 26/7/2018
+* Manoj Raina - YU Yureka 2 - 28/7/2018
 
 Template created by @zguithues
