@@ -45,6 +45,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LeEco Le Max 2]]|x2||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[LG V30]]|joan||A|arm64|
+|[[LG G7 ThinQ™️]]|judyln||A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto G5 Plus]]|potter||A|arm64|
 |[[Moto G6]]|ali|✓|A/B|arm|
