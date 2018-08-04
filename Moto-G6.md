@@ -9,6 +9,8 @@ Speaker / Microphone
 
 Bluetooth
 * No a2dp
+https://drive.google.com/file/d/1rDyn5r_xmUQFYklTfw0d7x8zyyqL1gyF/view?usp=sharing
+https://drive.google.com/file/d/14670xlnk_AnnGuCTZWC7utubEnHPZZJy/view?usp=sharing
 * BLE working
 * File transfer (Send/Receive) working fine
 
