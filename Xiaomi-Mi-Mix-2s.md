@@ -11,13 +11,13 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > Works
 
 * Type-C Audio Adapter
-> Works
+> Stock adapter works, adapter with DAC not working on lineage since v22
 
 * Bluetooth
-> Works (bluetooth audio encode can be SBC only)
+> Works (SBC, LDAC works), not working on lineage since v22
 
 * Wifi
-> Works
+> Works, (tethering not working, should be fixed after v22)
 
 * GPS
 > Works
