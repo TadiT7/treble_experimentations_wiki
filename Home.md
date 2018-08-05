@@ -80,11 +80,13 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
 |[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
-|[[Xiaomi Mi Mix]]|lithium||A|arm64|
-|[[Xiaomi Mi Mix 2]]|chiron||A|arm64|
-|[[Xiaomi Mi Mix 2s]]|polaris|✓|A|arm64|
+|[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
+|[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
+|[[Xiaomi Mi MIX]]|lithium||A|arm64|
+|[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
+|[[Xiaomi Mi MIX 2S]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
-|[[Xiaomi Mi PAD 4]]|clover|✓|A|arm64|
+|[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Redmi 3S/Prime/3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|arm64|
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
