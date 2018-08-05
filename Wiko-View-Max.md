@@ -6,7 +6,7 @@
 > Front and back both working. Flash works in both front and back cameras
 
 * Speaker / Microphone
-> Loud-speaker works, earpiece works, microphone works
+> Loud-speaker works, earpiece not tested, microphone works
 
 * Bluetooth
 > Working
