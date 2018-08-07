@@ -25,6 +25,11 @@
 * Brightness control
 > OK
 
+***
+## Additional Notes
+The gestures does not work, but for some reason gets enabled by default, always display does not work on some gsi (not all tested)
+
+***
 Tested By:
 
 Template created by @zguithues
