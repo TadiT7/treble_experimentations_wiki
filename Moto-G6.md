@@ -29,6 +29,7 @@ A-Only-32bit-Vanilla- no su
 
 * Location
 > GPS working
+
 > Compass working
 
 ## Next known bugs:
