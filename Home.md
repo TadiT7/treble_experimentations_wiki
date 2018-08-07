@@ -20,25 +20,25 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
-|[[HTC E8 Dual Sim]]|mecdug||A|arm|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[Huawei Honor 6X]]|bln|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
-|[[Huawei Honor 9i / Mate 10 Lite]]|bll / rne|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
+|[[Huawei Honor View 10]]|berkeley|✓|A|arm64|
 |[[Huawei Mate 9]]|mha|✓|A|arm64|
+|[[Huawei Mate 10 lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei P Smart]]|figo|✓|A|arm64|
-|[[Huawei P8 Lite 2017]]|pra|✓|A|arm64|
-|[[Huawei P10 and P10 Plus]]|vtr|✓|A|arm64|
+|[[Huawei P8 lite (2017)]]|pra|✓|A|arm64|
+|[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A|arm64|
 |[[Huawei P10 lite]]|was|✓|A|arm64|
-|[[Huawei P20 Lite]]|anne|✓|A|arm64|
+|[[Huawei P20]]|eml|✓|A|arm64|
+|[[Huawei P20 lite]]|anne|✓|A|arm64|
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
-|[[Huawei View 10]]|berkeley|✓|A|arm64|
 |[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
 |[[Infinix Note 5]]|X604|✓|A/B|arm64|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
@@ -76,7 +76,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
-|[[Xiaomi Mi 5s and Mi 5s Plus]]|capricorn and natrium||A|arm64|
+|[[Xiaomi Mi 5s]]|capricorn||A|arm64|
+|[[Xiaomi Mi 5s Plus]]|natrium||A|arm64|
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
@@ -94,7 +95,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5A]]|riva||A|arm64|
-|[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo/kate||A|arm64|
+|[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
