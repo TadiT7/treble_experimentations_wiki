@@ -9,8 +9,8 @@ A-Only-32bit-Vanilla- no su
 
 * Bluetooth
 > No a2dp
-[Starting logcat](https://drive.google.com/file/d/14670xlnk_AnnGuCTZWC7utubEnHPZZJy/view?usp=sharing)
-[Conected to Audio device](https://drive.google.com/file/d/1rDyn5r_xmUQFYklTfw0d7x8zyyqL1gyF/view?usp=sharing)
+> [Starting logcat](https://drive.google.com/file/d/14670xlnk_AnnGuCTZWC7utubEnHPZZJy/view?usp=sharing)
+> [Conected to Audio device](https://drive.google.com/file/d/1rDyn5r_xmUQFYklTfw0d7x8zyyqL1gyF/view?usp=sharing)
 > BLE working
 > File transfer (Send/Receive) working fine
 
