@@ -31,9 +31,12 @@
 > BAD, the brightness value changes too fast, and cause some flashes when locking screen.
 
 * USB
-> BAD, it can charge only, and the charge message is not show normally.
+> BAD, it can charge only ,charge will show normally except quick charge.
 
->Quick charge works well (maybe, because charger bought from Taobao).
+> But quick charge works better than stock rom, it just not show charging status.
+
+> Maybe you can use MTP in TWRP.
+
 
 ## How to flash
 * Backup your data first
