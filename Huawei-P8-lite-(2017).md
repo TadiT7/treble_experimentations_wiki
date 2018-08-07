@@ -1,8 +1,8 @@
-Tested with system.img for A-only ARM64 devices with GApps (2018-05-29)
+Constantly under test by @Dil3mm4 with latest sources.
 
 ***
 **Not Working:**
-- NFC isn't showing in settings
+- NFC isn't showing in settings (this will be soon fixed by some zip that will be shipped along the Treble Updater App in the works)
 - Muting calls over RIL
 
 **Working:**
