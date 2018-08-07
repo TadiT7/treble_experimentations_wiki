@@ -35,7 +35,7 @@
 
 >Quick charge works well (maybe, because charger bought from Taobao).
 
-# How to flash
+## How to flash
 * Backup your data first
 * Unlock your phone
 * Flash TWRP
@@ -77,9 +77,9 @@ finished. total time: 13.614s
 ````
 * Reboot and Enjoy!
 
-# Additional Notes
+## Additional Notes
 * Maybe Mi 6X (wayne) is same as Mi A2 (jasmine), but Mi A2 has A/B partitions, Mi 6X have only A partition.
 * Mi 6x will enable rollback protection after V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, my phone rom is 8.7.26 (Dev)
 
-# Tested By:
+## Tested By:
 * suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
