@@ -1,28 +1,29 @@
-Moto G5
-Hardware Support
-Camera:
-no work, but when installing the camera of the motorola of the play store, will works almost all but the recordings
+# Moto G5
 
-Speaker / Microphone
-not tested
+## Hardware Support
+* Camera:
+> no work, but when installing the camera of the motorola of the play store, will works almost all but the recordings
 
-Bluetooth
-partially, I can not receive files on the phone, but pairing and internet sharing works
+* Speaker / Microphone
+> not tested
 
-Wifi
-OK
+* Bluetooth
+> partially, I can not receive files on the phone, but pairing and internet sharing works
 
-SIM / Mobile Data / Voice
-OK
+* Wifi
+> OK
 
-VoLTE
-no work
+* SIM / Mobile Data / Voice
+> OK
 
-Fingerprint Reader
-OK
+* VoLTE
+> no work
 
-Brightness control
-OK
+* Fingerprint Reader
+> OK
+
+* Brightness control
+> OK
 
 Tested By:
 
