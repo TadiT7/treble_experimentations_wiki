@@ -43,6 +43,7 @@
 * Connect you phone to computer, and mount drive via MTP
 * Copy image file into your phone
 * Flash img files in TWRP. (Flash in fastboot will result unknown error.)
+
 (Flash in TWRP)
 
 ````
