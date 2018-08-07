@@ -32,3 +32,4 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Pixel Experience|jhenrique09|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|
 |XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A|arm64|
 |Android P (PR1)|erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
+|AOSP 9.0|ataberkozen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357)|A|arm64|
