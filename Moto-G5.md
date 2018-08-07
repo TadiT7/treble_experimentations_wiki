@@ -2,13 +2,13 @@
 
 ## Hardware Support
 * Camera:
-> no work, but when installing the camera of the motorola of the play store, will works almost all but the recordings
+> No work, but when installing the camera of the motorola of the play store, will works almost all but the recordings
 
 * Speaker / Microphone
-> not tested
+> Not tested
 
 * Bluetooth
-> partially, I can not receive files on the phone, but pairing and internet sharing works
+> Partially, I can not receive files on the phone, but pairing and internet sharing works
 
 * Wifi
 > OK
@@ -17,7 +17,7 @@
 > OK
 
 * VoLTE
-> no work
+> No work
 
 * Fingerprint Reader
 > OK
