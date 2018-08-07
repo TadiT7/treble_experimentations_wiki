@@ -1,3 +1,5 @@
+# [Huawei P20] - [EML-L29]
+
 **### What's not working**
 
 * Google stock camera app is laggy (haven't tried phhusson's port yet)
