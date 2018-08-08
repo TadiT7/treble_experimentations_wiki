@@ -103,3 +103,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
+|[[General Mobile GM 5 Plus]]|shamrock|✓|A|arm|
