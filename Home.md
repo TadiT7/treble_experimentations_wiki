@@ -105,4 +105,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock|✓|A|arm|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
-|[[General Mobile GM 8 GO]]|GM8_go|✓(go)|A|arm|
+|[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
