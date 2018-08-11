@@ -11,10 +11,10 @@ Mostly tested on LineageOS, some on AOSP, AEX does not boot, other ROM not teste
 > Works
 
 * Type-C Audio Adapter
-> Stock adapter, DAC adapter works (lineage since v23)
+> Stock adapter, DAC adapter works (not on lineage since v22)
 
 * Bluetooth
-> Works (SBC, LDAC works, lineage since v23)
+> Works (SBC, LDAC works, not on lineage since v22)
 
 * Wifi
 > Works, tethering works (since v23)
