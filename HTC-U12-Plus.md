@@ -1,0 +1,1 @@
+LED doesn't work and it says unsupported SanDisk SD card, but it the sd works fine while in recovery and other devices
