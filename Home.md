@@ -21,6 +21,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
+|[[HTC U12 Plus]]|ocm|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|bln|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
