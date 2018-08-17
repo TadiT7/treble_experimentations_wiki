@@ -94,6 +94,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi MIX 2S]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
+|[[Xiaomi Redmi 3/3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S/Prime/3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|arm64|
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
