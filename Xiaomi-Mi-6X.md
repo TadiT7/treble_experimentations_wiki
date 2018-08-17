@@ -28,14 +28,14 @@
 > OK
 
 * Brightness control
-> BAD, the brightness value changes too fast, and cause some flashes when locking screen.
+> BAD, the brightness value changes too fast, and cause some flashes when locking screen. (v23 update: change slower now, but still have some flashes.)
 
 * USB
-> BAD, it can charge only ,charge will show normally except quick charge.
+> <strike>BAD, it can charge only ,charge will show normally except quick charge.</strike> Maybe OK now, MTP works.
 
-> But quick charge works better than stock rom, it just not show charging status.
+> Quick charge works better than stock rom, it just not show charging status.
 
-> Maybe you can use MTP in TWRP.
+> <strike>Maybe you can use MTP in TWRP.</strike>
 
 
 ## How to flash
@@ -86,3 +86,4 @@ finished. total time: 13.614s
 
 ## Tested By:
 * suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
+* suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
