@@ -13,6 +13,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 |Device Name|Codename|Support from OEM|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
