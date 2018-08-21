@@ -5,8 +5,11 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AICP-mordiford|AndroPlus|[Here](https://treble.andro.plus)|A - A/B|arm64|
+|Android P (PR1)|erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
 |AOSIP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
 |AOSP 8.1|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
+|AOSP 9.0|ataberkozen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357)|A|arm64|
+|AOSP 9.0|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915)|A - A/B|arm - arm64|
 |AOSP Extended|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aosp-extended-t3821934)|A - A/B |arm - arm64|
 |AOSP Extended|TingyiChen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aospextended-rom-v5-5-t3797509)|A|arm64|
 |AOKP|sixohtew|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aokp-t3772379)|A - A/B|arm64|
@@ -31,5 +34,3 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Resurrection Remix|pchatzop|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-treble-enabled-resurrection-t3761279)|A - A/B|arm - arm64|
 |Pixel Experience|jhenrique09|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|
 |XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A|arm64|
-|Android P (PR1)|erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
-|AOSP 9.0|ataberkozen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357)|A|arm64|
