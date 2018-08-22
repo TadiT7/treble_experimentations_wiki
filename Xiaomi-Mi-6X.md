@@ -89,6 +89,7 @@ finished. total time: 13.614s
 ## Additional Notes
 * Maybe Mi 6X (wayne) is same as Mi A2 (jasmine), but Mi A2 has A/B partitions, Mi 6X have only A partition.
 * Mi 6X will enable rollback protection after V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, my phone rom is 8.7.26 (Dev)
+* After v23, /data partition will be encrypted. Please BACKUP YOUR DATA BEFORE FLASHING.
 
 ## Tested By:
 * suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
