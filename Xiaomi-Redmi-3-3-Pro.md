@@ -41,8 +41,8 @@ Tested with ariafan's crDroid 20180813 vendor
 
 * Surely more
 
-### Tested by
+## Tested by
 
 reggermont @ Ido 2/16 GB @ AOSP 8.1 v23 system-arm64-aonly-vanilla-nosu.img.xz @ 2018-08-22
 
-Template created by @zguithues
+Template originally created by @zguithues, adapted by @reggermont
