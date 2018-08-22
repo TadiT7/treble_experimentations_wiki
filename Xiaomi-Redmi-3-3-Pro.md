@@ -22,7 +22,7 @@ Tested with ariafan's crDroid 20180813 vendor
 > Workaround with Cameringo, Snap Camera or Bacon Camera
 
 * Ambient Light Sensor
-> Adaptative Brightness takes lot of time at light change
+> Adaptative Brightness takes 3/4 seconds to react at light change
 
 
 ## Hardware not tested
