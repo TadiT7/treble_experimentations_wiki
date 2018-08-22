@@ -1,4 +1,4 @@
-# [Redmi 3 / 3 Pro] - [ido] - [AOSP v23]
+# [Redmi 3 / 3 Pro] - [ido] - [AOSP 8.1 v23]
 
 Tested with ariafan's crDroid 20180813 vendor
 
@@ -43,6 +43,6 @@ Tested with ariafan's crDroid 20180813 vendor
 
 ### Tested by
 
-reggermont @ Ido 2/16 GB @ AOSP v23 system-arm64-aonly-vanilla-nosu.img.xz @ 2018-08-22
+reggermont @ Ido 2/16 GB @ AOSP 8.1 v23 system-arm64-aonly-vanilla-nosu.img.xz @ 2018-08-22
 
 Template created by @zguithues
