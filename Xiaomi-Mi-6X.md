@@ -11,15 +11,17 @@
 > OK
 
 * Bluetooth
-> OK
+> Music, File transfer are OK, Headset (calling) NOT WORK.
 
 * Wi-fi
-> OK
+> OK 
+
+> (9.0 is NOT WORK, and MAC address is LOST)
 
 * SIM / Mobile Data / Voice
->CMCC and CHN-UNICOM are OK. Dual SIMs are OK, too.
+> CMCC and CHN-UNICOM are OK. Dual SIMs are OK, too.
 
->China Telecom untested, but can't find MEID in device (stock rom has MEID).
+> China Telecom untested, but can't find MEID in device (stock rom has MEID).
 
 * VoLTE
 > Untested
@@ -28,10 +30,14 @@
 > OK
 
 * Brightness control
-> BAD, the brightness value changes too fast, and cause some flashes when locking screen. (v23 update: change slower now, but still have some flashes.)
+> BAD, the brightness value changes too fast, and cause some flashes when locking screen. 
+
+> (v23 update: change slower now, but still have some flashes.)
 
 * USB
-> <strike>BAD, it can charge only ,charge will show normally except quick charge.</strike> Maybe OK now, MTP works.
+> <strike>BAD, it can charge only ,charge will show normally except quick charge.</strike> Maybe OK now, MTP works. 
+
+> (9.0 can't use MTP AGAIN)
 
 > Quick charge works better than stock rom, it just not show charging status.
 
@@ -82,8 +88,9 @@ finished. total time: 13.614s
 
 ## Additional Notes
 * Maybe Mi 6X (wayne) is same as Mi A2 (jasmine), but Mi A2 has A/B partitions, Mi 6X have only A partition.
-* Mi 6x will enable rollback protection after V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, my phone rom is 8.7.26 (Dev)
+* Mi 6X will enable rollback protection after V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, my phone rom is 8.7.26 (Dev)
 
 ## Tested By:
 * suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
 * suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
+* suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
