@@ -29,7 +29,7 @@
 > Untested
 
 * Fingerprint Reader
-> OK
+> Base by brand. FPC is OK, but goodix is NOT WORK.
 
 * Brightness control
 > BAD, the brightness value changes too fast, and cause some flashes when locking screen. 
