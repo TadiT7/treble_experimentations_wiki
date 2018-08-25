@@ -33,7 +33,7 @@
 
 > You can check your FP brand with 3rd-party apps, or run this command in adb shell or any 3rd-party terminal emulator below:
 ````
-gerprop | grep goodix
+$ getprop | grep goodix
 ````
 > If have ANY return, it may Goodix FP.  If you SURE your phone have FPC FP, you can flash stock rom (MIUI) first, and then flash this again.
 
