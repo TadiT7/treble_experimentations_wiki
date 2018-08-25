@@ -1,4 +1,4 @@
-# [Itel A32F](http://www.itel-mobile.com/itel/products/smart-phone/a-basic/a32f/)
+# [Itel A32F](http://www.itel-mobile.com/itel/products/smart-phone/a-basic/a32f/) - f8007
 
 ## Preliminary information and warnings
 Your warranty is now void, though it's pretty easy to re-flash stock firmware & re-lock the bootloader.
