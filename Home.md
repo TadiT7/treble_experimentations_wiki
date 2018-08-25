@@ -43,7 +43,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
 |[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
 |[[Infinix Note 5]]|X604|✓|A/B|arm64|
-|[[Itel A32F]]|AOSP 8.1|✓ (Go)|A|arm|
+|[[Itel A32F]]|n/a|✓ (Go)|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[LeEco Le Max 2]]|x2||A|arm64|
