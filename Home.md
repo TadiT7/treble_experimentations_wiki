@@ -55,6 +55,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto G5]]|cedric||A|arm64|
 |[[Moto G5 Plus]]|potter||A|arm64|
+|[[Moto G6 Play]]|aljeter|✓|A|arm|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
