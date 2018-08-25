@@ -1,66 +1,52 @@
-# Xiaomi Mi 6X - wayne
+# Xiaomi Mi 6X (wayne)
 
-## Hardware Support
+## Function Availability & Known Bugs
+
+**Bugs and untested items are shown bold. 3rd-party apps untested.**
 
 * Camera
-> Front: OK, but flashlight is ALWAYS ON.
+  * Front: OK
+  * Rear: Upper one: **Not working**, Lower one: OK
+  * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close).**
 
-> (Update v23: When you found the light is OFF, you may not use front camera until next boot.)
+* LED Light: **Always on** *You may not be able to use front camera when LED light is off. Reboot may help.*
 
-> Rear: Upper one is not working, but lower one works well. (3rd-party app untested)
-
-* Speaker / Microphone
-> OK
+* Speaker / Microphone: OK
 
 * Bluetooth
-> Music, File transfer are OK, Headset (calling) NOT WORK.
+  * Music: OK
+  * File Transfer: OK
+  * Headset (Calls): **Not working**
 
-* Wi-Fi
-> OK 
+* Wi-Fi: OK
 
-> <strike>(9.0 is NOT WORK, and MAC address is LOST)</strike> Fixed in v102.
+* RIL (Calls / SMS / Data):
+  * CMCC/CHN-UNICOM: OK, China Telecom: **Untested**
+  * Dual SIMs: OK
+  * VoLTE: **Untested**
+  * **MEID not found**
 
-* SIM / Mobile Data / Voice
-> CMCC and CHN-UNICOM are OK. Dual SIMs are OK, too.
+* Fingerprint Reader: *Varies by the manufacturer*
+  * FPC: OK
+  * Goodix: **Not working**
+  * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` in adb shell/terminal. If you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again.*
 
-> China Telecom untested, but can't find MEID in device (stock rom has MEID).
+* Brightness control: **Bad** *The brightness changes too fast, and it flashes when you lock the screen.*
 
-* VoLTE
-> Untested
+* USB connection: *Varies by Android version*
+  * 8.1: Charging/USB Debugging/Network Sharing/MTP/PTP: OK
+  * 9.0: Charging/USB Debugging/Network Sharing: OK, MTP/PTP: **Not working**
+  * *Quick charge works better than stock MIUI, but the phone didn't show the charging status while quick charging.*
 
-* Fingerprint Reader
-> Base by brand. FPC is OK, but Goodix is NOT WORK.
+## How To Flash
 
-> You can check your FP brand with 3rd-party apps, or run this command in adb shell or any 3rd-party terminal emulator below:
-````
-$ getprop | grep goodix
-````
-> If have ANY return, it may Goodix FP.  If you SURE your phone have FPC FP, you can flash stock rom (MIUI) first, and then flash this again.
-
-* Brightness control
-> BAD, the brightness value changes too fast, and cause some flashes when locking screen. 
-
-> (v23 update: higher brightness, faster flashes.)
-
-* USB
-> <strike>BAD, it can charge only ,charge will show normally except quick charge.</strike> Fixed in v23.
-
-> (9.0 can't use MTP and PTP, but you can still use USB debug and network sharing)
-
-> Quick charge works better than stock rom, it just not show charging status.
-
-> <strike>Maybe you can use MTP in TWRP.</strike> (You can use "adb push" or "adb pull" to transfer files in 9.0)
-
-
-## How to flash
 * Backup your data first
 * Unlock your phone
 * Flash TWRP
-* Boot into TWRP and wipe /data, /cache (factory reset), /system.
-* (Format /data partition is better.)
-* Connect you phone to computer, and mount drive via MTP
-* Copy image file into your phone
-* Flash img files in TWRP. (Flash in fastboot will result unknown error.)
+* Boot into TWRP and wipe /data, /cache (factory reset) and /system (Best format /data partition)
+* Connect your phone to the computer, and mount /data via MTP
+* Copy the image file into your phone
+* Flash the image file in TWRP (Flash in fastboot will result unknown error.)
 
 (Flash in TWRP)
 
@@ -95,16 +81,16 @@ finished. total time: 13.614s
 ````
 * Reboot and Enjoy!
 
-## Additional Notes
-* Maybe Mi 6X (wayne) is same as Mi A2 (jasmine), but Mi A2 has A/B partitions, Mi 6X have only A partition.
-* Mi 6X will enable rollback protection after V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, my phone rom is 8.7.26 (Dev).
-* If you flashed enabled rollback version roms, you can still flash GSI images, but you should avoid to flash MIUI before V9.6.4.0 (Stable) / 8.8.6 (Dev), or your phone will be bricked.
-* After v23, /data partition will be encrypted. Please BACKUP YOUR DATA BEFORE FLASHING.  
-* (Flash Magisk is NOT affect to finished encryption, but there is a disable encrtption tool, you can find in ANY search engine.)
-* Somebodies reported their phone flash 9.0 GSI will muted, can't open camera, etc. suggest to flash stock rom (MIUI) first, then flash this 9.0 GSI.
-* If you enable Do not disturb (DND) mode, built-in camera app will cause "force close".
+## Notes
 
-## Tested By:
+* **After v23, /data partition will be encrypted. Please backup your data before flashing.**
+* **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM.**
+* Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition.
+* Rollback protection will be enabled after MIUI V9.6.4.0 (Stable) / 8.8.6 (Dev), but before flashing, I (suwakowww) was using MIUI 8.7.26 (Dev). You can still flash GSI images, but you should avoid flashing any MIUI ROM before V9.6.4.0 (Stable) / 8.8.6 (Dev), or your phone will be bricked.
+* Installing Magisk doesn't affect the encryption, but you can find encryption disabling tools using search engines.
+
+## Tested By
+
 * suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
 * suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
 * suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
