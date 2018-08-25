@@ -19,6 +19,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
+|[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
@@ -109,5 +111,3 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
-|[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
-|[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
