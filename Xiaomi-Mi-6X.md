@@ -1,5 +1,3 @@
-# Xiaomi Mi 6X (wayne)
-
 ## Function Availability & Known Bugs
 
 **Bugs and untested items are shown bold. 3rd-party apps untested.**
