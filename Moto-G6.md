@@ -8,13 +8,10 @@ A-Only-32bit-Vanilla- no su
 > Tested only in video recording and works
 
 * Bluetooth
-> No a2dp
+> Bug with a2dp
+"Repaired" by installing magisk, then install the viper4android module. (Using "VIPER4Android FX Materialized" v.1.7.1)
 
-> [Starting logcat](https://drive.google.com/file/d/14670xlnk_AnnGuCTZWC7utubEnHPZZJy/view?usp=sharing)
-
-> [Conected to Audio device](https://drive.google.com/file/d/1rDyn5r_xmUQFYklTfw0d7x8zyyqL1gyF/view?usp=sharing)
-
-> BLE working
+> BLE working (tested with Garmin Fenix 3HR smartwatches)
 
 > File transfer (Send/Receive) working fine
 
