@@ -16,7 +16,11 @@
   * File Transfer 文件传输: OK
   * Headset (Calls) 通话: **Not working 不可用**
 
-* Wi-Fi: OK
+* Wi-Fi: 
+  * Client 客户端: OK
+  * Server (Hotspot) 服务器 (热点): *Varies by Android system version 因 Android 系统版本而异*
+      * 8.1: OK
+      * 9.0: **Not working 不可用**
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK, China Telecom 中国电信: **Untested 未测试**
@@ -32,8 +36,19 @@
 * Brightness control 亮度控制: **Bad 糟糕** *The brightness changes too fast, and it flashes when you lock the screen. 亮度变化过快，锁屏时屏幕会闪烁。*
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
-  * 8.1: Charging 充电/USB Debugging USB 调试/USB Network Sharing USB 网络共享/MTP/PTP: OK
-  * 9.0: Charging 充电/USB Debugging USB 调试/USB Network Sharing USB 网络共享: OK, MTP/PTP: **Not working 不可用**
+  * 8.1: 
+      * Charging 充电: OK
+      * USB Debugging USB 调试: OK
+      * USB Network Sharing USB 网络共享: OK
+      * MTP/PTP: OK
+  * 9.0: 
+      * Charging 充电: OK
+      * Reverse Charging 反向充电: OK
+      * USB Debugging USB 调试: OK
+      * USB Network Sharing USB 网络共享: OK
+      * Audio Jack 耳机插槽: OK
+      * MTP/PTP: **Not working 不可用**
+      * OTG: **Not Working 不可用**
   * *Quick charge works better than stock MIUI, but the phone didn't show the charging status while quick charging. 快充较官方 MIUI 表现更好，但快充时不显示充电信息。*
 
 ## How To Flash 如何刷入
@@ -42,7 +57,7 @@
 * Unlock your phone 解锁手机
 * Flash TWRP 刷入 TWRP
 * Boot into TWRP and wipe /data, /cache and /system (Best format /data partition) 进入 TWRP，清除 /data、/cache 和 /system （最好格式化 /data 分区）
-* Connect your phone to the computer, and mount /data partition via MTP 将手机与电脑连接，在 MTP 上挂在 /data 分区
+* Connect your phone to the computer, and mount /data partition via MTP 将手机与电脑连接，在 MTP 上挂载 /data 分区
 * Copy system image into your phone 将系统映像复制到手机
 * Flash system image in TWRP (Flashing in Fastboot will throw `FAILED (command write failed (Unknown error))`) 在 TWRP 内刷入系统映像（在 Fastboot 内刷入会显示 `FAILED (command write failed (Unknown error))`）
 
@@ -84,7 +99,8 @@ finished. total time: 13.614s
 * **After v23, /data partition will be encrypted. Please backup your data before flashing. v23 版本后 /data 分区会被加密。请在刷入前备份数据。**
 * **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。**
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
-* Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）
+* Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
+  * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
 * Installing Magisk doesn't affect the encryption, but you can find encryption disabling tools using search engines. 安装 Magisk 不影响加密，但你可以使用搜索引擎寻找取消加密的工具。
 
 ## Tested By 由以下人员测试
@@ -93,4 +109,4 @@ finished. total time: 13.614s
 * suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
 * suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
 * suwakowww @ AOSP v102 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-23
-* best yuan(`16***37@qq.com`), isaacchen(`ti***64@gmail.com`), pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
+* best yuan(`16***37@qq.com`), tingyichen, pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
