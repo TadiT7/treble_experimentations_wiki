@@ -10,7 +10,7 @@ Flashlight on the notification shade only works after using flash in camera app
 
 * Speaker / Microphone : Works out of the box
 
-* Bluetooth : Data works, audio streaming to be receiver works
+* Bluetooth : Data works, audio streaming to bt receiver works
 
 * Wi-Fi : Works out of the box
 
@@ -19,7 +19,7 @@ Flashlight on the notification shade only works after using flash in camera app
 * Fingerprint Reader : Works out of the box
 
 * GPS : Does not work, location services runs, but no gps.
-
+* Battery : Awesome standby/idle lasts 5 days. Daily usage lasts xxx
 ***
 
 ## Tested By:
