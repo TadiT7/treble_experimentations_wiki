@@ -29,6 +29,8 @@ A-Only-32bit-Vanilla- no su
 
 > Compass working
 
+*There is no NFC switcher
+
 ## Next known bugs:
 * Google play services keep crashing (Only on AOSP. On RR remix it is working)
 * Moto G6 have only one partition (A-only)
