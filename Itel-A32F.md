@@ -5,11 +5,12 @@ Your warranty is now void, though it's pretty easy to re-flash stock firmware & 
 
 ## Hardware Support
 
-* Camera: Works out of the box, both back and front as well as front and back flash
+* Camera: Works out of the box, both back and front as well as front and back flash. 
+Flashlight on the notification shade only works after using flash in camera app
 
-* Speaker / Microphone : Needs further testing but looks good
+* Speaker / Microphone : Works out of the box
 
-* Bluetooth : Data works, not tested audio
+* Bluetooth : Data works, audio streaming to be receiver works
 
 * Wi-Fi : Works out of the box
 
