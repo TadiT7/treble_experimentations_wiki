@@ -8,7 +8,10 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Android P (PR1) sGSI |erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
 |AOSP 9.0|ataberkozen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357)|A|arm64|
 |AOSP 9.0|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915)|A - A/B|arm - arm64|
+|ArrowOS|ganesh varma|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-arrowos-t3835111)|A|arm64|
+|LineageOS 16.0|avirk|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-lineageos-16-0-treble-t3835094)|A|arm64|
 |Pixel Experience P|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294)|A - A/B|arm - arm64|
+|Treble-ized 0s|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092)|A|arm64|
 
 ## Android 8 Oreo:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
