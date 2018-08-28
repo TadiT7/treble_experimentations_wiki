@@ -33,4 +33,5 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Resurrection Remix|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/resurrection-remix-phh-treble-t3767688)|A - A/B|arm - arm64|
 |Resurrection Remix|pchatzop|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-treble-enabled-resurrection-t3761279)|A - A/B|arm - arm64|
 |Pixel Experience|jhenrique09|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|
+|Pixel Experience P|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294)|A - A/B|arm - arm64|
 |XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A|arm64|
