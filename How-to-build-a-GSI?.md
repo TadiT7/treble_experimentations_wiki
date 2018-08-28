@@ -160,6 +160,8 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-15.1
 ```
 git clone https://github.com/phhusson/treble_manifest .repo/local_manifests -b android-8.1
 ```
+After git clone you need to remove replace.xml
+
 
 3. Sync the source
 
