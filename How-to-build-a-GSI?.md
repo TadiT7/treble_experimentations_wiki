@@ -195,7 +195,7 @@ patch -p1 < patch
 ```
 . build/envsetup.sh
 lunch treble_arm64_avN-userdebug
-make -j8 systemimage
+WITHOUT_CHECK_API=true make -j8 systemimage
 ```
 
 7. If you want to compress the system image after build finishes, go to out/target/product/phh_*/ folder and run
