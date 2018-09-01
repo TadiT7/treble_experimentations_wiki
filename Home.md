@@ -31,6 +31,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
+|[[Huawei Honor 8]]|frd|✓|A|arm64|
 |[[Huawei Honor View 10]]|berkeley|✓|A|arm64|
 |[[Huawei Mate 9]]|mha|✓|A|arm64|
 |[[Huawei Mate 10 lite]]|rne|✓|A|arm64|
