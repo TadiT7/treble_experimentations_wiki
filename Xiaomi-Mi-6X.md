@@ -7,7 +7,7 @@
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
-* LED Light 呼吸灯: **Always on 常亮** *You may not be able to use front camera when LED light is off. Reboot may help. 呼吸灯灭则前置摄像头不可用。重启可能解决问题。*
+* LED Light 呼吸灯: **Always on 常亮** *You may not be able to use front camera when LED light is off. Reboot may help. 呼吸灯灭则前置摄像头不可用。重启可能解决问题。*-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
 
 * Speaker / Microphone 听筒/麦克风: OK
 
@@ -23,17 +23,19 @@
       * 9.0: **Not working 不可用**
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
-  * CMCC/CHN-UNICOM 中国移动/中国联通: OK, China Telecom 中国电信: **Untested 未测试**
+  * CMCC/CHN-UNICOM 中国移动/中国联通: OK
+  * China Telecom 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
+    * **MEID not found 未找到 MEID**
   * Dual SIMs 双卡: OK
-  * VoLTE: **Untested 未测试**
-  * **MEID not found 未找到 MEID**
+  * VoLTE: **Disabled and can't enable 被禁用且无法启用**
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
+    * *It will send "space" key in normal use. 在正常使用时会发送“空格”键*
   * Goodix: **Not working 不可用**
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* Brightness control 亮度控制: **Bad 糟糕** *The brightness changes too fast, and it flashes when you lock the screen. 亮度变化过快，锁屏时屏幕会闪烁。*
+* Brightness control 亮度控制: **Bad 糟糕** *The brightness changes too fast, and it flashes when you lock the screen. 亮度变化过快，锁屏时屏幕会闪烁。*-->[#128](https://github.com/phhusson/treble_experimentations/issues/128)
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
   * 8.1: 
