@@ -27,8 +27,8 @@
 > Working
 
 ***
-## Additional Notes
-
+## Additional Installation Notes
+Follow this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/treble-lineageos-15-1-treble-oneplus-3-t3830455)
 ***
 
 
