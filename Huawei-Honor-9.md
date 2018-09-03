@@ -36,4 +36,9 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 
 - [Ported stock Camera exists](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/huawei-stock-camera-app-treble-roms-t3735169) and mostly work, keeping original quality.
 
-- Brightness stuck at 40%, both in settings and real life.
+- Brightness stuck at 40%, both in settings and real life.  
+_May be not an issue anymore, started from v19 (2018-06-03), now using v23 (2018-08-07) and never been able to reproduce._
+
+- On-screen navigation buttons can be hidden by adding `qemu.hw.mainkeys=1` to /system/build.prop
+
+- [Home button behavior](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/huawei-disable-fingerprint-navigation-t3801708) can be set to default (to behave as on EMUI) by replacing /system/phh/huawei/fingerprint.kl content with the following line: `key 174 HOME`
