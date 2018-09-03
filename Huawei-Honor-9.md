@@ -1,12 +1,12 @@
 ### Flash instructions:
 
-1. Backup data with TWRP or other backup tool:
+1. Backup data with [TWRP](https://forum.xda-developers.com/honor-9/development/oreo-t3754483) or other backup tool:
 `adb reboot recovery`
 _(reboots into your recovery and stock recovery if you haven't installed a custom recovery)_
 
-2. Reboot to e-recovery
+2. Reboot to eRecovery
 
-3. Wipe (including data) with stock e-recovery (TWRP wipe doesn't currently work)
+3. Wipe (factory reset including data) with stock eRecovery (TWRP wipe doesn't currently work)
 
 5. Reboot to fastbootmode
 
@@ -17,7 +17,7 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 4. Reboot device `fastboot reboot`
 
 
-### Hardware commands
+### Hardware commands - done with device turned off
 
 #### Need to connect the computer:
 
