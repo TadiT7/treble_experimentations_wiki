@@ -10,8 +10,10 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AOSP 9.0|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915)|A - A/B|arm - arm64|
 |ArrowOS|ganesh varma|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-arrowos-t3835111)|A|arm64|
 |BenzoRom|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
+|Havoc-OS|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-havoc-os-8-1-t3819050)|A|arm64|
 |LineageOS 16.0|avirk|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-lineageos-16-0-treble-t3835094)|A|arm64|
-|Pixel Experience P|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294)|A - A/B|arm - arm64|
+|Omni|EnesSastim|[Here](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm64|
+|Pixel Experience|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294)|A - A/B|arm - arm64|
 |Treble-ized 0s|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092)|A|arm64|
 
 ## Android 8 Oreo:
