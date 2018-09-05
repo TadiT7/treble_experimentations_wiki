@@ -4,7 +4,7 @@
 
 * Camera 摄像头
   * Front 前置: OK
-    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。** 
+    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。**-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
@@ -25,7 +25,7 @@
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * China Telecom 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
+  * CHN-CT 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
     * **MEID not found 未找到 MEID**
   * Dual SIMs 双卡: OK
   * VoLTE: **Disabled and can't enable 被禁用且无法启用**
@@ -113,6 +113,6 @@ finished. total time: 13.614s
 * suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
 * suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
 * suwakowww @ AOSP v102 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-23
-* best yuan(`16***37@qq.com`), tingyichen, pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
+* best yuan(`16***37@qq.com`), pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), tingyichen, xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
 * suwakowww @ AOSP v103 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-30
 * suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
