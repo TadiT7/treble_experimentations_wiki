@@ -4,10 +4,11 @@
 
 * Camera 摄像头
   * Front 前置: OK
+    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。** 
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
-* LED Light 呼吸灯: **Always on 常亮** *You may not be able to use front camera when LED light is off. Reboot may help. 呼吸灯灭则前置摄像头不可用。重启可能解决问题。*-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
+* LED Light 呼吸灯: OK (AOSP v104)
 
 * Speaker / Microphone 听筒/麦克风: OK
 
@@ -31,11 +32,12 @@
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
-    * *It will send "space" key in normal use. 在正常使用时会发送“空格”键*
+    * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。**
   * Goodix: **Not working 不可用**
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* Brightness control 亮度控制: **Bad 糟糕** *The brightness changes too fast, and it flashes when you lock the screen. 亮度变化过快，锁屏时屏幕会闪烁。*-->[#128](https://github.com/phhusson/treble_experimentations/issues/128)
+* Brightness control 亮度控制: OK (AOSP v104)
+    * **Auto brightness seems not working. 自动亮度似乎不可用。**
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
   * 8.1: 
@@ -113,3 +115,4 @@ finished. total time: 13.614s
 * suwakowww @ AOSP v102 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-23
 * best yuan(`16***37@qq.com`), tingyichen, pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
 * suwakowww @ AOSP v103 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-30
+* suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
