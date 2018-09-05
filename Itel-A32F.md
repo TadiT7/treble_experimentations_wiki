@@ -14,12 +14,14 @@ Flashlight on the notification shade only works after using flash in camera app
 
 * Wi-Fi : Works out of the box
 
-* SIM / Mobile Data / Voice : SIM1 Works out of the box, SIM2 not tested
+* SIM / Mobile Data / Voice : 
+** SIM1 Outgoing calls and incoming messages work, Incoming calls and Outgoing messages don't work. See workaround for incoming calls [MTK RIL Problems](https://github.com/phhusson/treble_experimentations/issues/57) 
+** SIM2 does not work
 
 * Fingerprint Reader : Works out of the box
 
 * GPS : Does not work, location services runs, but no gps.
-* Battery : Awesome standby/idle lasts 5 days. Daily usage lasts xxx
+* Battery : Awesome standby/idle lasts 5 days. Daily usage lasts 1 day, Screen on time 5-6 hours
 ***
 
 ## Tested By:
