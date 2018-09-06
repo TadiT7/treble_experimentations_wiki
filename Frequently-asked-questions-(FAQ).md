@@ -47,7 +47,7 @@ FLOSS version include the following open source alternatives to GAPPS:
 * [Lightning](https://f-droid.org/en/packages/acr.browser.lightning/)
 * [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/)
 * [Transportr](https://f-droid.org/en/packages/de.grobox.liberario/)
-* [MuPDF viewer](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/]
+* [MuPDF viewer](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)
 * [AnySoftKeyboard](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/)
 * [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/)
 * [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
@@ -55,6 +55,7 @@ FLOSS version include the following open source alternatives to GAPPS:
 * [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/)
 * [Nextcloud](https://f-droid.org/en/packages/com.nextcloud.client/)
 * [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
+
 Vanilla version does not include any of the above.
 
 ### How do I flash a GSI?
