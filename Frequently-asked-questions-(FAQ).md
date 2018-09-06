@@ -35,6 +35,28 @@ A-only, A, or non-AB refers to the [legacy partition style](https://source.andro
 
 If you have an AB device, then you must flash it with an AB GSI.  If you have an A-only device, then you must flash it with an A-only GSI.  The two types of system images are not compatible with each other.
 
+### What is the difference between FLOSS, GAPPS, GO and Vanilla?
+
+GAPPS version include the proprietary Google apps from [Open GApps](http://opengapps.org).
+GO version includes the proprietary [Android (Go edition)](https://www.android.com/versions/go-edition/) alternatives to Google apps.
+FLOSS version include the following open source alternatives to GAPPS:
+* [phh's Superuser](https://f-droid.org/en/packages/me.phh.superuser/)
+* [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
+* [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/)
+* [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
+* [Lightning](https://f-droid.org/en/packages/acr.browser.lightning/)
+* [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/)
+* [Transportr](https://f-droid.org/en/packages/de.grobox.liberario/)
+* [MuPDF viewer](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/]
+* [AnySoftKeyboard](https://f-droid.org/en/packages/com.menny.android.anysoftkeyboard/)
+* [Yalp Store](https://f-droid.org/en/packages/com.github.yeriomin.yalpstore/)
+* [K-9 Mail](https://f-droid.org/en/packages/com.fsck.k9/)
+* [Riot.im](https://f-droid.org/en/packages/im.vector.alpha/)
+* [DAVdroid](https://f-droid.org/en/packages/at.bitfire.davdroid/)
+* [Nextcloud](https://f-droid.org/en/packages/com.nextcloud.client/)
+* [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
+Vanilla version does not include any of the above.
+
 ### How do I flash a GSI?
 
 First, you must unlock your bootloader; that is a capability your device manufacturer may or may not offer to end-users.
