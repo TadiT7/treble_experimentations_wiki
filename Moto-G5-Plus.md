@@ -33,6 +33,9 @@
 ## Tested By:
 * @vachounet - 07 Jun 2018
 
+**XDA thread (added on 07 Sep 2018)**
+https://forum.xda-developers.com/g5-plus/how-to/guide-install-android-9-0-pie-gsi-moto-t3839195
+
 Template created by @zguithues
 
 
