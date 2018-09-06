@@ -38,7 +38,9 @@ If you have an AB device, then you must flash it with an AB GSI.  If you have an
 ### What is the difference between FLOSS, GAPPS, GO and Vanilla?
 
 GAPPS version include the proprietary Google apps from [Open GApps](http://opengapps.org).
+
 GO version includes the proprietary [Android (Go edition)](https://www.android.com/versions/go-edition/) alternatives to Google apps.
+
 FLOSS version include the following open source alternatives to GAPPS:
 * [phh's Superuser](https://f-droid.org/en/packages/me.phh.superuser/)
 * [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
