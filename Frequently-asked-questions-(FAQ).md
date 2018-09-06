@@ -5,17 +5,17 @@ Here are some answers to the most asked questions about GSIs and Project Treble 
 A good overview of Project Treble is provided in the following XDA article by M. Rahman:
 [Google’s Project Treble Modularizes Android so OEMs can Update Devices Faster](https://www.xda-developers.com/googles-project-treble-modularize-android-so-oems-can-update-devices-faster/)
 
-For a more technical discussion of Treble, take a listen to Episode 75 of the Android Developers Backstage podcast: http://androidbackstage.blogspot.ca/2017/08/episode-75-project-treble-for-hal-of-it.html
+For a more technical discussion of Treble, please listen to Episode 75 of the Android Developers Backstage podcast [here](http://androidbackstage.blogspot.ca/2017/08/episode-75-project-treble-for-hal-of-it.html).
 
 ### Why is it called "treble"?
 
 It might be a play on the Meghan Trainor song [All About That Bass](https://youtu.be/7PCkvCPvDXk). That fits because Project Treble is all about standardizing the **base** of Android; i.e. it's about standardizing the APIs that allow the Android framework to communicate with hardware components.
 
-### How can I check if my device is treble-enabled?<br/>
+### How can I check if my device is treble-enabled?
 
 [Method 1](https://play.google.com/store/apps/details?id=com.kevintresuelo.treble) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
 
-Note that any device that launched with Oreo on it must be treble-enabled.
+Note that any device that launched with Android Oreo it must be treble-enabled.
 
 You can find an updated supported devices list here: [[Home]]
 
@@ -68,8 +68,7 @@ Vanilla version does not include any of the above.
 
 First, you must unlock your bootloader; that is a capability your device manufacturer may or may not offer to end-users.
 
-For more complete information, please see the following XDA article by M. Rahman:
-[How to flash a Generic System Image (GSI) on Project Treble supported devices](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
+Read [this](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/) article by M. Rahman for a more detailed guide.
 
 ### How to bypass certified device after first boot?
 
