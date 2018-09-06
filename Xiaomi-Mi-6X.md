@@ -15,7 +15,7 @@
 * Bluetooth 蓝牙
   * Music 音乐: OK
   * File Transfer 文件传输: OK
-  * Headset (Calls) 通话: **Not working 不可用**
+  * Headset (Calls) 通话: **Not working 不可用**-->[#177](https://github.com/phhusson/treble_experimentations/issues/177)
 
 * Wi-Fi: 
   * Client 客户端: OK
@@ -60,7 +60,7 @@
 * Backup your data 备份数据
 * Unlock your phone 解锁手机
 * Flash TWRP 刷入 TWRP
-* Boot into TWRP and wipe /data, /cache and /system (Best format /data partition) 进入 TWRP，清除 /data、/cache 和 /system （最好格式化 /data 分区）
+* Boot into TWRP and wipe /data, /cache, /dalvik-cache and /system (Best format /data partition) 进入 TWRP，清除 /data、/cache、/dalvik-cache 和 /system （最好格式化 /data 分区）
 * Connect your phone to the computer, and mount /data partition via MTP 将手机与电脑连接，在 MTP 上挂载 /data 分区
 * Copy system image into your phone 将系统映像复制到手机
 * Flash system image in TWRP (Flashing in Fastboot will throw `FAILED (command write failed (Unknown error))`) 在 TWRP 内刷入系统映像（在 Fastboot 内刷入会显示 `FAILED (command write failed (Unknown error))`）
