@@ -8,7 +8,7 @@
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
-* LED Light 呼吸灯: OK (AOSP v104)
+* LED Light 呼吸灯: OK (AOSP v104 / AOSP v25)
 
 * Speaker / Microphone 听筒/麦克风: OK
 
@@ -36,7 +36,7 @@
   * Goodix: **Not working 不可用**
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* Brightness control 亮度控制: OK (AOSP v104)
+* Brightness control 亮度控制: OK (AOSP v104 / AOSP v25)
     * **Auto brightness seems not working. 自动亮度似乎不可用。**
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
@@ -117,3 +117,4 @@ finished. total time: 13.614s
 * suwakowww @ AOSP v103 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-30
 * markg85 @ AOSP v103, AOSP v23 @ unknown, 2018-09-01, [#168](https://github.com/phhusson/treble_experimentations/issues/168), [#169](https://github.com/phhusson/treble_experimentations/issues/169)
 * suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
+* markg85 @ AOSP v25 @ unknown, 2018-09-06
