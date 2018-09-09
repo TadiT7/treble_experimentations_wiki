@@ -2,13 +2,13 @@
 
 ## Hardware Support
 * Camera:
-> No work, but when installing the camera of the motorola of the play store, will works almost all but the recordings
+> It works but front camera is buggy and video recording isnt work
 
 * Speaker / Microphone
-> Not tested
+> It works
 
 * Bluetooth
-> Partially, I can not receive files on the phone, but pairing and internet sharing works
+> Fully working
 
 * Wifi
 > OK
@@ -27,9 +27,10 @@
 
 ***
 ## Additional Notes
-The gestures does not work, but for some reason gets enabled by default, always display does not work on some gsi (not all tested)
+Gestures are works but moto settings crashing some roms(not all tested)
 
 ***
 Tested By:
 
 Template created by @zguithues
+Updated by @kutlay1653
