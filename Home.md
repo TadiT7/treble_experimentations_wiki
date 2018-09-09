@@ -1,129 +1,116 @@
-## Function Availability & Known Bugs 功能可用性和已知问题
+### What is Project Treble, GSI, etc?
+Here's [[Frequently asked questions (FAQ)]]
 
-**Bugs and untested items are shown bold. 3rd-party apps untested. 问题和未测试项以粗体显示。未测试第三方应用。**
+### Device List
 
-* Camera 摄像头
-  * Front 前置: OK
-    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。**-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
-  * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
-  * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
+Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. Wi-Fi, NFC, Bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
 
-* LED Light 呼吸灯: OK (AOSP v104 / AOSP v25)
+**Device testers/maintainers:**  In additional to hardware support information, please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).  There is a device-specific wiki template here:  [[New-Devices-Template-WIP]].
 
-* Speaker / Microphone 听筒/麦克风: OK
+**ROMs:** Check available GSI ROMs here [[Generic System Image (GSI) list]]
 
-* Bluetooth 蓝牙
-  * Music 音乐: OK
-  * File Transfer 文件传输: OK
-  * Headset (Calls) 通话: **Not working 不可用**-->[#177](https://github.com/phhusson/treble_experimentations/issues/177)
+**How to build a GSI?** : Check this guide here [[How to build a GSI?]]
 
-* Wi-Fi: 
-  * Client 客户端: OK
-  * Server (Hotspot) 服务器 (热点): *Varies by Android system version 因 Android 系统版本而异*
-      * 8.1: OK
-      * 9.0: **Not working 不可用**
-
-* RIL (Calls 通话 / SMS 短信 / Data 数据):
-  * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * CHN-CT 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
-    * **MEID not found 未找到 MEID**
-  * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default 默认禁用**
-    * *You can append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE, but seems still not working. 你可以往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE，但似乎仍然不可用。*
-
-* Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
-  * FPC: OK
-    * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。**
-  * Goodix: **Not working 不可用**
-  * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
-
-* Brightness control 亮度控制: OK (AOSP v104 / AOSP v25)
-    * **Auto brightness seems not working. 自动亮度似乎不可用。**
-
-* USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
-  * 8.1: 
-      * Charging 充电: OK
-      * USB Debugging USB 调试: OK
-      * USB Network Sharing USB 网络共享: OK
-      * MTP/PTP: OK
-  * 9.0: 
-      * Charging 充电: OK
-      * Reverse Charging 反向充电: OK
-      * USB Debugging USB 调试: OK
-      * USB Network Sharing USB 网络共享: OK
-      * Audio Jack 耳机插槽: OK
-      * MTP/PTP: **Not working 不可用**
-      * OTG: **Not Working 不可用**
-  * *Quick charge works better than stock MIUI, but the phone didn't show the charging status while quick charging. 快充较官方 MIUI 表现更好，但快充时不显示充电信息。*
-
-## How To Flash 如何刷入
-
-* Backup your data 备份数据
-* Unlock your phone 解锁手机
-* Flash TWRP 刷入 TWRP
-* Boot into TWRP and wipe `/data`, `/cache`, `/dalvik-cache` and `/system` (Best format whole `/data` partition) 进入 TWRP，清除 `/data`、`/cache`、`/dalvik-cache` 和 `/system` （最好格式化整个 `/data` 分区）
-* Connect your phone to the computer, and mount `/sdcard` partition via MTP 将手机与电脑连接，在 MTP 上挂载 `/sdcard` 分区
-* Copy system image into your phone 将系统映像复制到手机
-* Flash system image (`*.img` files) in TWRP (Flashing in Fastboot will throw `FAILED (command write failed (Unknown error))`) 在 TWRP 内刷入系统映像（`*.img` 文件，如在 Fastboot 内刷入会显示 `FAILED (command write failed (Unknown error))`）
-
-(Flash in TWRP 在 TWRP 内刷入)
-
-````
-......
-[镜像刷入开始]
-刷入镜像：/sdcard/system-arm64-aonly-gapps-su.img
-正在计算镜像刷入详情...
-I:Image filename is: system-arm64-aonly-gapps-su.img
-正在刷入System镜像...
-I:Flash command: 'simg2img '/sdcard/system-arm64-aonly-gapps-su.img' '/dev/block/mmcblk0p61''
-I:simg2img '/sdcard/system-arm64-aonly-gapps-su.img' '/dev/block/mmcblk0p61' process ended with RC=0
-[镜像刷入完成]
-I:Set page: 'action_complete'
-I:operation_end - status=0
-......
-````
-(Flash in Fastboot 在 Fastboot 内刷入)
-
-````
-fastboot flash system system-arm64-aonly-gapps-su.img
-target reported max download size of 536870912 bytes
-erasing 'system'...
-OKAY [  0.546s]
-sending sparse 'system' (524284 KB)...
-OKAY [ 12.064s]
-writing 'system'...
-OKAY [  0.000s]
-sending sparse 'system' (524284 KB)...
-FAILED (command write failed (Unknown error))
-finished. total time: 13.614s
-````
-* Reboot and Enjoy! 重启体验吧！
-
-## Notes 注意
-
-* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**
-* **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。**
-* Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
-* Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
-  * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
-* Installing Magisk doesn't affect the encryption, but you can find encryption disabling tools using search engines. 安装 Magisk 不影响加密，但你可以使用搜索引擎寻找取消加密的工具。
-* If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just fint them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
-````
-ro.product.model=Mi 6X
-ro.product.brand=xiaomi
-ro.product.name=wayne
-ro.product.device=wayne
-ro.product.manufacturer=Xiaomi
-````
-
-## Tested By 由以下人员测试
-
-* suwakowww @ AOSP v22 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-07
-* suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
-* suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
-* suwakowww @ AOSP v102 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-23
-* best yuan(`16***37@qq.com`), pipipig(`22***13@qq.com`), stubbom(`29***82@qq.com`), tingyichen, xcxmiku, 墨水淘气包(`17***32@qq.com`), etc. (sort by alphabet, are reported in QQ group) @ AOSP v102, AOSP v101, PixelExperience, etc. , 2018-08-25
-* suwakowww @ AOSP v103 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-30
-* markg85 @ AOSP v103, AOSP v23 @ unknown, 2018-09-01, [#168](https://github.com/phhusson/treble_experimentations/issues/168), [#169](https://github.com/phhusson/treble_experimentations/issues/169)
-* suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
-* markg85 @ AOSP v25 @ unknown, 2018-09-06
+|Device Name|Codename|Support from OEM|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|[[Alldocube M5]]|n/a|✓|A|arm64|
+|[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
+|[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
+|[[Blackview A20]]|a20|✓ (Go)|A|arm|
+|[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
+|[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
+|[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
+|[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
+|[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
+|[[HTC U11 Plus]]|ocm|✓|A|arm64|
+|[[HTC U12 Plus]]|ime|✓|A/B|arm64|
+|[[Huawei Honor 6X]]|bln|✓|A|arm64|
+|[[Huawei Honor 7X]]|bnd|✓|A|arm64|
+|[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
+|[[Huawei Honor 9]]|stf|✓|A|arm64|
+|[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
+|[[Huawei Honor V8]]|knt|✓|A|arm64|
+|[[Huawei Honor 8]]|frd|✓|A|arm64|
+|[[Huawei Honor View 10]]|berkeley|✓|A|arm64|
+|[[Huawei Mate 9]]|mha|✓|A|arm64|
+|[[Huawei Mate 10 lite]]|rne|✓|A|arm64|
+|[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
+|[[Huawei Mate SE]]|bnd|✓|A|arm64|
+|[[Huawei P Smart]]|figo|✓|A|arm64|
+|[[Huawei P8 lite (2017)]]|pra|✓|A|arm64|
+|[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A|arm64|
+|[[Huawei P10 lite]]|was|✓|A|arm64|
+|[[Huawei P20]]|eml|✓|A|arm64|
+|[[Huawei P20 lite]]|anne|✓|A|arm64|
+|[[Huawei P20 Pro]]|clt|✓|A|arm64|
+|[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
+|[[Infinix Note 5]]|x604|✓|A/B|arm64|
+|[[Itel A32F]]|f8007|✓ (Go)|A|arm|
+|[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
+|[[Lava Z50]]|z50|✓ (Go)|A|arm|
+|[[LeEco Le Max 2]]|x2||A|arm64|
+|[[Lenovo S5]]|seoul|✓|A|arm64|
+|[[LG V30]]|joan||A|arm64|
+|[[LG G7 ThinQ™️]]|judyln|✓|A/B|arm64|
+|[[Moto E5]]|nora|✓|A|arm|
+|[[Moto G5]]|cedric||A|arm64|
+|[[Moto G5 Plus]]|potter||A|arm64|
+|[[Moto G6 Play]]|aljeter|✓|A|arm|
+|[[Moto G6]]|ali|✓|A|arm|
+|[[Moto G6 Plus]]|evert|✓|A/B|arm64|
+|[[Moto Z]]|griffin||A|arm64|
+|[[Moto Z Play]]|addison||A|arm64|
+|[[Nokia 1]]|frt|✓ (Go)|A|arm|
+|[[Nokia 2.1]]|e2m|✓ (Go)|A|arm64|
+|[[Nokia 3.1]]|es2|✓|A/B|arm64|
+|[[Nokia 5.1]]|co2|✓|A/B|arm64|
+|[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
+|[[Nokia X5]]|pda|✓|A/B|arm64|
+|[[Nokia X6]]|drg|✓|A/B|arm64|
+|[[Nokia 7]]|c1n|✓|A/B|arm64|
+|[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
+|[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
+|[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
+|[[OnePlus 6]]|enchilada|✓|A/B|arm64|
+|[[Oppo R11 / R11s]]|r11|✓|A|arm64|
+|[[Razer Phone]]|cheryl|✓|A/B|arm64|
+|[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
+|[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
+|[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
+|[[Sony Xperia XA2 and XA2 Ultra]]|pioneer and discovery|✓|A/B|arm64|
+|[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
+|[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
+|[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
+|[[Wiko View Max]]|p200|✓|A|arm|
+|[[Xiaomi Mi 3/Mi 4]]|cancro||A|arm|
+|[[Xiaomi Mi 5]]|gemini||A|arm64|
+|[[Xiaomi Mi 5s]]|capricorn||A|arm64|
+|[[Xiaomi Mi 5s Plus]]|natrium||A|arm64|
+|[[Xiaomi Mi 6]]|sagit||A|arm64|
+|[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
+|[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
+|[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
+|[[Xiaomi Mi A1]]|tissot||A/B|arm64|
+|[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
+|[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
+|[[Xiaomi Mi Max 3]]|nitrogen|✓|A|arm64|
+|[[Xiaomi Mi MIX]]|lithium||A|arm64|
+|[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
+|[[Xiaomi Mi MIX 2S]]|polaris|✓|A|arm64|
+|[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
+|[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
+|[[Xiaomi Redmi 3/3 Pro]]|ido||A|arm64|
+|[[Xiaomi Redmi 3S/Prime/3X]]|land||A|arm64|
+|[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|arm64|
+|[[Xiaomi Redmi 4A]]|rolex||A|arm64|
+|[[Xiaomi Redmi 4X]]|santoni||A|arm64|
+|[[Xiaomi Redmi 5A]]|riva||A|arm64|
+|[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
+|[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
+|[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
+|[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
+|[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
+|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
+|[[ZTE Axon 7]]|axon7||A|arm64|
+|[[Moto X4]]|payton||A/B|arm64|
