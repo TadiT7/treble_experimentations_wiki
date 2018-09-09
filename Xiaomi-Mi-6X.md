@@ -28,7 +28,8 @@
   * CHN-CT 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
     * **MEID not found 未找到 MEID**
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled and can't enable 被禁用且无法启用**
+  * VoLTE: **Disabled by default 默认禁用**
+    * *You can append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE, but seems still not working. 你可以往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE，但似乎仍然不可用。*
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
@@ -60,10 +61,10 @@
 * Backup your data 备份数据
 * Unlock your phone 解锁手机
 * Flash TWRP 刷入 TWRP
-* Boot into TWRP and wipe /data, /cache, /dalvik-cache and /system (Best format /data partition) 进入 TWRP，清除 /data、/cache、/dalvik-cache 和 /system （最好格式化 /data 分区）
-* Connect your phone to the computer, and mount /data partition via MTP 将手机与电脑连接，在 MTP 上挂载 /data 分区
+* Boot into TWRP and wipe `/data`, `/cache`, `/dalvik-cache` and `/system` (Best format whole `/data` partition) 进入 TWRP，清除 `/data`、`/cache`、`/dalvik-cache` 和 `/system` （最好格式化整个 `/data` 分区）
+* Connect your phone to the computer, and mount `/sdcard` partition via MTP 将手机与电脑连接，在 MTP 上挂载 `/sdcard` 分区
 * Copy system image into your phone 将系统映像复制到手机
-* Flash system image in TWRP (Flashing in Fastboot will throw `FAILED (command write failed (Unknown error))`) 在 TWRP 内刷入系统映像（在 Fastboot 内刷入会显示 `FAILED (command write failed (Unknown error))`）
+* Flash system image (`*.img` files) in TWRP (Flashing in Fastboot will throw `FAILED (command write failed (Unknown error))`) 在 TWRP 内刷入系统映像（`*.img` 文件，如在 Fastboot 内刷入会显示 `FAILED (command write failed (Unknown error))`）
 
 (Flash in TWRP 在 TWRP 内刷入)
 
@@ -100,12 +101,20 @@ finished. total time: 13.614s
 
 ## Notes 注意
 
-* **After v23, /data partition will be encrypted. Please backup your data before flashing. v23 版本后 /data 分区会被加密。请在刷入前备份数据。**
+* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**
 * **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。**
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
 * Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
   * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
 * Installing Magisk doesn't affect the encryption, but you can find encryption disabling tools using search engines. 安装 Magisk 不影响加密，但你可以使用搜索引擎寻找取消加密的工具。
+* If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just fint them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
+````
+ro.product.model=Mi 6X
+ro.product.brand=xiaomi
+ro.product.name=wayne
+ro.product.device=wayne
+ro.product.manufacturer=Xiaomi
+````
 
 ## Tested By 由以下人员测试
 
