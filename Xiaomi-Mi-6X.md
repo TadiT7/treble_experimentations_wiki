@@ -28,8 +28,9 @@
   * CHN-CT 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
     * **MEID not found 未找到 MEID**
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default 默认禁用**
-    * *You can append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE, but seems still not working. 你可以往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE，但似乎仍然不可用。*
+  * VoLTE: **Disabled by default**, *but you can try to enable it:* **默认禁用**，*但你可以尝试启用它：*
+    1. *Append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE support. 往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE 支持。*
+    2. *Install `org.codeaurora.ims.apk` (find it yourself) and reboot you phone once or twice. 安装`org.codeaurora.ims.apk`（自己找）然后重启手机（如不行再重启一遍）。*
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
