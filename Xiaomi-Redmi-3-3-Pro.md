@@ -33,7 +33,7 @@ Tested with Winkarbik's LOS 20180911 vendor
 ### Hardware not fully working
 
 * Camera
-> Photo front and back ok, video make app crash
+> Photo front and back ok, video make app crash  
 > Maybe workaround with Cameringo, Snap Camera or Bacon Camera (was the case with previous versions)
 
 * RIL (Data, SMS, Calls)
