@@ -27,12 +27,17 @@ Tested with Winkarbik's LOS 20180911 vendor
 
 * USB (MTP, ADB)
 
+* Microphone
+
 
 ### Hardware not fully working
 
 * Camera
 > Photo front and back ok, video make app crash
 > Maybe workaround with Cameringo, Snap Camera or Bacon Camera (was the case with previous versions)
+
+* RIL (Data, SMS, Calls)
+> Data and SMS fully working, calls working but no audio and micro.
 
 ### Hardware not working
 
@@ -41,9 +46,7 @@ Tested with Winkarbik's LOS 20180911 vendor
 
 ### Hardware not tested
 
-* SIM / Mobile Data / Voice
-
-* Front Speaker / Microphone
+* Front Speaker
 
 * VoLTE
 > Unable to test.
