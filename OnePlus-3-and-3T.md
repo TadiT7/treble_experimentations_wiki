@@ -1,4 +1,4 @@
-# [Oneplus 3/3T] - [oneplus3]
+# OnePlus 3/3T
 
 ## Hardware Support
 
