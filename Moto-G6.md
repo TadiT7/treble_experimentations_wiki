@@ -23,6 +23,7 @@ A-Only-32bit-Vanilla- no su
 
 * Fingerprint Reader
 > Working (unlock device)
+
 > Moto actions not working
 
 * Location
