@@ -22,7 +22,8 @@ A-Only-32bit-Vanilla- no su
 > Working
 
 * Fingerprint Reader
-> Working (Moto actions not working)
+> Working (unlock device)
+> Moto actions not working
 
 * Location
 > GPS working
