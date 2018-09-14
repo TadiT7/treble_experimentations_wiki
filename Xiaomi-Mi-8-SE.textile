@@ -15,5 +15,4 @@ And
     finally,just flash the Gsi img
     then reboot to system.
 
-
-[FBE_Disabler.zip](https://github.com/alone-wolf/filehost/raw/master/FBE_Disabler.zip)
+"FBE_Disabler.zip":https://github.com/alone-wolf/filehost/raw/master/FBE_Disabler.zip
