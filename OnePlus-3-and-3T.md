@@ -6,29 +6,32 @@
 > Partly works (with [linker fix](https://github.com/OP3Treble/linkerfix) to load shims)
 
 * Speaker / Microphone
-> Working
+> Works
 
 * Bluetooth
-> Working
+> Works
 
 * Wifi
-> Working
+> Works
 
-* SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-> Working 
+* SIM / Mobile Data / Voice
+> Works 
 
 * VoLTE
 > Not tested
 
 * Fingerprint Reader
-> Working
+> Works
+
+* Brightness control
+> Works
 
 * 3.5mm audio jack
-> Working
+> Works
 
 ***
-## Additional Installation Notes
-Follow this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/treble-lineageos-15-1-treble-oneplus-3-t3830455)
+## Additional Notes
+Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/treble-lineageos-15-1-treble-oneplus-3-t3830455)
 ***
 
 
