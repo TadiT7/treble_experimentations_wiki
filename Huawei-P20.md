@@ -12,7 +12,9 @@
 
 ### What's working
 
-Stock EMUI camera port available!  -> https://forum.xda-developers.com/huawei-p20-pro/development/huawei-p20-pro-camera-gallery-treble-t3805011
+* Stock EMUI camera port available!  -> https://forum.xda-developers.com/huawei-p20-pro/development/huawei-p20-pro-     camera-gallery-treble-t3805011
+* Haptic sensor.  (home, back, recent apps)
+
 
 Everything else seems to be working. 
 
