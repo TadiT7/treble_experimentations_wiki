@@ -1,4 +1,4 @@
-# [Nokia 1] - [frp]
+# [Nokia 1] - [frt]
 
 ## Hardware Support
 
