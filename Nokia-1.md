@@ -23,16 +23,25 @@
 
 ***
 ## Additional Notes
-> Don’t use TWRP on this ROM. The pre-encrypted userdata in /data you used before flashing this ROM will cause boot loop into the TWRP (Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.)
-> Please use the original recovery for this ROM.
-> Booting into Android causes screen went out for a few secs and then booting up again.
-> The phone is still pre-encrypted anyway.
-> Tested on TA-1047 (Dual SIM) model. Haven’t tested on 2nd SIM slot yet.
-> Google Play services crashes a lot.
-> On Files app (In storage settings). When showing Internal storage cause the app force stop once or many times. Once is when I reinstalled the ROM and wiped it.
-> Definitely not for Daily Driver use.
-> You can't wipe data on TWRP? You better using stock recovery.
-> Some of my claims are might not true because I went to Nokia and asked them to reinstall the stock ROM the next day, so I can't remember exactly what I've experienced.
+Don’t use TWRP on this ROM. The pre-encrypted userdata in /data you used before flashing this ROM will cause boot loop into the TWRP (Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.)
+
+Please use the original recovery for this ROM.
+
+Booting into Android causes screen went out for a few secs and then booting up again.
+
+The phone is still pre-encrypted anyway.
+
+Tested on 1st SIM slot. Haven’t tested on 2nd SIM slot yet.
+
+Google Play services crashes a lot.
+
+On Files app (In storage settings). When showing Internal storage cause the app force stop once or many times. Once is when I reinstalled the ROM and wiped it.
+
+Definitely not for Daily Driver use.
+
+You can't wipe data on TWRP? You better using stock recovery.
+
+Some of my claims are might not true because I went to Nokia and asked them to reinstall the stock ROM the next day, so I can't remember exactly what I've experienced.
 
 
 ***
