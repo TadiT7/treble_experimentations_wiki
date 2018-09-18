@@ -26,12 +26,12 @@
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * CHN-CT 中国电信: **LTE Only by default**, *but you can try to enable it:*.**默认情况下仅限 4G 网络**，*但你可以尝试启用它：*
+  * CHN-CT 中国电信: **LTE Only by default**, *but you can try to enable CDMA1x / CDMA2000 network:* **默认情况下仅限 4G 网络**，*但你可以尝试启用CDMA1x / CDMA2000 网络：*
     1. *Insert UIM card (best for slot 1 or single card) 插入 UIM 卡（最好放卡 1 插槽或者单卡）*
     2. *Disable "Enhanced 4G LTE Mode" 禁用“增强型 4G LTE 模式”*
     3. *That's all. MEID should be found now. 完成。MEID 应该能找到了。*
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default**, *but you can try to enable CDMA1x / CDMA2000 network:* **默认禁用**，*但你可以尝试启用 CDMA1x / CDMA2000 网络：*
+  * VoLTE: **Disabled by default**, *but you can try to enable it:* **默认禁用**，*但你可以尝试启用它：*
     1. *Append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE support. 往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE 支持。*
     2. *Install `org.codeaurora.ims.apk` (find it yourself) and reboot you phone once or twice. 安装`org.codeaurora.ims.apk`（自己找）然后重启手机（如不行再重启一遍）。*
 
