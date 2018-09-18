@@ -6,6 +6,7 @@
   * Front 前置: OK
     * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。**-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
+    * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往`/system/build.prop`追加`persist.camera.expose.aux=1`并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
 * LED Light 呼吸灯: OK (AOSP v104 / AOSP v25)
@@ -25,10 +26,12 @@
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * CHN-CT 中国电信: **LTE Only 仅限 4G 网络** *(Tested on card 2 slot only. 仅在卡2插槽上测试过。)*
-    * **MEID not found 未找到 MEID**
+  * CHN-CT 中国电信: **LTE Only by default**, *but you can try to enable it:*.**默认情况下仅限 4G 网络**，*但你可以尝试启用它：*
+    1. *Insert UIM card (best for slot 1 or single card) 插入 UIM 卡（最好放卡 1 插槽或者单卡）*
+    2. *Disable "Enhanced 4G LTE Mode" 禁用“增强型 4G LTE 模式”*
+    3. *That's all. MEID should be found now. 完成。MEID 应该能找到了。*
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default**, *but you can try to enable it:* **默认禁用**，*但你可以尝试启用它：*
+  * VoLTE: **Disabled by default**, *but you can try to enable CDMA1x / CDMA2000 network:* **默认禁用**，*但你可以尝试启用 CDMA1x / CDMA2000 网络：*
     1. *Append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE support. 往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE 支持。*
     2. *Install `org.codeaurora.ims.apk` (find it yourself) and reboot you phone once or twice. 安装`org.codeaurora.ims.apk`（自己找）然后重启手机（如不行再重启一遍）。*
 
