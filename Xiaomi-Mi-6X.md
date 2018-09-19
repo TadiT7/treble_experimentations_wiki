@@ -9,7 +9,8 @@
     * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往`/system/build.prop`追加`persist.camera.expose.aux=1`并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
-* LED Light 呼吸灯: OK (AOSP v104 / AOSP v25)
+* LED Light 呼吸灯: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
+    * *If the light always on, reboot may help. 如果呼吸灯常亮，重启可能解决问题。*
 
 * Speaker / Microphone 听筒/麦克风: OK
 
@@ -20,9 +21,7 @@
 
 * Wi-Fi: 
   * Client 客户端: OK
-  * Server (Hotspot) 服务器 (热点): *Varies by Android system version 因 Android 系统版本而异*
-      * 8.1: OK
-      * 9.0: **Not working 不可用**
+  * Server (Hotspot) 服务器 (热点): OK (AOSP 8.1 v22+ / AOSP 9.0 v105)
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
@@ -41,7 +40,7 @@
   * Goodix: **Not working 不可用**
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* Brightness control 亮度控制: OK (AOSP v104 / AOSP v25)
+* Brightness control 亮度控制: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
     * **Auto brightness seems not working. 自动亮度似乎不可用。**
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
@@ -106,11 +105,11 @@ finished. total time: 13.614s
 ## Notes 注意
 
 * **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**
+  * *If you confused by encrypted `/data` partition, you can try to modify `/vendor/etc/fstab.qcom`, and find the line which contains `/dev/block/bootdevice/by-name/userdata`, and change `forceencrypt=footer` to `encryptable=footer` which on the same line.  This operation only needs to be done once. 如果你不希望`/data`被加密，你可以尝试修改`/vendor/etc/fstab.qcom`，然后找到`/dev/block/bootdevice/by-name/userdata`所在的行，将处于同一行的`forceencrypt=footer`改为`encryptable=footer`。这个操作只需要执行一遍。*
 * **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。**
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
 * Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
   * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
-* Installing Magisk doesn't affect the encryption, but you can find encryption disabling tools using search engines. 安装 Magisk 不影响加密，但你可以使用搜索引擎寻找取消加密的工具。
 * If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just fint them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
 ````
 ro.product.model=Mi 6X
@@ -131,3 +130,4 @@ ro.product.manufacturer=Xiaomi
 * markg85 @ AOSP v103, AOSP v23 @ unknown, 2018-09-01, [#168](https://github.com/phhusson/treble_experimentations/issues/168), [#169](https://github.com/phhusson/treble_experimentations/issues/169)
 * suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
 * markg85 @ AOSP v25 @ unknown, 2018-09-06
+* suwakowww @ AOSP v105 @ system-arm64-aonly-gapps-su.img, 2018-09-19
