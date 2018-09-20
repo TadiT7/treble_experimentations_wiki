@@ -4,7 +4,38 @@
 
 * Camera 摄像头
   * Front 前置: OK
-    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。**-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
+    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。** You can try to append these texts below to `/system/build.prop` to get a temp fix: 你可以尝试往`/system/build.prop`追加以下文本以获得临时修复：-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
+````
+#Expose aux camera for below packages
+camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.qualcomm.qti.qmmi
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,com.qualcomm.qti.qmmi
+#disable UBWC for camera
+persist.camera.preview.ubwc=0
+persist.camera.stats.test=0
+persist.camera.depth.focus.cb=0
+persist.camera.isp.clock.optmz=0
+persist.camera.linkpreview=0
+persist.camera.isp.turbo=1
+persist.camera.set.afd=4
+
+#exif info for camera
+persist.sys.exif.make=Xiaomi
+persist.sys.exif.model=MI 6X
+
+#properties for camera front flash lux
+persist.imx376_sunny.low.lux=310
+persist.imx376_sunny.light.lux=280
+
+persist.imx376_ofilm.low.lux=310
+persist.imx376_ofilm.light.lux=280
+
+#properties for bokeh switch master and slave lux
+persist.bokeh.switch.lux=290
+
+#properties for open camera 3 normal mode switch master and slave lux
+persist.camera.auxswitch.threshold=330
+persist.camera.mainswitch.threshold=419
+````
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
     * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往`/system/build.prop`追加`persist.camera.expose.aux=1`并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
@@ -110,7 +141,7 @@ finished. total time: 13.614s
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
 * Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
   * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
-* If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just fint them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
+* If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just find them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
 ````
 ro.product.model=Mi 6X
 ro.product.brand=xiaomi
