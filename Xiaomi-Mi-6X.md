@@ -4,15 +4,10 @@
 
 * Camera 摄像头
   * Front 前置: OK
-    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。** You can try to execute these commands on shell to fix it (root access required): 你可以尝试在终端执行以下命令去修复（需要 root 权限）：-->[#169](https://github.com/phhusson/treble_experimentations/issues/169)
-````
-setprop persist.imx376_sunny.low.lux 310
-setprop persist.imx376_sunny.light.lux 280
-setprop persist.imx376_ofilm.low.lux 310
-setprop persist.imx376_ofilm.light.lux 280
-````
+    * **Flash light will always on when using. 闪光灯在使用摄像头时会常亮。**-->[#169](https://github.com/phhusson/treble_experimentations/issues/169) / [Temp fix 临时修复](#fix-flash-of-front-camera)
+
   * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
-    * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往`/system/build.prop`追加`persist.camera.expose.aux=1`并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
+    * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往 `/system/build.prop` 追加 `persist.camera.expose.aux=1` 并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
 * LED Light 呼吸灯: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
@@ -31,14 +26,9 @@ setprop persist.imx376_ofilm.light.lux 280
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * CHN-CT 中国电信: **LTE Only by default**, *but you can try to enable CDMA1x / CDMA2000 network:* **默认情况下仅限 4G 网络**，*但你可以尝试启用CDMA1x / CDMA2000 网络：*
-    1. *Insert UIM card (best for slot 1 or single card) 插入 UIM 卡（最好放卡 1 插槽或者单卡）*
-    2. *Disable "Enhanced 4G LTE Mode" 禁用“增强型 4G LTE 模式”*
-    3. *That's all. MEID should be found now. 完成。MEID 应该能找到了。*
+  * CHN-CT 中国电信: **LTE Only by default 默认情况下仅限 4G 网络**-->[Temp fix 临时修复](#fix-cdma-network)
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default**, *but you can try to enable it:* **默认禁用**，*但你可以尝试启用它：*
-    1. *Append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE support. 往`/system/build.prop`追加`persist.dbg.volte_avail_ovr=1`并重启以启用 VoLTE 支持。*
-    2. *Install `org.codeaurora.ims.apk` (find it yourself) and reboot you phone once or twice. 安装`org.codeaurora.ims.apk`（自己找）然后重启手机（如不行再重启一遍）。*
+  * VoLTE: **Disabled by default 默认禁用**-->[Temp fix 临时修复](#enable-volte)
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
@@ -110,20 +100,11 @@ finished. total time: 13.614s
 
 ## Notes 注意
 
-* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**
-  * *If you confused by encrypted `/data` partition, you can try to modify `/vendor/etc/fstab.qcom`, and find the line which contains `/dev/block/bootdevice/by-name/userdata`, and change `forceencrypt=footer` to `encryptable=footer` which on the same line.  This operation only needs to be done once. 如果你不希望`/data`被加密，你可以尝试修改`/vendor/etc/fstab.qcom`，然后找到`/dev/block/bootdevice/by-name/userdata`所在的行，将处于同一行的`forceencrypt=footer`改为`encryptable=footer`。这个操作只需要执行一遍。*
+* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**-->[Disable Encryption 禁用加密](#disabling-enctyption)
 * **Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。**
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
 * Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。
   * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
-* If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just find them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改`/system/build.prop`以修复，找到下面的配置并更改即可（区分大小写）：
-````
-ro.product.model=Mi 6X
-ro.product.brand=xiaomi
-ro.product.name=wayne
-ro.product.device=wayne
-ro.product.manufacturer=Xiaomi
-````
 
 ## Tested By 由以下人员测试
 
@@ -137,3 +118,47 @@ ro.product.manufacturer=Xiaomi
 * suwakowww @ AOSP v104 @ system-arm64-aonly-vanilla-su.img, 2018-09-05
 * markg85 @ AOSP v25 @ unknown, 2018-09-06
 * suwakowww @ AOSP v105 @ system-arm64-aonly-gapps-su.img, 2018-09-19
+
+## Temp Fixes 临时修复
+**The following fixes are not tested by phhusson, You should attention for testing it at risk. 以下修复未经 phhusson 测试，在测试之前请注意这些操作的风险性。**
+### <a name="fix-flash-of-front-camera">Fix flash of front camera / 修复前置摄像头的闪光灯</a>
+
+You can try to append following texts to `/system/build.prop` and reboot to fix it: 你可以尝试往 `/system/build.prop` 追加一下文本以修复：
+
+````
+persist.imx376_sunny.low.lux=310
+persist.imx376_sunny.light.lux=280
+persist.imx376_ofilm.low.lux=310
+persist.imx376_ofilm.light.lux=280
+````
+
+### <a name="fix-cdma-network">Fix CDMA Networks / 修复 CDMA 网络</a>
+You can try to enable CDMA1x / CDMA2000 network: ，你可以尝试启用CDMA1x / CDMA2000 网络：
+
+1. Insert UIM card (best for slot 1 or single card) 插入 UIM 卡（最好放卡 1 插槽或者单卡）
+2. Disable "Enhanced 4G LTE Mode" 禁用“增强型 4G LTE 模式”
+3. That's all. MEID should be found now. 完成。MEID 应该能找到了。
+
+### <a name="enable-volte">Enable VoLTE / 启用 VoLTE</a>
+You can try to enable VoLTE support: 你可以尝试启用 VoLTE 支持 ：
+
+1. Append `persist.dbg.volte_avail_ovr=1` to `/system/build.prop` and reboot to enable VoLTE support. 往 `/system/build.prop` 追加 `persist.dbg.volte_avail_ovr=1` 并重启以启用 VoLTE 支持。
+2. Install `org.codeaurora.ims.apk` (find it yourself) and reboot you phone once or twice. 安装 `org.codeaurora.ims.apk`（自己找）然后重启手机（如不行再重启一遍）。
+
+### <a name="disabling-enctyption">Disabling encryption / 禁用加密</a>
+If you confused by encrypted `/data` partition, you can try to do this below: 如果你不希望 `/data` 被加密，你可以尝试如下操作：
+
+1. Open `/vendor/etc/fstab.qcom`, and find the line which contains `/dev/block/bootdevice/by-name/userdata` 打开`/vendor/etc/fstab.qcom`，然后找到 `/dev/block/bootdevice/by-name/userdata` 所在的行
+2. Change `forceencrypt=footer` to `encryptable=footer` which on the same line. 将处于同一行的 `forceencrypt=footer` 改为 `encryptable=footer`
+3. This operation only needs to be done once. 这个操作只需要执行一遍。
+
+### <a name="model-fix">Show model / 显示机型</a>
+If you confused by the wrong brand/model, you can modify `/system/build.prop` to fix it manually, just find them and change below (case-sensitive): 如果你对手机品牌/型号有要求，可以自行修改 `/system/build.prop` 以修复，找到下面的配置并更改即可（区分大小写）：
+
+````
+ro.product.model=Mi 6X
+ro.product.brand=xiaomi
+ro.product.name=wayne
+ro.product.device=wayne
+ro.product.manufacturer=Xiaomi
+````
