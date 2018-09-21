@@ -1,4 +1,6 @@
-Only from AOSP 8.1 [2018-08-16] Phh-Treble (v23). Earlier builds unusable due to touchscreen not working issue. Other ROMs also unusable for this reason until updated with the v23 base changes.
+Only from AOSP 8.1 [2018-08-16] Phh-Treble (v23). Earlier builds unusable due to touchscreen not working issue. Other ROMs also unusable for this reason until updated with the v23 base changes. Recent v25 build seems to perform a little better.
+
+For Android 9.0, only _[AOSP 9.0] [EXPERIMENTAL] [2018-09-19] Phh-Treble_ or later (expected), and ROMS based on this. Earlier based builds also have the touchscreen issue. 
 
 ROM used: _system.img for A-only ARM64 devices with GApps and SU_
 
