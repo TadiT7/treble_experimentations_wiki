@@ -16,6 +16,8 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 
 4. Reboot device `fastboot reboot`
 
+5. If your having any problems go back into TWRP and wipe the dalvik cache
+
 
 ### Hardware commands - done with device turned off
 
