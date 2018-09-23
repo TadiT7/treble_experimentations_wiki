@@ -10,7 +10,7 @@ _(reboots into your recovery and stock recovery if you haven't installed a custo
 
 5. Reboot to fastbootmode
 
-5. Flash ROM .img to system partition using fastboot
+5. Flash ROM GSINAME.img to system partition using fastboot
 `fastboot flash system GSINAME.img`
 _(replace GSINAME.img with the name and location of your GSI image)_
 
