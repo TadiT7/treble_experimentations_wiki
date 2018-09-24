@@ -9,7 +9,7 @@ A-Only-32bit-Vanilla- no su
 
 * Bluetooth
 > Bug with a2dp
-"Repaired" by installing magisk, then install the viper4android module. (Using "VIPER4Android FX Materialized" v.1.7.1)
+"Partially repaired" by installing magisk, then install the viper4android module. (Using "VIPER4Android FX Materialized" v.1.7.1) (This does not fix all sounds on the device, such as Google Duo's audio, but it does fix most)
 
 > BLE working (tested with Garmin Fenix 3HR smartwatches)
 
