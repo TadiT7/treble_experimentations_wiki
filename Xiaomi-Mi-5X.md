@@ -6,6 +6,7 @@ GSI v105 was tested with  following prerequisites:
 
 Following issues found:
 * Bluetooth not working
+* WiFi hotspot
 * Automatic brightness missing as an option
 * Camera's features like slow motion video and HDR(doesn't look like HDR), photo and video capturing are working. Third-party cameras were tested only with gapps installed(both cameras tested did not work without gapps).
 
