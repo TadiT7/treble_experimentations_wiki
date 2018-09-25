@@ -89,6 +89,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
 |[[Xiaomi Mi 5s Plus]]|natrium||A|arm64|
+|[[Xiaomi Mi 5X]]|tiffany||A|arm64|
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
