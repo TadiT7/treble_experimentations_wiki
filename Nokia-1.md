@@ -10,6 +10,8 @@ Doesn't work at all. Even enabling Wi-Fi and Bluetooth scanning. (Might need to 
 
 Flashlight in quick settings doesn't work in Android 8.1.
 
+Front camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same). Use Camera2 from Stock ROM might helps.
+
 But Android 9 works.
 
 * Speaker / Microphone:
