@@ -3,9 +3,7 @@
 ## Hardware Support
 
 * Camera
-Flashlight in quick settings doesn't work in android 8, 9 works.
-Works. But poorly. (Try Google Camera v3.x or any version of AOSP Camera2 app w/ Material Design on stock ROM to see).
-Use the Camera2 app made by evenwell (the ROM builder for this phone/aka stock camera app from og ROM) might fix all problem, like lack of lighting for example, or Open Camera.
+Flashlight in quick settings doesn't work in Android 8. But Android 9 works.
 
 * Speaker / Microphone
 Works.
@@ -14,26 +12,32 @@ Works.
 Works, tethering not tested.
 
 * Wi-Fi
-Tethering not work (Probably will make whole system cucked up)
+Tethering not work (Probably will make modem fucked up)
 
 * USB
 Works. RNDIS also works.
 
 *Storage:
-Works. But, Files app doesn't like you showing Internal storage.
+Works. But, Files app doesn't like you showing Internal storage. You still can show Internal storage over 3rd party app requesting picking file. But go to Files app itself will crash again. Use launcher shortcut to launch the app. It will allow you can see files in Internal storage once.
 
 * SIM / Mobile Data / Voice
-Android 8.1:
-Unable to recognize any SIM (When in 3/4G mode, 2G Works and stable.)
-Go to Android’s Test mode “*#*#4636#*#*” to force GSM network. And then reboot the device. That will make modem Software stable and kept the SIM recognized.
-You can’t change Network band. (Sill applied to Android 9.0)
+Works, unstable. Better when you using 2 SIMs at once. Supports some of Network bands. You can't change networking band. Force the 1st SIM working in 2G first (and reboot) in Mobile network to make the modem software doesn't crashed. You need to reboot the phone every single time you change network band. For 2nd SIM/non-mobile data SIM. Choose 2G network.
 
-Android 9.0:
-Works like charm. But for the 2nd SIM/Preferred Mobile data SIM.
-You have to force that SIM to 2G network because it must work that way, even OG software would make modem act like that.
+* GPU/Video codecs:
+
+Decoding video bugged up when using FPS divisor in Phh Treble Settings (Watching a YouTube video in Chromium. May vary because not every YouTube video using the same codec.)
+
+Haven't tested on GPU-side. But I think it will be okay.
+
+* Secure boot:
+If you enter the wrong password in the first place. System will force you to press Reset Phone button because you entered the "right" password. Reboot the phone and try de-encrypt the phone again. It should be ok.
+
+* FM Radio:
+You don't need this shit 😂😂😂 (Not tested and there are no apps for FM Radio to test its functionality)
 
 ***
-## Additional Notes/Other Bugs
+## Additional Notes / Other Bugs
+
 Don’t use TWRP on this ROM. The pre-encrypted userdata in /data you used before flashing this ROM will cause boot loop into the TWRP (Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.)
 
 Please use the original recovery for this ROM and wipe data.
@@ -44,16 +48,14 @@ The phone is still pre-encrypted anyway.
 
 System apps in Android 8.1 bugs a lot (crash)
 
-Definitely not for Daily Driver use. But Android 9 has potential.
-
-Haven't tested on GPU-side. But I think it will be okay.
+Definitely not for Daily Driver use.
 
 
 ***
 
 
 ## Tested by:
-* Đức (Kutiz) @ Nokia 1 (TA-1047 DS) @ 9/26/2018
+* Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/27/2018
 
 ## Tested builds:
 Android 8.1 build v25 w/ Google apps
