@@ -10,7 +10,9 @@ Doesn't work at all. Even enabling Wi-Fi and Bluetooth scanning. (Might need to 
 
 Flashlight in quick settings doesn't work in Android 8.1 (Retest needed). But Android 9 works.
 
-Front camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same). Use Camera2 from Stock ROM might helps.
+Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same. Manual exposure option in settings doesn't do anything). Use Camera2 from Stock ROM might helps.
+
+HDR isn't working whatsoever.
 
 Front camera works fine.
 
