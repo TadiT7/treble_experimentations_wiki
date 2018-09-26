@@ -2,9 +2,13 @@
 
 ## Hardware Support
 
+* GPS:
+
+Doesn't work at all. Even enabling Wi-Fi and Bluetooth scanning. (Might need to retest again)
+
 * Camera:
 
-Flashlight in quick settings doesn't work in Android 8.
+Flashlight in quick settings doesn't work in Android 8.1.
 
 But Android 9 works.
 
@@ -22,7 +26,7 @@ Tethering is broken (Probably will make modem fucked up)
 
 * USB:
 
-Works. RNDIS also works.
+Works.
 
 * Storage:
 
@@ -46,9 +50,9 @@ You need to reboot the phone every single time you change network band.
 
 For 2nd SIM/non-mobile data SIM. Choose 2G network.
 
-* GPU/Video codecs:
+* GPU / Video decoding:
 
-Decoding video bugged up when using FPS divisor in Phh Treble Settings (Watching a YouTube video in Chromium. May vary because not every YouTube video using the same codec.)
+Can't decode video when using FPS divisor in Phh Treble Setting or it just can't decode that video (Watching a YouTube video in Chromium. May vary because not every YouTube video using the same codec.)
 
 Haven't tested on GPU-side. But I think it will be okay.
 
@@ -84,7 +88,8 @@ Definitely not for Daily Driver use.
 
 
 ## Tested by:
-* Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/27/2018
+
+Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/27/2018
 
 ## Tested builds:
 
