@@ -7,12 +7,9 @@ GSI v105 was tested with  following prerequisites:
 Following issues found:
 * Bluetooth not working
 * Automatic brightness missing as an option
-* Camera's features like slow motion video and HDR(doesn't look like HDR), photo and video capturing are working. Third-party cameras were tested only with gapps installed(both cameras tested did not work without gapps).
+* Camera's features like slow motion video and HDR, was tested with camera app from other ROM. Photo and video capturing are working.
 
 Not tested:
 * VoLTE
-* using two SIM cards
-* microSD
 
-
-Other than that everything else looks like working, including IR transmitter.
+Other than that everything else looks like working, including IR transmitter, SD card, using both SIM cards.
