@@ -42,15 +42,15 @@ Use launcher shortcut to launch the app. It will allow you can see files in Inte
 
 * SIM / Mobile Data / Voice:
 
-Works, unstable. Better when you using 2 SIMs at once.
+Works, unstable.
 
 Supports some of Network bands.
 
 You can't change networking band.
 
-Force the 1st SIM working in 2G first (and reboot) in Mobile network to make the modem software doesn't crashed.
+Force the 1st SIM working in 2G first (and reboot) in Mobile network to make the modem software doesn't crashed. Then you will allowed to change any network mode without SIM unrecognizable bug.
 
-You need to reboot the phone every single time you change network band.
+You need to reboot the phone every single time you change network band or network mode.
 
 For 2nd SIM/non-mobile data SIM. Choose 2G network.
 
