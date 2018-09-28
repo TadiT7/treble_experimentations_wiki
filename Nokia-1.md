@@ -2,6 +2,14 @@
 
 ## Hardware Support
 
+* Sensors
+
+Can't detect any thermal sensors (example: battery's temp, battery's voltage, cpu temp, etc.).
+
+Accelerometer, Light and Proximity sensors works fine.
+
+This explains somehow why the screen resets and the phone restart when booting up.
+
 * GPS:
 
 Might work.
@@ -68,14 +76,16 @@ Reboot the phone and try de-encrypt the phone again. It should be ok.
 
 * FM Radio:
 
-You don't need this shit 😂😂😂 (Not tested and there are no apps for FM Radio to test its functionality)
+You don't need this shit 😂😂😂 (Not tested and there are no apps for FM Radio to test its functionality).
+
+But I bet it won't work.
 
 ***
 ## Additional Notes / Other Bugs
 
-Don’t use TWRP on this ROM. The pre-encrypted userdata in /data you used before flashing this ROM will cause boot loop into the TWRP
+Don’t use TWRP on this ROM. The pre-encrypted user's data in /data you used before flashing this ROM will cause boot loop into the TWRP (Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.).
 
-(Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.)
+Use TWRP when you need to install zip or terminal.
 
 Please use the original recovery for this ROM and wipe data.
 
@@ -85,9 +95,19 @@ The phone is still pre-encrypted anyway.
 
 I tried to put some GMS (gapps) onto AOSP 9.0 Build and the ROM reboot like 2 or 3x before it can actually boot up after a reboot.
 
-System UI Tuner's lock screen shortcut will not save its settings after a reboot.
+The phone reboot once after it done with the first boot (Applies to Android 8.1 and 9).
 
-System apps in Android 8.1 bugs a lot (crash)
+System UI Tuner's lock screen shortcut will not save its settings after a reboot (Android 9).
+
+System apps in Android 8.1 crashes a lot (Mostly Google Play services).
+
+You need to register the phone's ID before you can use any Google services or add Google account onto it. Or any Google app will spam the shit out the notification and you can't use any google services.
+
+That means you need to skip the Setup Wizard screen without internet connection.
+
+Get the Device's Google ID first (Not Android's ID) by Downloading Device ID app, using terminal adb way will not work at all then register it at at g.co/AndroidDeviceRegistration.
+
+Wipe or make Google Play services Force Stopped and try adding your account again.
 
 Definitely not for Daily Driver use.
 
@@ -97,7 +117,7 @@ Definitely not for Daily Driver use.
 
 ## Tested by:
 
-Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/27/2018
+Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/29/2018
 
 ## Tested builds:
 
