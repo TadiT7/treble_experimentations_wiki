@@ -4,13 +4,13 @@
 
 * GPS:
 
-Doesn't work at all. Even enabling Wi-Fi and Bluetooth scanning. (Might need to retest again)
+Might work.
 
 * Camera / Flashlight
 
 Flashlight in quick settings doesn't work in Android 8.1 (Retest needed). But Android 9 works.
 
-Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same. Manual exposure option in settings doesn't do anything). Use Camera2 from Stock ROM might helps.
+Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same. Manual exposure option in settings doesn't do anything). Use Camera app from Stock ROM might helps.
 
 HDR isn't working whatsoever.
 
@@ -22,11 +22,11 @@ Works.
   
 * Bluetooth:
 
-Works, tethering not tested.
+Works, FTP file transfer doesn't work with files like APK (content not supported) but files like JPG works, tethering works.
 
 * Wi-Fi:
 
-Tethering is broken (Probably will make modem fucked up)
+Tethering is broken (Probably will make modem fucked up).
 
 * USB:
 
@@ -82,6 +82,10 @@ Please use the original recovery for this ROM and wipe data.
 Booting into Android causes screen went out for a few secs and then booting up again.
 
 The phone is still pre-encrypted anyway.
+
+I tried to put some GMS (gapps) onto AOSP 9.0 Build and the ROM reboot like 2 or 3x before it can actually boot up after a reboot.
+
+System UI Tuner's lock screen shortcut will not save its settings after a reboot.
 
 System apps in Android 8.1 bugs a lot (crash)
 
