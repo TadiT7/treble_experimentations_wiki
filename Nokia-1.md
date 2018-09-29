@@ -16,6 +16,8 @@ Might work.
 
 * Camera / Flashlight
 
+In Android 9. AOSP Camera app magically somehow crashed constantly. Rebooting doesn't solve anything. 3rd party apps like Instagram Accessing to the Camera ok.
+
 Flashlight in quick settings doesn't work in Android 8.1 (Retest needed). But Android 9 works.
 
 Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same. Manual exposure option in settings doesn't do anything). Use Camera app from Stock ROM might helps.
