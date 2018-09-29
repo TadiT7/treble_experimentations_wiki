@@ -4,7 +4,7 @@
 
 * Sensors
 
-Can't detect any thermal sensors (example: battery's temp, battery's voltage, cpu temp, etc.).
+Can't detect any thermal sensors (example: battery's temp, battery's voltage).
 
 Accelerometer, Light and Proximity sensors works fine.
 
