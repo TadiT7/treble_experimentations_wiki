@@ -7,8 +7,9 @@
 * Camera 摄像头
   * Front 前置: OK (AOSP 9.0 v106) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
-  * Rear 后置: Upper one 上方摄像头: **Not working 不可用**, Lower one 下方摄像头: OK
-    * You can append `persist.camera.expose.aux=1` to `/system/build.prop` and reboot to "enable" the upper-one camera, **but seems still not working in camera app** (Can be detected but can't use). 你可以往 `/system/build.prop` 追加 `persist.camera.expose.aux=1` 并重启以“启用”上方的摄像头，**但似乎在相机应用仍然不可用**（可以被检测到但无法使用）。
+  * Rear 后置: 
+    * Upper one 上方摄像头: **Not working 不可用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#dual-cam) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#dual-cam))
+    * Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
 * LED Light 呼吸灯: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
