@@ -39,7 +39,7 @@
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
     * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#fingerprint-key) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#fingerprint-key))
-  * Goodix: **Not working 不可用**
+  * Goodix: **Not working 不可用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#goodix-fp) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#goodix-fp))
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
 * Brightness control 亮度控制: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
