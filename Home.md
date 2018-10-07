@@ -88,6 +88,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Wileyfox Swift]]|crackling||A|arm64|
+|[[Wileyfox Swift 2 (Plus) (X)]]|marmite||A|arm64|
 |[[Xiaomi Mi 3/Mi 4]]|cancro||A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
