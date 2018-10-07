@@ -24,6 +24,10 @@
 > Working
 
 ## Tested By:
-* Jerone Lailo - Asus Zenfone Max M1 on AOSP 8.1 - PHH-Treble (2018-10-07)
+* Jerone Lailo - Asus Zenfone Max M1
+
+## Tested ROMs:
+* AOSP 8.1 - PHH-Treble (2018-10-07)
+* AOSP 9.0 - PHH-Treble (2018-10-07)
 
 Template created by @zguithues
