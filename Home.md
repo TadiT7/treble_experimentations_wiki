@@ -16,7 +16,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
-|[[Asus ZenFone Max M1]]|x00pd|✓|A|arm64|
+|[[Asus ZenFone Max M1 (ZB555KL)]]|x00pd|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
