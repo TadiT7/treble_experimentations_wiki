@@ -34,4 +34,4 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
   - ArrowOS Pie: Fingerprints are dumped after reboot, hotspot not working, battery stats needs to be resetted manually
   - PixelExpierience Oreo: Headphones must be routed via Audio Router app
   - OxygenOS sGSI: patches are breaking /vendor partition
-  - dotOS Oreo: seems like everything is working
+  - dotOS Oreo: there are some graphic glitches in chrome on some sites, but everything else seems to work
