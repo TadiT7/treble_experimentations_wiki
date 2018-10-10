@@ -50,19 +50,21 @@ If you made it crashed constantly. Clean up the app data will do the trick.
 
 * SIM / Mobile Data / Voice:
 
-Works, unstable.
+Works, more stable now.
 
 Supports some of Network bands.
 
-You can't change networking band.
+3/4G bands are now working. No more modem software crashing.
 
-Force the 1st SIM working in 2G first (and reboot) in Mobile network to make the modem software doesn't crashed. Then you will allowed to change any network mode without SIM unrecognizable bug.
+You can't change networking band in Testing settings.
 
-For 2nd SIM/non-mobile data SIM. Choose 2G network.
+For 2nd SIM/non-mobile data SIM. Choose 2G network or the phone modem will confused.
+
+No USSD's messages. But performing USSD menu works fine.
 
 * GPU / Video decoding:
 
-Works fine. You'll get extra 10 FPS out of 50 FPS on stock ROM.
+Works fine. GPU works smoother in this ROM.
 
 * Secure boot (Applies to Android 9):
 
@@ -83,7 +85,7 @@ Keep the bootloader unlocked to Wipe data and cache properly when you using TWRP
 
 There's a bug when previous userdata from stock ROM using with this GSI ROM will make the pre-encrypted user's data in /data corrupted and make a infinite bootloop into TWRP when you pressed RESET PHONE. So basically. You can't perform Resetting phone over TWRP. Use stock recovery instead.
 
-Booting into Android causes screen went out for a few secs and then booting up again.
+Booting into Android causes screen went out for a few secs. The phone reboots after first boot.
 
 The phone is still pre-encrypted anyway.
 
