@@ -8,19 +8,17 @@ Can't detect any thermal sensors (example: battery's temp, battery's voltage).
 
 Accelerometer, Light and Proximity sensors works fine.
 
-This explains somehow why the screen resets and the phone restart when booting up.
-
 * GPS:
 
-Might work.
+Didn't work. If worked. It uses Wi-Fi scanning and Bluetooth scanning. But very inaccurate.
 
 * Camera / Flashlight
 
-Flashlight in quick settings doesn't work in Android 8.1 (Retest needed). But Android 9 works.
+Flashlight works fine.
 
-Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM it's the same. Manual exposure option in settings doesn't do anything). Use Camera app from Stock ROM might helps.
+Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM when using this app, it's the same. Manual exposure option in settings doesn't do anything). Use Camera app from Stock ROM might helps.
 
-HDR isn't working whatsoever.
+HDR kinda works.
 
 Front camera works fine.
 
@@ -34,7 +32,7 @@ Works, FTP file transfer doesn't work with files like APK (content not supported
 
 * Wi-Fi:
 
-Tethering is broken (Probably will make modem fucked up).
+Works.
 
 * USB:
 
@@ -48,6 +46,8 @@ You still can show Internal storage over 3rd party app requesting picking file. 
 
 Use launcher shortcut to launch the app. It will allow you can see files in Internal storage once.
 
+If you made it crashed constantly. Clean up the app data will do the trick.
+
 * SIM / Mobile Data / Voice:
 
 Works, unstable.
@@ -58,17 +58,13 @@ You can't change networking band.
 
 Force the 1st SIM working in 2G first (and reboot) in Mobile network to make the modem software doesn't crashed. Then you will allowed to change any network mode without SIM unrecognizable bug.
 
-You need to reboot the phone every single time you change network band or network mode.
-
 For 2nd SIM/non-mobile data SIM. Choose 2G network.
 
 * GPU / Video decoding:
 
-Can't decode video when using FPS divisor in Phh Treble Setting or it just can't decode that video (Watching a YouTube video in Chromium. May vary because not every YouTube video using the same codec.)
+Works fine. You'll get extra 10 FPS out of 50 FPS on stock ROM.
 
-Haven't tested on GPU-side. But I think it will be okay.
-
-* Secure boot:
+* Secure boot (Applies to Android 9):
 
 If you enter the wrong password in the first place. System will force you to press Reset Phone button because you entered the "right" password.
 
@@ -83,46 +79,39 @@ But I bet it won't work.
 ***
 ## Additional Notes / Other Bugs
 
-Don’t use TWRP on this ROM. The pre-encrypted user's data in /data you used before flashing this ROM will cause boot loop into the TWRP (Unless you know the password, which is useless because if it was correct or not. It will say wrong anyway.).
+Keep the bootloader unlocked to Wipe data and cache properly when you using TWRP recovery.
 
-Use TWRP when you need to install zip or terminal.
-
-Please use the original recovery for this ROM and wipe data.
+There's a bug when previous userdata from stock ROM using with this GSI ROM will make the pre-encrypted user's data in /data corrupted and make a infinite bootloop into TWRP when you pressed RESET PHONE. So basically. You can't perform Resetting phone over TWRP. Use stock recovery instead.
 
 Booting into Android causes screen went out for a few secs and then booting up again.
 
 The phone is still pre-encrypted anyway.
 
-I tried to put some GMS (gapps) onto AOSP 9.0 Build and the ROM reboot like 2 or 3x before it can actually boot up after a reboot.
+The phone reboot once after it done with the first boot.
 
-The phone reboot once after it done with the first boot (Applies to Android 8.1 and 9).
+Google Play Services crashed alot. Install OpenGapps to fix this. But you need to manually removes Google apps and stock AOSP apps out of system due to lack of space.
 
-System UI Tuner's lock screen shortcut will not save its settings after a reboot (Android 9).
-
-System apps in Android 8.1 crashes a lot (Mostly Google Play services).
-
-You need to register the phone's ID before you can use any Google services or add Google account onto it. Or any Google app will spam the shit out the notification and you can't use any google services.
+You need to register the phone's ID before you can use any Google services or add Google account onto it. Or any Google app will spam the shit out the notification and you can't use any Google services.
 
 That means you need to skip the Setup Wizard screen without internet connection.
 
-Get the Device's Google ID first (Not Android's ID) by Downloading Device ID app, using terminal adb way will not work at all then register it at at g.co/AndroidDeviceRegistration.
+Get the Device's Google ID first (Not Android's ID) by Downloading Device ID app, using terminal adb way will not work at all. Then register it at at g.co/AndroidDeviceRegistration.
 
-Wipe or make Google Play services Force Stopped and try adding your account again.
+Wipe or make Google Play services Force stopped and try adding your account again.
 
 Definitely not for Daily Driver use.
-
 
 ***
 
 
 ## Tested by:
 
-Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 9/29/2018
+Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 10/10/2018
 
 ## Tested builds:
 
-Android 8.1 build v25 w/ Google apps
+Android 8.1 build v26 w/ Google apps and OpenGapps.
 
-Android 9.0 build v105 w/ no Google apps
+Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
 Template created by @zguithues
