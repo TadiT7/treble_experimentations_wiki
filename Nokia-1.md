@@ -62,6 +62,8 @@ For 2nd SIM/non-mobile data SIM. Choose 2G network or the phone modem will confu
 
 No USSD's messages. But performing USSD menu works fine.
 
+DO NOT PRE-SET SIM LOCK WHEN YOU PERFORM FIRST BOOT OR YOU'LL GET BOOTLOOPED!
+
 * GPU / Video decoding:
 
 Works fine. GPU works smoother in this ROM.
@@ -108,7 +110,7 @@ Definitely not for Daily Driver use.
 
 ## Tested by:
 
-Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 10/10/2018
+Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 10/11/2018
 
 ## Tested builds:
 
