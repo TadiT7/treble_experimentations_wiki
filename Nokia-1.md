@@ -16,9 +16,7 @@ Actually works. (Not tested on Android 9).
 
 Flashlight works fine.
 
-Back camera's exposure is very low and can't be changed with stock Camera2 app (Even on stock ROM when using this app, it's the same. Manual exposure option in settings doesn't do anything). Use Camera app from Stock ROM might helps.
-
-HDR kinda works.
+Unoptimized Camera2 app. Which leads to low-lighting on both front and back camera. Installing stock rom's Camera app might help.
 
 Front camera works fine.
 
