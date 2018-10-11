@@ -10,7 +10,7 @@ Accelerometer, Light and Proximity sensors works fine.
 
 * GPS:
 
-Didn't work. If worked. It uses Wi-Fi scanning and Bluetooth scanning. But very inaccurate.
+Didn't work. If worked. It uses Wi-Fi scanning and Bluetooth scanning. But very inaccurate. (Might need to test again).
 
 * Camera / Flashlight
 
@@ -72,7 +72,7 @@ Works fine. GPU works smoother in this ROM.
 
 If you enter the wrong password in the first place. System will force you to press Reset Phone button because you entered the "right" password.
 
-Reboot the phone and try de-encrypt the phone again. It should be ok.
+Reboot the phone and try de-encrypt (unlock) the phone again. It should be ok.
 
 * FM Radio:
 
@@ -95,11 +95,11 @@ The phone reboot once after it done with the first boot.
 
 Google Play Services crashed alot. Install OpenGapps to fix this. But you need to manually removes Google apps and stock AOSP apps out of system due to lack of space.
 
-You need to register the phone's ID before you can use any Google services or add Google account onto it. Or any Google app will spam the shit out the notification and you can't use any Google services.
+DO NOT SETUP ANY GOOGLE ACCOUNT OR CONNECTING THE PHONE TO THE INTERNET OR GOOGLE PLAY SERVICES WILL SPAM NOTIFICATION.
 
-That means you need to skip the Setup Wizard screen without internet connection.
+You need to register the GSF ID first at g.co/AndroidDeviceRegistration. Get the GSF ID by downloading Device ID app. Using terminal command will not do anything.
 
-Get the Device's Google ID first (Not Android's ID) by Downloading Device ID app, using terminal adb way will not work at all. Then register it at at g.co/AndroidDeviceRegistration.
+That means you need to skip the Setup Wizard screen without Internet connection or you'll stuck with Setup Wizard screen.
 
 Wipe or make Google Play services Force stopped and try adding your account again.
 
