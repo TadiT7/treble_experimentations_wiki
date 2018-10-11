@@ -10,7 +10,7 @@ Accelerometer, Light and Proximity sensors works fine.
 
 * GPS:
 
-Didn't work. If worked. It uses Wi-Fi scanning and Bluetooth scanning. But very inaccurate. (Might need to test again).
+Actually works. (Not tested on Android 9).
 
 * Camera / Flashlight
 
@@ -50,11 +50,9 @@ If you made it crashed constantly. Clean up the app data will do the trick.
 
 * SIM / Mobile Data / Voice:
 
-Works, more stable now.
+If you don't wanna mess with the phone being "No SIM card" all the time. Just stick a SIM on the phone when you perform first boot.
 
 Supports some of Network bands.
-
-3/4G bands are now working. No more modem software crashing.
 
 You can't change networking band in Testing settings.
 
@@ -108,7 +106,7 @@ Definitely not for Daily Driver use.
 
 ## Tested by:
 
-Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 10/11/2018
+Đức (Kutiz) @ Nokia 1 (TA-1047 DS Vietnam) @ 10/12/2018
 
 ## Tested builds:
 
