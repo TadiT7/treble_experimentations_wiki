@@ -91,8 +91,6 @@ Booting into Android causes screen went out for a few secs. The phone reboots af
 
 The phone is still pre-encrypted anyway.
 
-The phone reboot once after it done with the first boot.
-
 Google Play Services crashed alot. Install OpenGapps to fix this. But you need to manually removes Google apps and stock AOSP apps out of system due to lack of space.
 
 DO NOT SETUP ANY GOOGLE ACCOUNT OR CONNECTING THE PHONE TO THE INTERNET OR GOOGLE PLAY SERVICES WILL SPAM NOTIFICATION.
