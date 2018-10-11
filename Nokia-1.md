@@ -18,7 +18,7 @@ Flashlight works fine.
 
 Unoptimized Camera2 app. Which leads to low-lighting on both front and back camera. Installing stock rom's Camera app might help.
 
-Front camera works fine.
+Pretty much anything else works fine.
 
 * Speaker / Microphone:
 
