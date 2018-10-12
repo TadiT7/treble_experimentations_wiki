@@ -48,7 +48,7 @@ If you made it crashed constantly. Clean up the app data will do the trick.
 
 * SIM / Mobile Data / Voice:
 
-If you don't wanna mess with the phone being "No SIM card" all the time. Just stick a SIM on the phone when you perform first boot.
+If you don't wanna mess with the phone being "No SIM card" all the time. Just stick a SIM on the phone when you perform first boot. (Keep the Mobile data turned on).
 
 Supports some of Network bands.
 
