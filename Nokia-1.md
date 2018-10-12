@@ -48,6 +48,8 @@ If you made it crashed constantly. Clean up the app data will do the trick.
 
 * SIM / Mobile Data / Voice:
 
+Only Notifies one SIM incoming call. The 2nd SIM incoming call will be ignored.
+
 If you don't wanna mess with the phone being "No SIM card" all the time. Just stick a SIM on the phone when you perform first boot. (Keep the Mobile data turned on).
 
 Supports some of Network bands.
