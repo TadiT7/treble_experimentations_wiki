@@ -1,38 +1,35 @@
-Most stuff works fine except every 5 seconds there are some green lines on the camera and SafetyNet does not pass (not even on the nosu variant and also not by installing magisk 16.4, because it says the boot image is already patched and magisk manager force closes)
+# Huawei Honor 9 Lite
 
-Steps to install: Unlock your bootloader using this guide: https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903
+Most stuff works fine except every 5 seconds there are some green lines on the camera and SafetyNet does not pass (not even on the nosu variant and also not by installing magisk 16.4, because it says the boot image is already patched and magisk manager force closes).
 
-After that reboot to system, enable developer settings and disable OEM/FRP lock. Then reboot to fastboot (it should tell you bootloader is unlocked and FRP is unlocked) and run these 2 commands: 
-fastboot -w
-fastboot flash system system-arm64-aonly-gapps-su.img
+## Steps to install
 
-Then the device will bootloop 3 times. This is FINE! After the third boot the recovery tells you that the data partition has to be low level formatted. Click on okay and after that the device will boot just fine! :) As an alternative you can flash via TWRP as "System Image" and format data.
+* [unlock your bootloader](https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903) ;
+* enable developer settings and disable OEM/FRP lock ;
+* reboot to fastboot (it should confirm you that the bootloader and FRP are both unlocked) ;
+* [build your Generic Standard Image (GSI)](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI);
+* flash this image with the `fastboot` utility:
+    ```
+    $ fastboot -w
+    $ fastboot flash system system-arm64-aonly-gapps-su.img
+    ```
+    The device will bootloop 3 times. This is FINE! After the third boot the recovery tells you that the data partition has to be low level formatted. Click on okay and after that the device will boot just fine! :)
 
-Hardware Support
-Camera:
-Front and back camera works fine, but every 5 seconds there are minor green lines. There is a screenshot of that posted on XDA
+    As an alternative you can flash via TWRP as "System Image" and format data.
 
-Speaker / Microphone
-Speaker and microphone work fine
+## Hardware support
 
-Bluetooth
-Bluetooth works fine
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Issue: every ~5 seconds there are minor green lines.      |
+| Camera                    | OK                                                        |
+| Speaker / Mic             | OK                                                        |
+| Bluetooth                 | OK                                                        |
+| Wifi                       | OK                                                        |
+| SIM / Mobile Data / Voice | OK                                                        |
+| VoLTE                     | Unknown                                                   |
+| Fingerprint               | OK                                                        |
 
-Wifi
-Wifi works fine
+---
 
-SIM / Mobile Data / Voice
-SIM/Mobile Data/Voice works fine
-
-VoLTE
-I will not be able to test VoLTE
-
-Fingerprint Reader
-works fine
-
-Additional Notes
-see above the first few lines of this text.
-
-Tested By:
-kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018
-Template created by @zguithues
+Tested By: kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018 - Template created by @zguithues
