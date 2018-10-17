@@ -1,0 +1,1 @@
+You can read here first: https://forum.xda-developers.com/redmi-6-pro/how-to/guide-howto-flash-gsi-redmi-6-pro-sakura-t3852191
