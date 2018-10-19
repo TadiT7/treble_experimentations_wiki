@@ -13,7 +13,7 @@
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
 * LED Light 呼吸灯: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
-    * *If the light always on, reboot may help. 如果呼吸灯常亮，重启可能解决问题。*
+    * *If the light always on, reboot may help. 如果呼吸灯常亮，重启可能解决问题。*-->[#197](https://github.com/phhusson/treble_experimentations/issues/197)
 
 * Speaker / Microphone 听筒/麦克风: OK
 
@@ -39,11 +39,12 @@
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
     * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#fingerprint-key) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#fingerprint-key))
-  * Goodix: **Not working 不可用**
+  * Goodix: **Not working 不可用**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
 * Brightness control 亮度控制: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
-    * **Auto brightness seems not working. 自动亮度似乎不可用。**
+    * **Auto brightness seems not working. 自动亮度似乎不可用。**-->[#226](https://github.com/phhusson/treble_experimentations/issues/226)
+    * **The minimum brightness is still brighter. 最低亮度仍然比较亮。**-->[#224](https://github.com/phhusson/treble_experimentations/issues/224)
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
   * 8.1: 
@@ -57,9 +58,14 @@
       * USB Debugging USB 调试: OK
       * USB Network Sharing USB 网络共享: OK
       * Audio Jack 耳机插槽: OK
-      * MTP/PTP: **Not working 不可用**
+      * MTP/PTP: **Not working 不可用**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
       * OTG: **Not Working 不可用**
   * *Quick charge works better than stock MIUI, but the phone didn't show the charging status while quick charging. 快充较官方 MIUI 表现更好，但快充时不显示充电信息。*
+
+* Sensors 传感器:
+  * Pedometer 计步器：
+    * 8.1: **Untested 未测试**
+    * 9.0: **Always zero 始终为零**
 
 ## How To Flash 如何刷入
 
