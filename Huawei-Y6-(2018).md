@@ -32,6 +32,9 @@ Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911*
 * GPS
 > **Working partially.** It sees satellites, but is not able to lock on any of them.
 
+* Mobile Tethering/Hotspot
+> Works. USB Tethering not tested.
+
 * Fingerprint Reader
 > Not tested (ATU-L22 is the variant w/o a fingerprint sensor)
 
