@@ -2,7 +2,9 @@
 ![Huawei Y6 (2018)](https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg)
 
 Device **partially** supported.
-Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911**](https://download.pixelexperience.org/treble_gsi/).
+Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911**](https://download.pixelexperience.org/treble_gsi/). Feedbacks from Huawei Y6 XDA for the
+
+* ATU-L42 (nafis5566@XDA)
 
 **This device is A-only.**
 
@@ -25,7 +27,7 @@ Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911*
 > Works
 
 * Mobile Data/RIL
-> **Signal indicator is always empty on 3G (H/H+), regardless of real signal level** (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE).
+> **Signal indicator is always empty on 3G (H/H+), regardless of real signal level on ATU-L21/L22** (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE).
 
 > Otherwise, it works. Phone calls loud and clear.
 
@@ -36,7 +38,7 @@ Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911*
 > Works. USB Tethering not tested.
 
 * Fingerprint Reader
-> Not tested (ATU-L22 is the variant w/o a fingerprint sensor)
+> **Tested working on ATU-L42.** Other variants not tested.
 
 * Face unlock
 > Works with Google Face Unlock
