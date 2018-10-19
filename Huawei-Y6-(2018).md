@@ -14,7 +14,6 @@ Feedbacks from Huawei Y6 XDA for the
 
 * Bootloop on **all** Android 9.0 (Pie) ROMs
 * Bootloop on AOSP 8.1 v25+ (and all derivatives)
-* Device is stuck at 1094-1401Mhz (no deep sleep). A custom kernel may be required.
 
 ## Hardware support
 
