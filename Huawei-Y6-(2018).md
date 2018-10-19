@@ -30,10 +30,10 @@ Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911*
 > Otherwise, it works. Phone calls loud and clear.
 
 * GPS
-> Working partially. It sees satellites, but is not able to lock on any of them.
+> **Working partially.** It sees satellites, but is not able to lock on any of them.
 
 * Fingerprint Reader
-> Not present on device
+> Not tested (ATU-L22 is the variant w/o a fingerprint sensor)
 
 * Face unlock
 > Works with Google Face Unlock
