@@ -34,7 +34,7 @@ Feedbacks from Huawei Y6 XDA for the
 > Otherwise, it works. Phone calls loud and clear.
 
 * GPS
-> **Working partially.** It sees satellites, but is not able to lock on any of them.
+> **Mostly works.** It sees satellites and is able to determine precise location, but is not able to lock on any of them.
 
 * Mobile Tethering/Hotspot
 > Works. USB Tethering not tested.
