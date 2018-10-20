@@ -68,7 +68,8 @@ A list of working ROMs for the Huawei Y6 (2018) are available [here (XDA)](https
 * A way to root the device (if not present) is available [here (XDA)](https://forum.xda-developers.com/huawei-y6/development/root-magisk-huawei-y6-2018-root-atomu-t3853511)
 
 > This may not work on other custom kernels (only tested with stock kernel)
-> NEVER install any Magisk module or you will bootloop.
+
+> **NEVER install any Magisk module or you will bootloop.**
 
 
 
