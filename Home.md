@@ -23,6 +23,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
+|[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
