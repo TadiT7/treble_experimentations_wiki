@@ -29,7 +29,7 @@ Feedbacks from Huawei Y6 XDA for the
 > Works
 
 * Mobile Data/RIL
-> **ATU-L2x:** Signal indicator is always empty on 3G (H/H+), regardless of real signal level (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE).
+> Signal indicator is always empty on 3G (H/H+), regardless of real signal level (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE).
 
 > Otherwise, it works. Phone calls loud and clear.
 
