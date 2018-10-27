@@ -1,0 +1,1 @@
+system.img for A-only ARM64 devices with GApps and SU installs normally on Umidigi Z2 Special Edition.   Wifi works however no cellular service =  no phone calls or data.
