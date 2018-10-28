@@ -32,7 +32,7 @@ A-Only-32bit-Vanilla- no su
 > Compass working
 
 
-*There is no NFC switch in setting
+* There is no NFC switch in setting
 
 ## Next known bugs:
 * Moto G6 have only one partition (A-only)
