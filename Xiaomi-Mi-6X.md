@@ -2,13 +2,13 @@
 
 **Bugs and untested items are shown bold. 3rd-party apps untested. 问题和未测试项以粗体显示。未测试第三方应用。**
 
-**[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us) [临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn)**
+**[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us) [临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
 
 * Camera 摄像头
-  * Front 前置: OK (AOSP 9.0 v106) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
+  * Front 前置: OK (AOSP 9.0 v106) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
   * Rear 后置: 
-    * Upper one 上方摄像头: **Not working 不可用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#dual-cam) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#dual-cam))
+    * Upper one 上方摄像头: **Not working 不可用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#dual-cam))
     * Lower one 下方摄像头: OK
   * **Enabling Do Not Disturb (DND) will cause stock camera app to FC (force close). 开启勿扰会导致默认相机强行停止。**-->[#161](https://github.com/phhusson/treble_experimentations/issues/161)
 
@@ -32,13 +32,13 @@
 
 * RIL (Calls 通话 / SMS 短信 / Data 数据):
   * CMCC/CHN-UNICOM 中国移动/中国联通: OK
-  * CHN-CT 中国电信: **LTE Only by default 默认情况下仅限 4G 网络** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#cdma-network) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#cdma-network))
+  * CHN-CT 中国电信: **LTE Only by default 默认情况下仅限 4G 网络** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#cdma-network) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#cdma-network))
   * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default 默认禁用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#volte-support) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#volte-support))
+  * VoLTE: **Disabled by default 默认禁用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support))
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
   * FPC: OK
-    * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#fingerprint-key) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#fingerprint-key))
+    * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#fingerprint-key) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#fingerprint-key))
   * Goodix: **Not working 不可用**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
@@ -112,7 +112,7 @@ finished. total time: 13.614s
 
 ## Notes 注意
 
-* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**-->[Disable Encryption](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/en_us#disable-encryption) [禁用加密](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/zh_cn#disable-encryption)
+* **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**-->[Disable Encryption](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#disable-encryption) [禁用加密](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#disable-encryption)
 * **Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。**
   * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
 * Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。
