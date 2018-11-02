@@ -1,8 +1,10 @@
 ## Function Availability & Known Bugs 功能可用性和已知问题
 
-**Bugs and untested items are shown bold. 3rd-party apps untested. 问题和未测试项以粗体显示。未测试第三方应用。**
+>**The following reports are based on MIUI 10 (8.7.26), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />以下报告基于 MIUI 10（8.7.26），如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。**
 
-**[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us) [临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
+>**Bugs and untested items are shown bold. 3rd-party apps untested. 问题和未测试项以粗体显示。未测试第三方应用。**
+
+>**[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us) [临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
 
 * Camera 摄像头
   * Front 前置: OK (AOSP 9.0 v106) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
@@ -110,13 +112,17 @@ finished. total time: 13.614s
 ````
 * Reboot and Enjoy! 重启体验吧！
 
-## Notes 注意
+## Notes 注意事项
 
 * **After v23, `/data` partition will be encrypted. Please backup your data before flashing. v23 版本后 `/data` 分区会被加密。请在刷入前备份数据。**-->[Disable Encryption](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#disable-encryption) [禁用加密](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#disable-encryption)
 * **Rollback protection will be enabled for Xiaomi Mi 6X after MIUI Stable V9.6.4.0 / Dev 8.8.6. You can still flash GSI images after those version, but you should avoid flashing any MIUI ROM older than those, or your phone will be bricked. 小米 6X 将在 MIUI 稳定版 V9.6.4.0 / 开发版 8.8.6 之后开启防回刷机制。你仍可以刷入 GSI 映像，但你应避免刷入更早的 MIUI ROM，否则手机会变砖。**
-  * *It's not affected if you never flash after those version. (I (suwakowww) was using MIUI Dev 8.7.26 before flashing.) 如从未刷入过这些版本则不受影响。（我（suwakowww）在刷入前使用 MIUI 开发版 8.7.26。）*
-* Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。
+  * *It's not affected if you never flash after those version. 如从未刷入过这些版本则不受影响。*
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition. 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
+
+## Notes about Custom ROMs 关于自定义 ROM 的注意事项
+
+* Some people reported that brightness are locked (based on AOSPExtended), the maintainer ([fatesay](https://github.com/bin8001)) recommended to flash other custom roms first. 有人报告在使用过 AOSPExtended 然后刷入 GSI 会出现亮度被锁定的问题，维护人员（[fatesay](https://github.com/bin8001)）建议先行刷入其它自定义刷机包。
+* Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM. 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。
 
 
 ## Tested By 由以下人员测试
