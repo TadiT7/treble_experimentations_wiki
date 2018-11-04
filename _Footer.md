@@ -1,0 +1,2 @@
+Notice Please:If you have already updated to miui 10.11.1 (p) or later,please roll back to miui (o) for 8.1 vendor,and then you can flash the gsi nomally,cause the gsis here cant work with the p vendor.
+Another Notice:recently miui will not push anti-roll-back path,cause the miui not stable now.
