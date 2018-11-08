@@ -99,6 +99,8 @@ You need to register the GSF ID first at g.co/AndroidDeviceRegistration. Get the
 
 Wipe, reboot or make Google Play services force stopped and try adding your account again.
 
+Alternatively. adb root and then mount /system and go edit prop.default and build.prop to match the original fingerprint of the ROM and it should not be detected as a different phone with unofficial fingerprint (You can edit build numbers).
+
 Definitely not for Daily Driver use.
 
 ***
