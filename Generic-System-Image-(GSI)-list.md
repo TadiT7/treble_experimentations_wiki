@@ -29,10 +29,10 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AquariOS|a1Pha|[Here](https://www.storozhev.net/p20pro/aquarios-system-arm64_aonly_0.1.img)|A|arm64|
 |ArrowOS|bauuuuu|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-arrowos-gsi-t3819467)|A - A/B|arm64|
 |BootleggersROM|merothh|[Here](https://www.androidfilehost.com/?fid=890278863836285424)|A|arm64|
-|BootleggersROM|dil3mm4.dev|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/shishufied-bootleggers-2-3-gsi-t3808144)|A - A/B|arm64|
+|BootleggersROM|dil3mm4|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/shishufied-bootleggers-2-3-gsi-t3808144)|A - A/B|arm64|
 |CarbonRom|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-carbonrom-noct-t3821947)|A - AB |arm - arm64|
 |CosmicOS|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/cosmic-ospulsar8-1-0201805243-2-t3794806)|A - A/B|arm64|
-|CrDroid|dil3mm4.dev|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-crdroid-4-4-t3813104)|A - A/B|arm64|
+|CrDroid|dil3mm4|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-crdroid-4-4-t3813104)|A - A/B|arm64|
 |dotOS|dotOS Team|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-droidontime-dotos-2-x-t3794338)|A - A/B|arm64|
 |DU|ATechnoHazard|[Here](https://androidfilehost.com/?fid=674106145207487736)|A|arm64|
 |DU|Faiyaz|[Here]( https://drive.google.com/folderview?id=1SsPuw3ZtTvoslJyqwSJsmDQ42qvJvYVN)|A|arm - arm64|
