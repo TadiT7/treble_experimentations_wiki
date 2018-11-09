@@ -10,6 +10,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AOSP 9.0|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915)|A - A/B|arm - arm64|
 |ArrowOS|ganesh varma|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-arrowos-t3835111)|A - A/B|arm64|
 |BenzoRom|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
+|Descendant|Dil3mm4|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)|A - A/B| arm64 - arm|
 |Havoc-OS|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-havoc-os-8-1-t3819050)|A - A/B|arm64|
 |LineageOS 16.0|avirk|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-lineageos-16-0-treble-t3835094)|A - A/B|arm64|
 |Omni|EnesSastim|[Here](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm64|
