@@ -5,7 +5,7 @@ And it seems that the miui of China version cant be the base,personally tried wi
 
 Firstly,please ensure that you shouldnt run your phone with China version miui,eu version can be good. And you should ensure that you know something about the fastboot,recovery and magisk. (The 3.2.3 version of unofficial TWRP can be used.)
 
-Then,please download the gsi(PE Arrow and so on).img, FBE_Disabler.zip and magisk17.1.zip(if boot filed please flash it,download link can be found below).
+Then,please download the gsi(PE Arrow and so on).img, FBE_Disabler.zip and magisk17.1.zip(if boot failed please flash it,download link can be found below).
 
 And
     reboot to recovery and wipe data
