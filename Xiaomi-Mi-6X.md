@@ -7,7 +7,7 @@
 >**[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us) [临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
 
 * Camera 摄像头
-  * Front 前置: OK (AOSP 9.0 v106) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
+  * Front 前置: OK (AOSP 9.0 v106+) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
   * Rear 后置: 
     * Upper one 上方摄像头: **Not working 不可用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#dual-cam))
@@ -26,8 +26,8 @@
 
 * Wi-Fi: 
   * Client 客户端: OK
-  * Server (Hotspot) 服务器 (热点): OK (AOSP 8.1 v22+ / AOSP 9.0 v105+)
-    * **You will get a hotspot without encryption on AOSP 9.0. 你会得到一个无加密的热点。**
+  * Server (Hotspot) 服务器 (热点): OK (AOSP 8.1 v22+ / AOSP 9.0 v107+)
+    * **5GHz Wi-Fi hotspot is not working. 5GHz Wi-Fi 热点不可用。**
   * Cast 投屏: 
     * 8.1: **Untested 未测试**
     * 9.0: **Not working 不可用**
@@ -39,13 +39,11 @@
   * VoLTE: **Disabled by default 默认禁用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support))
 
 * Fingerprint Reader 指纹识别: *Varies by the manufacturer 因制造商而异*
-  * FPC: OK
-    * **It will send "return (enter)" key in normal use. 在正常使用时会发送“回车”键。** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#fingerprint-key) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#fingerprint-key))
+  * FPC: OK (AOSP 9.0 v107+)
   * Goodix: **Not working 不可用**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
   * *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again. 你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* Brightness control 亮度控制: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
-    * **Auto brightness seems not working. 自动亮度似乎不可用。**-->[#226](https://github.com/phhusson/treble_experimentations/issues/226)
+* Brightness control 亮度控制: OK (AOSP 9.0 v107+ / AOSP 8.1 v25)
     * **The minimum brightness is still brighter. 最低亮度仍然比较亮。**-->[#224](https://github.com/phhusson/treble_experimentations/issues/224)
 
 * USB connection USB 连接: *Varies by Android system version 因 Android 系统版本而异*
@@ -138,3 +136,5 @@ finished. total time: 13.614s
 * markg85 @ AOSP v25 @ unknown, 2018-09-06
 * suwakowww @ AOSP v105 @ system-arm64-aonly-gapps-su.img, 2018-09-19
 * suwakowww @ AOSP v106 @ system-arm64-aonly-gapps-su.img, 2018-10-03
+* markg85 @ AOSP v106, AOSP v107 @ unknown, 2018-11-10, 2018-11-09, **Boot loop [#281](https://github.com/phhusson/treble_experimentations/issues/281)**
+* suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-10
