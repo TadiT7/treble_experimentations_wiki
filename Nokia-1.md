@@ -46,17 +46,21 @@ Use a launcher shortcut to launch the app or in Storage settings.
 
 If you made it crashed constantly. Clean up the app data will do the trick.
 
+Use Google's Files app (Previously Files go). It will show you both Internal and SD card storage.
+
 * SIM:
 
 Only notifies one SIM incoming call. The 2nd random SIM incoming call will be ignored (Fucked up Dual SIM-Dual Standby mode).
 
-If you don't wanna mess with the phone being "No SIM card" all the time: In Android 8, go to Mobile data settings, make only one SIM slot have Mobile data enabled. Other wise modem will be crashed. Reboot to take effects.
+2G networking will make the phone somehow unrecognize the SIM. (Don't try to switch this network) or 
 
-I didn't find any obvious way to fix this yet in Android 9. But let the phone booted up after 2 mins will make the Modem software stable but Mobile data have to turned on.
+If you don't wanna mess with the phone being "No SIM card" or No network receptions: Set phone networking mode to LTE/WCDMA (not LTE/UMTS (auto PRL)) or edit build.prop and add this line "ro.telephony.default_network=12" at first boot or somehow you can access networking menu in Android 9. That will make the modem stable.
+
+Rather don't use 2 SIM in this phone.
 
 Supports some of Network bands (Better network bands support in Android 8.1).
 
-You can't change networking band in Testing settings.
+You can't change working Network band in Testing settings.
 
 For 2nd SIM/non-mobile data SIM. Choose 2G network or the phone modem will confused and crashed.
 
