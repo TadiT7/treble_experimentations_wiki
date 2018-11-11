@@ -97,13 +97,11 @@ The phone is still pre-encrypted anyway.
 
 Google Play Services crashed a lot. Install OpenGapps to fix this. But you need to manually remove all Google apps and stock AOSP apps out of system due to lack of space or pick a Non-Gapps Treble build.
 
-You need to skip the Setup Wizard screen without Internet connection and SIM or you'll stuck with Setup Wizard screen (Mostly because it didn't show skip button when selecting network and spamming unofficial phone ROM detection).
+You need to skip the Setup Wizard screen without Internet connection and SIM or you'll stuck with Setup Wizard screen (Because you haven't add "ro.setupwizard.mode=OPTIONAL or DISABLED" and stuck at Checking for Updates screen).
 
-You need to register the GSF ID first at g.co/AndroidDeviceRegistration. Get the GSF ID by downloading Device ID app. Using terminal command like in Google website instructions will not do anything.
+If so. You need to register the GSF ID first at g.co/AndroidDeviceRegistration. Get the GSF ID by downloading Device ID app. Using terminal command like in Google website instructions will not do anything. Wipe, reboot or make Google Play services force stopped and try adding your account again.
 
-Wipe, reboot or make Google Play services force stopped and try adding your account again.
-
-Alternatively. adb root and then mount /system and go edit prop.default and build.prop to match the original fingerprint of the ROM and it should not be detected as a different phone with unofficial fingerprint (You can edit build numbers).
+Alternatively. adb root and then mount /system and go edit prop.default (in /system/etc) and build.prop to match the original fingerprint of the ROM and it should not be detected as a different phone with unofficial fingerprint (You can edit build numbers and Android version).
 
 Definitely not for Daily Driver use.
 
@@ -112,7 +110,7 @@ Definitely not for Daily Driver use.
 
 ## Tested by:
 
-Kutiz w/ Nokia 1 (TA-1047 DS Vietnam) @ 11/07/2018
+Kutiz w/ Nokia 1 (TA-1047 DS Vietnam) @ 11/11/2018
 
 ## Tested builds:
 
