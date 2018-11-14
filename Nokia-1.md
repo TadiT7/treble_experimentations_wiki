@@ -7,25 +7,16 @@
 - What doesn't work or work improperly: Sensors, GPS, Camera (Explain below), FM Radio, SIM and Built-in GMS from Android 8.1.
 
 ## Storage:
-
-Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
-
-Showing Internal Storage no longer crashing the Files app anymore.
+- Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
+- Showing Internal Storage no longer crashing the Files app anymore.
 
 ## SIM:
-
-Almost fixed everything.
-
-No more SIM unrecognizing, Modem crashing. (You can choose 2G network or 2G only working along side with 4G aka LTE/UMTS (auto PRL)).
-
-Network bands are now can be selected in Testing settings. (star pound star pound 4636 pound star pound star)
-
-You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM like version 00WW_0_* one. Both SIM will have no signal.
-
+- No more SIM unrecognizing, Modem crashing. (You can choose 2G network or 2G only working along side with 4G aka LTE/UMTS (auto PRL)).
+- Network bands are now can be selected in Testing settings. (star pound star pound 4636 pound star pound star)
+- You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM like version 00WW_0_* one. Both SIM will have no signal.
 
 ## Notes:
-
-Unlisted categories means they have behaviors the same with the previous vendor build.
+- Unlisted categories means they have behaviors the same with the previous vendor build.
 
 ## *Hardware Support (For vendor from build 00WW_0_)*
 
