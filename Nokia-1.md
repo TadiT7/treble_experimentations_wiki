@@ -1,6 +1,30 @@
 # [Nokia 1] - [frt]
 
-## Hardware Support
+## *Hardware Support (For vendor from build 00WW_1_*)
+
+* Storage:
+
+Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
+
+Showing Internal Storage no longer crashing the Files app anymore.
+
+* SIM:
+
+Almost fixed everything.
+
+No more SIM unrecognizing, Modem crashing. (You can choose 2G network or 2G only working along side with 4G aka LTE/UMTS (auto PRL)).
+
+Network bands are now can be selected in Testing settings. (star pound star pound 4636 pound star pound star)
+
+You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM like version 00WW_0_* one. Both SIM will have no signal.
+
+Still no USSD messages (Except ones with answering option. This is common problem with the ROM build, not the phone itself).
+
+* Notes:
+
+Unlisted categories means they have behaviors the same with the previous vendor build.
+
+## Hardware Support (For vendor from build 00WW_0_*)
 
 * Sensors
 
@@ -50,19 +74,21 @@ Use Google's Files app (Previously Files go). It will show you both Internal and
 
 * SIM:
 
-Only notifies one SIM incoming call. The 2nd random SIM incoming call will be ignored (Fucked up Dual SIM-Dual Standby mode).
+Only notifies 2nd SIM incoming call. The 1st SIM incoming call will be ignored.
 
-2G networking will make the phone somehow unrecognize the SIM. (Don't try to switch this network) or 
+2G networking will make the phone somehow unrecognize the SIM. (Don't try to switch this network)
+
+You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM.
 
 If you don't wanna mess with the phone being "No SIM card" or No network receptions: Set phone networking mode to LTE/WCDMA (not LTE/UMTS (auto PRL)) or edit build.prop and add this line "ro.telephony.default_network=12" at first boot or somehow you can access networking menu in Android 9. That will make the modem stable.
 
 Rather don't use 2 SIM in this phone.
 
-Supports some of Network bands (Better network bands support in Android 8.1).
+Supports some of Network bands (Better network bands support in Android 8.1. It doesn't mean it you will get signal like OG ROM).
 
 You can't change working Network band in Testing settings.
 
-For 2nd SIM/non-mobile data SIM. Choose 2G network or the phone modem will confused and crashed.
+For 2nd SIM (Non-mobile data SIM). Choose 2G network and disable Mobile data for that SIM or the phone modem will confused and there will be no signal from any SIM.
 
 No USSD's messages. But performing USSD menu works fine.
 
@@ -84,9 +110,7 @@ If you want to wipe data. Go to fastboot mode and do "fastboot -w" if you unlock
 
 * FM Radio:
 
-You don't need this shit 😂😂😂 (Not tested and there are no apps for FM Radio to test its functionality).
-
-But I bet it won't work.
+Not tested and there are no apps for FM Radio to test its functionality. But perhaps it won't work.
 
 ***
 ## Additional Notes / Other Bugs
@@ -110,10 +134,10 @@ Definitely not for Daily Driver use.
 
 ## Tested by:
 
-Kutiz w/ Nokia 1 (TA-1047 DS Vietnam) @ 11/11/2018
+Kutiz w/ Nokia 1 (TA-1047 DS Vietnam) @ 11/15/2018
 
 ## Tested builds:
 
-Android 8.1 build v26 w/ Google apps and OpenGapps.
+Android 8.1 build v26 w/ Google apps and OpenGapps (With both vendor 00WW_1_* and 00WW_0_*
 
 Android 9.0 build v106 w/ no Google apps and OpenGapps.
