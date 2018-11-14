@@ -3,8 +3,8 @@
 ## *Hardware Support (For vendor from build 00WW_1_)*
 
 ## TL;DR
-- What works flawlessly: Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage and GPS (Android 8.1 only).
-- What doesn't work or work improperly: Sensors, GPS, Camera (Explain below), FM Radio, SIM and Built-in GMS from Android 8.1.
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage and GPS (Android 8.1 only).
+- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera (Explain below), FM Radio, SIM and Built-in GMS (Android 8.1).
 
 ## Storage:
 - Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
@@ -21,29 +21,26 @@
 ## *Hardware Support (For vendor from build 00WW_0_)*
 
 ## TL;DR
-- What works flawlessly: Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only)
-- What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera (Explain below), FM Radio, Storage, SIM and Built-in GMS from Android 8.1.
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only)
+- What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera (Explain below), FM Radio, Storage, SIM and Built-in GMS (Android 8.1).
 
 ## Sensors
-
 - Can't detect any thermal sensors (example: battery's temp, battery's voltage).
-- Accelerometer, Light and Proximity sensors works fine.
 
-## GPS (Android 9):
-- Works, kind of (No GPS signal, but does when have Wi-Fi and Mobile data connection around).
+## GPS (Android 9 only):
+- No GPS signal, but does when have Wi-Fi and Mobile data connection around.
 
 ## Camera
 - Theoretically works perfectly.
 - Unoptimized Camera app. Which leads to low-lighting on both front and back camera. Installing Stock ROM's Camera app might help but won't save pics.
 - Camera app from Android 4.x will fix everything (Not Gallery app from MediaTek, Must be Stock Google Gallery or Camera ones).
 
-## Wi-Fi:
-- Works. Tethering doesn't work with Android 9.
+## Wi-Fi (Android 9):
+-  Tethering doesn't work.
 
 ## Storage:
-- Works. But, Files app doesn't like you showing Internal storage (Constantly crashing app). If you made it crashed constantly. Clean up the app data will do the trick.
-- By default, the Files app icon on Launcher will be disabled.
-- Use a launcher shortcut to launch the app or in Storage settings.
+- Files app will crash if you trying to show Internal storage. If you made it crashed constantly. Clean up the app data will do the trick.
+- By default, the Files app icon on Launcher will be disabled. Go to Storage settings to explore.
 - Use Google's Files app (Previously Files go). It will show you both Internal and SD card storage without any compromises.
 
 ## SIM:
@@ -81,4 +78,4 @@
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
-Last edited: 1:31 AM, 11/15/2018
+Last edited: 1:40 AM, 11/15/2018
