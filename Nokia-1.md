@@ -3,8 +3,8 @@
 ## *Hardware Support (For vendor from build 00WW_1_)*
 
 ## TL;DR
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage and GPS (Android 8.1 only).
-- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera (Explain below), FM Radio, SIM and Built-in GMS (Android 8.1).
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1).
+- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera (Explain below),Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1).
 
 ## Storage:
 - Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
@@ -53,14 +53,14 @@
 - You cannot make 2nd SIM work like 1st SIM acting as a 4G capable Mobile data SIM (No network on both SIM if you try to do that).
 **_DO NOT PRE-SET SIM LOCK WHEN YOU PERFORM FIRST BOOT OR YOU'LL GET BOOTLOOPED!_**
 
-* Secure boot (Applies to Android 9):
+## Secure boot (Android 9):
 - If you enter the wrong password in the first place. System will force you to press Reset Phone button because you entered the "right" password. **_(1)_**
 - Reboot the phone and try de-encrypt (unlock) the phone again. It should be ok.
 **_Do not use TWRP to wipe data or use it as main recovery when resetting phone because it will make system fucked up like in (1) and then bootlooped. Only flashing back to stock recovery will solve the problem._**
 - If you want to wipe data. Go to fastboot mode and do "fastboot -w" if you unlocked bootloader. Or wipe it normally with stock recovery.
 
 ***
-## Additional Notes / Other Bugs
+## Notes / Other Bugs
 - Booting into Android causes screen went out for a few secs. The phone reboots after first boot.
 - The phone is still pre-encrypted anyway (Even if you wiped it with TWRP and Not recommended).
 - Google Play Services crashed a lot. Install OpenGapps to fix this. But you need to manually remove all Google apps and stock AOSP apps out of system due to lack of space or pick a Non-Gapps Treble build.
@@ -78,4 +78,4 @@
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
-Last edited: 1:41 AM; November 15, 2018
+_**Last updated:** 1:44 AM; November 15, 2018_
