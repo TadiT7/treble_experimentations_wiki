@@ -1,6 +1,6 @@
 # [Nokia 1] - [frt]
 
-## *Hardware Support (For vendor from build 00WW_1_*)
+## *Hardware Support (For vendor from build 00WW_1_)*
 
 * Storage:
 
@@ -24,7 +24,7 @@ Still no USSD messages (Except ones with answering option. This is common proble
 
 Unlisted categories means they have behaviors the same with the previous vendor build.
 
-## Hardware Support (For vendor from build 00WW_0_*)
+## *Hardware Support (For vendor from build 00WW_0_)*
 
 * Sensors
 
