@@ -37,3 +37,4 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
   - dotOS Oreo: there are some graphic glitches in chrome on some sites, but everything else seems to work
   - OmniROM Pie: Gapps are crashing
   - Treblized 0-s: Hotspot doesn't work even without secuirty, fingerprints are dumped after reboot, Chrome Canary doesn't load pages (Firefox and Jelly works without problem)
+  - MiUI 10 sGSI: bootloop
