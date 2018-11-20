@@ -116,6 +116,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5A]]|riva||A|arm64|
+|[[Xiaomi Redmi 6]]|cereus|✓|A|arm|
+|[[Xiaomi Redmi 6A]]|cactus|✓|A|arm|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
