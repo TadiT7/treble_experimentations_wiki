@@ -59,7 +59,8 @@
       * USB Network Sharing USB 网络共享: OK
       * Audio Jack 耳机插槽: OK
       * MTP/PTP: **Not working 不可用**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
-      * OTG: **Not Working 不可用**
+      * OTG: OK
+        * *If you can't use otg, please change better one. 如果你不能使用 OTG，请换一根好一点的线缆。*
   * *Quick charge works better than stock MIUI, but the phone didn't show the charging status while quick charging. 快充较官方 MIUI 表现更好，但快充时不显示充电信息。*
 
 * Sensors 传感器:
