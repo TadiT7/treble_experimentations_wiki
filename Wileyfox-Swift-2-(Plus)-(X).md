@@ -38,3 +38,6 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
   - OmniROM Pie: Gapps are crashing
   - Treblized 0-s: Hotspot doesn't work even without secuirty, fingerprints are dumped after reboot, Chrome Canary doesn't load pages (Firefox and Jelly works without problem)
   - MiUI 10 sGSI: bootloop
+
+## Tested by WilhelmErasmus:
+  - PixelExperience Pie: Audio works but WiFi Hotspot kees on being disabled. Fingerprint scanner does not work and camera patch also doesn't work.
