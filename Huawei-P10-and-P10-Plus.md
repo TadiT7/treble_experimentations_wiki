@@ -61,3 +61,5 @@ If you will wipe data in TWRP, the LineageOS will not be able to write to userda
 
 Why MindTheGapps??? Because [OpenGApps](https://opengapps.org/) is not working. When installing using TWRP it's rising error 20 detecting that we have wrong Android (it minds that we have Android 7.1.2 with wrong SDK level).
 
+#### Note: OpenGapps for Android 9.0 (Pie) is now working for Pie GSIs.
+
