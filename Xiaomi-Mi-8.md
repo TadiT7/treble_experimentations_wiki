@@ -67,7 +67,7 @@
 
 ## Notes 注意事项
 
-* None for now. 暂无。
+* If you living in China, recommends to logout your Google Account and pull out all of your SIM card first, or it may let you stuck on "Checking information" after flashed. 如果你在中国居住，建议在刷入前退出你的 Google 账户并取出所有 SIM 卡，否则有可能在“正在核对信息”处卡住。
 
 ## Notes about Custom ROMs 关于自定义 ROM 的注意事项
 
