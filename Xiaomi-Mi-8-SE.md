@@ -34,4 +34,5 @@
 5. Next go to `INSTALL > IMAGES`, enter the directory `/data/media/0/TPWR`, flash file `IMG` then select the `PARTITION SYSTEM` and finish by pressing `SWIPE TO CONFIRM FLASH`
 6. Restart to `SYSTEM` (Normal restart)
 7. Wait for the installation to finish and the system will start the initial screen of `AOSP 9 PIE`
+
 Enjoy
