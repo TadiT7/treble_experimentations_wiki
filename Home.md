@@ -19,6 +19,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus ZenFone Max M1 (ZB555KL)]]|x00pd|✓|A|arm64|
 |[[Asus ZenFone 5Z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
+|[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
