@@ -101,7 +101,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 6]]|sagit||A|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
+|[[Xiaomi Mi 8 EE / 8 Pro / UD (China)]]|ursa and equuleus|✓|A|arm64|
 |[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
+|[[Xiaomi Mi 8 Lite]]|platina|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
@@ -109,6 +111,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi MIX]]|lithium||A|arm64|
 |[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
 |[[Xiaomi Mi MIX 2S]]|polaris|✓|A|arm64|
+|[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
@@ -125,6 +128,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
+|[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
