@@ -11,7 +11,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **How to build a GSI?** : Check this guide here [[How to build a GSI?]]
 
-|Device Name|Codename|Support from OEM|Partition Style|Architecture|
+**Why should I use build for A/B for some A-only device?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "system-as-root". Before this change, only A/B devices were system-as-root and GSI was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
+
+|Device Name|Codename|Support from OEM|Image Name|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
