@@ -11,7 +11,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **How to build a GSI?** : Check this guide here [[How to build a GSI?]]
 
-**Why should I use build for A/B to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "system-as-root". Before this change, only A/B devices were system-as-root and GSI was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
+**Why should I use GSI for A/B devices to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "[system-as-root](https://source.android.com/devices/bootloader/system-as-root)". Before this change, only A/B devices were system-as-root and GSI name was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
 
 |Device Name|Codename|Support from OEM|Image Name|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
