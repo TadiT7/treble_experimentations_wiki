@@ -1,5 +1,7 @@
 # Xiaomi Mi MIX 3
 
+Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root".
+
 ## Hardware Support
 
 * Camera:
