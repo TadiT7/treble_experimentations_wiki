@@ -4,6 +4,7 @@
 * Speakers: Work.
 * Bluetooth: Bluetooth Audio works. File transfer untested.
 * WiFi: Works.
+* Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer".
 
 ## Additional Notes:
 * Boot animation is missing on Phh-treble v25, unsure why.
