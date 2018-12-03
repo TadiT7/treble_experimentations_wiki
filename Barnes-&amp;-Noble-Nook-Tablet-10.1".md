@@ -8,6 +8,7 @@
 
 ## Additional Notes:
 * Boot animation is missing on Phh-treble v25, unsure why.
+** Can be fixed with https://github.com/phhusson/device_phh_treble/commit/92db7539d07ddb90f89fb611c6f32f3f72b3f349 .
 * Does not boot Phh-treble v107, seems to have errors with the GPU and KeyMaster.
 
 ## Tested By:
