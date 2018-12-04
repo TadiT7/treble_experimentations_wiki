@@ -69,11 +69,28 @@
 * Backup your data 备份数据
 * Unlock your phone 解锁手机
 * Flash TWRP 刷入 TWRP
+    * If you get anti <= 3: 如果你没有防回刷：
+        * Flash twrp directly: 直接进行刷入：
+        ````
+        fastboot flash recovery twrp-3.2.3-1-wayne.img
+        ````
+        * Then reboot to recovery. 然后重启到恢复环境。
+    * Or if you get anti >=4: 或者，如果你有防回刷：
+        * Flash `dummy.bin` first (find it yourself): 先刷入 `dummy.bin`（自己找）：
+        ````
+        fastboot flash antirbpass dummy.bin
+        ````
+        * Then flash TWRP: 然后刷入 TWRP：
+        ````
+        fastboot flash recovery twrp-3.2.3-1-wayne.img
+        ````
+        * Then reboot to recovery. 然后重启到恢复环境。
 * Boot into TWRP and wipe `/data`, `/cache`, `/dalvik-cache` and `/system` (Best format whole `/data` partition) 进入 TWRP，清除 `/data`、`/cache`、`/dalvik-cache` 和 `/system` （最好格式化整个 `/data` 分区）
 * Connect your phone to the computer, and mount `/sdcard` partition via MTP 将手机与电脑连接，在 MTP 上挂载 `/sdcard` 分区
 * Copy system image into your phone 将系统映像复制到手机
 * Flash system image (`*.img` files) in TWRP 在 TWRP 内刷入系统映像（`*.img` 文件）
 * Reboot and Enjoy! 重启体验吧！
+> If you get bootloop, try to flash Magisk before first boot (Magisk 16.7+ is recommended).<br />如果你遇到卡 Android logo，尝试刷入 Magisk 后进行首次开机（推荐 Magisk 16.7 以上版本）。
 
 ## Notes 注意事项
 
