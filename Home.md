@@ -86,6 +86,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
+|[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
