@@ -6,7 +6,7 @@
 > Working
 
 * Speakers / Microphone
-> Speaker working (mono, single speaker only)
+> Speaker working
 
 > Microphone Working
 
