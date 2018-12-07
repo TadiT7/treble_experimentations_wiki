@@ -6,7 +6,7 @@ _(reboots into your recovery and stock recovery if you haven't installed a custo
 
 2. Reboot to eRecovery
 
-3. Wipe (factory reset including data) with stock eRecovery (TWRP wipe doesn't currently work)
+3. Wipe (factory reset including data) with stock Recovery (not eRecovery; you will need to reflash a stock recovery through fastboot) (TWRP wipe doesn't currently work)
 
 5. Reboot to fastbootmode
 
