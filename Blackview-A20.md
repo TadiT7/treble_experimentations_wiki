@@ -1,14 +1,14 @@
 # [Blackview A20] - [a20/MT6580M]
  ## Hardware Support
  * Camera
-> main back camera works, no dual camera
+> main back camera works, no dual camera,
 front camera works
  * Speaker / Microphone
-> info about Speaker & Microphone support/workarounds
+> works
  * Bluetooth
-> info about Bluetooth support/workarounds
+> works
  * Wifi
-> info about Wifi support/workarounds
+> works, Hotspot also works perfect
  * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
 > info about SIM / Mobile Data / Voice support/workarounds
  * VoLTE
