@@ -1,7 +1,8 @@
 # [Blackview A20] - [a20/MT6580M]
  ## Hardware Support
- * Camera:
-> info about camera support/workarounds
+ * Camera
+> main back camera works, no dual camera
+front camera works
  * Speaker / Microphone
 > info about Speaker & Microphone support/workarounds
  * Bluetooth
@@ -21,5 +22,5 @@
  _Put any additional info/notes regarding treble support for this device._
  ***
  ## Tested By:
-* Name - Device Specifics - Date
- Template created by @zguithues
+* Amr Helmy - Device Specifics - Date
+ Template created by @amrhelmy2004
