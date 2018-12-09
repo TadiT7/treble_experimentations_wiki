@@ -1,4 +1,4 @@
-# [DEVICE NAME] - [Model Name/Info]
+# [Blackview A20] - [a20/MT6580M]
  ## Hardware Support
  * Camera:
 > info about camera support/workarounds
