@@ -14,8 +14,8 @@ Feedbacks from Huawei Y6 XDA for the
 
 ## Known issues
 
-* Bootloop on **all** Android 9.0 (Pie) ROMs // Higher than v108 working finally!!
-* Bootloop on AOSP 8.1 v25+ (and all derivatives)
+* Bootloop on **all** Android 9.0 (Pie) ROMs **// Higher than v108 working finally!!**
+* Bootloop on AOSP 8.1 v25
 
 ## Hardware support
 
