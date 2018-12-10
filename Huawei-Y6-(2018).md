@@ -7,6 +7,8 @@ Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911*
 Feedbacks from Huawei Y6 XDA for the
 
 * ATU-L42 (nafis5566@XDA)
+* ATU-L22/L21 (iDecrypt@XDA)
+* ATU-L21 ([xBrownieCodez](https://github.com/BrownieCodeException)@GitHub)
 
 **This device is A-only.**
 
