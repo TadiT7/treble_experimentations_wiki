@@ -1,10 +1,23 @@
 # [Nokia 1] - [frt]
 
-## *Hardware Support (For vendor from build 00WW_1_)*
+## *Hardware Support (For vendor from build 00WW_1_40A)*
 
 ## TL;DR
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1).
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1), Screen Brightness.
 - What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera (Explain below),Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1).
+
+## Screen Brightness:
+- The problem fixed. Still no Adaptive brightness.
+
+## *Hardware Support (For vendor from build 00WW_1_33A)*
+
+## TL;DR
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1), Screen Brightness (Android 9).
+- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera (Explain below),Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1), Screen Brightness (Android 8.1).
+
+## Screen Brightness:
+- In Android 8.1. You'll stuck at 1/2 of the screen brightness. You can change it over terminal.
+- Android 9 works fine.
 
 ## Storage:
 - Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
@@ -21,8 +34,11 @@
 ## *Hardware Support (For vendor from build 00WW_0_)*
 
 ## TL;DR
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only)
-- What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera (Explain below), FM Radio, Storage, SIM and Built-in GMS (Android 8.1).
+- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only), Screen Brightness.
+- What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera (Explain below), FM Radio, Storage, SIM and Built-in GMS (Android 8.1), Screen Brightness.
+
+## Screen Brightness
+- No adaptive brightness
 
 ## Sensors
 - Can't detect any thermal sensors (example: battery's temp, battery's voltage).
