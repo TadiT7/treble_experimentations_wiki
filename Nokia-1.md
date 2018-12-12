@@ -26,12 +26,12 @@
 ## SIM:
 - No more SIM unrecognizing, Modem crashing. (You can choose 2G network or 2G only working along side with 4G aka LTE/UMTS (auto PRL)).
 - Network bands are now can be selected in Testing settings. (star pound star pound 4636 pound star pound star)
-- You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM like version 00WW_0_* one. Both SIM will have no signal.
+- You cannot make 2nd SIM work like 1st SIM acting as 4G capable Mobile data SIM like version 00WW_0_39L one. Both SIM will have no signal.
 
 ## Notes:
 - Unlisted categories means they have behaviors the same with the previous vendor build.
 
-## *Hardware Support (For vendor from build 00WW_0_)*
+## *Hardware Support (For vendor from build 00WW_0_39L)*
 
 ## TL;DR
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera (Explain below), Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only), Screen Brightness.
@@ -90,7 +90,7 @@
 - Kutiz w/ Nokia 1 (TA-1047 Dual-SIM)
 
 
-## Tested builds  (With both vendors 00WW_1_x and 00WW_0_x):
+## Tested builds  (With both vendors 00WW_1_33A and 00WW_0_39L):
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
