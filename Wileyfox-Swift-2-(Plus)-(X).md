@@ -40,5 +40,5 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
   - MiUI 10 sGSI: bootloop
 
 ## Tested by WilhelmErasmus:
-  - PixelExperience Pie: Audio works but WiFi Hotspot kees on being disabled. Fingerprint scanner does not work and camera patch also doesn't work.
-  - PixelDust Pie: Seems to work OK. Fingerprints are dumped on reboot.
+  - PixelExperience Pie: Audio works but WiFi Hotspot keeps on being disabled. Fingerprint scanner does not work and camera patch also doesn't work.
+  - PixelDust Pie: Camera does not work for more than one consecutive photo using a 3rd-party app - no pre-installed camera. Fingerprints are dumped on reboot.
