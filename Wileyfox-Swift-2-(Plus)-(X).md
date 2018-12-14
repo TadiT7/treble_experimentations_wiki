@@ -41,3 +41,4 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
 
 ## Tested by WilhelmErasmus:
   - PixelExperience Pie: Audio works but WiFi Hotspot kees on being disabled. Fingerprint scanner does not work and camera patch also doesn't work.
+  - PixelDust Pie: Seems to work OK. Fingerprints are dumped on reboot.
