@@ -1,1 +1,1 @@
-Bluetooth phone audio doesn't work, the sound just comes out of phone.
+ 
