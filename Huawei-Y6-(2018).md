@@ -46,6 +46,7 @@ Feedbacks from Huawei Y6 XDA for the
 
 * Face unlock
 > Works with Google Face Unlock
+
 > Broken on Pie ROM's
 
 * Fast charging
