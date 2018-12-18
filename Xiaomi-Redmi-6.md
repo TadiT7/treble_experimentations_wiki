@@ -23,7 +23,8 @@
 * Fingerprint Reader
 > Working
 
-* Everything works except SMS and VoLTE
+* Everything working
+except SMS and VoLTE
 
 ## Tested By:
 * SamarV-121
