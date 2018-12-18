@@ -20,10 +20,10 @@ front camera works
  ***
 ## Additional Notes
  Test Results
-    AOSP8.1v26 Boots
-    AOSP9v108  Boots
-    Lineage15.1  Boots
-    HavocP       Boot Animation Loop
+  *  AOSP8.1v26 Boots
+  *  AOSP9v108  Boots
+  *  Lineage15.1  Boots
+  *  HavocP       Boot Animation Loop
     
  ***
  ## Tested By:
