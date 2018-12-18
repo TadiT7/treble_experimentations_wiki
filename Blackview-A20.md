@@ -19,7 +19,12 @@ front camera works
 > info about 3.5mm audio jack support
  ***
 ## Additional Notes
- _Put any additional info/notes regarding treble support for this device._
+ Test Results
+    AOSP8.1v26 Boots
+    AOSP9v108  Boots
+    Lineage15.1  Boots
+    HavocP       Boot Animation Loop
+    
  ***
  ## Tested By:
 * Amr Helmy - Device Specifics - Date
