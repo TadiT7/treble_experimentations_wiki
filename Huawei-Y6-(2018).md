@@ -1,8 +1,7 @@
 # [Huawei Y6 (2018)](https://www.gsmarena.com/huawei_y6_(2018)-9162.php)
 ![Huawei Y6 (2018)](https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg)
 
-Device supported.
-Tested with **ATU-L22** and [**Pixel Experience (treble_gsi), A-only - 20180911**](https://download.pixelexperience.org/treble_gsi/).
+Device **mostly** supported.
 
 Feedbacks from Huawei Y6 XDA for the
 
