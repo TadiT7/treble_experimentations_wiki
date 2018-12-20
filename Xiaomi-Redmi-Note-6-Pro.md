@@ -43,6 +43,7 @@ Check here first: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi
 ## What is buggy in Phh-Treble
 
 - Notification LED sometimes remains active (especially when rebooting)
+- Tapping on the fingerprint sensor triggers an event which "clicks" on the first available action of the opened application (third-party fixes available)
 
 ## What wasn't tested in Phh-Treble
 
