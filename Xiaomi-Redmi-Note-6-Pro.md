@@ -28,8 +28,6 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 | Sensors                 | Fingerprint (FPC/Goodix), IR, gyro, accelerometer, proximity, compass |
 | Shipped Android version | 8.1.0 (MIUI 9)                                                        |
 
-## What is buggy in Phh-Treble
-
 ## Hardware support
 
 ### Display
