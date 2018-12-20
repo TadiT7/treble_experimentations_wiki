@@ -30,8 +30,6 @@ The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from
 
 ## What is buggy in Phh-Treble
 
-- Notification LED sometimes remains active (especially when rebooting)
-
 ## Hardware support
 
 ### Display
@@ -80,11 +78,16 @@ Working normally.
 - Power profiles don't work (Unable to see apps' and hardware's battery stats' details)
 - Widevine support wasn't tested (although DRM Info shows Widevine)
 - Miracast isn't tested
+- Notification LED sometimes remains active
+  - When rebooting (workaround: power off, then power on)
+  - When receiving notifications (this is completely random)
+  - When powering on normally (this is completely random)
+- Battery charging seems to prevent the notification LED from blinking in some Custom ROMs (tested on AEX 6.0)
 
 ## Additional Notes
 
 ### XDA Thread
-Check here first: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi-note-6-pro-project-treble-t3864694
+Check: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi-note-6-pro-project-treble-t3864694
 
 ## Tested by:
 * @AryToNeX - tulip 4/64GB - December 20, 2018
