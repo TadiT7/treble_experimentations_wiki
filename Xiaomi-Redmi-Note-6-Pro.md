@@ -2,9 +2,6 @@
 
 The Xiaomi Redmi Note 6 Pro (codenamed _"tulip"_) is a mid-range smartphone from Xiaomi announced in September 2018.
 
-## XDA Thread
-Check here first: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi-note-6-pro-project-treble-t3864694
-
 ## Device specifications
 
 |                         |                                                                       |
@@ -31,24 +28,65 @@ Check here first: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi
 | Sensors                 | Fingerprint (FPC/Goodix), IR, gyro, accelerometer, proximity, compass |
 | Shipped Android version | 8.1.0 (MIUI 9)                                                        |
 
-## What doesn't work in Phh-Treble
-
-- VoLTE (vendor partition issue, third-party fixes available)
-- Display cutout recognition (third-party fixes available)
-- Power profiles (battery stats)
-- Brightness regulation (third-party fixes available)
-- MTP and PTP
-- Bluetooth A2DP
-
 ## What is buggy in Phh-Treble
 
 - Notification LED sometimes remains active (especially when rebooting)
+
+## Hardware support
+
+### Display
+- Display cutout recognition doesn't work (third-party fixes available)
+- Brightness regulation will make the screen flicker (third-party fixes available)
+
+### RIL (SIM detection, ingoing/outgoing calls, SMS...)
+- RIL works without any noticeable problem
+- Dual SIM wasn't tested
+
+### VoLTE and ViLTE
+VoLTE and ViLTE will not work. This is a vendor related problem.
+
+### Speaker and microphone
+Working normally.
+
+### Camera
+- Basic point-and-shoot photo/video taking is working normally
+- Camera2 API testing is needed
+
+### Wi-Fi
+- Connection to 2.4GHz/5GHz networks is working normally
+- Hotspot wasn't tested.
+
+### Bluetooth
+- A2DP doesn't work
+- Hands-free mode (carkit / in-call earpieces) wasn't tested
+- Bluetooth Low Energy wasn't tested
+
+### Fingerprint reader
+- FPC works
+- Some say Goodix doesn't work (please check)
 - Tapping on the fingerprint sensor triggers an event which "clicks" on the first available action of the opened application (third-party fixes available)
 
-## What wasn't tested in Phh-Treble
+### 3.5mm audio jack
+Working normally.
 
-- Camera (advanced/manual features)
-- USB with DAC (audio)
-- Widevine support
-- Bluetooth Low Energy
-- Miracast
+### USB
+- MTP and PTP don't work.
+- ADB works.
+- USB charging works.
+- USB with external DAC wasn't tested.
+
+### Other features
+
+- Power profiles don't work (Unable to see apps' and hardware's battery stats' details)
+- Widevine support wasn't tested (although DRM Info shows Widevine)
+- Miracast isn't tested
+
+## Additional Notes
+
+### XDA Thread
+Check here first: https://forum.xda-developers.com/redmi-note-6-pro/how-to/redmi-note-6-pro-project-treble-t3864694
+
+## Tested by:
+* @AryToNeX - tulip 4/64GB - December 20, 2018
+
+Template created by @zguithues, with additions by @AryToNeX
