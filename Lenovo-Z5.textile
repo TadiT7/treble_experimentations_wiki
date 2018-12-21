@@ -3,6 +3,9 @@ Hardware Support
 LED:
 Not work
 
+FM:
+Not work
+
 Camera:
 Work（Both front and back）
 
