@@ -15,7 +15,7 @@
 > Working
 
 * SMS
-> Not Working
+> Incoming SMS not working
 
 * VoLTE
 > Not Working
@@ -24,8 +24,7 @@
 > Working
 
 * Everything working
-except SMS and VoLTE
-
+except Incoming SMS and VoLTE
 ## Tested By:
 * SamarV-121
 
