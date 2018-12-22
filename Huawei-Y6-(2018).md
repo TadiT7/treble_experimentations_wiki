@@ -6,7 +6,8 @@ Device **mostly** supported.
 Feedbacks from Huawei Y6 XDA for the
 
 * ATU-L42 (nafis5566@XDA)
-* ATU-L22/L21 (iDecrypt@XDA)
+* ATU-L22 ([TenSeventy7@XDA](https://github.com/TenSeventy7), pascua28@XDA)
+* ATU-L21 (iDecrypt@XDA)
 * ATU-L21 ([xBrownieCodez](https://github.com/BrownieCodeException)@GitHub)
 
 **This device is A-only.**
