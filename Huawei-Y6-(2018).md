@@ -7,20 +7,21 @@ Feedbacks from Huawei Y6 XDA for the
 
 * ATU-L42 (nafis5566@XDA)
 * ATU-L22 ([TenSeventy7@XDA](https://github.com/TenSeventy7), pascua28@XDA)
-* ATU-L21 (iDecrypt@XDA)
-* ATU-L21 ([xBrownieCodez](https://github.com/BrownieCodeException)@GitHub)
+* ATU-L21 (iDecrypt@XDA, [xBrownieCodez](https://github.com/BrownieCodeException)@GitHub)
 
 **This device is A-only.**
 
 ## Known issues
 
-* Bootloop on **all** Android 9.0 (Pie) ROMs **// Higher than v108 working finally!!**
-* Bootloop on AOSP 8.1 v25
+* Bootloop on Android 9.0 GSIs **based on v127 below** (requires vendor patching to fix).
+* Bootloop on Android 8.x GSIs based on Phh-AOSP **v25 and above**.
 
 ## Hardware support
 
 * Camera:
-> Stock LineageOS/Google AOSP-based Camera app takes extremely dark images without flash, use a different camera app. Video recording may also not work on certain apps (e.g. Google Camera).
+> Stock Camera app takes extremely dark images without flash, use a different camera app. Video recording may also not work on certain apps (e.g. Google Camera).
+
+> Stock camera crashes on Pie. **Use a different camera app.**
 
 * SIM
 > Works
@@ -31,23 +32,25 @@ Feedbacks from Huawei Y6 XDA for the
 > Works
 
 * Mobile Data/RIL
-> Signal indicator is always empty on 3G (H/H+), regardless of real signal level (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE).
+> Signal indicator is always null on HSPA(P), regardless of real signal level (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE). Refer to [this issue](https://github.com/phhusson/treble_experimentations/issues/272) for more information.
 
 > Otherwise, it works. Phone calls loud and clear.
 
 * GPS
-> **Mostly works.** It sees satellites and is able to determine precise location, but is not able to lock on any of them.
+> Works.
 
 * Mobile Tethering/Hotspot
-> Works. USB Tethering not tested.
+> Works.
+
+> Wi-Fi Hotspot currently broken on **all** Android Pie builds.
 
 * Fingerprint Reader
-> **Tested working on ATU-L42.** Other variants not tested.
+> Tested working on ATU-L42.
 
 * Face unlock
 > Works with Google Face Unlock
 
-> Broken on Pie ROMs with incompliant/incomplete GApps installations.
+> Broken on Pie ROMs with incompliant/incomplete Google Apps installations.
 
 * Fast charging
 > Works
@@ -75,6 +78,8 @@ A list of working ROMs for the Huawei Y6 (2018) are available [here (XDA)](https
 
 > **NEVER install any Magisk module or you will bootloop.**
 
+
+For information and support, please [visit this Telegram group.](https://t.me/HwAtomu_EN)
 
 
 Template created by @zguithues
