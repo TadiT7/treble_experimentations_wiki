@@ -33,5 +33,6 @@
 * AOSP 9.0 - PHH-Treble (2018-11-30)
 * Havoc Pie GSI (Not Booting)
 * Pixel Dust Pie GSI (Not Booting)
+* Arrow OS Pie GSI (Not Booting)
 
 Template created by @raza231198
