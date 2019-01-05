@@ -44,5 +44,5 @@ Treble for marmite is unofficial, ported by [vm03](https://4pda.ru/forum/index.p
 
 ## Tested by WilhelmErasmus:
   - PixelExperience Pie: Audio works but WiFi Hotspot keeps on being disabled. Fingerprint scanner does not work and camera patch also doesn't work.
-  - PixelDust Pie: Camera does not work for more than one consecutive photo using a 3rd-party app - no pre-installed camera. Fingerprints are dumped on reboot.
+  - PixelDust Pie: Camera does not work for more than one consecutive photo using a 3rd-party app - no pre-installed camera. ~~Fingerprints are dumped on reboot.~~ A patch is available for the version released end-December 2018 that fixes the fingerprint issue.
   - HavocOS Pie: Does not detect sim card during setup although signal is shown in statusbar. It then hangs on verification after warning about Play Certification. I dirty-flashed with PixelDust and the system UI kept crashing. Fingerprints were also dumped on reboot.
