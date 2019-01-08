@@ -13,3 +13,4 @@ Here is a quick and dirty list of what are the changes in master/Q that impacts 
 - dm-verity signed GSI? ( https://android-review.googlesource.com/c/platform/build/+/782877 )
 - overlayfs
   - /system or /product can overlay /vendor ( https://android-review.googlesource.com/c/platform/system/core/+/804834 )
+- SELinux policy read from /product and /odm additionally ( https://android-review.googlesource.com/c/platform/system/core/+/851068 ) 
