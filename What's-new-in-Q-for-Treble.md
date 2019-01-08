@@ -6,3 +6,4 @@ Here is a quick and dirty list of what are the changes in master/Q that impacts 
 - gsid. Systems will be able to boot GSI instead of themselves
    - GSIs will be "flashable" from (rooted?) shell ( https://android-review.googlesource.com/c/platform/system/gsid/+/863812 )
    - there will be a separated userdata_gsi partition ( https://android-review.googlesource.com/c/platform/system/core/+/863889 )
+- apex: loadable system modules, basically ext4 dm-verity loopback. Used for instance to have out-of-firmware upgradable libart
