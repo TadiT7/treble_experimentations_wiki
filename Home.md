@@ -27,7 +27,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
-|[[General Mobile GM 5 Plus]]|shamrock|✓|A|arm64|
+|[[General Mobile GM 5 Plus]]|shamrock||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
