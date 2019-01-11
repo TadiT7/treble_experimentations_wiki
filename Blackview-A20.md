@@ -28,4 +28,4 @@ front camera works
  ***
  ## Tested By:
 * Amr Helmy - Device Specifics - Date
- Template created by @amrhelmy2004
+ Template created by @zguithues
