@@ -8,7 +8,7 @@ front camera works
  * Bluetooth
 > works
  * Wifi
-> works, Hotspot also works perfect
+> works, Hotspot also works perfect on Oreo 8.1 , Hotspot doesn't work on Pie
  * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
 > info about SIM / Mobile Data / Voice support/workarounds
  * VoLTE
@@ -20,12 +20,12 @@ front camera works
  ***
 ## Additional Notes
  Test Results
-  *  AOSP8.1v26 Boots
-  *  AOSP9v108  Boots
+  *  AOSP8.1v27 Boots
+  *  AOSP9v109  Boots
   *  Lineage15.1  Boots
   *  HavocP       Boot Animation Loop
     
  ***
  ## Tested By:
 * Amr Helmy - Device Specifics - Date
- Template created by @zguithues
+* Template created by @zguithues
