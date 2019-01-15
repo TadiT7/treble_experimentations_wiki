@@ -5,9 +5,9 @@
 >**The following reports are based on MIUI 10 (8.7.26 / 10.0.2.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />Bugs and untested items are shown bold. 3rd-party apps untested.<br />[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us)**
 
 * Camera
-  * Front: OK (AOSP 9.0 v106+) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
+  * Front (IMX376): OK (AOSP 9.0 v106+) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
-  * Rear: 
+  * Rear (IMX486/IMX376): 
     * IMX376 (Aux): **Not working** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam))
     * IMX486 (Main): OK
 
@@ -42,8 +42,7 @@
   * FPC: OK (AOSP 9.0 v107+)
   * Goodix: **Not working**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
 
-* Brightness control: OK (AOSP 9.0 v107+ / AOSP 8.1 v25)
-    * **The minimum brightness is still brighter.**-->[#224](https://github.com/phhusson/treble_experimentations/issues/224)
+* Brightness control: OK (AOSP 9.0 v107+ / AOSP 8.1 v27+)
 
 * USB connection: *Varies by Android system version*
   * 8.1: 
@@ -60,7 +59,7 @@
       * MTP/PTP: **Not working**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
       * OTG: OK
         * *If you can't use otg, please change a better cable.*
-  * *The phone didn't show the charging status while quick charging.*
+  * *The phone didn't show the charging status while quick charging. (QC 3.0+ only, QC 2.0 and normal charging is OK)*
 
 ## How To Flash
 
@@ -104,6 +103,7 @@
 
 * Some people reported that brightness are locked (based on AOSPExtended), the maintainer ([fatesay](https://github.com/bin8001)) recommended to flash other custom roms first.
 * Some people reported that phone was muted, not be able to use camera, etc. after flashing 9.0 ROM. Best try flashing stock MIUI before flashing the ROM.
+* miui.eu maybe changed `ro.vendor.build.fingerprint`. If you found on `/vendor/build.prop` and it's not the value of REAL device, please check there is a key named `ro.vendor.build.fingerprint_real` and match for real device or not. If yes, please copy this value and replace the value of `ro.vendor.build.fingerprint`. [Releated thread here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915/post78531166).
 
 <a href="#testers">Tested version here.</a>
 
@@ -112,9 +112,9 @@
 >**以下报告基于 MIUI 10 (8.7.26 / 10.0.2.0) ，如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。<br />问题和未测试项以粗体显示。未测试第三方应用。<br />[临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
 
 * 摄像头
-  * 前置: OK (AOSP 9.0 v106+) / [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
+  * 前置 (IMX376): OK (AOSP 9.0 v106+) / [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
-  * Rear 后置: 
+  * 后置 (IMX486/IMX376): 
     * IMX376 (副): **不可用** ([可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#dual-cam))
     * IMX486 (Main 主): OK
 
@@ -149,8 +149,7 @@
   * FPC: OK (AOSP 9.0 v107+)
   * Goodix: **不可用**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
 
-* 亮度控制: OK (AOSP 9.0 v107+ / AOSP 8.1 v25)
-    * **最低亮度仍然比较亮。**-->[#224](https://github.com/phhusson/treble_experimentations/issues/224)
+* 亮度控制: OK (AOSP 9.0 v107+ / AOSP 8.1 v27+)
 
 * USB 连接: *因 Android 系统版本而异*
   * 8.1: 
@@ -167,7 +166,7 @@
       * MTP/PTP: **不可用**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
       * OTG: OK
         * *如果你不能使用 OTG，请换一根好一点的线缆。*
-  * *快充时不显示充电信息。*
+  * *使用 QC 3.0 或以上快充时不显示充电信息。(QC 2.0或普通充电则正常)*
 
 ## 如何刷入
 
@@ -211,6 +210,7 @@
 
 * 有人报告在使用过 AOSPExtended 然后刷入 GSI 会出现亮度被锁定的问题，维护人员（[fatesay](https://github.com/bin8001)）建议先行刷入其它自定义刷机包。
 * 有人报告刷入后手机出现静音、无法使用相机等问题。最好在刷入 ROM 前刷入官方 MIUI。
+* miui.eu 可能会修改`ro.vendor.build.fingerprint`的值。如果发现`/vendor/build.prop`并非真实设备的值，请检测是否存在`ro.vendor.build.fingerprint_real`且为真实设备的值。如有则将此变量值替换`ro.vendor.build.fingerprint`的值。[相关帖子在这里（英文）](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915/post78531166)。
 
 ## <a name="testers">Tested By 由以下人员测试</a>
 
@@ -219,6 +219,7 @@
     * suwakowww @ AOSP v23 @ system-arm64-aonly-gapps-su.img.xz, 2018-08-17
     * markg85 @ AOSP v23 @ unknown, 2018-09-01
     * markg85 @ AOSP v25 @ unknown, 2018-09-06
+    * suwakowww @ AOSP v26 @ system-arm64-aonly-gapps-su.img, 2018-12-??
 * AOSP 9.0
     * suwakowww @ AOSP v101 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-22
     * suwakowww @ AOSP v102 @ system-arm64-aonly-vanilla-nosu.img, 2018-08-23
@@ -231,3 +232,4 @@
     * markg85 @ AOSP v106, AOSP v107 @ unknown, 2018-11-10, 2018-11-09
     * suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-10
     * suwakowww @ AOSP v108 @ system-arm64-aonly-gapps-su.img, 2018-12-06
+    * suwakowww @ AOSP v109 @ system-arm64-aonly-gapps-su.img, 2019-01-15
