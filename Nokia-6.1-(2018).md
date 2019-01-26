@@ -1,4 +1,4 @@
-# Nokia 6.1 (2018)
+# Nokia 6.1 (2018) - PL2
  ## Hardware Support
  * Camera:
 > Video and image recording works fine (Except 4K video recording, max is 1080p)
@@ -21,5 +21,5 @@
  _Everything seems to work perfect with the exception of 4K video recording. Battery life is better than stock. Nokia FM Radio apk not working when sideloaded._
  ***
  ## Tested By:
-* LuukEsselbrugge - Nokia 6.1 (2018) using AOSP 9.0 v109 - 2018-01-26
+* LuukEsselbrugge - Nokia 6.1 (2018) using AOSP 9.0 v109 - 2019-01-26
 * Template created by @zguithues
