@@ -1,6 +1,6 @@
 # Huawei Honor 9 Lite
 
-Most stuff works fine except every 5 seconds there are some green lines on the camera and SafetyNet does not pass (not even on the nosu variant and also not by installing magisk 16.4, because it says the boot image is already patched and magisk manager force closes).
+Most stuff works fine except every 5 seconds there are some green lines on the camera and offline charging is broken until https://github.com/phhusson/device_phh_treble/pull/77 gets merged.
 
 ## Steps to install
 
@@ -25,11 +25,12 @@ Most stuff works fine except every 5 seconds there are some green lines on the c
 | Camera                    | OK                                                        |
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | OK                                                        |
-| Wifi                       | OK                                                        |
+| WiFi                      | OK                                                        |
 | SIM / Mobile Data / Voice | OK                                                        |
-| VoLTE                     | Unknown                                                   |
+| VoLTE                     | Broken, of course                                         |
 | Fingerprint               | OK                                                        |
-
+| NFC                       | OK                                                        |
+| Offline Charging          | Pending merge                                             |
 ---
 
-Tested By: kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018 - Template created by @zguithues
+Tested By: kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018 and hackintosh5 - LLD-L31C432, firmware 8.0.0.132 - 27/01/2019 - Template created by @zguithues
