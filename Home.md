@@ -49,7 +49,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei P Smart]]|figo|✓|A|arm64|
 |[[Huawei P8 lite (2017)]]|pra|✓|A|arm64|
-|[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A|arm64|
+|[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei P10 lite]]|was|✓|A|arm64|
 |[[Huawei P20]]|eml|✓|A|arm64|
 |[[Huawei P20 lite]]|anne|✓|A|arm64|
