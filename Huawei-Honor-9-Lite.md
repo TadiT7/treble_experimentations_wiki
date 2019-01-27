@@ -4,14 +4,12 @@ Most stuff works fine except every 5 seconds there are some green lines on the c
 
 ## Steps to install
 
-* [unlock your bootloader](https://forum.xda-developers.com/honor-7x/how-to/how-to-unlock-huawei-bootloader-removal-t3780903) ;
-* enable developer settings and disable OEM/FRP lock ;
+* [unlock your bootloader](https://forum.xda-developers.com/9-lite/how-to/unlock-bootloader-code-t3859685) ;
 * reboot to fastboot (it should confirm you that the bootloader and FRP are both unlocked) ;
-* [build your Generic Standard Image (GSI)](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI);
-* flash this image with the `fastboot` utility:
+* flash this image (aonly arm64) with the `fastboot` utility:
     ```
     $ fastboot -w
-    $ fastboot flash system system-arm64-aonly-gapps-su.img
+    $ fastboot flash system system-arm64-aonly-type-type.img
     ```
     The device will bootloop 3 times. This is FINE! After the third boot the recovery tells you that the data partition has to be low level formatted. Click on okay and after that the device will boot just fine! :)
 
