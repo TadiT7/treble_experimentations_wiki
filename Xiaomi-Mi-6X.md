@@ -2,69 +2,91 @@
 
 ## Function Availability & Known Bugs
 
->**The following reports are based on MIUI 10 (8.7.26 / 10.0.2.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />Bugs and untested items are shown bold. 3rd-party apps untested.<br />[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us)**
+>**The following reports are based on MIUI 10 (8.7.26 / 10.0.2.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />Bugs and untested items are shown bold. 3rd-party apps untested.<br />[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us)**<br />😀: OK&#9;😐: Fixable&#9;😢: Not Working&#9;🤔: Untested
 
 * Camera
-  * Front (IMX376): OK (AOSP 9.0 v106+) / [Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
-  * Rear (IMX486/IMX376): 
-    * IMX376 (Aux): **Not working** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam))
-    * IMX486 (Main): OK
+|Item             |Status|Comment|
+|:---------------:|:----:|-------|
+|IMX376(Front)    |😀   |If you found flashlight always on, [patch here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight).|
+|IMX376(Rear,Aux) |😐  |There is a way to fix it, but need [3rd-party patch](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam).|
+|IMX486(Rear,Main)|😀   |&nbsp;|
 
-* LED Light: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
-    * *If the light always on, reboot may help.*-->[#197](https://github.com/phhusson/treble_experimentations/issues/197)
-
-* Speaker / Microphone: OK
 
 * Bluetooth
-  * A2DP: OK (SBC Only)
-  * OBEX: OK
-  * HFP: **Not working**-->[#177](https://github.com/phhusson/treble_experimentations/issues/177)
+
+|Item|Status|Comment|
+|:--:|:----:|-------|
+|HFP |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
+|A2DP|😀   |&nbsp;|
+|OBEX|😀   |&nbsp;|
+
 
 * Wi-Fi: 
-  * Client: OK 
-  * Server (Hotspot): OK (AOSP 8.1 v22+ / AOSP 9.0 v107+)
-    * **5GHz Wi-Fi hotspot is not working.**
-  * Cast: 
-    * 8.1: **Untested**
-    * 9.0: **Not working**
 
-* IR: **Untested**
+|Item           |Status|Comment|
+|:-------------:|:----:|-------|
+|Client         |😀   |&nbsp;|
+|Server(Hotspot)|😐   |**5GHz Wi-Fi hotspot is not working.**|
+|Cast           |😢   |**Android 8.1 untested.**|
+
 
 * RIL (Calls / SMS / Data):
-  * CMCC/CHN-UNICOM (GSM/WCDMA/LTE FDD & TDD): OK
-  * CHN-CT (CDMA 1X/CDMA2000/LTE FDD & TDD): **LTE Only by default** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#cdma-network))
-  * Dual SIMs: OK
-  * VoLTE: **Disabled by default** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support))
+    * Network
+
+    |Item    |Operator              |Status|Comment|
+    |:------:|:--------------------:|:----:|-------|
+    |GSM     |CMCC/CHN-UNICOM       |😀   |&nbsp;|
+    |CDMA 1X |CHN-CT                |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#cdma-network).|
+    |WCDMA   |CHN-UNICOM            |😀   |&nbsp;|
+    |TD-SCDMA|CMCC                  |🤔   |&nbsp;|
+    |CDMA2000|CHN-CT                |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#cdma-network).|
+    |LTE FDD |CHN-UNICOM/CHN-CT/CMCC|😀   |&nbsp;|
+    |LTE TDD |CMCC/CHN-UNICOM/CHN-CT|😀   |&nbsp;|
+
+    * Misc
+
+    |Item     |Status|Comment|
+    |:-------:|:----:|-------|
+    |Dual SIMs|😀   |If you use CDMA network, you should put SIM card on slot1.|
+    |VoLTE    |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support).|
+
 
 * Fingerprint Reader: *Varies by the manufacturer*
-  > *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again.*
-  * FPC: OK (AOSP 9.0 v107+)
-  * Goodix: **Not working**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
+> *You can check the manufacturer using 3rd-party apps, or run `getprop | grep goodix` command in ADB shell/terminal, if you get any return, you may be using Goodix.  If you are sure you're using FPC, try flashing stock MIUI before flashing the ROM again.*
 
-* Brightness control: OK (AOSP 9.0 v107+ / AOSP 8.1 v27+)
+|Manufacturer|Status|Comment|
+|:----------:|:----:|-------|
+|FPC         |😀   |&nbsp; |
+|Goodix      |😢   |[Issue #237](https://github.com/phhusson/treble_experimentations/issues/237)|
 
 * USB connection: *Varies by Android system version*
-  * 8.1: 
-      * Charging: OK
-      * USB Debugging: OK
-      * USB Network Sharing: OK
-      * MTP/PTP: OK
-  * 9.0: 
-      * Charging: OK
-      * Reverse Charging: OK
-      * USB Debugging: OK
-      * USB Network Sharing: OK
-      * Audio Jack: OK
-      * MTP/PTP: **Not working**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
-      * OTG: OK
-        * *If you can't use otg, please change a better cable.*
-  * *The phone didn't show the charging status while quick charging. (QC 3.0+ only, QC 2.0 and normal charging is OK)*
+
+|Item               |8.1|9.0|Comment        |
+|:-----------------:|:-:|:-:|---------------|
+|Charging           |😀|😀|*The phone didn't show the charging status while quick charging. (QC 3.0+ only, QC 2.0 and normal charging is OK)*|
+|USB Debugging      |😀|😀|&nbsp;|
+|USB Network Sharing|😀|😀|&nbsp;|
+|MTP/PTP            |😀|😢|&nbsp;|
+|Reverse Charging   |🤔|😀|&nbsp;|
+|Audio Jack         |🤔|😀|&nbsp;|
+|OTG                |🤔|😀|*If you can't use otg, please change a better cable.*|
+
+* Misc
+
+|Item      |Status|Comment|
+|:--------:|:----:|-------|
+|LED Light |😐   |*If the light always on, reboot may help.*-->[#197](https://github.com/phhusson/treble_experimentations/issues/197)|
+|Speaker   |😀   |&nbsp; |
+|Microphone|😀   |&nbsp; |
+|IR        |🤔   |&nbsp; |
+|Brightness|😀   |&nbsp; |
 
 ## How To Flash
 
 * Backup your data
 * Unlock your phone
+* Execute `fastboot getvar anti` to check anti version
 * Flash TWRP
     * If you get anti <= 3:
         * Flash twrp directly:
@@ -233,3 +255,7 @@
     * suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-10
     * suwakowww @ AOSP v108 @ system-arm64-aonly-gapps-su.img, 2018-12-06
     * suwakowww @ AOSP v109 @ system-arm64-aonly-gapps-su.img, 2019-01-15
+
+Template: @zguithues, @hackintosh5, @suwakowww
+
+Chinese version: @marikid, @suwakowww
