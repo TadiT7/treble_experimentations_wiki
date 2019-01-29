@@ -21,6 +21,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Omni|EnesSastim|[Here](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm64|
 |Pixel Dust|amarbajpai|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixel-dust-pie-t3862484)|A - A/B|arm64|
 |Pixel Experience|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294)|A - A/B|arm - arm64|
+|Resurrection Remix|Official|[Here](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
 |Treble-ized 0s|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092)|A|arm64|
 
 ## Android 8 Oreo:
