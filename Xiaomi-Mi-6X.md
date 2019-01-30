@@ -2,11 +2,11 @@
 
 ## Function Availability & Known Bugs
 
->**The following reports are based on MIUI 10 (8.7.26 / 10.0.2.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />Bugs and untested items are shown bold. 3rd-party apps untested.<br />[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us)**<br />😀: OK&#9;😐: Fixable&#9;😢: Not Working&#9;🤔: Untested
+>**The following reports are based on MIUI 10 (8.7.26 / 10.0.2.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />Bugs and untested items are shown bold. 3rd-party apps untested.<br />[Temp patches have been moved here.](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us)**<br />😀: OK&#9;😐: Fixable&#9;😢: **Not Working**&#9;🤔: **Untested**
 
 * Camera
 
-|Item             |Status|Comment|
+|Camera             |Status|Comment|
 |:---------------:|:----:|-------|
 |IMX376(Front)    |😀   |If you found flashlight always on, [patch here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#flashlight).|
 |IMX376(Rear,Aux) |😐  |There is a way to fix it, but need [3rd-party patch](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#dual-cam).|
@@ -15,11 +15,11 @@
 
 * Bluetooth
 
-|Item|Status|Comment|
-|:--:|:----:|-------|
-|HFP |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
-|A2DP|😀   |&nbsp;|
-|OBEX|😀   |&nbsp;|
+|Profile|Status|Comment|
+|:-----:|:----:|-------|
+|HFP    |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
+|A2DP   |😀   |&nbsp;|
+|OBEX   |😀   |&nbsp;|
 
 
 * Wi-Fi: 
@@ -32,9 +32,10 @@
 
 
 * RIL (Calls / SMS / Data):
+
     * Network
 
-    |Item    |Operator              |Status|Comment|
+    |Type    |Operator              |Status|Comment|
     |:------:|:--------------------:|:----:|-------|
     |GSM     |CMCC/CHN-UNICOM       |😀   |&nbsp;|
     |CDMA 1X |CHN-CT                |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#cdma-network).|
@@ -48,7 +49,7 @@
 
     |Item     |Status|Comment|
     |:-------:|:----:|-------|
-    |Dual SIMs|😀   |If you use CDMA network, you should put SIM card on slot1.|
+    |Dual SIMs|😀   |If you use CDMA network, you should put UIM card on slot1.|
     |VoLTE    |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support).|
 
 
@@ -59,6 +60,7 @@
 |:----------:|:----:|-------|
 |FPC         |😀   |&nbsp; |
 |Goodix      |😢   |[Issue #237](https://github.com/phhusson/treble_experimentations/issues/237)|
+
 
 * USB connection: *Varies by Android system version*
 
@@ -72,6 +74,7 @@
 |Audio Jack         |🤔|😀|&nbsp;|
 |OTG                |🤔|😀|*If you can't use otg, please change a better cable.*|
 
+
 * Misc
 
 |Item      |Status|Comment|
@@ -81,6 +84,7 @@
 |Microphone|😀   |&nbsp; |
 |IR        |🤔   |&nbsp; |
 |Brightness|😀   |&nbsp; |
+
 
 ## How To Flash
 
@@ -131,69 +135,95 @@
 
 ## <a name="chinese">功能可用性和已知问题</a>
 
->**以下报告基于 MIUI 10 (8.7.26 / 10.0.2.0) ，如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。<br />问题和未测试项以粗体显示。未测试第三方应用。<br />[临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**
+>**以下报告基于 MIUI 10 (8.7.26 / 10.0.2.0) ，如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。<br />问题和未测试项以粗体显示。未测试第三方应用。<br />[临时补丁已经转移至这里。](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn)**<br />😀：正常工作&#9;😐：可进行修复&#9;😢：**无法工作**&#9;🤔：**未测试**
 
 * 摄像头
-  * 前置 (IMX376): OK (AOSP 9.0 v106+) / [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight) (AOSP 8.1/AOSP 9.0 v105-)
 
-  * 后置 (IMX486/IMX376): 
-    * IMX376 (副): **不可用** ([可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#dual-cam))
-    * IMX486 (Main 主): OK
+|摄像头            |状态  |注意事项|
+|:----------------:|:----:|--------|
+|IMX376（前置）    |😀   |如果发现闪光灯常亮， [可以尝试这个修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#flashlight)。|
+|IMX376（后置、副）|😐   |可以使用[第三方补丁](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#dual-cam)进行修复。|
+|IMX486（后置、主）|😀   |&nbsp;|
 
-* 呼吸灯: OK (AOSP 9.0 v104+ / AOSP 8.1 v25)
-    * *如果呼吸灯常亮，重启可能解决问题。*-->[#197](https://github.com/phhusson/treble_experimentations/issues/197)
-
-* 听筒/麦克风: OK
 
 * 蓝牙
-  * A2DP: OK (仅限 SBC)
-  * OBEX: OK
-  * HFP: **不可用**-->[#177](https://github.com/phhusson/treble_experimentations/issues/177)
+
+|配置|状态  |注意事项|
+|:--:|:----:|--------|
+|HFP |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
+|A2DP|😀   |&nbsp;|
+|OBEX|😀   |&nbsp;|
+
 
 * Wi-Fi: 
-  * 客户端: OK 
-  * 服务器 (热点): OK (AOSP 8.1 v22+ / AOSP 9.0 v107+)
-    * **5GHz Wi-Fi 热点不可用。**
-  * 投屏: 
-    * 8.1: **未测试**
-    * 9.0: **不可用**
 
-* 红外: **未测试**
+|项目           |状态  |注意事项|
+|:-------------:|:----:|--------|
+|客户端         |😀   |&nbsp;|
+|服务端（热点） |😐   |**5GHz Wi-Fi 热点不可用。**|
+|投屏           |😢   |**Android 8.1 未测试。**|
 
-* RIL (通话 / 短信 / 数据):
-  * 中国移动/中国联通 (GSM/WCDMA/LTE FDD & TDD): OK
-  * 中国电信 (CDMA 1X/CDMA2000/LTE FDD & TDD): **默认情况下仅限 4G 网络** ([可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#cdma-network))
-  * 双卡: OK
-  * VoLTE: **默认禁用** ([可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support))
+
+* RIL（通话/短信/数据）：
+
+    * 网络
+
+    |网络    |运营商                |状态  |注意事项|
+    |:------:|:--------------------:|:----:|--------|
+    |GSM     |移动/联通             |😀   |&nbsp;|
+    |CDMA 1X |电信                  |😐   |默认禁用，[开启方法](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#cdma-network)。|
+    |WCDMA   |联通                  |😀   |&nbsp;|
+    |TD-SCDMA|移动                  |🤔   |&nbsp;|
+    |CDMA2000|电信                  |😐   |默认禁用，[开启方法](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#cdma-network)。|
+    |LTE FDD |联通/电信/移动        |😀   |&nbsp;|
+    |LTE TDD |移动/联通/电信        |😀   |&nbsp;|
+
+    * 杂项
+
+    |项目 |状态  |注意事项|
+    |:---:|:----:|--------|
+    |双卡 |😀   |如果使用 CDMA 网络，建议把 UIM 卡放在插槽 1 上。|
+    |VoLTE|😐   |默认禁用，[开启方法](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support)。|
+
 
 * 指纹识别: *因制造商而异*
-  > *你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
-  * FPC: OK (AOSP 9.0 v107+)
-  * Goodix: **不可用**-->[#237](https://github.com/phhusson/treble_experimentations/issues/237)
+> *你可以使用第三方应用查看制造商，或者在 ADB 命令行/终端中运行 `getprop | grep goodix` 命令，若有任何返回值，你有可能在使用 Goodix 传感器。如果你确信你在使用 FPC，在刷入 ROM 之前先刷入官方 MIUI。*
 
-* 亮度控制: OK (AOSP 9.0 v107+ / AOSP 8.1 v27+)
+|制造商|状态  |注意事项|
+|:----:|:----:|--------|
+|FPC   |😀   |&nbsp;  |
+|Goodix|😢   |[Issue #237](https://github.com/phhusson/treble_experimentations/issues/237)|
+
 
 * USB 连接: *因 Android 系统版本而异*
-  * 8.1: 
-      * 充电: OK
-      * USB 调试: OK
-      * USB 网络共享: OK
-      * MTP/PTP: OK
-  * 9.0: 
-      * 充电: OK
-      * 反向充电: OK
-      * USB 调试: OK
-      * USB 网络共享: OK
-      * 耳机插槽: OK
-      * MTP/PTP: **不可用**-->[#225](https://github.com/phhusson/treble_experimentations/issues/225)
-      * OTG: OK
-        * *如果你不能使用 OTG，请换一根好一点的线缆。*
-  * *使用 QC 3.0 或以上快充时不显示充电信息。(QC 2.0或普通充电则正常)*
+
+|项目        |8.1|9.0|注意事项       |
+|:----------:|:-:|:-:|---------------|
+|充电        |😀|😀|*使用 QC 3.0 或以上快充时不显示充电信息。(QC 2.0或普通充电则正常)*。|
+|USB 调试    |😀|😀|&nbsp;|
+|USB 网络共享|😀|😀|&nbsp;|
+|MTP/PTP     |😀|😢|&nbsp;|
+|反向充电    |🤔|😀|&nbsp;|
+|音频插槽    |🤔|😀|&nbsp;|
+|OTG         |🤔|😀|*如果你不能使用 OTG，请换一根好一点的线缆。*|
+
+
+* 杂项
+
+|项目    |状态  |注意事项|
+|:------:|:----:|-------|
+|呼吸灯  |😐   |*如果呼吸灯常亮，重启可能解决问题。*-->[#197](https://github.com/phhusson/treble_experimentations/issues/197)|
+|听筒    |😀   |&nbsp; |
+|麦克风  |😀   |&nbsp; |
+|红外    |🤔   |&nbsp; |
+|亮度控制|😀   |&nbsp; |
+
 
 ## 如何刷入
 
 * 备份数据
 * 解锁手机
+* 执行 `fastboot getvar anti` 以检测 anti 的值
 * 刷入 TWRP
     * 如果你没有防回刷 (anti <= 3)：
         * 直接进行刷入：
