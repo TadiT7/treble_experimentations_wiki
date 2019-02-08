@@ -84,6 +84,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
+|[[Nubia Red Magic]]|NX609J|✓|A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
