@@ -24,6 +24,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Barnes & Noble Nook Tablet 10.1"]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
+|[[bq Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
