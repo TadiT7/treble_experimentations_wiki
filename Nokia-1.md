@@ -4,7 +4,7 @@
 - Due to lack of system partition memory, the phone can be only flashed within Android 9 (version 108) and Android 8.1 (Version 27).
 - But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
 
-## *Hardware Support (For vendor from build 00WW_1_40A and above)*
+## *Hardware Support (From build 00WW_1_40A and above)*
 
 ## TL;DR
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera , Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1), GPS and Screen Brightness.
@@ -16,7 +16,7 @@
 ## GPS:
 - Magically works without any Wi-Fi scan or Mobile data help (This is also true with Android 9 too).
 
-## *Hardware Support (For vendor from build 00WW_1_33A)*
+## *Hardware Support (From build 00WW_1_33A and below)*
 
 ## TL;DR
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera, Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1), Screen Brightness (Android 9).
@@ -37,7 +37,7 @@
 ## Notes:
 - Unlisted categories means they have the same behaviors like previous vendor/kernel builds.
 
-## *Hardware Support (For vendor from build 00WW_0_39L and below)*
+## *Hardware Support (From build 00WW_0_39L and below)*
 
 ## TL;DR
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera, Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only), Screen Brightness.
@@ -96,4 +96,4 @@
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
-_**Last updated:** 2:51 AM; February 10th, 2019_
+_**Last updated:** 3:00 AM; February 10th, 2019_
