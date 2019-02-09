@@ -35,7 +35,7 @@
 - Network bands are now showing up in Testing settings.
 
 ## Notes:
-- Unlisted categories means they have behaviors the same with the previous vendor build.
+- Unlisted categories means they have the same behaviors like previous vendor/kernel builds.
 
 ## *Hardware Support (For vendor from build 00WW_0_39L and below)*
 
@@ -96,4 +96,4 @@
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v106 w/ no Google apps and OpenGapps.
 
-_**Last updated:** 2:25 AM; February 10th, 2019_
+_**Last updated:** 2:51 AM; February 10th, 2019_
