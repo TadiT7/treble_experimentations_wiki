@@ -7,7 +7,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |Android P (PR1) sGSI |erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
 |Android P (PQ1A) sGSI |AyamDobhal|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development-a-only-roms/ported-p-sgsi-pr2-t3845789)|A|arm64|
-|Android P(PQ2A) sGSI |GabrielHoward|[Here](https://t.me/tissotPsemigsi)|AB|arm64|
+|Android P(PQ2A) sGSI |GabrielHoward|[Here](https://t.me/Psemigsi)|AB|arm64|
 |AOSP 9.0|ataberkozen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357)|A|arm64|
 |AOSP 9.0|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-phh-treble-t3831915)|A - A/B|arm - arm64|
 |AOSP Extended|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aosp-extended-t3821934)|A - A/B |arm - arm64|
