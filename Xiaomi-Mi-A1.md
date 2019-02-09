@@ -18,7 +18,7 @@
 > Working
 
 * VoLTE
-> Untested
+> Working
 
 * Fingerprint Reader
 > Working
@@ -33,6 +33,8 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 
 
 ## Tested By:
+* GabrielHoward - 2018-12-03
+  - [Android P PQ2A](t.me/psemigsi)
 * kdrag0n - Resized userdata - 2018-05-27
   - Phh-AOSP, Phh-RR, dotOS working
   - Phh-Lineage and AOSIP stuck on boot animation
