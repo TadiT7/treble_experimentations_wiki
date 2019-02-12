@@ -96,6 +96,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
+|[[Sony Xperia XZ]]|kagura||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
