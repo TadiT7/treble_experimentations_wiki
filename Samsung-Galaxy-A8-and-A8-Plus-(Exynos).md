@@ -25,6 +25,9 @@ Galaxy A8+ Treble - https://forum.xda-developers.com/galaxy-a8-plus/development/
 * Fingerprint Reader
 > Working
 
+* NFC
+> Working
+
 * VoLTE 
 > Not working (tested with carrier INS)
 
