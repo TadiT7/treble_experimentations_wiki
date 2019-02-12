@@ -1,4 +1,5 @@
 # MI 8 SE install GSI AOSP 9 PIE
+Note: See https://github.com/phhusson/treble_experimentations/issues/398
 ## Requirements:
 - Bootloader Unlocked
 > Note: This is an A-only device.
