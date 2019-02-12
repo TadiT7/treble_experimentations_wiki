@@ -23,7 +23,7 @@
 > Works. Need to kill Settings app after removing a fingerprint.
 
 * VoLTE 
-> Not working (tested with carrier EE, UK)
+> Not working
 
 * Brightness
 > Works
