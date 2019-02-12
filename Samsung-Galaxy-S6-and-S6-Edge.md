@@ -17,7 +17,7 @@
 > Working
 
 * SIM / Mobile Data / Voice
-> Working (SIM Pin needs to be disabled when using the dual-sim (FD) S9, failing to do so will result in the secondary sim not being recognised) 
+> Working (SIM Pin needs to be disabled when using the dual-sim (FD) S6, failing to do so will result in the secondary sim not being recognised)
 
 * Fingerprint Reader
 > Works. Need to kill Settings app after removing a fingerprint.
