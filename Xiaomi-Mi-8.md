@@ -1,78 +1,224 @@
-## Function Availability & Known Bugs 功能可用性和已知问题
+<a href="#chinese">看不懂英文点这里。</a>
 
->**The following reports are based on MIUI 9 (9.5.11.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.<br />以下报告基于 MIUI 9（9.5.11.0），如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。**
+## Function Availability & Known Bugs
 
->**Bugs and untested items are shown bold. 3rd-party apps untested. 问题和未测试项以粗体显示。未测试第三方应用。**
+>**The following reports are based on MIUI 9 (9.5.11.0), if you have any bugs and based on custom roms, ask author of the rom first, or flash back MIUI before flash GSI.**<br />😀: OK&#9;😐: Fixable&#9;😢: **Not Working**&#9;🤔: **Untested**
 
-* Camera 摄像头
-  * Front 前置: OK
-  * IRCamera 红外摄像头: **Not working 不可用**
-  * Rear 后置: 
-    * S5K3M3: **Not working 不可用**
-    * IMX363: OK
+* Camera
 
-* LED Light 呼吸灯: OK
+|Camera           |Status|Comment|
+|:---------------:|:----:|-------|
+|S5K2T7(Front)    |😀   |&nbsp;|
+|S5K5E8(Rear,Aux) |😢   |&nbsp;|
+|IMX363(Rear,Main)|😀   |&nbsp;|
+|Unknown(IR)      |😢   |&nbsp;|
 
-* Speaker / Microphone 听筒 / 麦克风: OK
 
-* Bluetooth 蓝牙
-  * Music 音乐: OK
-  * File Transfer 文件传输: OK
-  * Headset (Calls) 通话: **Not working 不可用**
+* Bluetooth
+
+|Profile|Status|Comment|
+|:-----:|:----:|-------|
+|HFP    |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
+|A2DP   |😀   |&nbsp;|
+|OBEX   |😀   |&nbsp;|
+
 
 * Wi-Fi: 
-  * Client 客户端: OK
-  * Server (Hotspot) 服务器 (热点): OK (AOSP 8.1 v22+ / AOSP 9.0 v107+)
-    * **5GHz Wi-Fi hotspot is not working. 5GHz Wi-Fi 热点不可用。**
-  * Cast 投屏: 
-    * 8.1: **Untested 未测试**
-    * 9.0: **Not working 不可用**
 
-* NFC: OK (Tested with WeChat 已使用微信测试)
+|Item           |Status|Comment|
+|:-------------:|:----:|-------|
+|Client         |😀   |&nbsp;|
+|Server(Hotspot)|😐   |**5GHz Wi-Fi hotspot is not working.**|
+|Cast           |😢   |**Android 8.1 untested.**|
 
-* RIL (Calls 通话 / SMS 短信 / Data 数据):
-  * CMCC/CHN-UNICOM 中国移动/中国联通 (GSM/WCDMA/LTE FDD & TDD): OK
-  * CHN-CT 中国电信 (CDMA1X/CDMA2000/LTE FDD & TDD): OK
-  * Dual SIMs 双卡: OK
-  * VoLTE: **Disabled by default 默认禁用** ([Fixable](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support) [可修复](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support))
 
-* Fingerprint Reader 指纹识别: OK
+* RIL (Calls / SMS / Data):
 
-* Brightness control 亮度控制: OK
-    * **Auto brightness seems not working. 自动亮度似乎不可用。**
-    * **The minimum brightness is still brighter. 最低亮度仍然比较亮。**-->[#224](https://github.com/phhusson/treble_experimentations/issues/224)
+    * Network
 
-* USB connection USB 连接:
-    * Charging 充电: OK
-    * Reverse Charging 反向充电: OK
-    * USB Debugging USB 调试: OK
-    * USB Network Sharing USB 网络共享: OK
-    * Audio Jack 耳机插槽: OK
-    * MTP/PTP: OK
-    * OTG: OK
-    * *If you can't use otg, please change a better cable. 如果你不能使用 OTG，请换一根好一点的线缆。*
-    * *The phone didn't show the charging status while quick charging. 快充时不显示充电信息。*
+    |Type    |Operator              |Status|Comment|
+    |:------:|:--------------------:|:----:|-------|
+    |GSM     |CMCC/CHN-UNICOM       |😀   |&nbsp;|
+    |CDMA 1X |CHN-CT                |😀   |&nbsp;|
+    |WCDMA   |CHN-UNICOM            |😀   |&nbsp;|
+    |TD-SCDMA|CMCC                  |🤔   |&nbsp;|
+    |CDMA2000|CHN-CT                |😀   |&nbsp;|
+    |LTE FDD |CHN-UNICOM/CHN-CT/CMCC|😀   |&nbsp;|
+    |LTE TDD |CMCC/CHN-UNICOM/CHN-CT|😀   |&nbsp;|
 
-## How To Flash 如何刷入
+    * Misc
 
-* Backup your data 备份数据
-* Unlock your phone 解锁手机
-* Flash TWRP 刷入 TWRP
-* Boot into TWRP and wipe `/data`, `/cache`, `/dalvik-cache` and `/system` (Best format whole `/data` partition) 进入 TWRP，清除 `/data`、`/cache`、`/dalvik-cache` 和 `/system` （最好格式化整个 `/data` 分区）
-* Connect your phone to the computer, and mount `/sdcard` partition via MTP 将手机与电脑连接，在 MTP 上挂载 `/sdcard` 分区
-* Copy system image into your phone 将系统映像复制到手机
-* Flash system image (`*.img` files) in TWRP 在 TWRP 内刷入系统映像（`*.img` 文件）
-  > Maybe you should disable FBE (file-based encryption) before reboot 可能你需要在重启前禁用 FBE（文件级加密）
-* Reboot and Enjoy! 重启体验吧！
+    |Item     |Status|Comment|
+    |:-------:|:----:|-------|
+    |Dual SIMs|😀   |If you use CDMA network, you should put UIM card on slot1.|
+    |VoLTE    |😐   |Disabled by default, [enable here](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_en_us#volte-support).|
 
-## Notes 注意事项
 
-* If you living in China, recommends to logout your Google Account and pull out all of your SIM card first, or it may let you stuck on "Checking information" after flashed. 如果你在中国居住，建议在刷入前退出你的 Google 账户并取出所有 SIM 卡，否则有可能在“正在核对信息”处卡住。
+* USB connection: *Varies by Android system version*
 
-## Notes about Custom ROMs 关于自定义 ROM 的注意事项
+|Item               |8.1|9.0|Comment        |
+|:-----------------:|:-:|:-:|---------------|
+|Charging           |🤔|😀|*The phone didn't show the charging status while quick charging. (QC 3.0+ only, QC 2.0 and normal charging is OK)*|
+|USB Debugging      |🤔|😀|&nbsp;|
+|USB Network Sharing|🤔|😀|&nbsp;|
+|MTP/PTP            |🤔|😀|&nbsp;|
+|Reverse Charging   |🤔|😀|&nbsp;|
+|Audio Jack         |🤔|😀|&nbsp;|
+|OTG                |🤔|😀|*If you can't use otg, please change a better cable.*|
+
+
+* Misc
+
+|Item              |Status|Comment|
+|:----------------:|:----:|-------|
+|LED Light         |😀   |&nbsp; |
+|Speaker           |😀   |&nbsp; |
+|Microphone        |😀   |&nbsp; |
+|Brightness        |😀   |&nbsp; |
+|Fingerprint Reader|😀   |&nbsp; |
+|NFC               |😀   |&nbsp; |
+
+
+## How To Flash
+
+* Backup your data
+* Unlock your phone
+* Flash TWRP
+    * Flash twrp directly:
+    ````
+    fastboot flash recovery twrp-3.2.3-1-dipper.img
+    ````
+    * Then reboot to recovery.
+* Boot into TWRP and wipe `/data`, `/cache`, `/dalvik-cache` and `/system` (Best format whole `/data` partition)
+* Connect your phone to the computer, and mount `/sdcard` partition via MTP
+* Copy system image into your phone
+* Flash system image (`*.img` files) in TWRP
+    >Maybe you should disable FBE (file-based encryption) before reboot
+* Reboot and Enjoy!
+
+## Notes
+
+* If you living in China, recommends to logout your Google Account and pull out all of your SIM card first, or it may let you stuck on "Checking information" after flashed.
+
+## Notes about Custom ROMs
 
 * None for now. 暂无。
 
-## Tested By 由以下人员测试
+<a href="#testers">Tested version here.</a>
 
-* suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-27
+## <a name="chinese">功能可用性和已知问题</a>
+
+>**以下报告基于 MIUI 9（9.5.11.0），如果你在遇到 bug，并且使用过自定义刷机包，请先联系刷机包的作者，或者先刷回 MIUI 然后再刷 GSI。**<br />😀：正常工作&#9;😐：可进行修复&#9;😢：**无法工作**&#9;🤔：**未测试**
+
+* 摄像头
+
+|摄像头            |状态  |注意事项|
+|:----------------:|:----:|--------|
+|S5K2T7（前置）    |😀   |&nbsp;  |
+|S5K5E8（后置，主）|😢   |&nbsp;  |
+|IMX363（后置，副）|😀   |&nbsp;  |
+|未知（红外）      |😢   |&nbsp;  |
+
+
+* 蓝牙
+
+|配置|状态  |注意事项|
+|:--:|:----:|--------|
+|HFP |😢   |[Issue #177](https://github.com/phhusson/treble_experimentations/issues/177)|
+|A2DP|😀   |&nbsp;|
+|OBEX|😀   |&nbsp;|
+
+
+* Wi-Fi: 
+
+|项目           |状态  |注意事项|
+|:-------------:|:----:|--------|
+|客户端         |😀   |&nbsp;  |
+|服务端（热点） |😐   |**5GHz Wi-Fi 热点不可用。**|
+|投屏           |😢   |**Android 8.1 未测试。**|
+
+
+* RIL（通话/短信/数据）：
+
+    * 网络
+
+    |Type    |Operator              |Status|Comment|
+    |:------:|:--------------------:|:----:|-------|
+    |GSM     |移动/联通             |😀   |&nbsp;|
+    |CDMA 1X |电信                  |😀   |&nbsp;|
+    |WCDMA   |联通                  |😀   |&nbsp;|
+    |TD-SCDMA|移动                  |🤔   |&nbsp;|
+    |CDMA2000|电信                  |😀   |&nbsp;|
+    |LTE FDD |联通/电信/移动        |😀   |&nbsp;|
+    |LTE TDD |移动/联通/电信        |😀   |&nbsp;|
+
+    * 杂项
+
+    |项目 |状态  |注意事项|
+    |:---:|:----:|--------|
+    |双卡 |😀   |如果使用 CDMA 网络，建议把 UIM 卡放在插槽 1 上。|
+    |VoLTE|😐   |默认禁用，[开启方法](https://github.com/MI6XDev/treble_fix_for_wayne/wiki/fix_zh_cn#volte-support)。|
+
+
+* USB 连接: *因 Android 系统版本而异*
+
+|项目        |8.1|9.0|注意事项       |
+|:----------:|:-:|:-:|---------------|
+|充电        |🤔|😀|*使用 QC 3.0 或以上快充时不显示充电信息。(QC 2.0或普通充电则正常)*。|
+|USB 调试    |🤔|😀|&nbsp;|
+|USB 网络共享|🤔|😀|&nbsp;|
+|MTP/PTP     |🤔|😀|&nbsp;|
+|反向充电    |🤔|😀|&nbsp;|
+|音频插槽    |🤔|😀|&nbsp;|
+|OTG         |🤔|😀|*如果你不能使用 OTG，请换一根好一点的线缆。*|
+
+
+* 杂项
+
+|项目    |状态  |注意事项|
+|:------:|:----:|-------|
+|呼吸灯  |😐   |&nbsp; |
+|听筒    |😀   |&nbsp; |
+|麦克风  |😀   |&nbsp; |
+|亮度控制|😀   |&nbsp; |
+|指纹识别|😀   |&nbsp; |
+|NFC     |😀   |&nbsp; |
+
+
+## 如何刷入
+
+* 备份数据
+* 解锁手机
+* 刷入 TWRP
+    * 直接进行刷入：
+    ````
+    fastboot flash recovery twrp-3.2.3-1-dipper.img
+    ````
+    * 然后重启到恢复环境。
+* 进入 TWRP，清除 `/data`、`/cache`、`/dalvik-cache` 和 `/system` （最好格式化整个 `/data` 分区）
+* 将手机与电脑连接，在 MTP 上挂载 `/sdcard` 分区
+* 将系统映像复制到手机
+* 在 TWRP 内刷入系统映像（`*.img` 文件）
+    >可能你需要在重启前禁用 FBE（文件级加密）
+* 重启体验吧！
+
+## 注意事项
+
+* 如果你在中国居住，建议在刷入前退出你的 Google 账户并取出所有 SIM 卡，否则有可能在“正在核对信息”处卡住。
+
+## 关于自定义 ROM 的注意事项
+
+* 暂无。
+
+## <a name="testers">Tested By 由以下人员测试</a>
+
+* AOSP 8.1
+
+    * *Untested 未测试*
+* AOSP 9.0
+
+    * suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-27
+
+Template: @zguithues, @hackintosh5, @suwakowww
+
+Chinese version: @suwakowww
