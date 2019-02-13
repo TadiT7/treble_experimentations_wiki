@@ -3,7 +3,7 @@
 ## Hardware Support
 
 * Camera:
-> Working (When Device Encrypted)
+> Working But not usable Too muchh beauty effect like big eyes😂(When Device Encrypted)
 
 * Flashlight:
 > Working (When Device Encrypted)
