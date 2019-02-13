@@ -31,8 +31,8 @@
 
 ## Tested ROMs:
 * AOSP 9.0 - PHH-Treble (2018-11-30)
-* Havoc Pie GSI (Not Booting)
-* Pixel Dust Pie GSI (Not Booting)
+* Havoc Pie GSI (Booting after changing selinux mapping)
+* Pixel Dust Pie GSI (Booting after changing selinux mapping)
 * Arrow OS Pie GSI (Not Booting)
 
 Template created by @raza231198
