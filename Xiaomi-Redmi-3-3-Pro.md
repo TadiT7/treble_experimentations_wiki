@@ -67,8 +67,8 @@ Tested with Winkarbik's LOS 20180911 vendor
 [Return to Summary](#summary)
 
 ## Archived versions
-
-[[Redmi 3] - [AOSP 8.1 v23]](https://gist.github.com/reggermont/ab6b83ed8aeb8a36335c6c8bb27cc37f#redmi-3---aosp-81-v23)
+- [[Redmi 3] - [AOSP 9.0 v104]](https://gist.github.com/reggermont/ab6b83ed8aeb8a36335c6c8bb27cc37f#redmi-3---aosp-90-v104)
+- [[Redmi 3] - [AOSP 8.1 v23]](https://gist.github.com/reggermont/ab6b83ed8aeb8a36335c6c8bb27cc37f#redmi-3---aosp-81-v23)
 
 
 [Return to Summary](#summary)
