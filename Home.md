@@ -73,6 +73,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G6 Play]]|aljeter|✓|A|arm|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
+|[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
