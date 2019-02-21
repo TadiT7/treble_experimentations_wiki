@@ -14,6 +14,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Resurrection Remix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-resurrection-remix-v7-0-arm64-32-b-t3891636) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 
+
 ## Unofficial Android 9 Pie
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -21,12 +22,18 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Android P (PQ1A) sGSI |AyamDobhal|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development-a-only-roms/ported-p-sgsi-pr2-t3845789) / [Download](https://mega.nz/#F!p7gmVYzJ!ECjtB-8Vvqorr9UK1I2mGg)|A|arm64|
 |Android P(PQ2A) sGSI |GabrielHoward|[Telegram](https://t.me/Psemigsi)|AB|arm64|
 |AOSP 9.0|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357) / [Download](https://androidfilehost.com/?w=files&flid=280275)|A|arm64|
+|AOSP Extended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289419)|A - A/B|arm64|
+|BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638)|A - A/B|arm64|
 |BenzoRom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)|A - A/B| arm64 - arm|
 |LineageOS|avirk|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-lineageos-16-0-treble-t3835094) / [Download](https://drive.google.com/file/d/1A9kphkHJbRm1eL-6jh2-AuQABBvISOrz/view)|A|arm64|
+|MSM Xtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289558)|A|arm64|
+|NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421)|A|arm - arm64|
 |Omni|EnesSastim|[Download](https://github.com/EnesSastim/Downloads/releases?after=PE-A-2018-08-31)|A - A/B|arm64|
+|Pixel Dust|NFound|[Download](https://androidfilehost.com/?w=files&flid=290365)|A|arm64|
 |Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixel-dust-pie-t3862484) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
 |Pixel Experience|EnesSastim|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294) / [Download](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm - arm64|
+|Syberia OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289418)|A - A/B|arm64|
 |Treble-ized 0s|noobstyle1337|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092) / [Download](https://mega.nz/#F!rBsUyYYC!QlOfpjv7lnhrrgYssjLivA)|A|arm64|
 
 ## Android 8 Oreo:
