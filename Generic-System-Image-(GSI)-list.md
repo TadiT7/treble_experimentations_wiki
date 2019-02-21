@@ -14,7 +14,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Resurrection Remix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-resurrection-remix-v7-0-arm64-32-b-t3891636) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 
-
 ## Unofficial Android 9 Pie
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
