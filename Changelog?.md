@@ -1,0 +1,1 @@
+ GM8 android one A/B device, me device developer, full works android oreo and pie roms!
