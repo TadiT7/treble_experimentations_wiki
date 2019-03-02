@@ -147,3 +147,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Samsung Galaxy A8 and A8 Plus (Exynos)]]|jackpotlte and jackpot2lte||A|arm64|
+|[[Samsung Galaxy A7 2018]]|a7y18lte||A|arm64|
