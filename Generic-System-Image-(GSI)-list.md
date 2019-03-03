@@ -11,6 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-arrowos-t3835111) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|A - A/B|arm64|
 |HavocOS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havocos-v2-0-t3855601)|A - A/B|arm64|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-octopusos-t3859233)|A - A/B|arm - arm64|
+|Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixel-dust-pie-t3862484) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
 |Resurrection Remix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-resurrection-remix-v7-0-arm64-32-b-t3891636) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-viperos-v6-0-t3895410) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 
@@ -31,7 +32,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421)|A|arm - arm64|
 |Omni|EnesSastim|[Download](https://github.com/EnesSastim/Downloads/releases?after=PE-A-2018-08-31)|A - A/B|arm64|
 |Pixel Dust|NFound|[Download](https://androidfilehost.com/?w=files&flid=290365)|A|arm64|
-|Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixel-dust-pie-t3862484) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
 |Pixel Experience|EnesSastim|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-pixelexperience-p-t3833294) / [Download](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm - arm64|
 |Syberia OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289418)|A - A/B|arm64|
 |Treble-ized 0s|noobstyle1337|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092) / [Download](https://mega.nz/#F!rBsUyYYC!QlOfpjv7lnhrrgYssjLivA)|A|arm64|
