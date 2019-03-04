@@ -1,6 +1,8 @@
-Treble support on the GM 5+ device was provided by One Team.
+Treble support on the **GM 5+** device was provided **by One Team**.
 
-- One Team is Alive!
+### _- One Team is Alive!_
 
-@caneray
-@Quarkzz
+***
+
+> @caneray
+> @Quarkzz
