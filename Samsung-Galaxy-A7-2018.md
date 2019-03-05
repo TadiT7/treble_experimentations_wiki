@@ -25,7 +25,8 @@ Summary of what works and doesn't
 | Dual SIM | Working                                                    |
 | VoLTE                     | Not working                                                    |
 | Fingerprint               | Working                                                    |
-| NFC                       | Working                                                    |
+| NFC                       | Working 
+| Hotspot / Usb tethering   | Not Working                                           |
 ---
 
 Tested By: ozon - SM-A750FN(DBT), Firmware Version AOSP 9.0 v110 - Template created by @zguithues and @hackintosh5
