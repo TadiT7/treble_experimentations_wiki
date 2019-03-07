@@ -84,6 +84,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia X5]]|pda|✓|A/B|arm64|
 |[[Nokia X6]]|drg|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
+|[[Nokia 7.1]]|ctl|✓|A/B|arm64|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
 |[[Nubia Red Magic]]|NX609J|✓|A|arm64|
