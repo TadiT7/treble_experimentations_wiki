@@ -20,4 +20,5 @@ Boot PL2 (Nokia 6.1) TWRP image, then flash GSI to system image.
 ---
 
 Tested By: AndyYan (AndyCGYan) @ Nokia 7.1 00WW_3_45A @ 2019/03/06
+
 Template created by @zguithues and @hackintosh5
