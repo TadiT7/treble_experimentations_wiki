@@ -4,9 +4,16 @@
 
 **XDA Thread:** https://forum.xda-developers.com/mi-5/development/jdcteam-treble-support-project-t3761296
 
-**Current version:** v4 (20180409) BETA versioned_vndk
+**Current version:** v5 (20190308) RC versioned_vndk
 
 **Changelog:**
+
+**v5** (20190308) - Release Candidate full versioned_vndk v28:
+- VERSİONED_VNDK support is fully implemented
+- Mostly all library dependencies between system/vendor are succesfully eliminated
+- Updated kernel (enforced)
+- **ro.vendor.vndk.version=28**
+- misc updates and fixes
 
 **v4** (20180409) - Beta partially versioned_vndk with the following updates:
 - Updated kernel and ready for versioned_vndk support
