@@ -1,4 +1,4 @@
-![GM8](https://cdn3.epey.com/resim/103869/m_general-mobile-gm-8-1.png)
+(https://cdn3.epey.com/resim/103869/m_general-mobile-gm-8-1.png)
 
 GM8 android one A/B device, provided treble by General Mobile board doesnt have special dev
 
