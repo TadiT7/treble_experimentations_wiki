@@ -1,1 +1,1 @@
-GM8 android one A/B device, me device developer,full works all oreo and pie roms!
+GM8 android one A/B device, provided treble by General Mobile board doesnt have special dev
