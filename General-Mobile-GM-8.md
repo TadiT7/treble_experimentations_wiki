@@ -1,4 +1,4 @@
-![GM8](https://i.hizliresim.com/grGlgL.jpg)
+![GM8](https://hizliresim.com/grGlgL.jpg)
 
 GM8 android one A/B device, provided treble by General Mobile board doesnt have special dev
 
