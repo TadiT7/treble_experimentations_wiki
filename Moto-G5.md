@@ -24,7 +24,7 @@
 
 * Brightness control
 > OK
-
+* CANT RUN PIE EXCEPT PIE SGSI
 ***
 ## Additional Notes
 Gestures are works but moto settings crashing some roms(not all tested)
