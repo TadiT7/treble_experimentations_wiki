@@ -285,6 +285,7 @@
     * suwakowww @ AOSP v107 @ system-arm64-aonly-gapps-su.img, 2018-11-10
     * suwakowww @ AOSP v108 @ system-arm64-aonly-gapps-su.img, 2018-12-06
     * suwakowww @ AOSP v109 @ system-arm64-aonly-gapps-su.img, 2019-01-15
+    * suwakowww @ AOSP v111 @ system-arm64-aonly-gapps-su.img, 2019-03-10
 
 Template: @zguithues, @hackintosh5, @suwakowww
 
