@@ -27,4 +27,4 @@ Summary of what works and doesn't
 | Other feature             | None                                                    |
 ---
 
-Tested By: username - Model-Number(region), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
+Tested By: @PythonLimited - I9301i(DTB), Firmware XXUAPG1 (NEW NV VARIANT) - 17.03.2019 - Template created by @zguithues and @hackintosh5
