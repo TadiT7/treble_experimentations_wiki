@@ -46,4 +46,14 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 ## Tested By:
 * @phhusson - 17 March 2019
 
+## Flashing instructions
+
+No need for magisk, nor no-verity, no-forceencrypt... \
+You simply need to flash vbmeta then system. \
+Download vbmeta from https://github.com/TadiT7/xiaomi_cepheus_dump/raw/cepheus-user-9-PKQ1.181121.001-9.3.1-release-keys/firmware-update/vbmeta.img \
+Flash it with `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` \
+Flash system with `fastboot flash system system.img` \
+Reboot to recovery and factory reset.
+
+
 Template created by @zguithues
