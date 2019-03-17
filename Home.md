@@ -150,3 +150,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Samsung Galaxy A8 and A8 Plus (Exynos)]]|jackpotlte and jackpot2lte||A|arm64|
 |[[Samsung Galaxy A7 2018]]|a7y18lte|✓|A|arm64|
+|[[Samsung Galaxy S3 NEO]]|s3ve3g||A|arm|
