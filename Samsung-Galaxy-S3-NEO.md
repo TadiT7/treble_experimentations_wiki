@@ -1,4 +1,4 @@
-# Galaxy S3 NEO Simgle-Sim
+# Galaxy S3 NEO Single-Sim
 
 Summary of what works and doesn't
 
