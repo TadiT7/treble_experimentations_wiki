@@ -5,7 +5,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 ## Hardware Support
 
 * Camera:
-> Basic usage works
+> Basic usage works. Extented support (= access all cameras) still need work
 
 * Speaker / Microphone
 > Totally glitched. Fixed in next release.
