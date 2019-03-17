@@ -2,6 +2,9 @@
 
 Summary of what works and doesn't
 
+Thread + Download links
+https://forum.xda-developers.com/galaxy-s3-neo/orig-development/wip-project-treble-s3-neo-t3907018
+
 ## Steps to install
 
 * Download Vendor + Boot
