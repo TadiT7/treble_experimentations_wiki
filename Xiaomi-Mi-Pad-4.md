@@ -23,6 +23,9 @@
 * Fingerprint Reader
 > Fully working
 
+* MTP
+> Not work
+
 
 ## Tested By:
 
