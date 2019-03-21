@@ -14,3 +14,4 @@
 This model pre-installed by Asus with Android 8.0 and support project Treble.
 ## Tested By:
 * AcAciA - Asus Zenfone Live (L1) ZA550KL 2GB RAM on AOSP 8.1 v23 by phhusson, and Pixel Experience 2018-09-11 by jhenrique09. On 2018-9-13.
+* AOSP 9.0 v111 by bramaudi 2019-03-21
