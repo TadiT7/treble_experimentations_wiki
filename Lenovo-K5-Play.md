@@ -3,9 +3,13 @@ It booted fine, WiFi and hotspot doesn't work, testing fix soon. Every other thi
 The ROM is smooth and good as daily driver. (As far as WiFi and hotspot is fixed.)
 
 **Steps to install:**
+Please follow this thread, it's more detailed.
+[How to flash GSI image](https://www.google.com/amp/s/www.xda-developers.com/flash-generic-system-image-project-treble-device/amp/)
+
+**Make sure everything is stock, no magisk or Xposed. boot, recovery e.t.c must be stock.**
 
 **Step 1**
-* Perform factory reset on your stock room (search how to do that if you don't know)
+* Perform factory reset on your stock ROM (search how to do that if you don't know)
 
 **Step 2**
 * Reboot into fastboot (volume down key plus power key pressed down together and hold) and connect your device to pc
