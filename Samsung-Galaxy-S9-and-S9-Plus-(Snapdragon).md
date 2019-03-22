@@ -1,0 +1,1 @@
+Everything work except brightness that is always at max and fingerprint and lockscreen that cant bee set, if try to set any tipe of lock systemui will crash after reboot
