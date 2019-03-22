@@ -1,56 +1,56 @@
-# [Huawei Y6 (2018)](https://www.gsmarena.com/huawei_y6_(2018)-9162.php)
+# [Huawei Y6 (2018)/Y6 Prime (2018)](https://www.gsmarena.com/huawei_y6_(2018)-9162.php)
 ![Huawei Y6 (2018)](https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg)
 
-Device **mostly** supported.
+Device supported.
 
-Feedbacks from Huawei Y6 XDA for the
+Devices tested:
 
-* ATU-L42 (nafis5566@XDA)
-* ATU-L22 ([TenSeventy7@XDA](https://github.com/TenSeventy7), pascua28@XDA)
-* ATU-L21 (iDecrypt@XDA, [xBrownieCodez](https://github.com/BrownieCodeException)@GitHub)
+* ATU-L21
+* ATU-L22
+* ATU-L42
 
 **This device is A-only.**
 
-## Known issues
+## Known booting issues
 
 * Bootloop on Android 9.0 GSIs **based on v127 below** (requires vendor patching to fix).
-* Bootloop on Android 8.x GSIs based on Phh-AOSP **v25 and above**.
+* Bootloop on all Android 8.x GSIs based on Phh-AOSP **v25 and above**.
 
 ## Hardware support
 
 * Camera:
-> Stock Camera app takes extremely dark images without flash, use a different camera app. Video recording may also not work on certain apps (e.g. Google Camera).
+> Stock Camera app takes extremely dark images without flash, use a different camera app.
 
-> Stock camera crashes on Pie. **Use a different camera app.**
+> Camera works on all Oreo GSIs
+
+> Camera and/or flashlight **(not flash)** is broken on most Pie GSIs.
 
 * SIM
 > Works
 
-> ROM may ask to reboot device if SIM card is removed (and inserted) while it's turned on.
+> Certain GSIs may ask to reboot if a SIM card is removed (and inserted) while it's turned on.
 
 * Wi-Fi
 > Works
 
 * Mobile Data/RIL
-> Signal indicator is always null on HSPA(P), regardless of real signal level (you can still make calls, however). Shows the correct level on 2G (E) and 4G (LTE). Refer to [this issue](https://github.com/phhusson/treble_experimentations/issues/272) for more information.
+> Signal indicator is always empty on HSPA(P), regardless of real signal level **(you can still make calls, SMS/MMS, and use mobile data however).** Shows the correct level on 2G (E) and 4G (LTE). Refer to [this issue](https://github.com/phhusson/treble_experimentations/issues/272) for more information.
 
-> Otherwise, it works. Phone calls loud and clear.
+> Otherwise, it works. Phone calls loud and clear, SMS/MMS are sent and received on time, and mobile data works.
 
 * GPS
-> Works.
+> Works reliably on GSIs that include the ATU overlay.
 
 * Mobile Tethering/Hotspot
-> Works.
+> Works well on Oreo.
 
-> Wi-Fi Hotspot currently broken on **all** Android Pie builds.
+> Currently buggy on certain Android Pie GSIs.
 
 * Fingerprint Reader
 > Tested working on ATU-L42.
 
 * Face unlock
 > Works with Google Face Unlock
-
-> Broken on Pie ROMs with incompliant/incomplete Google Apps installations.
 
 * Fast charging
 > Works
