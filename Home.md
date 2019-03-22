@@ -55,7 +55,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P20]]|eml|✓|A|arm64|
 |[[Huawei P20 lite]]|anne|✓|A|arm64|
 |[[Huawei P20 Pro]]|clt|✓|A|arm64|
-|[[Huawei Y6 (2018)]]|atu|✓|A|arm64|
+|[[Huawei Y6 (2018)/Y6 Prime (2018)]]|atu|✓|A|arm64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
 |[[Itel A32F]]|f8007|✓ (Go)|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
