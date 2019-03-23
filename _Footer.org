@@ -1,2 +1,0 @@
-1. octopus os working (after changing selinux mapping).
-2. ressurection remix (stuck on boot animation).
