@@ -28,11 +28,14 @@
 
 ## Tested By:
 * MD Raza - Asus Zenfone Max M1
+* Saalimquadri -  Asus Zenfone Max M1
 
 ## Tested ROMs:
 * AOSP 9.0 - PHH-Treble (2018-11-30)
 * Havoc Pie GSI (Booting after changing selinux mapping)
 * Pixel Dust Pie GSI (Booting after changing selinux mapping)
 * Arrow OS Pie GSI (Not Booting)
-
+* ressurection remix 9.0 GSI (not booting)
+* octopus os GSI (booting after changing selinux mapping)
+* AOSP extended 9.0 GSI 
 Template created by @raza231198
