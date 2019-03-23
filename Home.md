@@ -78,7 +78,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
-|[[Nokia 2.1]]|e2m|✓ (Go)|A|arm64|
+|[[Nokia 2.1]]|e2m|✓ (Go)|A|arm|
 |[[Nokia 3.1]]|es2|✓|A/B|arm64|
 |[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
