@@ -17,7 +17,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |:-:|:-:|:-:|:-:|:-:|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
-|[[Asus Zenfone Live (L1)]]|x00rd|✓|A|arm|
+|[[Asus Zenfone Live (L1)]]|x00rd|✓ (Go)|A|arm|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
 |[[Asus ZenFone Max M1 (ZB555KL)]]|x00pd|✓|A|arm64|
 |[[Asus ZenFone Max M1 (ZB556KL)]]|x00pd|✓|A|arm64|
@@ -140,7 +140,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 6]]|cereus|✓|A|arm|
 |[[Xiaomi Redmi 6A]]|cactus|✓|A|arm|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
-|[[Xiaomi Redmi Go]]|tiare|✓|A|arm|
+|[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
