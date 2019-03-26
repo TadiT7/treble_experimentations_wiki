@@ -1,6 +1,7 @@
 Flashed AOSP 9 with gapps and su, I flashed it over stock rom (Chinese variant), should work same way with global variant.
 It booted fine, WiFi and hotspot doesn't work, testing fix soon. Every other thing works fine, camera is a bit dark but third party camera should fix it, no auto brightness overlay is needed to fix that, I don't really know how to compile one but I'll work on it.
 The ROM is smooth and good as daily driver. (As far as WiFi and hotspot is fixed.)
+**UPDATE**--- Wifi and hotspot works now. make sure to flash stock rom afresh, boot to fastboot immediately, wipe system with fastboot then flash GSI system.
 
 **Steps to install:**
 Please follow this thread, it's more detailed.
