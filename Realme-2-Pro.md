@@ -1,4 +1,3 @@
-# Realme 2 Pro
 
 ## Steps to install
 
