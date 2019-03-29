@@ -69,7 +69,7 @@
 |Charging           |😀|😀|*The phone didn't show the charging status while quick charging. (QC 3.0+ only, QC 2.0 and normal charging is OK)*|
 |USB Debugging      |😀|😀|&nbsp;|
 |USB Network Sharing|😀|😀|&nbsp;|
-|MTP/PTP            |😀|😢|&nbsp;|
+|MTP/PTP            |😀|😐|It's OK on Android 9 based MIUI ROM.|
 |Reverse Charging   |🤔|😀|&nbsp;|
 |Audio Jack         |🤔|😀|&nbsp;|
 |OTG                |🤔|😀|*If you can't use otg, please change a better cable.*|
@@ -202,7 +202,7 @@
 |充电        |😀|😀|*使用 QC 3.0 或以上快充时不显示充电信息。(QC 2.0或普通充电则正常)*。|
 |USB 调试    |😀|😀|&nbsp;|
 |USB 网络共享|😀|😀|&nbsp;|
-|MTP/PTP     |😀|😢|&nbsp;|
+|MTP/PTP     |😀|😐|使用基于 Android 9 的 MIUI 作为基础包即正常。|
 |反向充电    |🤔|😀|&nbsp;|
 |音频插槽    |🤔|😀|&nbsp;|
 |OTG         |🤔|😀|*如果你不能使用 OTG，请换一根好一点的线缆。*|
@@ -286,6 +286,7 @@
     * suwakowww @ AOSP v108 @ system-arm64-aonly-gapps-su.img, 2018-12-06
     * suwakowww @ AOSP v109 @ system-arm64-aonly-gapps-su.img, 2019-01-15
     * suwakowww @ AOSP v111 @ system-arm64-aonly-gapps-su.img, 2019-03-10
+    * sxrhd @AOSP v111 @ unknown, 2019-03-29
 
 Template: @zguithues, @hackintosh5, @suwakowww
 
