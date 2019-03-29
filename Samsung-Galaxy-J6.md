@@ -1,27 +1,30 @@
-# [DEVICE NAME] - [Model Name/Info]
+# Samsung Galaxy J6
  ## Hardware Support
- * Camera:
+ * Camera: Works after flashing a zip
 
  * Speaker / Microphone
-Speaker works, Microphone untested
+> Speaker works, Microphone works
  * Bluetooth
-
+> Works
  * Wifi
-Works
- * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-DOESN'T work
+> Works
+ * SIM
+>Mobile Data / ingoing voice calls / outgoing voice calls works
  * VoLTE
-Doesn't work, because SIM doesn't work
+>Untested
  * Fingerprint Reader
-Doesn't work
+>Works
  * 3.5mm audio jack
-> info about 3.5mm audio jack support
+>Works
  ***
 ## Additional Notes
 UI (hwcomposer) crashes very often.
 Kernel doesn't allow modifications outside of /system, and doesn't allow permissive SELinux domains.
 
  ***
+## ROMs Tested:
+AOSP 9.0 - Phh-Treble (2019-03-10)
 
  ## Tested By:
 * phh - 2018-12-05
+* tak1nu - 2019-03-10
