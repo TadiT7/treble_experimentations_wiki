@@ -1,6 +1,7 @@
 # Samsung Galaxy J6
  ## Hardware Support
- * Camera: Works after flashing a zip
+ * Camera 
+> Works after flashing a zip
 
  * Speaker / Microphone
 > Speaker works, Microphone works
@@ -9,11 +10,11 @@
  * Wifi
 > Works
  * SIM
->Mobile Data / ingoing voice calls / outgoing voice calls works
+> Mobile Data / ingoing voice calls / outgoing voice calls works
  * VoLTE
 >Untested
  * Fingerprint Reader
->Works
+> Works
  * 3.5mm audio jack
 >Works
  ***
