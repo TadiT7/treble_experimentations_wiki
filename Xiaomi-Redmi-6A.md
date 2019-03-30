@@ -15,19 +15,17 @@
 > Working
 
 * SMS
-> Incoming SMS not working
+> Working
 
 * VoLTE
 > Not Working
 
-* Fingerprint Reader
-> Working
-
 * Everything working
-except Incoming SMS and VoLTE
+except VoLTE.
 
 ## Tested By:
 * SamarV-121
 * Phajil
+* jonaaa20
 
 Template created by @zguithues
