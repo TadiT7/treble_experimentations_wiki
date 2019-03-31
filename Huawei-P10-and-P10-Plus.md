@@ -34,7 +34,7 @@ Working image: LineageOS by phhusson from [here (XDA)](https://forum.xda-develop
 
 ### Prerequisites:
 
-* Stock Android 8 (Oreo) by Huawei (tested from VKY-L29C10B362)
+* Stock Android 8 (Oreo) by Huawei (tested from VKY-L29C10B362 and VKY-AL00C00 8.0.0.358)
 * Unlocked bootloader
 
 ### Installation steps:
