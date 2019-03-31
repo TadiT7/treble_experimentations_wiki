@@ -26,18 +26,20 @@ Has been tested on:
 6. Boot the phone
 
 ## Notes
-
-Phone call doesn't work (tested with phhtreble only, which means it's likely it won't work with LineageOS neither). It was not tested in depths, but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
+- SIM is not detrecting on latest Pie furmwares
+- but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
 
 # Pixel XL (Marlin)
 
 ## Testers
 
+* [Gabriel Howard](https://github.com/TheGabrielHoward)
 * [Jim-Bar](https://github.com/Jim-Bar)
 
 ## Hardware
 
 Has been tested on:
+* Marlin EU 32GB
 * Marlin US 32Go
 
 ## GSI tested
@@ -56,5 +58,4 @@ Has been tested on:
 6. Boot the phone
 
 ## Notes
-
-As for Sailfish, phone call doesn't work (tested with phhtreble only, which means it's likely it won't work with LineageOS neither). It was not tested in depths, but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
+- SIM is not detecting
