@@ -13,7 +13,7 @@ persist.dbg.vt_avail_ovr=1
 (to be updated)
 
 ## Tested By:
-*Rafyvitto (RR 7.0[03/30/2019])
+* Rafyvitto (RR 7.0[03/30/2019])
 * Preet M Paatel (Phh Treble[09/11/2018], Descendant[18/11/2018], PixelDust Pie[14/11/2018]{Doesn't boot})
 * Kailash Sudhakar (Phh Treble[09/11/2018])
 * Prashant (Phh Treble[09/11/2018], PixelDust Pie[14/11/2018]{Doesn't boot})
