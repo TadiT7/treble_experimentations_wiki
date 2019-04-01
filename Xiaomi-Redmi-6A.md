@@ -6,6 +6,7 @@ Xiaomi Redmi 6A (codenamed "cactus") is a smartphone from Xiaomi released in Jun
 
 ## Device specifications
 
+|                         |                                                                       |
 | ----------------------- | :-------------------------------------------------------------------- |
 | Dimensions              | 147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)                         |
 | Supported networks      | GSM / CDMA / HSPA / LTE                                               |
