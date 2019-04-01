@@ -9,7 +9,7 @@
 > Working
 
 * Wifi
-> Working
+> Working, except Wi-Fi Hotspot.
 
 * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
 > Working
