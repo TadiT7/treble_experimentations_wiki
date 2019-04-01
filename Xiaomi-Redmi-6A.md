@@ -21,7 +21,7 @@
 > Not Working
 
 * Everything working
-except VoLTE.
+except VoLTE and Wi-Fi Hotspot.
 
 ## Tested By:
 * SamarV-121
