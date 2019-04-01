@@ -1,5 +1,3 @@
-# Xiaomi Redmi 6a (cactus)
-
 ![Xiaomi Redmi 6A](https://cdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-6a-2.jpg)
 
 Xiaomi Redmi 6A (codenamed "cactus") is a smartphone from Xiaomi released in June 2018.
