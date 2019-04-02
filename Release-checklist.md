@@ -5,6 +5,9 @@
 - Edit local_manifests/replace.xml to switch all branches to the new tag version
 - Edit treble_experimentations/build.sh to update to new tag version
 
+- `git config --global user.name 'Pierre-Hugues Husson'`
+- `git config --global user.email phh@phh.me`
+- `git config --global color.ui auto`
 - `apt-get update && apt-get install -y build-essential imagemagick xorriso locales openjdk-8-jdk python git m4 unzip bison zip gperf libxml2-utils zlib1g:i386 libstdc++6:i386 bc curl lzop lzip lunzip squashfs-tools sudo`
 - git clone https://github.com/phhusson/treble_experimentations/
 - edit treble_experimentations/build.sh for:
