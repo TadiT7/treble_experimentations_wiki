@@ -24,7 +24,7 @@ Note: See https://github.com/phhusson/treble_experimentations/issues/398
 2. Extract the contents of the `.xz` file with 7-zip download [here](https://www.7-zip.org/) 
 3. Enter `TWRP` and perform `WIPE > SWIPE TO FACTORY RESET`
 4. Copy the IMG file (GSI AOSP) to `DEVICE / TWRP` from the `Windows Explorer` (Drag and Drop)
-5. Next go to `INSTALL > IMAGES`, enter the directory `/data/media/0/TPWR`, flash file `IMG` then select partition `SYSTEM IMAGE` and finish by pressing `SWIPE TO CONFIRM FLASH`
+5. Next go to `INSTALL > IMAGES`, enter the directory `/data/media/0/TWRP`, flash file `IMG` then select partition `SYSTEM IMAGE` and finish by pressing `SWIPE TO CONFIRM FLASH`
 6. Restart to `SYSTEM` (Normal restart)
 7. Wait for the installation to finish and the system will start the initial screen of `AOSP 9 PIE`
 
