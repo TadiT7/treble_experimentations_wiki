@@ -1,4 +1,4 @@
-# Infinix - Note 5
+# Infinix - ZERO 6
 
 ## Hardware Support
 
