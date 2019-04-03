@@ -23,7 +23,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Works
 
 * SIM / Mobile Data / Voice
-> Works, LTE+ works. Need to switch technology in `*#*#4636*#*#` to LTE/UMTS (global forces 3G... why?)
+> Works, LTE+ works. Need to switch technology in `*#*#4636#*#*` to LTE/UMTS (global forces 3G... why?)
 
 * VoLTE
 > Not tested
@@ -32,7 +32,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Working except it's not possible to select main (4G) SIM
 
 * Fingerprint Reader
-> Doesn't work
+> Works but need high screen brightness
 
 * Brightness control
 > Works
@@ -43,8 +43,12 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 * Wireless Charge
 > Works
 
+* Type-c audio output
+> Works
+
 ## Tested By:
 * @phhusson - 17 March 2019
+* @linjie997 - 03 April 2019
 
 ## Flashing instructions
 
