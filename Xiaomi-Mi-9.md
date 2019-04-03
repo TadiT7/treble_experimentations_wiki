@@ -46,6 +46,13 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 * Type-c audio output
 > Works
 
+* Video Playback
+> Lag on
+> VP9 1080p 60fps
+> VP9 4k 60fps has the issue
+> AVC 4k 60fps 
+> https://github.com/phhusson/treble_experimentations/issues/458
+
 ## Tested By:
 * @phhusson - 17 March 2019
 * @linjie997 - 03 April 2019
