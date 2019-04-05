@@ -1,5 +1,8 @@
 # Hardware Support
 * Camera: Stock camera works.
+* GPS:  works.
+* Stereo Sound: Audio comes out of both speakers.
+* NFC: works tested with pie vendor.
 * Speaker: Works.
 * Microphone: Works.
 * Bluetooth: Deleting /vendor/etc/a2dp_audio_policy_configuration.xml fixes bluetooth inCall Audio, Bluetooth audio is still broken with pie vendor.
