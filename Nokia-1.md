@@ -1,7 +1,7 @@
 # [Nokia 1] - [frt]
 
 ## *Last update (Probably)*
-- Due to lack of system partition memory, the phone can be flashed within Android 9 (version 108) and Android 8.1 (Version 27).
+- Due to lack of system partition memory, the phone can be flashed within Android 9 (version 107) and Android 8.1 (Version 26).
 - But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
 
 ## *Hardware Support (From build 00WW_1_40A and up)*
