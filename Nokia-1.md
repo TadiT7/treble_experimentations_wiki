@@ -4,14 +4,12 @@
 - Due to lack of system partition memory, the phone can be flashed within Android 9 (version 108) and Android 8.1 (Version 27).
 - But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
 
-## *Hardware Support (From build 00WW_1_40A and above)*
+## *Hardware Support (From build 00WW_1_40A and up)*
 
 ## TL;DR
+- Hardware support since this vendor/kernel build will work flawlessly.
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera , Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1), GPS and Screen Brightness.
 - What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera ,Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1) and Adaptive brightness.
-
-## Screen Brightness:
-- The problem fixed. Still no Adaptive brightness.
 
 ## GPS:
 - Magically works without any Wi-Fi scan or Mobile data help (This is also true with Android 9 too).
@@ -44,21 +42,21 @@
 - What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera, FM Radio, Storage, SIM and Built-in GMS (Android 8.1 builds), Adaptive brightness.
 
 ## Screen Brightness
-- No adaptive brightness
+- No adaptive brightness (Unless there's a layer allows system enable it.)
 
 ## Sensors
-- Can't detect any thermal sensors (example: battery's temp, battery's voltage).
+- Can't detect any thermal sensors (Example: battery's temp, battery's voltage).
 
 ## GPS (Android 9 only):
 - No GPS signal. But does when Wi-Fi and Mobile data supports it.
 
 ## Camera
 - Theoretically works perfectly.
-- Unoptimized Camera2 app (Only behaves like that with version since Android 5.0 redesign). Which leads to low-lighting on both front and back camera. Installing Stock ROM's Camera app might help but it won't save pics.
-- Camera app from Android 4.x will fix everything.
+- ROM lacks Camera2 API permissions. Which leads to low-lighting on both front and back camera. Installing Stock ROM's Camera app might help but it won't save pics.
+- Google Camera app from Android 4.x will fix everything. Even the 2.7 version.
 
 ## Wi-Fi (Android 9):
--  Tethering doesn't work.
+-  Tethering won't work (If you install OpenGapps).
 
 ## Storage:
 - Files app will crash if you trying to show Internal storage. If you made it crashed constantly. Clean up the app data will do the trick.
@@ -83,7 +81,7 @@
 - Booting into Android causes screen went out for a few secs. The phone reboots after first boot.
 - The phone is still pre-encrypted anyway (Even if you wiped it with TWRP and Not recommended).
 - Builds with Google Play Services crashes a lot. Install OpenGapps with the vanilla builds to fix this.
-- Please skip setup wizard because it's buggy and if you wanna setup the phone when it's check for update, press back button and then recheck for updates again. (Probably because of Google Play services "fake allowing SMS permission" and "improper android build").
+- Skip setup wizard because it's buggy and if you wanna setup the phone when it's check for update, press back button and then recheck for updates again. (Probably because of Google Play services "fake allowing SMS permission" and "improper android build").
 - If you installed Gapps, please edit the ROM build info. (in /system/etc/prop.default, /system/build.prop, /vendor/default.prop and /vendor/build.prop) or every Google app will yell at you that your phone's software isn't "legit".
 - The TWRP recovery formats /data partiton in ext4 format. But the phone partition and encryption only works with f2fs format. So don't try to wipe the phone with TWRP. Only use Stock Android recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
 ***
@@ -94,6 +92,6 @@
 
 ## Tested builds:
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
-- Android 9.0 build v106 w/ no Google apps and OpenGapps.
+- Android 9.0 build v107 w/ no Google apps and OpenGapps.
 
-_**Last updated:** 3:00 AM; February 10th, 2019_
+_**Last update:** 7:54 PM; April 5th, 2019_
