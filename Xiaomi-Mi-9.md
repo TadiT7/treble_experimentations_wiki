@@ -8,7 +8,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Basic usage works. Extented support (= access all cameras) still need work
 
 * Speaker / Microphone
-> Totally glitched. Fixed in next release.
+> Works
 
 * Bluetooth
 > A2DP AAC works
@@ -56,6 +56,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 ## Tested By:
 * @phhusson - 17 March 2019
 * @linjie997 - 03 April 2019
+* @koenkk - 05 April 2019
 
 ## Flashing instructions
 
