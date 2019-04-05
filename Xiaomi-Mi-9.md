@@ -67,5 +67,8 @@ Flash it with `fastboot --disable-verity --disable-verification flash vbmeta vbm
 Flash system with `fastboot flash system system.img` \
 Reboot to recovery and factory reset.
 
+### Community
+Telegram: https://t.me/mi9aosp
+
 
 Template created by @zguithues
