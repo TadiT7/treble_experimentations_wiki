@@ -95,7 +95,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
-|[[Oukitel K8]]|n/a|A|arm64|
+|[[Oukitel K8]]||✓|A|arm64
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
