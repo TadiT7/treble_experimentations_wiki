@@ -1,15 +1,17 @@
-Oukitel K8 device details:
+**Oukitel K8 device details:**
 * SoC: MT6750T
 * Base Android OS: Android 8.0 Oreo 
 
-Tested: Pie GSI 
+**Tested:**
+* Pie GSI 
 
-Bugs:
+**Bugs:**
 * Hotspot (seems to be common with most GSIs tested) 
 
 All other features are confirmed working: 
 * WiFi
 * Bluetooth 
+* Fingerprint
 * Dual SIMs
 * Sound
 * Camera/Video
