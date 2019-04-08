@@ -37,6 +37,6 @@
 * Arrow OS Pie GSI (Not Booting)
 * ressurection remix 9.0 GSI (not booting)
 * octopus os GSI (booting after changing selinux mapping)
-* AOSP extended 9.0 GSI 
+* None of erfan gsi are working as they do not provide vndk 26 support .
 ##
 Template created by @raza231198
