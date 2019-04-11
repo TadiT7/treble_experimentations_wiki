@@ -5,13 +5,14 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 ## Hardware Support
 
 * Camera:
-> Basic usage works. Extented support (= access all cameras) still need work
+> Basic usage works. Extented support works enabling it from Phh settings
 
 * Speaker / Microphone
 > Works
 
 * Bluetooth
 > A2DP AAC works
+> In-call broken
 
 * Wi-Fi
 > Works, tethering works
@@ -32,7 +33,8 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Working except it's not possible to select main (4G) SIM
 
 * Fingerprint Reader
-> Works but need high screen brightness
+> Mostly Works
+> Broken on Always on Display
 
 * Brightness control
 > Works
@@ -46,26 +48,40 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 * Type-c audio output
 > Works
 
-* Video Playback
-> Lag on
-> VP9 1080p 60fps
-> VP9 4k 60fps has the issue
-> AVC 4k 60fps 
-> https://github.com/phhusson/treble_experimentations/issues/458
+* Video recording:
+> Limited to 1080p/720p. Need to kang Pixel 3 media_profiles_V1_0.xml https://github.com/TadiT7/google_blueline_dump/blob/e43766b36473595b7e3d0ef28613bc0821aeefd0/vendor/etc/media_profiles_V1_0.xml
+> Limited to 30fps. Need to copy media_profiles.xml to /vendor/etc 
+https://forum.xda-developers.com/attachment.php?attachmentid=4740601&d=1554967755
+
+* Misc
+> Instagram video recording: Good and smooth (stock lags)
 
 ## Tested By:
 * @phhusson - 17 March 2019
-* @linjie997 - 03 April 2019
 * @koenkk - 05 April 2019
+* @linjie997 - 11 April 2019
 
 ## Flashing instructions
 
 No need for magisk, nor no-verity, no-forceencrypt... \
 You simply need to flash vbmeta then system. \
 Download vbmeta from https://github.com/TadiT7/xiaomi_cepheus_dump/raw/cepheus-user-9-PKQ1.181121.001-9.3.1-release-keys/firmware-update/vbmeta.img \
-Flash it with `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` \
-Flash system with `fastboot flash system system.img` \
-Reboot to recovery and factory reset.
+Reboot to bootloader:
+```
+fastboot reboot bootloader
+```
+Flash it with 
+```
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+``` \
+
+Flash system with 
+```
+fastboot flash system system.img
+``` \
+Reboot to recovery pressing power up + power
+
+Factory reset, reboot
 
 ### Community
 Telegram: https://t.me/mi9aosp
