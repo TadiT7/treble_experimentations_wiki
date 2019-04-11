@@ -1,6 +1,8 @@
 # Xiaomi Mi 9
 
-Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root".
+Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". \
+
+Tested with 20190409 image
 
 ## Hardware Support
 
@@ -11,7 +13,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Works
 
 * Bluetooth
-> A2DP AAC works
+> A2DP AAC works \
 > In-call broken
 
 * Wi-Fi
