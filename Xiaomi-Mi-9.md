@@ -49,9 +49,10 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 > Works
 
 * Video recording:
-> Limited to 1080p/720p. Need to kang Pixel 3 media_profiles_V1_0.xml https://github.com/TadiT7/google_blueline_dump/blob/e43766b36473595b7e3d0ef28613bc0821aeefd0/vendor/etc/media_profiles_V1_0.xml
-> Limited to 30fps. Need to copy media_profiles.xml to /vendor/etc 
-https://forum.xda-developers.com/attachment.php?attachmentid=4740601&d=1554967755
+> Limited to 1080p/720p. Need to kang Pixel 3 media_profiles_V1_0.xml \
+[media_profiles_V1_0.xml](https://github.com/TadiT7/google_blueline_dump/blob/e43766b36473595b7e3d0ef28613bc0821aeefd0/vendor/etc/media_profiles_V1_0.xml) \
+> Limited to 30fps. Need to copy media_profiles.xml to /vendor/etc \
+[media_profiles.xml](https://forum.xda-developers.com/attachment.php?attachmentid=4740601&d=1554967755)
 
 * Misc
 > Instagram video recording: Good and smooth (stock lags)
@@ -73,12 +74,12 @@ fastboot reboot bootloader
 Flash it with 
 ```
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
-``` \
+``` 
 
 Flash system with 
 ```
 fastboot flash system system.img
-``` \
+``` 
 Reboot to recovery pressing power up + power
 
 Factory reset, reboot
