@@ -28,6 +28,8 @@
 ***
 ## Additional Notes
 
+Nokia X7 sold in China (TA-1131) doesn't have NFC hardware.
+
 Nokia X7 / 8.1 are too difficult to flash custom ROM.
 When flashing, please ensure the vbmeta from PNX stock firmware need to be flashed with both disabling parameters as well.
 
