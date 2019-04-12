@@ -1,5 +1,8 @@
 # [Nokia 8.1 (X7)] - [pnx]
 
+## Hardware Support (AOSP 8.1)
+[TBA]
+
 ## Hardware Support (AOSP 9)
 
 * Camera
@@ -39,6 +42,7 @@ When flashing, please ensure the vbmeta from PNX stock firmware need to be flash
 
 
 ## Tested By:
-* Calyx Hikari (HikariCalyx) @ Nokia X7 00WW_2_47A @ 12/04/2019
+AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia X7 00CN_1_24F @ 12/04/2019
+AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia X7 00WW_2_47A @ 12/04/2019
 
 Template created by @zguithues
