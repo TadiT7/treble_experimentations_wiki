@@ -1,4 +1,4 @@
-# [Nokia 7 Plus] - [b2n]
+# [Nokia 8.1 (X7)] - [pnx]
 
 ## Hardware Support (AOSP 9)
 
