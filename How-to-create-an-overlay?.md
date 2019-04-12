@@ -50,5 +50,7 @@ Open up terminal in `vendor_hardware_overlay`, then type:
 Then use **pull request** function on GitHub and **apply to tips and guidance** by people commenting :)
 
 If you do extra changes, repeat:
+
 `git commit -m "Your change description"`
+
 `git push -u myrepo master`
