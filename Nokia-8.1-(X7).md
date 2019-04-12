@@ -1,7 +1,31 @@
 # [Nokia 8.1 (X7)] - [pnx]
 
 ## Hardware Support (AOSP 8.1)
-[TBA]
+* Camera
+> 
+
+* Fingerprint Reader
+>
+
+* Speaker / Microphone
+> 
+  
+* Bluetooth
+> 
+
+* Wifi
+> 
+
+* Telephony, SIM, VoLTE
+
+* NFC Unknown
+> Unable to test due to lack of hardware.
+
+* Notch part isn't working as expect
+> 
+
+* Battery and overall performance isn't ideal
+>
 
 ## Hardware Support (AOSP 9)
 
@@ -43,6 +67,7 @@ When flashing, please ensure the vbmeta from PNX stock firmware need to be flash
 
 ## Tested By:
 AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia X7 00CN_1_24F @ 12/04/2019
+
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia X7 00WW_2_47A @ 12/04/2019
 
 Template created by @zguithues
