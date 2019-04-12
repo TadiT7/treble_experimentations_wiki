@@ -25,6 +25,8 @@
 * Notch part isn't working as expect
 > 
 
+![Actual picture](https://t.me/phhtreble/194608)
+
 ***
 ## Additional Notes
 
