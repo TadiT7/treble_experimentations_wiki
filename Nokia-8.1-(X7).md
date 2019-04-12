@@ -17,7 +17,7 @@
 * Wifi
 > 
 
-* Telephony, SIM
+* Telephony, SIM, VoLTE
 
 * NFC Unknown
 > Unable to test due to lack of hardware.
