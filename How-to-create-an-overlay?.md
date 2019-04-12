@@ -30,6 +30,7 @@ Then go into `vendor_hardware_overlay/tests`, open terminal and run:
 `bash tests.sh`
 
 As a result, you'll get a recommended priority level which you should replace in your `AndroidManifest.xml`.
+Inside the `overlay.mk` of main directory add your `LOCAL_PACKAGE_NAME`, in the alphabetic order.
 
 Then if you want (but you should), go into `vendor_hardware_overlay/build/` and run:
 `bash build.sh`
