@@ -3,6 +3,7 @@
 ## Steps to install
 
 Boot PL2 (Nokia 6.1) TWRP image, then flash GSI to system image.
+Optionally drop [https://forum.xda-developers.com/showpost.php?p=79325737&postcount=7](this overlay) into /system/overlay or /vendor/overlay to fix notch and rounded corners.
 
 ## Hardware support
 
