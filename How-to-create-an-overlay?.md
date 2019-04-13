@@ -26,6 +26,8 @@ Where brand and device for property value is what you got from that `getprop` co
 
 Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (if exists) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
 
+Install **xmlstarlet** if you don't have it by:
+`sudo apt install xmlstarlet`
 Then go into `vendor_hardware_overlay/tests`, open terminal and run:
 `bash tests.sh`
 
@@ -45,7 +47,7 @@ Open up terminal in `vendor_hardware_overlay`, then type:
 
 `git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
 
-`git push -u myrepo master`
+`git push myrepo master`
 
 
 Then use **pull request** function on GitHub and **apply to tips and guidance** by people commenting :)
@@ -54,4 +56,4 @@ If you do extra changes, repeat:
 
 `git commit -m "Your change description"`
 
-`git push -u myrepo master`
+`git push myrepo master`
