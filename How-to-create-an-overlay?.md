@@ -57,3 +57,12 @@ If you do extra changes, repeat:
 `git commit -m "Your change description"`
 
 `git push myrepo master`
+
+If you create a messy pile of commits or your git "stops working", copy your changes somewhere else, clone **original** (phhusson) repo again, paste your changes into the newly downloaded one and force push them by:
+`git add --all`
+
+`git commit -m "Add overlay for yourdevicenamehere"`
+
+`git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
+
+and: `git push -f myrepo master`
