@@ -101,8 +101,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel K8]]||✓|A|arm64
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
+|[[Samsung Galaxy A7 2018]]|a7y18lte|✓|A|arm64|
+|[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
+|[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
+|[[Samsung Galaxy S3 NEO]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
@@ -158,6 +162,3 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
-|[[Samsung Galaxy A8 and A8 Plus (Exynos)]]|jackpotlte and jackpot2lte||A|arm64|
-|[[Samsung Galaxy A7 2018]]|a7y18lte|✓|A|arm64|
-|[[Samsung Galaxy S3 NEO]]|s3ve3g||A|arm|
