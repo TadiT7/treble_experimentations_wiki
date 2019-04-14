@@ -34,7 +34,8 @@ Note: See https://github.com/phhusson/treble_experimentations/issues/398
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working                                                   |
 | Speaker / Mic             | Working                                                   |
-| Bluetooth                 | Working                                                   |
+| Bluetooth media           | Working                                                   |
+| Bluetooth in-call         | Not Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Not working                                               |
