@@ -16,3 +16,5 @@ SIM / Mobile Data / Voice : Works out of the box
 VoLTE : Device supports VoLTE, but can't test at this moment
 
 Performace : NEED IMPROVEMENT (ihave to modify the build.prop to make the aosp 9 playable)
+
+***
