@@ -1,4 +1,4 @@
-Follow this link :https://forum.xda-developers.com/android/software/redmi-aosp-9-t3922192
+**Follow this link **:https://forum.xda-developers.com/android/software/redmi-aosp-9-t3922192
 Preliminary information and warnings
 Your warranty is now void, though it's pretty easy to re-flash stock firmware & re-lock the bootloader.
 
@@ -18,3 +18,13 @@ VoLTE : Device supports VoLTE, but can't test at this moment
 Performace : NEED IMPROVEMENT (ihave to modify the build.prop to make the aosp 9 playable)
 
 ***
+### Flashing 
+
+***
+Flashing procedure for Redmi Go Global feb 1 2019
+Enable USB debugging and OEM unlock in developer options
+adb reboot bootloader
+fastboot oem unlock / fastboot flashing unlock (Both work and give same result)
+fastboot flash system _your_gsi_path_
+fastboot format userdata
+fastboot reboot
