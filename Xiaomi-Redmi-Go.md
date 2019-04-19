@@ -1,0 +1,1 @@
+Follow this link :https://forum.xda-developers.com/android/software/redmi-aosp-9-t3922192
