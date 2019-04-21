@@ -1,6 +1,7 @@
 # [Nokia 1] - [frt]
 
-## *Last update (Probably)*
+## *Updates*
+- Vendor/Kernel since build 00WW_1_550_SP3 will make the screen unusable when booting up. Only SP2 and below can be usable.
 - Due to lack of system partition memory, the phone can be flashed within Android 9 (version 107) and Android 8.1 (Version 26).
 - But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
 
