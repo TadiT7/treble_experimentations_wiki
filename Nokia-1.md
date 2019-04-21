@@ -95,4 +95,4 @@
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v107 w/ no Google apps and OpenGapps.
 
-_**Last update:** 7:54 PM; April 5th, 2019_
+_**Last update:** 12:00 PM; April 21st, 2019_
