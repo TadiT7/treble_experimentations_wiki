@@ -17,6 +17,7 @@ VoLTE : Device supports VoLTE, but can't test at this moment
 
 Performace : NEED IMPROVEMENT (ihave to modify the build.prop to make the aosp 9 playable)
 
+Google apps : not certified fix by this :https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error/
 ***
 ### Flashing 
 
@@ -28,3 +29,8 @@ Performace : NEED IMPROVEMENT (ihave to modify the build.prop to make the aosp 9
 * fastboot flash system _your_gsi_path_
 * fastboot format userdata
 * fastboot reboot
+working gsi builds 👍 
+Lineageos 15 go : not good for daily use
+Aosp 9 go: still buggy ui bugs slow performance
+Aosp 8 go : good for daily use
+RR oreo go build : still buggy like lineage os 15
