@@ -33,6 +33,9 @@ Google apps : not certified fix by this :https://www.xda-developers.com/how-to-f
 ***
 
 working gsi builds 👍 
+
+***
+
 Lineageos 15 go : not good for daily use
 Aosp 9 go: still buggy ui bugs slow performance
 Aosp 8 go : good for daily use
