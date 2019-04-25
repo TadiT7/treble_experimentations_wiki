@@ -27,12 +27,12 @@ Google apps : not certified fix by this :https://www.xda-developers.com/how-to-f
 * adb reboot bootloader
 * fastboot oem unlock / fastboot flashing unlock (Both work and give same result)
 * fastboot flash system _your_gsi_path_
-* fastboot format userdata
+* fastboot format userdata 
 * fastboot reboot
 
 ***
 
-working gsi builds 👍 
+**working gsi builds 👍 **
 
 ***
 
