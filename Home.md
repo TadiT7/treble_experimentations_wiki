@@ -85,15 +85,18 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
 |[[Nokia 2.1]]|e2m|✓ (Go)|A|arm|
 |[[Nokia 3.1]]|es2|✓|A/B|arm64|
+|[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
 |[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
 |[[Nokia X5]]|pda|✓|A/B|arm64|
 |[[Nokia X6]]|drg|✓|A/B|arm64|
+|[[Nokia X71]]|tas|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
 |[[Nokia 7.1]]|ctl|✓|A/B|arm64|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
+|[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
 |[[Nubia Red Magic]]|NX609J|✓|A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
