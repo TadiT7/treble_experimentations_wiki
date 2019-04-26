@@ -1,6 +1,6 @@
 # Xiaomi Mi 9
 
-Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". \
+Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
 Tested with 20190409 image
 
@@ -67,13 +67,20 @@ Tested with 20190409 image
 ## Flashing instructions
 
 No need for magisk, nor no-verity, no-forceencrypt... \
+
 You simply need to flash vbmeta then system. \
+
 Download vbmeta from https://github.com/TadiT7/xiaomi_cepheus_dump/raw/cepheus-user-9-PKQ1.181121.001-9.3.1-release-keys/firmware-update/vbmeta.img \
+
+Download latest adb and fastboot drivers from [https://developer.android.com](https://developer.android.com/studio/releases/platform-tools) 
+
+Connect the phone to your computer with the USB cable
+
 Reboot to bootloader:
 ```
 fastboot reboot bootloader
 ```
-Flash it with 
+Flash vbmeta with 
 ```
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 ``` 
