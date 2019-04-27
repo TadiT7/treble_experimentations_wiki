@@ -4,7 +4,7 @@ The device works with phh-treble almost perfectly. Some issues that are currentl
 2. Adaptive brightness doesn't work
 3. Proximity sensor has some issues if you enable->disable the adaptive brightness (to fix it, just enable->disable adaptive brightness again)
 
-NOTE: Fingerprint sensor will now not work if you disable forceencrypt [Issue #409](https://github.com/phhusson/treble_experimentations/issues/409)
+NOTE: Fingerprint sensor will now not work if you disable forceencrypt - [Issue #409](https://github.com/phhusson/treble_experimentations/issues/409)
 
 ## Steps to Install
 ### Step 1: Unlocking the Bootloader
