@@ -6,7 +6,7 @@
 > 
 
 * Fingerprint Reader
->
+> Incompatible with in-screen fingerprint reader.
 
 * Speaker / Microphone
 > 
