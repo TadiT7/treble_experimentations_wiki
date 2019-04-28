@@ -24,7 +24,7 @@
 ***
 ## Additional Notes
 
-Like Nokia 8.1 before, Nokia 9 PureView too difficult to flash custom ROM.
+Like Nokia 8.1 before, Nokia 9 PureView is too difficult to flash custom ROM.
 When flashing, please ensure the vbmeta from AOP stock firmware need to be flashed with both disabling parameters as well.
 
 ***
