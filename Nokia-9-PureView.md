@@ -3,7 +3,7 @@
 ## Hardware Support (AOSP 9)
 
 * Camera
-> 
+> The power of penta camera can't be unleashed without stock Nokia Camera App.
 
 * Fingerprint Reader
 > Incompatible with in-screen fingerprint reader.
