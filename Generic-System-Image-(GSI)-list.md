@@ -27,6 +27,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638)|A - A/B|arm64|
 |BenzoRom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)|A - A/B| arm64 - arm|
+|HavocOS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-havoc-os-t3914038)|A - A/B|arm64|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-lineageos-16-0-gsi-arm64-ab-how-to-t3908029)|A - A/B|arm - arm64|
 |MSM Xtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289558)|A|arm64|
 |NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421)|A|arm - arm64|
