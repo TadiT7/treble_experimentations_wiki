@@ -8,9 +8,9 @@
 * Fingerprint Reader
 > Incompatible with in-screen fingerprint reader.
 
-[Actual Photo](https://t.me/phhtreble/201193)
+> [Actual Photo](https://t.me/phhtreble/201193)
 
-[More issues about in-screen fingerprint reader](https://github.com/topjohnwu/Magisk/issues/1378)
+> [More issues about in-screen fingerprint reader](https://github.com/topjohnwu/Magisk/issues/1378)
 
 * Speaker / Microphone
 > 
