@@ -29,7 +29,8 @@
 ***
 ## Additional Notes
 
-This has been tested with AospExtended 9.0 GSI (A/B)
+This has been tested with AospExtended | ArrowOS | RessurectionRemix |AOSiP 9.0 GSI (A/B)
+The Roms are stable with SELinux set to permissive
 
 
 ***
