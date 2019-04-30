@@ -12,7 +12,7 @@
 | Fingerprint               | √                                                         |
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
 | Notch Display             | Unproperly                                                |
----
+
 > Battery and overall performance isn't ideal
 
 ## Hardware Support (AOSP 9)
@@ -27,8 +27,6 @@
 | Fingerprint               | √                                                         |
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
 | Notch Display             | Unproperly [Actual Photo](https://t.me/phhtreble/194608)  |
----
-
 
 ***
 ## Additional Notes
