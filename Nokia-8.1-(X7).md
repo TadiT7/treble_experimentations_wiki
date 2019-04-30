@@ -22,7 +22,7 @@
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | √ (Requires ejecting/reinserting SIM on each boot)        |
+| SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
