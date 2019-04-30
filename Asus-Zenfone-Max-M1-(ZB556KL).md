@@ -31,7 +31,7 @@
 * Saalimquadri -  Asus Zenfone Max M1
 
 ## Tested ROMs:
-* AOSP 9.0 - PHH-Treble (2018-11-30)
+* AOSP 9.0
 * Havoc Pie GSI (Booting after changing selinux mapping)
 * Pixel Dust Pie GSI (Booting after changing selinux mapping)
 * octopus os GSI (booting after changing selinux mapping)
