@@ -1,58 +1,34 @@
 # [Nokia 8.1 (X7)] - [pnx]
 
 ## Hardware Support (AOSP 8.1)
-* Camera
-> 
-
-* Fingerprint Reader
->
-
-* Speaker / Microphone
-> 
-  
-* Bluetooth
-> 
-
-* Wifi
-> 
-
-* Telephony, SIM, VoLTE
-
-* NFC Unknown
-> Unable to test due to lack of hardware.
-
-* Notch part isn't working as expect
-> 
-
-* Battery and overall performance isn't ideal
->
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
+| Fingerprint               | √                                                         |
+| NFC                       | ? (Unable to test due to lack of hardware.)               |
+| Notch Display             | Unproperly                                                |
+---
+> Battery and overall performance isn't ideal
 
 ## Hardware Support (AOSP 9)
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √ (Requires ejecting/reinserting SIM on each boot)        |
+| VoLTE                     | √                                                         |
+| Fingerprint               | √                                                         |
+| NFC                       | ? (Unable to test due to lack of hardware.)               |
+| Notch Display             | Unproperly [Actual Photo](https://t.me/phhtreble/194608)  |
+---
 
-* Camera
-> 
-
-* Fingerprint Reader
->
-
-* Speaker / Microphone
-> 
-  
-* Bluetooth
-> 
-
-* Wifi
-> 
-
-* Telephony, SIM, VoLTE
-
-* NFC Unknown
-> Unable to test due to lack of hardware.
-
-* Notch part isn't working as expect
-> 
-
-[Actual Photo](https://t.me/phhtreble/194608)
 
 ***
 ## Additional Notes
