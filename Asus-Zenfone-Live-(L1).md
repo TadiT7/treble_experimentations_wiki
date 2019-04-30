@@ -1,7 +1,7 @@
 # **Asus Zenfone Live (L1) ZA550KL**
 ##  **Hardware support**
 * **Camera**
-> Front and back both working. Stock gsi ROM camera is working fine with few bugs, flash on stock camera if set to on or auto will make camera force close, also the camera are pitch black on some gsi ROM, if we using the front camera, we will see our face rendered very weird (AICP-mordiford by AndroPlus is one of many example of gsi ROM with pre-installed normal camera). Install 3rd party camera apps will solve the problem. Or you can enable the Camera2 API for minimizing the bugs. Add this line `persist.vendor.camera.HAL3.enabled=1` to _/system/buid.prop_
+> Front and back both working. Stock GSI ROM camera is working fine with few bugs, flash on stock camera if set to on or auto the camera will launch force close. Also the camera are pitch black/dark on some GSI ROM. If we using the front camera, we will see our face rendered very weird (AICP-mordiford by AndroPlus is one of many example of GSI ROM with pre-installed bugs free/normal camera). Install 3rd party camera apps will solve the problem like Open Camera app.
 * **Speaker / Microphone**
 > Loud-speak (bottom) works, earpiece (top-front) works, microphone works
 * **Bluetooth**
@@ -11,7 +11,7 @@
 * **SIM / Mobile Data / Voice**
 > Works
 * **Hotspot**
-> Works. Some of gsi ROM can't enable hotspot like Pixel Experience by EnesSastim.
+> Works. Some of GSI ROM can't enable hotspot tethering like Pixel Experience September 2018 build by EnesSastim.
 ## **Additional Notes**
 _This model pre-installed by Asus with Android 8.0 (ZenUI customized) and support project Treble._
 ## **Tested By** :
