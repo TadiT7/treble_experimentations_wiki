@@ -10,7 +10,7 @@
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
-| Fingerprint               | √ (Incompatible with in-screen fingerprint reader.)[Actual Photo](https://t.me/phhtreble/201193)|
+| Fingerprint               | √ (Incompatible with in-screen fingerprint reader.) [Actual Photo](https://t.me/phhtreble/201193)|
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
 | Notch Display             | Unproperly [Actual Photo](https://t.me/phhtreble/194608)  |
 > Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
