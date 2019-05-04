@@ -1,5 +1,5 @@
 # [Honor 7A 2018](https://www.gsmarena.com/honor_7a-9075.php)
-![Honor 7A 2018)](https://www.gsmarena.com/honor_7a-pictures-9075.php)
+![Honor 7A 2018)](https://cdn2.gsmarena.com/vv/pics/huawei/huawei-honor-7a-2.jpg)
 
 Device supported.
 
