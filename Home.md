@@ -42,7 +42,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|bln|✓|A|arm64|
 |[[Huawei Honor 7X]]|bnd|✓|A|arm64|
-|[[Huawei Honor 7A]]|AUM|✓|A|arm64|
+|[[Huawei Honor 7A]]|aum|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
