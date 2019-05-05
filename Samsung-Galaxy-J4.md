@@ -1,4 +1,5 @@
 V111 and V112 works only with  SELinux mode:Permissive
+Vendor 9.0 stuck on logo
 
 ## Hardware support
 
@@ -12,7 +13,7 @@ V111 and V112 works only with  SELinux mode:Permissive
 | Offline Charging          | Doesn't work                                              |
 | Other feature             | Status                                                    |
 ---
-AOSP 9.0 - Boots; 
-RR (7.0) - Boots
+AOSP 9.0 - Boots on Vendor(8.0); 
+RR (7.0) - Boots on Vendor(8.0);
 
 Tested By: KirillMolchanov - 2019-05-05
