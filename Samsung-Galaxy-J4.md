@@ -1,4 +1,4 @@
-V111 and V112 works only with  SELinux mode:Permissive
+V111 and V112 works only with  SELinux mode:Permissive;
 Vendor 9.0 stuck on logo
 
 ## Hardware support
