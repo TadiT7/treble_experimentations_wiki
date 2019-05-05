@@ -1,5 +1,3 @@
-# Samsung Galaxy J4
-
 V111 and V112 works only with  SELinux mode:Permissive
 
 ## Hardware support
