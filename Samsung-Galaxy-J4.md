@@ -11,7 +11,7 @@ Vendor 9.0 stuck on logo
 | WiFi                      | Works                                                    |
 | SIM / Mobile Data / Voice | Doesn't work                                              |
 | Offline Charging          | Doesn't work                                              |
-| Other feature             | Status                                                    |
+| Other feature             | MTP doesn't work                                                  |
 ---
 AOSP 9.0 - Boots on Vendor(8.0); 
 RR (7.0) - Boots on Vendor(8.0);
