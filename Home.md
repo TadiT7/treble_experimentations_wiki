@@ -116,6 +116,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S3 NEO]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
+|[[Samsung Galaxy Tab S4 (SM-T83X)]]|unknown|✓|A|arm64|
 |[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ]]|kagura||A|arm64|
