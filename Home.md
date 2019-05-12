@@ -28,6 +28,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Barnes & Noble Nook Tablet 10.1"]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
+|[[Blackview BV9600 Pro]]|S700 *?*|✓|A|arm64|
 |[[bq Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
 |[[Doogee Y8]]|Y8|✓|A|arm64|
