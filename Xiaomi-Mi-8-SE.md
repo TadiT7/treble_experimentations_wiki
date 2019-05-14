@@ -15,6 +15,11 @@ Note: See https://github.com/phhusson/treble_experimentations/issues/398
 1. Extract the downloaded file.
 2. Run recovery-twrp-one-click-flashing-tool一键刷入.bat
 3. Follow the instructions
+4. Change language to English after first boot by following means.
+1. Slide the button to allow modification
+2. Tap "设置", third line second row.
+3. Tap the globe tab on the right side
+4. Select English and tap language button on the low right corner
 
 > Tip: If TWRP does not start then use combination of buttons `(POWER) + (VOLUME +)` to force the device to start from the recovery 
 
