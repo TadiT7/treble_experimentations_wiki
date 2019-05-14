@@ -1,4 +1,5 @@
 # Xiaomi Mi 8 SE AOSP ROM (GSI Treble based) installation guide - Original Android experience
+This guide should also apply to any other recent Xiaomi phone with fastboot support.
 
 Known issues https://github.com/phhusson/treble_experimentations/issues/398
 
@@ -13,16 +14,16 @@ Before you do anything, please BACK UP YOUR FILES!!!
 4. Latest stable xiaomi.eu ROM. Same version as the downloaded stock firmware recommended. https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES
 
 Tested combination:
+
 Xiaomi EU ROM
 https://kent.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI8SE_V10.3.1.0.PEBCNXM_v10-9.zip 
 
 Stock MIUI fastboot image 
-
 http://bigota.d.miui.com/V10.3.1.0.PEBCNXM/sirius_images_V10.3.1.0.PEBCNXM_20190418.0000.00_9.0_cn_77c3bfb3d6.tgz
 
-5. phhson AOSP systemimg for arm64 A-only devices https://github.com/phhusson/treble_experimentations/releases
+5. phhson generic AOSP system image for arm64 A-only devices https://github.com/phhusson/treble_experimentations/releases
 6. Following procedure is executed under Windows
-
+7. FOSS compressed archive tool https://www.7-zip.org
 ### 0. Unlock bootloader and flash the latest stock MIUI firmware in fastboot mode 
 1. Unlock the bootloader here http://en.miui.com/unlock/ (wipe all existing data) and put it in fastboot mode after unlock. (Power it off first, then power it on while holding volume down button.)
 2. Extract the firmware and the flashing tool.
@@ -42,15 +43,17 @@ http://bigota.d.miui.com/V10.3.1.0.PEBCNXM/sirius_images_V10.3.1.0.PEBCNXM_20190
 
 > Tip: If TWRP does not start then use combination of buttons `(POWER) + (VOLUME +)` to force the device to start from the recovery 
 
-### b. Installing the latest available version of MIUI EU
+### b. Installing the latest available version of MIUI EU (or flash the boot.img only)
 1. Enter `TWRP` and perform `WIPE > FORMAT DATA` and factory reset
 2. Copy the ZIP file (MIUI 10) to `DEVICE / TWRP` from the `Windows Explorer` (Drag and Drop)
 3. Next go to `INSTALL > INSTALL ZIP`, enter the directory `/data/media/0/TWRP`, flash ZIP file and finish by pressing `SWIPE TO CONFIRM FLASH`
 4. Wait for the installation to finish (the system starts in initial MIUI screen)
 
-> Note: It's require that, even if the device already has a version of MIUI previously installed, the installation process described above **(b)** is carried out to avoid MI-logo bootloop
+Alternatively you can just extract the boot.img file from xiaomi.EU ROM zip file and flash it as the description of AOSP system image flashing.
 
-### c. Installing GSI AOSP PIE 9
+> Note: Actually this step replaces stock boot.IMG with the one from xiaomi.eu, Since GSI image doesn't boot with the stock one. And if the xiaomi.EU version doesn't match with the stock MIUI version on device (I.e. boot.IMG doesn't match other blobs), the device will kick into fastboot to force you to perform a fresh installaion of stock MIUI, or exhibiting unforseeable problems eg. touchscreen not working.
+
+### c. Installing GSI AOSP system image
 1. Download the latest version of the GSI
 2. Extract the contents of the `.xz` file with 7-zip download [here](https://www.7-zip.org/) 
 3. Enter `TWRP` and perform `WIPE > SWIPE TO FACTORY RESET`
