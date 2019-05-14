@@ -1,10 +1,26 @@
 # Xiaomi Mi 8 SE AOSP ROM (GSI Treble based) installation guide - Vanilla Android experience
-This guide should also apply to any other recent Xiaomi phone with fastboot support.
-
-This is an A-only device without Xiaomi's newly introduced anti-rowback (downgrade) mechanism. Originally shipped with Android 8.0 in June 2018. Supports dual-SIM VoLTE on stock firmware with Snapdragon SDM 710 SoC. available in 4/64, 6/64, 6/128.
+## Hardware support
 
 Known issues https://github.com/phhusson/treble_experimentations/issues/398
 
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Working                                                   |
+| Speaker / Mic             | Working                                                   |
+| Bluetooth media           | Working                                                   |
+| Bluetooth in-call/outgoing-call         | Not Working                                               |
+| WiFi                      | Working                                                   |
+| Dual SIM / Mobile Data (LTE) / Voice (GSM)| Working                                                   |
+| VoLTE                     | Not working                                               |
+| Fingerprint               | Working                                                   |
+| Offline Charging          | Working                                                    |
+| IR             | Not tested                                                    |
+
+
+## The guide guy
+This guide should also apply to any other recent Xiaomi phone with fastboot support.
+
+This is an A-only device without Xiaomi's newly introduced anti-rowback (downgrade) mechanism. Originally shipped with Android 8.0 in June 2018. Supports dual-SIM VoLTE on stock firmware with Snapdragon SDM 710 SoC. available in 4/64, 6/64, 6/128.
 
 Before you do anything, please BACK UP YOUR FILES!!!
 
@@ -67,17 +83,3 @@ Alternatively you can just extract the boot.img file from xiaomi.EU ROM zip file
 7. Wait for the installation to finish and the system will start the initial screen of `AOSP 9 PIE`
 ![](https://user-images.githubusercontent.com/47562939/57715499-7cfcbe80-76a9-11e9-9ad3-9d8ae7095dfd.png)
 ![](https://user-images.githubusercontent.com/47562939/57715509-8423cc80-76a9-11e9-97d1-783fe5bcc5a9.png)
-## Hardware support
-
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | Working                                                   |
-| Speaker / Mic             | Working                                                   |
-| Bluetooth media           | Working                                                   |
-| Bluetooth in-call         | Not Working                                               |
-| WiFi                      | Working                                                   |
-| SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Not working                                               |
-| Fingerprint               | Working                                                   |
-| Offline Charging          | Working                                                    |
-| Other feature             | Status                                                    |
