@@ -24,7 +24,7 @@ Note: See https://github.com/phhusson/treble_experimentations/issues/398
 3. Next go to `INSTALL > INSTALL ZIP`, enter the directory `/data/media/0/TPWR`, flash ZIP file and finish by pressing `SWIPE TO CONFIRM FLASH`
 4. Wait for the installation to finish (the system starts in initial MIUI screen)
 
-> Note: I recommend that, even if the device already has a version of MIUI previously installed, the installation process described above **(b)** is carried out to avoid unforeseen results 
+> Note: It's require that, even if the device already has a version of MIUI previously installed, the installation process described above **(b)** is carried out to avoid MI-logo bootloop
 
 ### c. Installing GSI AOSP PIE 9
 1. Download the latest version of the GSI from this repo
