@@ -79,5 +79,5 @@ Alternatively you can just extract the boot.img file from xiaomi.EU ROM zip file
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                                   |
-| Offline Charging          | Status                                                    |
+| Offline Charging          | Working                                                    |
 | Other feature             | Status                                                    |
