@@ -10,6 +10,7 @@ Before you do anything, please BACK UP YOUR FILES!!!
 
 ### Required files
 -1. A Windows 7 or later computer with at least 10 GB free space
+
 0. Official bootloader unlocker http://miuirom.xiaomi.com/rom/u1106245679/3.3.1212.33/miflash_unlock-3.3.1212.33.zip
 1. Stock fastboot mode latest stable firmware http://update.miui.com/updates/v1/fullromdownload.php?d=sirius&b=X&r=cn&n= . With this, you can go back to stock at anytime if something goes wrong.
 2. Stock fastboot mode firmware flashing tool http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip
