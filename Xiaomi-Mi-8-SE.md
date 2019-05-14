@@ -8,6 +8,7 @@ Before you do anything, always BACK UP YOUR FILES FIRST!!!
 2. Stock fastboot mode firmware flashing tool http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip
 3. LR.team 2019-04-23 unofficial TWRP 3.3.0 with flashing tool https://mailacid-my.sharepoint.com/:u:/g/personal/tsh_mail_ac_id/EXVUGoX4qLlDiXms2ZJDCG0BfZWRfvp5rwNVHavhsz9IYw?e=TgYdHk
 4. Latest stable xiaomi.eu ROM. Same version as the downloaded stock firmware recommended. https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES
+Tested combination: https://kent.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_MI8SE_V10.3.1.0.PEBCNXM_v10-9.zip http://bigota.d.miui.com/V10.3.1.0.PEBCNXM/sirius_images_V10.3.1.0.PEBCNXM_20190418.0000.00_9.0_cn_77c3bfb3d6.tgz
 5. phhson AOSP systemimg for arm64 A-only devices https://github.com/phhusson/treble_experimentations/releases
 6. Following procedure is executed under Windows
 ### 0. Unlock bootloader
