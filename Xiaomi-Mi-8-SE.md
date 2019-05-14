@@ -1,4 +1,4 @@
-# Xiaomi Mi 8 SE AOSP ROM (GSI Treble based) installation guide - Original Android experience
+# Xiaomi Mi 8 SE AOSP ROM (GSI Treble based) installation guide - Vanilla Android experience
 This guide should also apply to any other recent Xiaomi phone with fastboot support.
 
 This is an A-only device without Xiaomi's newly introduced anti-rowback (downgrade) mechanism. Originally shipped with Android 8.0 in June 2018. Supports dual-SIM VoLTE on stock firmware with Snapdragon SDM 710 SoC. available in 4/64, 6/64, 6/128.
