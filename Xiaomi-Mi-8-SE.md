@@ -5,7 +5,7 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working                                                   |
+| Camera                     | Working (auxiliary camera can be detected by Open Camera, however can't be used with apps other than MIUI stock camera. Front/rear flashlight working)                                                   |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth media           | Working                                                   |
 | Bluetooth in-call/outgoing-call         | Not Working                                               |
