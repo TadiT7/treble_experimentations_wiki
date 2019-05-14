@@ -1,6 +1,7 @@
 # MI 8 SE install GSI AOSP 9 PIE phhson
 Note: See https://github.com/phhusson/treble_experimentations/issues/398
 > Note: This is an A-only device.
+Before you do anything, always BACK UP YOUR FILES FIRST!!!
 ### Required files
 0. Official bootloader unlocker http://miuirom.xiaomi.com/rom/u1106245679/3.3.1212.33/miflash_unlock-3.3.1212.33.zip
 1. Stock fastboot mode latest stable firmware http://update.miui.com/updates/v1/fullromdownload.php?d=sirius&b=X&r=cn&n= . With this, you can go back to stock at anytime if something goes wrong.
