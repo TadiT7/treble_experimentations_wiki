@@ -65,7 +65,8 @@ Alternatively you can just extract the boot.img file from xiaomi.EU ROM zip file
 5. Next go to `INSTALL > IMAGES`, enter the directory `/data/media/0/TWRP`, flash file `IMG` then select partition `SYSTEM` and finish by pressing `SWIPE TO CONFIRM FLASH`
 6. Restart to `SYSTEM` (Normal restart)
 7. Wait for the installation to finish and the system will start the initial screen of `AOSP 9 PIE`
-
+![](https://user-images.githubusercontent.com/47562939/57715499-7cfcbe80-76a9-11e9-9ad3-9d8ae7095dfd.png)
+![](https://user-images.githubusercontent.com/47562939/57715509-8423cc80-76a9-11e9-97d1-783fe5bcc5a9.png)
 ## Hardware support
 
 | Component                 |      Comment                                              |
