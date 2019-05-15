@@ -14,7 +14,7 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                                   |
 | Offline Charging          | Working                                                    |
-| IR             | Not tested                                                    |
+| IR             | Working                                                    |
 
 
 ## The guide guy
