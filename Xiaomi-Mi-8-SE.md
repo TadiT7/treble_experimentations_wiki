@@ -11,7 +11,7 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 | Bluetooth in-call/outgoing-call         | Not Working                                               |
 | WiFi                      | Working                                                   |
 | Dual SIM / Mobile Data (LTE) / Voice (GSM)| Working                                                   |
-| VoLTE                     | Not working                                               |
+| VoLTE                     | Not working Needs someone with literacy in Android development working on this https://github.com/phhusson/treble_experimentations/issues/398#issuecomment-469669971                                             |
 | Fingerprint               | Working                                                   |
 | Offline Charging          | Working                                                    |
 | IR             | Working                                                    |
