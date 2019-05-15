@@ -8,10 +8,10 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 | Camera                     | Working (auxiliary camera can be detected by Open Camera, however can't be used with apps other than MIUI stock camera. Front/rear flashlight working)                                                   |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth media           | Working                                                   |
-| Bluetooth in-call/outgoing-call         | Not Working other device using GSI also has this problem                                              |
+| Bluetooth in-call/outgoing-call         | Not Working, also presents in other devices using GSI                                              |
 | WiFi                      | Working                                                   |
 | Dual SIM / Mobile Data (LTE) / Voice (GSM)| Working                                                   |
-| VoLTE                     | Not working Needs someone with literacy in Android development working on this https://github.com/phhusson/treble_experimentations/issues/398#issuecomment-469669971                                             |
+| VoLTE                     | Not working Needs someone with knowledge in Android development working on this https://github.com/phhusson/treble_experimentations/issues/398#issuecomment-469669971                                             |
 | Fingerprint               | Working                                                   |
 | Offline Charging          | Working                                                    |
 | IR             | Working                                                    |
@@ -21,7 +21,8 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 This guide should also apply to any other recent Xiaomi phone with fastboot support.
 
 This is an A-only device without Xiaomi's newly introduced anti-rowback (downgrade) mechanism. Originally shipped with Android 8.0 in June 2018. Supports dual-SIM VoLTE on stock firmware with Snapdragon SDM 710 SoC. available in 4/64, 6/64, 6/128.
-
+GSI images relies on the stock vendor partition to work properly. So stick to the GSI image with the same Android version as the MIUI. At this moment, May 2019, Xiaomi has released pie based firmware for this device.
+In the future, if you want to upgrade the system of your phone, the whole procedure described on this page will need to be performed again to avoid problems. (And search for the TWRP works with future release, in case the one on this page is outdated)
 Before you do anything, please BACK UP YOUR FILES!!!
 
 ### Required files
