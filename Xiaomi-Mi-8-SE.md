@@ -1,4 +1,6 @@
 # Xiaomi Mi 8 SE AOSP ROM (GSI Treble based) installation guide - Vanilla Android experience
+## Discussion on XDA
+https://forum.xda-developers.com/mi-8-se/how-to/comprehensive-guide-installing-aosp-gsi-t3930100/
 ## Hardware support
 
 Known issues https://github.com/phhusson/treble_experimentations/issues/398
