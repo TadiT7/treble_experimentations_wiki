@@ -8,7 +8,7 @@ Known issues https://github.com/phhusson/treble_experimentations/issues/398
 | Camera                     | Working (auxiliary camera can be detected by Open Camera, however can't be used with apps other than MIUI stock camera. Front/rear flashlight working)                                                   |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth media           | Working                                                   |
-| Bluetooth in-call/outgoing-call         | Not Working                                               |
+| Bluetooth in-call/outgoing-call         | Not Working other device using GSI also has this problem                                              |
 | WiFi                      | Working                                                   |
 | Dual SIM / Mobile Data (LTE) / Voice (GSM)| Working                                                   |
 | VoLTE                     | Not working Needs someone with literacy in Android development working on this https://github.com/phhusson/treble_experimentations/issues/398#issuecomment-469669971                                             |
