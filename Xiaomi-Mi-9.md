@@ -2,12 +2,13 @@
 
 Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
-Tested with 20190409 image
+Tested with AOSP 9.0 v113 image
 
 ## Hardware Support
 
 * Camera:
-> Basic usage works. Extented support works enabling it from Phh settings
+> Basic usage works. Triple camera access works from modded GCAM
+> Extented support works enabling it from Phh settings
 
 * Speaker / Microphone
 > Works
@@ -26,7 +27,7 @@ Tested with 20190409 image
 > Works
 
 * SIM / Mobile Data / Voice
-> Works, LTE+ works. Need to switch technology in `*#*#4636#*#*` to LTE/UMTS (global forces 3G... why?)
+> Works, LTE+ works.
 
 * VoLTE
 > Not tested
@@ -51,7 +52,7 @@ Tested with 20190409 image
 > Works
 
 * Video recording:
-> Limited to 1080p/720p. Need to kang Pixel 3 media_profiles_V1_0.xml \
+> Limited to 1080p/720p. Need to kang Pixel 3 media_profiles_V1_0.xml, /vendor/etc and overwrite the old one \
 [media_profiles_V1_0.xml](https://github.com/TadiT7/google_blueline_dump/blob/e43766b36473595b7e3d0ef28613bc0821aeefd0/vendor/etc/media_profiles_V1_0.xml) \
 > Limited to 30fps. Need to copy media_profiles.xml to /vendor/etc \
 [media_profiles.xml](https://forum.xda-developers.com/attachment.php?attachmentid=4740601&d=1554967755)
@@ -62,7 +63,7 @@ Tested with 20190409 image
 ## Tested By:
 * @phhusson - 17 March 2019
 * @koenkk - 05 April 2019
-* @linjie997 - 11 April 2019
+* @linjie997 - 14 April 2019
 
 ## Flashing instructions
 
