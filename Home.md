@@ -77,6 +77,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
 |[[Moto G5]]|cedric||A|arm64|
+|[[Moto G5S]]|montana||A|arm64|
 |[[Moto G5 Plus]]|potter||A|arm64|
 |[[Moto G6 Play]]|aljeter|✓|A|arm|
 |[[Moto G6]]|ali|✓|A|arm|
