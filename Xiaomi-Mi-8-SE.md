@@ -33,7 +33,7 @@ Before you do anything, please BACK UP YOUR FILES!!!
 0. Official bootloader unlocker http://miuirom.xiaomi.com/rom/u1106245679/3.3.1212.33/miflash_unlock-3.3.1212.33.zip
 1. Stock fastboot mode latest stable firmware http://update.miui.com/updates/v1/fullromdownload.php?d=sirius&b=X&r=cn&n= . With this, you can go back to stock at anytime if something goes wrong.
 2. Stock fastboot mode firmware flashing tool http://bigota.d.miui.com/tools/MiFlash2018-5-28-0.zip
-3. LR.team 2019-04-23 unofficial TWRP 3.3.0 with flashing tool https://mailacid-my.sharepoint.com/:u:/g/personal/tsh_mail_ac_id/EXVUGoX4qLlDiXms2ZJDCG0BfZWRfvp5rwNVHavhsz9IYw?e=TgYdHk
+3. LR.team 2019-04-23 unofficial TWRP 3.3.0 (data partition decryption seems not working )with flashing tool https://mailacid-my.sharepoint.com/:u:/g/personal/tsh_mail_ac_id/EXVUGoX4qLlDiXms2ZJDCG0BfZWRfvp5rwNVHavhsz9IYw?e=TgYdHk
 4. Latest stable xiaomi.eu ROM. Same version as the downloaded stock firmware recommended. https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES
 
 Tested combination:
