@@ -30,7 +30,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |HavocOS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-havoc-os-t3914038)|A - A/B|arm64|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-lineageos-16-0-gsi-arm64-ab-how-to-t3908029)|A - A/B|arm - arm64|
 |MSM Xtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289558)|A|arm64|
-|Miui 9|erfan|[Download](https://mirrors.lolinet.com/firmware/gsi/MIUI-Aonly-9-20190413-ErfanGSI.img.7z)|A - A/B|arm64 - arm|
+|Miui 9|ᴇʀғᴀɴ ᴀʙᴅɪ|[Download](https://mirrors.lolinet.com/firmware/gsi/MIUI-Aonly-9-20190413-ErfanGSI.img.7z)|A - A/B|arm64 - arm|
 |NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421)|A|arm - arm64|
 |OmniROM|EnesSastim|[Download](https://github.com/EnesSastim/Downloads/releases?after=PE-A-2018-08-31)|A - A/B|arm64|
 |OmniROM|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-omnirom-t3901305)|A - A/B|arm64|
