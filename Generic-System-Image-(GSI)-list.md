@@ -23,8 +23,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Android P (PQ1A) sGSI |AyamDobhal|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development-a-only-roms/ported-p-sgsi-pr2-t3845789) / [Download](https://mega.nz/#F!p7gmVYzJ!ECjtB-8Vvqorr9UK1I2mGg)|A|arm64|
 |Android P(PQ2A) sGSI |GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f#MI-A1-Pie-sGSI-Tutorials) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|AB|arm64|
 |AOSP 9.0|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosp-9-0-android-9-0-gsi-t3826357) / [Download](https://androidfilehost.com/?w=files&flid=280275)|A|arm64|
-|AOSP Extended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289419)|A - A/B|arm64/arm|
-|BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638)|A - A/B|arm/arm64|
+|AOSP Extended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289419)|A - A/B|arm - arm64|
+|BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638)|A - A/B|arm - arm64|
 |BenzoRom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)|A - A/B| arm64 - arm|
 |HavocOS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-havoc-os-t3914038)|A - A/B|arm64|
