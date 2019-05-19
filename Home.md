@@ -31,7 +31,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9600 Pro]]|S700 *?*|✓|A|arm64|
 |[[bq Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
-|[[Doogee Y8]]|Y8|✓|A|arm64|
+|[[Doogee Y8]]|Y8|✓|A/B|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock||A|arm64|
