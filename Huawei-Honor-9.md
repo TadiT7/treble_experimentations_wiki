@@ -9,8 +9,6 @@ _(reboots into your recovery and stock recovery if you haven't installed a custo
 3. Wipe (factory reset including data) with stock Recovery (not eRecovery; you will need to reflash a stock recovery through fastboot) (TWRP wipe doesn't currently work)
 
 3.1 Wipe (factory reset) works in this [TWRP-Mod by Gaguga](https://4pda.ru/forum/index.php?showtopic=934177&st=60#entry82590973) for Huawei/Honor.
-
-
 Direct download link [TWRP-Mod by Gaguga](https://my.pcloud.com/publink/show?code=XZdQCI7ZxsXVkgOqQmX0nb4HpWBQTXoibubV) for Huawei/Honor.
 
 5. Reboot to fastbootmode
