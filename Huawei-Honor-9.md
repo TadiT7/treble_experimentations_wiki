@@ -28,7 +28,7 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 
 #### Need to connect the computer:
 
-- `Fastboot mode`: long press the volume down key + power button.
+- `Fastboot mode`: long press the volume down key + power button(Or connect the cable to the computer and hold down the volume up key + volume down key.).
 
 - `eRecovery mode`: long press the volume up key + power button.
 
