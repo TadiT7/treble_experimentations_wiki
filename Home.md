@@ -106,7 +106,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nubia Red Magic]]|NX609J|✓|A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
-|[[OnePlus 6 and 6T]]|enchilada and fajita|✓|A/B|arm64|
+|[[OnePlus 6]]|enchilada|✓|A/B|arm64|
+|[[OnePlus 6T]]|fajita|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel K8]]||✓|A|arm64
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
