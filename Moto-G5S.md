@@ -1,4 +1,4 @@
-# Moto G5S (montana)
+# Moto G5S
 
 Suitable for daily usage.
 
