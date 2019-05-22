@@ -40,6 +40,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
+|[[Google Pixel 3 and Pixel 3 XL]]|blueline and crosshatch|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|bln|✓|A|arm64|
@@ -83,6 +84,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
 |[[Motorola One]]|deen|✓|A/B|arm64|
+|[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
@@ -104,7 +106,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nubia Red Magic]]|NX609J|✓|A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
-|[[OnePlus 6]]|enchilada|✓|A/B|arm64|
+|[[OnePlus 6 and 6T]]|enchilada and fajita|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel K8]]||✓|A|arm64
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
