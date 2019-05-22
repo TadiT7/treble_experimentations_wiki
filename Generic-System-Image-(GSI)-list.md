@@ -43,7 +43,6 @@ LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleen
 ## Android 8 Oreo:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AICP-mordiford|AndroPlus|[Here](https://treble.andro.plus)|A - A/B|arm64|
 |AOSIP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
 |AOSP 8.1|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/experimental-phh-treble-t3709659)|A - A/B|arm - arm64|
 |AOSP Extended|AryanPatidar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-aosp-extended-t3821934)|A - A/B |arm - arm64|
