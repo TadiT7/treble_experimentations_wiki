@@ -1,6 +1,10 @@
 # Moto G5S
 
 ## Hardware Support
+* Wi-Fi
+> Works
+* Bluetooth
+> Works
 * Camera
 > Works, but on GSI you need to install Moto Cam
 * NFC
@@ -9,6 +13,8 @@
 > Works
 * Moto Actions
 > Works (not present in GSIs)
+* SELinux
+> Permissive
 
 ## Tested GSIs
 * AOSP 9.0
