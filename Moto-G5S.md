@@ -22,7 +22,7 @@ Suitable for daily usage.
     $ fastboot format boot
     $ fastboot format oem
     ```
-* Flash this [vendor image](https://drive.google.com/open?id=183G4b5InwwLMBtRQxOtEcBDyvRjud9hK) and [boot image](https://drive.google.com/open?id=1UTgTMEYvRSXY4aY6kHmkVYEQTbTFLQLn).
+* Flash this [vendor image and boot image](https://drive.google.com/folderview?id=1xqfqD4sLJCf6LXsGNFqP-I34qOwPda00).
     ```
     $ fastboot flash oem path/to/vendor.img
     $ fastboot flash boot path/to/boot.img
