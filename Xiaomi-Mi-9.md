@@ -83,7 +83,7 @@ fastboot reboot bootloader
 ```
 Flash vbmeta with 
 ```
-fastboot --disable-verify --disable-verification flash vbmeta vbmeta.img
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 ``` 
 
 Flash system with 
