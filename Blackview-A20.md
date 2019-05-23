@@ -12,11 +12,11 @@ front camera works
  * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
 > info about SIM / Mobile Data / Voice support/workarounds
  * VoLTE
-> info about VoLTE support
+> not supported
  * Fingerprint Reader
-> info about Fingerprint Reader support
+> no Fingerprint Reader
  * 3.5mm audio jack
-> info about 3.5mm audio jack support
+> works
  ***
 ## Additional Notes
  Test Results
