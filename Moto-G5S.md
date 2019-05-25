@@ -2,39 +2,18 @@
 
 Suitable for daily usage.
 
-## Steps to install (TWRP)
+## Steps to install
 
 * Flash [this TWRP](https://forum.xda-developers.com/moto-g5s/development/recovery-unofficial-twrp-recovery-moto-t3916370) as "Recovery" in your existing recovery.
 * Reboot again to TWRP.
 * Format System, Data, Cache and Dalvik/ART Cache.
 * Flash [this ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179).
 * Format System.
-* Flash a GSI as "System Image" and format data.
+* Flash a GSI as "System Image". Or alternatively use fastboot to flash the GSI:
+```
+fastboot flash system path/to/gsi.img
+```
 * Reboot to system.
-
-## Steps to install (Fastboot)
-
-* Format System, Data, Cache, Boot, and OEM/Vendor. **This will erase internal storage.**
-    ```
-    $ fastboot format system
-    $ fastboot format userdata
-    $ fastboot format cache
-    $ fastboot format boot
-    $ fastboot format oem
-    ```
-* Flash this [vendor image and boot image](https://drive.google.com/folderview?id=1xqfqD4sLJCf6LXsGNFqP-I34qOwPda00).
-    ```
-    $ fastboot flash oem path/to/vendor.img
-    $ fastboot flash boot path/to/boot.img
-    ```
-* Flash a GSI.
-    ```
-    $ fastboot flash system path/to/gsi.img
-    ```
-* Reboot.
-    ```
-    $ fastboot reboot
-    ```
 
 [Some more info](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179)
 
