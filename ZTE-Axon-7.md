@@ -2,6 +2,4 @@
 
 ## XDA Thread
 
-https://forum.xda-developers.com/axon-7/development/rom-aospextended-rom-v4-3-t3618950
-
-Template created by @zguithues
+https://forum.xda-developers.com/axon-7/development/nf-t3826885
