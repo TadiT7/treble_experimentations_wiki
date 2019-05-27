@@ -118,11 +118,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
-|[[Samsung Galaxy S3 NEO]]|s3ve3g||A|arm|
+|[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
+|[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
-|[[Samsung Galaxy Tab S4 (SM-T83X)]]|unknown|✓|A|arm64|
-|[[Sharp AQUOS S2]]|ss2 / sat|✓|A/B|arm64|
+|[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
+|[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
+|[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
+|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ]]|kagura||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
