@@ -103,7 +103,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
-|[[Nubia Red Magic]]|NX609J|✓|A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
@@ -154,14 +153,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Max 3]]|nitrogen|✓|A|arm64|
 |[[Xiaomi Mi MIX]]|lithium||A|arm64|
 |[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
-|[[Xiaomi Mi MIX 2S]]|polaris|✓|A|arm64|
+|[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
-|[[Xiaomi Redmi 3/3 Pro]]|ido||A|arm64|
-|[[Xiaomi Redmi 3S/Prime/3X]]|land||A|arm64|
-|[[Xiaomi Redmi 4 Pro/Prime]]|markw||A|arm64|
+|[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
+|[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
+|[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5]]|rosy||A|arm64|
@@ -179,5 +178,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
-|[[Zuk Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
+|[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
+|[[ZTE Nubia Z17]]|nx563j||A|arm64|
+|[[ZTE Nubia Z17s]]|nx595j||A|arm64|
+|[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
