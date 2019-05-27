@@ -180,6 +180,5 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
-|[[ZTE Nubia Z17]]|nx563j||A|arm64|
-|[[ZTE Nubia Z17s]]|nx595j||A|arm64|
+|[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
