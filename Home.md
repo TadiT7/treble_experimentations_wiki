@@ -134,7 +134,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Wileyfox Swift]]|crackling||A|arm64|
 |[[Wileyfox Swift 2 (Plus) (X)]]|marmite||A|arm64|
-|[[Xiaomi Mi 3/Mi 4]]|cancro||A|arm|
+|[Xiaomi Mi 3 / Mi 4](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-Mi-3-Mi-4)|cancro||A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
 |[[Xiaomi Mi 5s Plus]]|natrium||A|arm64|
@@ -158,9 +158,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
-|[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
+|[Xiaomi Redmi 3 / 3 Pro](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-Redmi-3-3-Pro)|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
-|[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
+|[Xiaomi Redmi 4 Pro / Prime](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-Redmi-4-Pro-Prime)|markw||A|arm64|
 |[[Xiaomi Redmi 4A]]|rolex||A|arm64|
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5]]|rosy||A|arm64|
