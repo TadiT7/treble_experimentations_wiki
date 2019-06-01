@@ -1,6 +1,6 @@
 # Chuwi Hi9 Air (Mediatek Helio X20 chipset)
 
-Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** image (Oreo).
+Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** Treble GSI (Oreo).
 
 ## Steps to install
 
