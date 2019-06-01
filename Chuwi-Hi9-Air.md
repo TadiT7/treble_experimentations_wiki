@@ -26,14 +26,14 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | yes (both work, but front cam upside down)                |
+| Camera                    | yes (both work, front cam orientation upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
 | Bluetooth                 | yes                                                       |
 | WiFi                      | yes                                                       |
-| SIM / Mobile Data         | yes (SIM1 tested only, may not reactivate from standby occasionally)|
+| SIM / Mobile Data         | yes (SIM1 only, may not reactivate from standby occasionally)|
 | Voice                     | yes                                                       |
 | SMS                       | yes                                                       |
-| VoLTE                     | no (MTK6797)                                              |
+| VoLTE                     | no (MTK 6797)                                             |
 | Fingerprint               | n/a                                                       |
 | NFC                       | n/a                                                       |
 | SD Card                   | yes                                                       |
