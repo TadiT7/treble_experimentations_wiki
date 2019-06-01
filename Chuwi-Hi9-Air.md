@@ -1,19 +1,20 @@
-# Chuwi Hi9 Air (MTK Helio X20)
+# Chuwi Hi9 Air (Mediatek Helio X20 chipset)
 
-Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and stability.
+Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability.
 
 ## Steps to install
 
-* enable OEM unlock in Android developer settings
-* reset device to factory settings and power off
-* start device with _power_ and _vol+_ for fastboot mode
+* enable "OEM unlock" in Android developer options (type on build number seven times)
+* use factory settings reset in Android system settings and power off
+* start device with `power` and `vol+` simultaneously for bootloader menu, select "Fastboot Mode" via 'vol+', then confirm OK via 'vol-'
 * flash [image](https://github.com/phhusson/treble_experimentations/releases/tag/v31) with the `fastboot` utility:
     ```
     $ fastboot oem unlock (confirm onscreen)
     $ fastboot erase system
     $ fastboot -u flash system system-arm64-aonly-gapps-su.img
     ```
-    Alternativly, you can flash via TWRP as "System Image" and format data: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
+
+Alternativly, you could flash via TWRP as "System Image" and format data: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 
 ## Hardware support
 
@@ -33,4 +34,4 @@ Pretty complete [hardware](https://forum.xda-developers.com/general/device-revie
 | Casting.                  | not from menu, only via Google Home                       |
 ---
 
-Tested By: bofh2k - phh-treble 8.1 v31 (gapps&su) - 2019-05-31
+Tested By: bofh2k - phh-treble 8.1 v31 (arm64-aonly-gapps-su) - 2019-05-31
