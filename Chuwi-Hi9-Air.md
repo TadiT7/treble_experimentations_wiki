@@ -9,7 +9,7 @@ Pretty complete [hardware](https://forum.xda-developers.com/general/device-revie
 * start device with _power_ and _vol+_ for fastboot mode
 * flash [image](https://github.com/phhusson/treble_experimentations/releases/tag/v31) with the `fastboot` utility:
     ```
-    $ fastboot oem unlock (must enable in Android developer settings before and confirm onscreen then)
+    $ fastboot oem unlock (confirm onscreen)
     $ fastboot erase system
     $ fastboot -u flash system system-arm64-aonly-gapps-su.img
     ```
@@ -19,17 +19,18 @@ Pretty complete [hardware](https://forum.xda-developers.com/general/device-revie
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | yes (both, but front cam upside down)                     |
-| Speaker / Mic             | not tested                                                |
+| Camera                    | yes (both work, but front cam upside down)                |
+| Speaker / Mic             | yes / yes                                                 |
 | Bluetooth                 | yes                                                       |
 | WiFi                      | yes                                                       |
-| SIM / Mobile Data / Voice | yes (SIM1, may not reactivate from standby after a while )|
+| SIM / Mobile Data         | yes (only SIM1 tested, may not reactivate from standby occasionally)|
+| Voice                     | yes                                                       |
+| SMS                       | yes                                                       |
 | VoLTE                     | no (MTK6797)                                              |
 | Fingerprint               | n/a                                                       |
 | NFC                       | n/a                                                       |
-| Offline Charging          | not tested                                                |
 | SD Card                   | yes                                                       |
-| Casting.                  | no, only via Google Home                                  |
+| Casting.                  | not from menu, only via Google Home                       |
 ---
 
-Tested By: bofh2k - phh-treble 8.1 v31 (gapps/su) - 2019-05-31
+Tested By: bofh2k - phh-treble 8.1 v31 (gapps&su) - 2019-05-31
