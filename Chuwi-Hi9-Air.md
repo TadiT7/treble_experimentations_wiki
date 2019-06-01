@@ -1,6 +1,6 @@
 # Chuwi Hi9 Air (Mediatek Helio X20 chipset)
 
-Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** image.
+Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** image (Oreo).
 
 ## Steps to install
 
@@ -40,4 +40,4 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
 | Casting                   | no, only via Google Home (as for Chuwi stock ROM)         |
 ---
 
-Tested By: bofh2k - phh-treble 8.1 v31 (arm64-aonly-gapps-su) - 2019-05-31
+Tested by bofh2k - phh-treble 8.1 v31 (arm64-aonly-gapps-su) - 2019-05-31
