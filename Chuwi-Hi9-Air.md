@@ -8,10 +8,11 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
 * enable "OEM unlock" in Android developer options (type on build number seven times to unlock developer mode in Android system seetings)
 * use factory settings reset in Android system settings and power off
 * start device with `power` and `vol+` simultaneously for bootloader menu, select "Fastboot Mode" via 'vol+', then confirm OK via 'vol-'
-* unlock bootloader (this will persist, unless stock ROM is [restored](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) using the MTK flash toolkit)
+* unlock bootloader (this will persist unless a Chuwi stock ROM is restored using the [MTK SP Flash](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) toolkit for `Format All + Download`)
     ```
-    $ fastboot oem unlock (confirm onscreen)
+    $ fastboot oem unlock
     ```
+    Confirm OK on screen.
     > Caveat: When relocking the bootloader again via `fastboot oem lock` the device won't boot any custom image...
 * flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive) -> this may be repeated for later image releases with fixes and Android security patches:
     ```
@@ -20,7 +21,7 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
     $ fastboot -u flash system system-arm64-aonly-gapps-su.img
     $ fastboot reboot
     ```
-     > Alternatively, you could flash via TWRP as "System Image" and format data: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
+     > Alternatively, you could flash via TWRP as "System Image" and format data (but this has _not_ worked for me): [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 * wait patiently for initial boot to complete (this will take several minutes, you may monitor progress via `adb shell top` for instance) 
 
 ## Hardware support
