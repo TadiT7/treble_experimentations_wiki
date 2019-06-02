@@ -67,6 +67,7 @@ Vanilla version does not include any of the above.
 ### How do I flash a GSI?
 
 First, you must unlock your bootloader; that is a capability your device manufacturer may or may not offer to end-users.
+Either you install it via fastboot or install it as a system image on twrp you might need to check first your phone is trebled support by download treble checker in playstore
 
 Read [this](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/) article by M. Rahman for a more detailed guide.
 
