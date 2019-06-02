@@ -12,6 +12,7 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
     ```
     $ fastboot oem unlock (confirm onscreen)
     ```
+    > Caveat: When relocking the bootloader again via `fastboot oem lock` the device won't boot any custom image...
 * flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive) -> this may be repeated for later image releases with fixes and Android security patches:
     ```
     $ fastboot erase system
