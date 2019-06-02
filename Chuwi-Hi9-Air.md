@@ -5,24 +5,27 @@ Pretty complete [hardware](https://forum.xda-developers.com/general/device-revie
 ## Steps to install
 
 Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
-* enable "OEM unlock" in Android developer options (type on build number seven times to unlock developer mode in Android system seetings)
-* use factory settings reset in Android system settings and power off
+Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) Windows toolkit using the `Format All + Download` option, in case anything goes wrong.
+* enable "OEM unlock" in Android developer options
+  >:information_source: type on build number seven times to unlock developer mode in Android system settings: System>About
+* use factory settings reset in Android system settings
+* wait for erase to finish and power off (long press)
 * start device with `power` and `vol+` simultaneously for bootloader menu, select "Fastboot Mode" via 'vol+', then confirm OK via 'vol-'
-* unlock bootloader (this will persist unless a Chuwi stock ROM is restored using the [MTK SP Flash](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) toolkit for `Format All + Download`)
+* unlock bootloader
     ```
     $ fastboot oem unlock
     ```
-    Confirm OK on screen.
-    > Caveat: When relocking the bootloader again via `fastboot oem lock` the device won't boot any custom image...
-* flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive) -> this may be repeated for later image releases with fixes and Android security patches:
+    Confirm OK on screen via 'vol+'.
+    > :warning: When relocking the bootloader again via `fastboot oem lock` the device won't boot custom images any longer...
+* flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive):
     ```
     $ fastboot erase system
-    $ fastboot erase cache
     $ fastboot -u flash system system-arm64-aonly-gapps-su.img
     $ fastboot reboot
     ```
-     > Alternatively, you could flash via TWRP as "System Image" and format data (but this has _not_ worked for me): [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
-* wait patiently for initial boot to complete (this will take several minutes, you may monitor progress via `adb shell top` for instance) 
+    :repeat: This step may be repeated for later image releases with fixes and Android security patches...
+     > Alternatively, you could flash via TWRP as "System Image" and format data (but this has _not_ worked for me :-1:): [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
+* wait patiently for another erase job to finish and initial boot (displays android animation instead of CHUWI) to complete: This will take several minutes 
 
 ## Hardware support
 
@@ -32,7 +35,7 @@ Baseline: Hi9 Air with Chuwi 20181122 stock ROM.
 | Speaker / Mic             | yes / yes                                                 |
 | Bluetooth                 | yes                                                       |
 | WiFi                      | yes                                                       |
-| SIM / Mobile Data         | yes (SIM1 only, may not reactivate from standby occasionally)|
+| SIM / Mobile Data         | partial (SIM1 only, may not reactivate from standby occasionally)|
 | Voice                     | yes                                                       |
 | SMS                       | yes                                                       |
 | VoLTE                     | no (MTK 6797)                                             |
