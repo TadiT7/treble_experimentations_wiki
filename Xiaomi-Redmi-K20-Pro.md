@@ -13,7 +13,7 @@ Proceed with regular system image flashing steps.
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract - see [#539](https://github.com/phhusson/treble_experimentations/issues/539))|
-| Audio                     | √× (No Type-C audio; Mic-recorded audio stutters)         |
+| Audio                     | √× (Audio playback stutters - see [#541](https://github.com/phhusson/treble_experimentations/issues/541); no Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/541))         |
 | Bluetooth                 | √× (In-call audio doesn't work)                           |
 | Display                   | √× (Auto-brightness doesn't work, manual does)            |
 | WiFi / Hotspot            | √                                                         |
