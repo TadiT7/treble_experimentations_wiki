@@ -37,6 +37,8 @@ OnePlus is cool with warranty, even on unlocked bootloader. You will lose Widevi
 
 ## Tested By:
 * [Titokhan](https://github.com/Titokhan)
-* Tested with [Phh-Treble AOSP v113](https://github.com/phhusson/treble_experimentations/releases/tag/v113) (system-arm64-ab-gapps-su) and [LineageOS 16.0](https://sourceforge.net/projects/andyyan-gsi/files/) by @AndyCGYan (20190515)
+* Tested with the following builds:
+    * [Phh-Treble AOSP v113](https://github.com/phhusson/treble_experimentations/releases/tag/v113) (system-arm64-ab-gapps-su)
+    * [LineageOS 16.0](https://sourceforge.net/projects/andyyan-gsi/files/) by [AndyCGYan](https://github.com/AndyCGYan) (20190515)
 
-Template created by @zguithues
+Template created by [zguithues](https://github.com/zguithues)
