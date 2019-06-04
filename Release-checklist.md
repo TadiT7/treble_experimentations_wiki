@@ -8,7 +8,7 @@
 - `git config --global user.name 'Pierre-Hugues Husson'`
 - `git config --global user.email phh@phh.me`
 - `git config --global color.ui auto`
-- `dpkg --add-architecture i386 && apt-get update && apt-get install -y build-essential imagemagick xorriso locales openjdk-8-jdk python git m4 unzip bison zip gperf libxml2-utils zlib1g:i386 libstdc++6:i386 bc curl lzop lzip lunzip squashfs-tools sudo repo xmlstarlet`
+- `dpkg --add-architecture i386 && apt-get update && apt-get install -y build-essential imagemagick xorriso locales openjdk-8-jdk python git m4 unzip bison zip gperf libxml2-utils zlib1g:i386 libstdc++6:i386 bc curl lzop lzip lunzip squashfs-tools sudo repo xmlstarlet python-pip python3-pip`
 - git clone https://github.com/phhusson/treble_experimentations/
 - edit treble_experimentations/build.sh for:
   - `repo sync -j1` to `repo sync -j12`
