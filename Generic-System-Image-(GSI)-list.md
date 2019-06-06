@@ -63,7 +63,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Android P (PR1) sGSI |erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659) / [Download](https://androidfilehost.com/?w=files&flid=275999)|A - A/B|arm64|
 |Android P (PQ1A) sGSI |AyamDobhal|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development-a-only-roms/ported-p-sgsi-pr2-t3845789) / [Download](https://mega.nz/#F!p7gmVYzJ!ECjtB-8Vvqorr9UK1I2mGg)|A|arm64|
 |Android P(PQ2A) sGSI |GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f#MI-A1-Pie-sGSI-Tutorials) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|AB|arm64|
-|Miui 9|ᴇʀғᴀɴ ᴀʙᴅɪ|[Download](https://mirrors.lolinet.com/firmware/gsi/MIUI-Aonly-9-20190413-ErfanGSI.img.7z)|A - A/B|arm64 - arm|
+|Miui 9|ᴇʀғᴀɴ ᴀʙᴅɪ|[Download](https://mirrors.lolinet.com/firmware/gsi/MIUI-Aonly-9-20190602-ErfanGSI.img.7z)|A | arm|
 
 ## Android 8 Oreo:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
