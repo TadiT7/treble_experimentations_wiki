@@ -4,6 +4,7 @@
 
 Decryption is not required, but it's recommended.  
 * Follow this guide for up-to-date instructions: [[guide] [root] [oreo&pie] [jeter/aljeter] [twrp, decrypt, magisk] [stock firmware]](https://forum.xda-developers.com/g6-play/how-to/guide-t3929928)
+* Even if you have the 32GB model, you need to use the TWRP built for the **16GB** model
 * This thread contains a list of tested GSI ROMs: [ROMs that run on the G6 Play [GSI]](https://forum.xda-developers.com/g6-play/development/roms-run-g6-play-gsi-t3904067)
 * (Any GSI that is ARM A-Only should boot, but hardware compatibility isn't guaranteed)
 * Flash the image with the `fastboot` utility:
