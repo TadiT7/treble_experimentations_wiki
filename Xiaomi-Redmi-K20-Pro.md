@@ -20,8 +20,7 @@ Proceed with regular system image flashing steps.
 | GPS                       | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | ? (Untested)                                              |
-| Fingerprint               | ? (Enrollment works, recognition a little slowwer maybe duet to system setting. Not support 
- wake up device when screen is AOD/off)                |
+| Fingerprint               | ? (Enrollment works, recognition a little slowwer maybe duet to system setting. Not support wake up device when screen is AOD/off)                |
 | NFC                       | √? (Support card info reading via NXP.TagInfo, need more test like card simulate)                                              |
 | Offline Charging          | × (only stop at Redmi LOGO, and system not boot)          |
 ---
