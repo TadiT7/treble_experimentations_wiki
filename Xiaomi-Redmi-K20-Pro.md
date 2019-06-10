@@ -27,9 +27,13 @@ Proceed with regular system image flashing steps.
 
 Tested By: AndyYan (AndyCGYan) @ Redmi K20 Pro V10.3.6.0.PFKCNXM @ 2019/06/03
 
-##Terminal command for manually controlling the motor:
+Terminal command for manually controlling the motor:
 su permission required
+```
 Popup: xiaomi-motor popup 1
+```
+```
 Takeback: xiaomi-motor tackback 1
+```
 
 Template created by @zguithues and @hackintosh5
