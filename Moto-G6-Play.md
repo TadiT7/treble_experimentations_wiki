@@ -28,7 +28,7 @@ Decryption is not required, but it's recommended.
 | SIM / Mobile Data / Voice | Works (Tested with Boost Mobile, APNs need to be added manually)|
 | VoLTE                     | Untested                                                        |
 | Fingerprint               | Works                                                           |
-| Offline Charging          | Untested                                                        |
+| Offline Charging          | Works                                                           |
 ---
 
 Tested by @ry755 - XT1922-7 (Jeter, Boost Mobile, US), Pie vendor firmware - Tested on 6/8/19
