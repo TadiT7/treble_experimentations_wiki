@@ -33,7 +33,7 @@ su permission required
 Popup: xiaomi-motor popup 1
 ```
 ```
-Takeback: xiaomi-motor tackback 1
+Takeback: xiaomi-motor takeback 1
 ```
 
 Template created by @zguithues and @hackintosh5
