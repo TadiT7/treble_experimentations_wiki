@@ -12,17 +12,18 @@ Proceed with regular system image flashing steps.
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract - see [#539](https://github.com/phhusson/treble_experimentations/issues/539))|
+| Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract, and you need manually control the motor by terminal command - see [#539](https://github.com/phhusson/treble_experimentations/issues/539))|
 | Audio                     | √× (Audio playback stutters - see [#541](https://github.com/phhusson/treble_experimentations/issues/541); no Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/541))         |
 | Bluetooth                 | √× (In-call audio doesn't work)                           |
-| Display                   | √× (Auto-brightness doesn't work, manual does)            |
+| Display                   | √× (Auto-brightness doesn't work, manual does, corner display looks a little strange with unexpected color pixel)            |
 | WiFi / Hotspot            | √                                                         |
 | GPS                       | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | ? (Untested)                                              |
-| Fingerprint               | ? (Enrollment works, recognition untested)                |
-| NFC                       | ? (Untested)                                              |
-| Offline Charging          | ×                                                         |
+| Fingerprint               | ? (Enrollment works, recognition a little slowwer maybe duet to system setting. Not support 
+ wake up device when screen is AOD/off)                |
+| NFC                       | √? (Support card info reading via NXP.TagInfo, need more test like card simulate)                                              |
+| Offline Charging          | × (only stop at Redmi LOGO, and system not boot)          |
 ---
 
 Tested By: AndyYan (AndyCGYan) @ Redmi K20 Pro V10.3.6.0.PFKCNXM @ 2019/06/03
