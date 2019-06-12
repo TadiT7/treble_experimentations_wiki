@@ -6,27 +6,27 @@
 > Working
 
 * Speaker / Microphone
-> Works
+> Works, but distorted audio with screen off
 
 * Bluetooth
-> Can scan devices
+> Working
 
 * Wifi
-> Can connect
+> Working
 
 * SIM / Mobile Data / Voice
-> Voice/Text functional; No Data
+> Everything's working, except of Mobile data on some carriers
 
 * Fingerprint Reader
 > Works
 
 ***
 ## Additional Notes
-
+> Needs tweaks on build.prop for fixing animations
 ***
 
 
 ## Tested By:
-* TinTrapezoid - 9-29-18
+* TinTrapezoid - 9-29-18 and GodcraftPlata - 12-06-2019
 
 Template created by @zguithues
