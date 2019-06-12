@@ -2,7 +2,7 @@
 
 Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
-Tested with AOSP 9.0 v113 image
+Tested with AOSP 9.0 v114 image
 
 ## Hardware Support
 
@@ -96,7 +96,7 @@ Reboot to recovery pressing power up + power
 Factory reset, reboot
 
 ### Community
-Telegram: https://t.me/mi9aosp
+Telegram: https://t.me/mi9group
 
 
 Template created by @zguithues
