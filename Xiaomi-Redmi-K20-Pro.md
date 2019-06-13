@@ -12,28 +12,28 @@ Proceed with regular system image flashing steps.
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract, and you need manually control the motor by terminal command - see [#539](https://github.com/phhusson/treble_experimentations/issues/539))|
-| Audio                     | √× (Audio playback stutters - see [#541](https://github.com/phhusson/treble_experimentations/issues/541); no Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/541))         |
-| Bluetooth                 | √× (In-call audio doesn't work)                           |
-| Display                   | √× (Auto-brightness doesn't work, manual does, corner display looks a little strange with unexpected color pixel)            |
-| WiFi / Hotspot            | √                                                         |
-| GPS                       | √                                                         |
-| SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | ? (Untested)                                              |
-| Fingerprint               | √? (Enrollment works, recognition a little slowwer maybe due to system setting. Not support to wake up device when screen is AOD/off)                |
-| NFC                       | √? (Support card info reading via NXP.TagInfo, need more test like card write/simulate)                                              |
-| Offline Charging          | × (only stop at Redmi LOGO, and system not boot)          |
+| Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract, requiring manual control via terminal command - see [#539](https://github.com/phhusson/treble_experimentations/issues/539) and below note) |
+| Audio                     | √× (No Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/542)) |
+| Bluetooth                 | √× (In-call audio doesn't work) |
+| Display                   | √× (Auto-brightness doesn't work, manual does; corners look slightly pixelated due to lack of corresponding overlay) |
+| WiFi / Hotspot            | √ |
+| GPS                       | √ |
+| SIM / Mobile Data / Voice | √ |
+| VoLTE                     | ? (Untested) |
+| Fingerprint               | √ (Recognition a little slower maybe due to system setting; unlocking from off/AOD state not supported) |
+| NFC                       | √? (Support card info reading via NXP.TagInfo, need more tests like card writing / simulation) |
+| Offline Charging          | × |
+
+## Additional note
+
+Terminal command for manually controlling the front camera motor (root required):
+
+Popup: `xiaomi-motor popup 1`
+
+Retract: `xiaomi-motor takeback 1`
+
 ---
 
-Tested By: AndyYan (AndyCGYan) @ Redmi K20 Pro V10.3.6.0.PFKCNXM @ 2019/06/03
-
-Terminal command for manually controlling the motor:
-su permission required
-```
-Popup: xiaomi-motor popup 1
-```
-```
-Takeback: xiaomi-motor takeback 1
-```
+Tested By: AndyYan (AndyCGYan), kumoilain @ Redmi K20 Pro V10.3.6.0.PFKCNXM @ 2019/06
 
 Template created by @zguithues and @hackintosh5
