@@ -15,7 +15,7 @@ Proceed with regular system image flashing steps.
 | Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract, requiring manual control via terminal command - see [#539](https://github.com/phhusson/treble_experimentations/issues/539) and below note) |
 | Audio                     | √× (No Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/542)) |
 | Bluetooth                 | √× (In-call audio doesn't work) |
-| Display                   | √× (Auto-brightness doesn't work, manual does; corners look slightly pixelated due to lack of corresponding overlay) |
+| Display                   | √× (Auto-brightness doesn't work yet - waiting on [the overlay](https://github.com/phhusson/vendor_hardware_overlay/pull/110) to be merged; corners look slightly pixelated due to lack of corresponding overlay item) |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | √ |
