@@ -14,6 +14,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/amp/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64|
 |Evolution X|peaktogoo|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64|
 |Havoc-OS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3855601/amp/)|A - A/B|arm64|
+|Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havoc-os-t3930030)|A - A/B|arm - arm64|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/amp/)|A - A/B|arm - arm64|
 |Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/amp/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
 |ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
