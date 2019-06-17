@@ -5,7 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 10 Q:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSP Beta|Google|[Download](https://developer.android.com/preview/gsi-release-notes#downloads)|A - A/B|arm - arm64|
+|AOSP Beta|Google|[XDA](https://www.xda-developers.com/install-android-q-beta-gsi-project-treble/) / [Download](https://developer.android.com/preview/gsi-release-notes#downloads)|A - A/B|arm - arm64|
 
 
 ## Official Android 9 Pie:
