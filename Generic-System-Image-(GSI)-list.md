@@ -2,6 +2,12 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
+## Official Android 10 Q:
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|AOSP Beta|Google|[Download](https://developer.android.com/preview/gsi-release-notes#downloads)|A - A/B|arm - arm64|
+
+
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
