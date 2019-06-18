@@ -19,7 +19,7 @@ Front and back camera both working but with few bugs, flash on stock camera if s
 | Bluetooth                 | Working                                                    |
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working                                                    |
-| VoLTE                     | Working with a patch.                                                    |
+| VoLTE                     | Working (with a patch).                                                    |
 | Hotspot                   | Working                                                    |
 | Flashlight                | Working                                                    |
 | Offline Charging          | Working                                                    |
@@ -28,10 +28,10 @@ Front and back camera both working but with few bugs, flash on stock camera if s
 
 Tested By: AcAciA, Maulana Kurniawan, Satu Prasetyo Gilang Mahameru - ASUS_X00RD, WW-15.01.xxxx.xxx - September 14, 2018 - Template created by @maulaaana, @zguithues and @hackintosh5
 
-Join our Asus Zenfone Live L1 Indonesia Official Telegram Group here https://t.me/ZenfoneLiveL1
+Join our [Asus Zenfone Live L1 Official Group](https://t.me/ZenfoneLiveL1)
 
 Helpful tools link below!
-* [Unofficial TWRP](https://drive.google.com/file/d/1xoSJfIA_E8q4_ALA3klovVGrjUZCm_UU/view?usp=drivesdk). Extract before flashinh the image file with Minimal ADB & Fastboot.
+* [Unofficial TWRP](https://drive.google.com/file/d/1xoSJfIA_E8q4_ALA3klovVGrjUZCm_UU/view?usp=drivesdk). Extract before flashing this image file with Minimal ADB & Fastboot.
 * [Decrypt Patch](https://drive.google.com/file/d/1sYyVHio1WZeyL68dawvQ9lqTqyqrXVMg/view?usp=drivesdk). Format data first in TWRP before installing this zip.
 * [VoLTE Activator Patch](https://drive.google.com/file/d/19Kxs2SYVkkTVfMaTECFDsUmHa6a9RtB_/view?usp=drivesdk). Install this zip in TWRP.
 * [Camera2 API Activator](https://drive.google.com/file/d/1-0yDk65Zt5DNf61mWzwEzQOuplWh2fwo/view?usp=drivesdk). Install this zip in TWRP.
