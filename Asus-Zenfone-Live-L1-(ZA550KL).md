@@ -35,4 +35,8 @@ Helpful tools link below!
 * [Decrypt Patch](https://drive.google.com/file/d/1sYyVHio1WZeyL68dawvQ9lqTqyqrXVMg/view?usp=drivesdk). Format data first in TWRP before installing this zip.
 * [VoLTE Activator Patch](https://drive.google.com/file/d/19Kxs2SYVkkTVfMaTECFDsUmHa6a9RtB_/view?usp=drivesdk). Install this zip in TWRP.
 * [Camera2 API Activator](https://drive.google.com/file/d/1-0yDk65Zt5DNf61mWzwEzQOuplWh2fwo/view?usp=drivesdk). Install this zip in TWRP.
-* [GSI Storage Fix](https://drive.google.com/file/d/1-FqD98pl9DVXeve7uvlSdFagwTYnrItc/view?usp=drivesdk). For GSI that can't boot into homescreen problem and fixing storage can't be readed problem. List of GSI need this patch: AEX v6.3 GSI and above, Resurrection Remix GSI (Android Pie), AOSiP GSI, LineageOS GSI (Android Pie).
+* [GSI Storage Fix](https://drive.google.com/file/d/1-FqD98pl9DVXeve7uvlSdFagwTYnrItc/view?usp=drivesdk). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch :
+ -AEX v6.3 GSI and above (official).
+ -Resurrection Remix v7.0.x GSI (official).
+ -AOSiP GSI.
+ -LineageOS 16.0 GSI.
