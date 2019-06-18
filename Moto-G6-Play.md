@@ -2,7 +2,7 @@
 
 Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed  
 
-**Note:** boot animations don't work. While booting, it will only show the bootloader logo ("bad key" or "N/A" screen)
+**Note:** Boot animations don't work on some models. While booting, it will only show the bootloader logo ("bad key" or "N/A" screen)
 
 ## Steps to install
 
