@@ -1,4 +1,31 @@
  # Asus Zenfone Live L1 (ZA550KL)
+![Asus Zenfone Live L1](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
+
+Asus Zenfone Live L1 (codenamed "X00RD") is a smartphone from Asus released in May 2018.
+
+## Device specifications
+
+|                         |                                                                       |
+| ----------------------- | :-------------------------------------------------------------------- |
+| Dimensions              | 147.3 x 71.8 x 8.2 mm (5.80 x 2.83 x 0.32 in)                         |
+| Supported networks      | GSM / HSPA / LTE                                                      |
+| SIM type                | Dual SIM (Nano-SIM, dual stand-by)                                    |
+| Voice over LTE          | Yes                                                                   |
+| SoC                     | Qualcomm MSM8917 Snapdragon 425 (28 nm)                               |
+| CPU                     | Quad-core 1.4 GHz Cortex-A53                                          |
+| GPU                     | Adreno 308                                                            |
+| Memory                  | (LPDDR3) 2GB/3GB RAM                                                  |
+| Storage                 | 16/32 GB Internal                                                     |
+| MicroSD                 | microSD, up to 2 TB (dedicated slot)                                  |
+| Battery                 | Non-removable Li-Ion 3000 mAh battery                                 |
+| Display                 | 720 x 1440 pixels, 18:9 ratio (~293 ppi density), 5.5 inch            |
+| Rear Camera             | 13 MP, f/2.0, PDAF                                                    |
+| Front Camera            | 5 MP, f/2.4                                                           |
+| WLAN                    | Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot                             |
+| Bluetooth               | 4.0, A2DP, LE                                                         |
+| GPS                     | Yes, with A-GPS, GLONASS, BDS                                         |
+| Sensors                 | Accelerometer, gyro, proximity, compass                               |
+| Shipped Android version | Android 8.0 Oreo (ZenUI 5)                                            |
 
 Front and back camera both working but with few bugs. Flash on stock camera if set to on or auto the camera will launch to force close. Also the camera have a dark problem on some GSI. If we using the front camera, we will see our face rendered very weird. Activating Camera2 API & installing 3rd party camera apps will solve the weird face & dark camera problem like Open Camera or GCam Mod. Also video calling cannot use front camera.
 
@@ -14,16 +41,16 @@ Front and back camera both working but with few bugs. Flash on stock camera if s
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working (with bugs)                                                    |
-| Speaker / Mic             | Working                                                    |
-| Bluetooth                 | Working                                                    |
-| WiFi                      | Working                                                    |
-| SIM / Mobile Data / Voice | Working                                                    |
-| VoLTE                     | Working (with a patch)                                                    |
-| Hotspot                   | Working                                                    |
-| Flashlight                | Working                                                    |
-| Offline Charging          | Working                                                    |
-| Other feature             | Not tested at all                                                    |
+| Camera                    | Working (with bugs)                                       |
+| Speaker / Mic             | Working                                                   |
+| Bluetooth                 | Working                                                   |
+| WiFi                      | Working                                                   |
+| SIM / Mobile Data / Voice | Working                                                   |
+| VoLTE                     | Working (with a patch)                                    |
+| Hotspot                   | Working                                                   |
+| Flashlight                | Working                                                   |
+| Offline Charging          | Working                                                   |
+| Other feature             | Not tested at all                                         |
 ---
 
 Tested By: AcAciA, [Maulana Kurniawan](https://t.me/maulaaana), [Satu Prasetyo Gilang Mahameru](https://t.me/m4h4m3ru) - ASUS_X00RD, WW-15.01.xxxx.xxx - September 14, 2018 - Template created by [@maulaaana](https://github.com/maulaaana), @zguithues and @hackintosh5
@@ -35,8 +62,4 @@ Helpful tools link below!
 * [Decrypt Patch](https://drive.google.com/file/d/1sYyVHio1WZeyL68dawvQ9lqTqyqrXVMg/view?usp=drivesdk). Format data first in TWRP before installing this zip.
 * [VoLTE Activator Patch](https://drive.google.com/file/d/19Kxs2SYVkkTVfMaTECFDsUmHa6a9RtB_/view?usp=drivesdk). Install this zip in TWRP.
 * [Camera2 API Activator](https://drive.google.com/file/d/1-0yDk65Zt5DNf61mWzwEzQOuplWh2fwo/view?usp=drivesdk). Install this zip in TWRP.
-* [GSI Storage Fix](https://drive.google.com/file/d/1-FqD98pl9DVXeve7uvlSdFagwTYnrItc/view?usp=drivesdk). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch :
- -AEX v6.3 GSI and above (official).
- -Resurrection Remix v7.0.x GSI (official).
- -AOSiP GSI.
- -LineageOS 16.0 GSI.
+* [GSI Storage Fix](https://drive.google.com/file/d/1-FqD98pl9DVXeve7uvlSdFagwTYnrItc/view?usp=drivesdk). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch : AEX v6.3 GSI and above (official). Resurrection Remix v7.0.x GSI (official). AOSiP GSI. LineageOS 16.0 GSI.
