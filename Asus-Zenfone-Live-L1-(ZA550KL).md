@@ -5,8 +5,8 @@ Asus Zenfone Live L1 (codenamed "X00RD") is a smartphone from Asus released in M
 
 ## Device specifications
 
-|                         |                                                                       |
-| ----------------------- | :-------------------------------------------------------------------- |
+|         Feature         |                           Information                                 |
+|-------------------------|-----------------------------------------------------------------------|
 | Dimensions              | 147.3 x 71.8 x 8.2 mm (5.80 x 2.83 x 0.32 in)                         |
 | Supported networks      | GSM / HSPA / LTE                                                      |
 | SIM type                | Dual SIM (Nano-SIM, dual stand-by)                                    |
@@ -46,7 +46,7 @@ Front and back camera both working but with few bugs. Flash on stock camera if s
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Working (with a patch)                                    |
+| VoLTE                     | Working (using a patch)                                   |
 | Hotspot                   | Working                                                   |
 | Flashlight                | Working                                                   |
 | Offline Charging          | Working                                                   |
@@ -58,8 +58,8 @@ Tested By: AcAciA, [Maulana Kurniawan](https://t.me/maulaaana), [Satu Prasetyo G
 Join our [Asus Zenfone Live L1 Official Telegram Group](https://t.me/ZenfoneLiveL1) or our [Asus Zenfone Live L1 Official Facebook Group](https://www.facebook.com/groups/1179335585483994/)
 
 Helpful tools link below!
-* [Unofficial TWRP](https://drive.google.com/file/d/1xoSJfIA_E8q4_ALA3klovVGrjUZCm_UU/view?usp=drivesdk). Extract before flashing this image file with Minimal ADB & Fastboot.
-* [Decrypt Patch](https://drive.google.com/file/d/1sYyVHio1WZeyL68dawvQ9lqTqyqrXVMg/view?usp=drivesdk). Format data first in TWRP before installing this zip.
-* [VoLTE Activator Patch](https://drive.google.com/file/d/19Kxs2SYVkkTVfMaTECFDsUmHa6a9RtB_/view?usp=drivesdk). Install this zip in TWRP.
-* [Camera2 API Activator](https://drive.google.com/file/d/1-0yDk65Zt5DNf61mWzwEzQOuplWh2fwo/view?usp=drivesdk). Install this zip in TWRP.
-* [GSI Storage Fix](https://drive.google.com/file/d/1-FqD98pl9DVXeve7uvlSdFagwTYnrItc/view?usp=drivesdk). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch : AEX v6.3 GSI and above (official). Resurrection Remix v7.0.x GSI (official). AOSiP GSI. LineageOS 16.0 GSI.
+* [Unofficial TWRP](https://drive.google.com/open?id=1FlE-HsSRJ-NwNQlACo-2vKfnvKQZFCKs). Flash this image file with Minimal ADB & Fastboot.
+* [Decrypt Patch](https://drive.google.com/open?id=14tt37xya-XKDzZ2-E4QGBonKN8YZ4-m9). Format data first in TWRP before installing this zip.
+* [VoLTE Activator Patch](https://drive.google.com/open?id=1Z9B7im-dskwrGmYvbrQnkNgFfQFN4ywH). Install this zip in TWRP.
+* [HAL3 Activator](https://drive.google.com/open?id=1N4rx-PWKrFtyvFQ7BHQV_9EGLt9AnsAl). Install this zip in TWRP to use Gcam Mod.
+* [GSI Storage Fix](https://drive.google.com/open?id=1aenVZwbc7Uq8y8QR3Hu0oidnFK91WnMG). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch : AEX v6.3 GSI and above (official). Resurrection Remix v7.0.x GSI (official). AOSiP GSI. LineageOS 16.0 GSI.
