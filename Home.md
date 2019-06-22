@@ -36,7 +36,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
-|[[General Mobile GM 8 GO]]|GM8_go|✓(Go)|A|arm|
+|[[General Mobile GM 8 GO]]|GM8_go_sc|✓(Go)|A|arm|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
@@ -57,7 +57,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei P Smart]]|figo|✓|A|arm64|
-|[[Huawei P8 lite (2017)]]|pra|✓|A|arm64|
+|[[Huawei P8 lite (2017)]]|prague|✓|A|arm64|
 |[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei P10 lite]]|was|✓|A|arm64|
 |[[Huawei P20]]|eml|✓|A|arm64|
