@@ -1,5 +1,6 @@
 ## First of all
-This guide is made for devices providing Treble with **stock vendor**. For devices with only unofficial implementation, cooperate directly with the unofficial vendor provider. 
+This guide is made for devices providing Treble with **stock vendor**. For devices with only unofficial implementation, cooperate directly with the unofficial vendor provider.
+
 Set up a **Linux machine** – it may be the newest Ubuntu or Mint. If you aren't planning to run it alongside Windows, use a virtual machine, for example VirtualBox, or build with Jenkins.
 
 ## Make overlay
