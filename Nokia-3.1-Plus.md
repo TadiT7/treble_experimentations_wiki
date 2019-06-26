@@ -13,7 +13,6 @@
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
 
 Vendor error will appear every time when booting.
-It can't recognize the whole storage space properly.
 
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
@@ -36,6 +35,11 @@ When flashing, please ensure the vbmeta from ROO stock firmware need to be flash
 
 Example:
 `fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/ROO-0-130C-00CN-vbmeta.img`
+
+If you wipe/format userdata partition under fastboot mode, it can't recognize the whole storage space properly. You have to wipe data under stock recovery.
+Effect:
+[Photo 1, before resize correction](https://t.me/phhtreble/214538)
+[Photo 2, after resize correction](https://t.me/phhtreble/214542)
 
 ***
 
