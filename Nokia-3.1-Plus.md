@@ -13,6 +13,7 @@
 | NFC                       | ? (Unable to test due to lack of hardware.)               |
 
 Vendor error will appear every time when booting.
+It can't recognize the whole storage space properly.
 
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
