@@ -95,8 +95,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
 |[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
-|[[Nokia X5]]|pda|✓|A/B|arm64|
-|[[Nokia X6]]|drg|✓|A/B|arm64|
+|[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
+|[[Nokia 6.1 Plus (X6)]]|drg|✓|A/B|arm64|
 |[[Nokia X71]]|tas|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
 |[[Nokia 7.1]]|ctl|✓|A/B|arm64|
