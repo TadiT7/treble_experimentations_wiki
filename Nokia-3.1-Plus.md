@@ -33,6 +33,9 @@ Nokia 3.1 Plus sold in China (TA-1117) doesn't have NFC hardware.
 
 When flashing, please ensure the vbmeta from ROO stock firmware need to be flashed with both disabling parameters as well.
 
+Example:
+`fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/ROO-0-130C-00CN-vbmeta.img`
+
 ***
 
 
