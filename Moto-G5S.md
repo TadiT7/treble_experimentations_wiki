@@ -21,16 +21,16 @@ fastboot flash system path/to/gsi.img
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working, on GSIs install Moto Camera                      |
+| Camera                    | Working                                                   |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Not working                                               |
+| VoLTE                     | Working                                                   |
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
-| Offline Charging          | Haven't tested                                            |
-| Other feature             | N/A                                                       |
+| Offline Charging          | Working                                                   |
+| Other feature             | Enabling/disabling navigation bar broken in stock Lineage |
 ---
 
 Tested By: Leandro Manhaes - XT1792 (Brazil), Firmware Version: Oreo BC12, Date tested: May 22nd, 2019
