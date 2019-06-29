@@ -29,7 +29,7 @@
 ***
 ## Additional Notes
 
-This has been tested with AospExtended | ArrowOS | RessurectionRemix |AOSiP 9.0 GSI (A/B)
+This has been tested with AospExtended | ArrowOS | Resurrection Remix | AOSiP | MSM Xtended | Pixel Experience | Havoc OS | OmniRom | Descendant | AOSP | Bliss OS| 9.0 GSI (AB)
 The Roms are stable with SELinux set to permissive
 
 
