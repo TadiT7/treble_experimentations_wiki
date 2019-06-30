@@ -1,1 +1,0 @@
-Waaay Caner abi adamın dibisin
