@@ -26,7 +26,7 @@ Proceed with regular system image flashing steps.
 
 ## Additional note 1
 
-Terminal command for manually controlling the front camera motor (root required):
+Terminal command for manually controlling the front camera motor:
 
 Popup: `xiaomi-motor popup 1`
 
