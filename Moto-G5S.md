@@ -25,10 +25,10 @@ fastboot flash system path/to/gsi.img
 * Reboot to system.
 
 **Vendor & Boot Images only:**
-**Download the latest vendor & boot images [here](https://drive.google.com/folderview?id=1xqfqD4sLJCf6LXsGNFqP-I34qOwPda00)**
-**Reboot to TWRP.**
-**Flash the images (Install > Install Image > select partition > select image)**.
-**Reboot to system.**
+* Download the latest vendor & boot images [here](https://drive.google.com/folderview?id=1xqfqD4sLJCf6LXsGNFqP-I34qOwPda00).
+* Reboot to TWRP.
+* Flash the images (Install > Install Image > select partition > select image).
+* Reboot to system.
 
 [Some more info](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179)
 
