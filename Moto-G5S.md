@@ -114,6 +114,7 @@ Xperia
 One UI - GSI too big for /system
 </p>
 </details>
+
 ---
 
 Tested By: Leandro Manhaes - XT1792 (Brazil), Firmware Version: Oreo BC12, Date tested: May 22nd, 2019
