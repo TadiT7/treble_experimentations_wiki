@@ -17,20 +17,19 @@
 > OK
 
 * VoLTE
-> No work
+> OK
 
 * Fingerprint Reader
 > OK
 
 * Brightness control
 > OK
-* CANT RUN PIE EXCEPT PIE SGSI
-***
-## Additional Notes
-Gestures are works but moto settings crashing some roms(not all tested)
 
 ***
-Tested By:
+
+
+***
+Tested By:@xdsurvivor, @zjrdroid
 
 Template created by @zguithues
-Updated by @kutlay1653
+Updated by @xdsurvivor
