@@ -9,7 +9,9 @@ Suitable for daily usage.
 * Reboot again to TWRP.
 * Format System, Data, Cache and Dalvik/ART Cache.
 * Flash [this ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179).
+
 **Optional:**
+* Reboot to TWRP.
 * Format System.
 * Flash a GSI as "System Image". Or alternatively use fastboot to flash the GSI:
 ```
