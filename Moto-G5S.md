@@ -51,6 +51,7 @@ fastboot flash system path/to/gsi.img
 ---
 
 Tested By: Leandro Manhaes - XT1792 (Brazil), Firmware Version: Oreo BC12, Date tested: May 22nd, 2019
+
 Also tested by: Tiago, null, The Crimin4l - EmpresaSSH, Anirudh Bhati
 
 Template created by @zguithues and @hackintosh5
