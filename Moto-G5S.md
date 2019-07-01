@@ -48,6 +48,70 @@ fastboot flash system path/to/gsi.img
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
 | Other feature             | Enabling/disabling navigation bar broken in stock Lineage |
+
+## GSI support
+
+<details><summary>Booting:</summary>
+<p>
+
+Syberia Project
+
+Resurrection Remix
+
+Android Open Source Illusion Project
+
+Pixel Experience
+
+ArrowOS
+
+BlissROM
+
+MIUI
+
+Android Open Source Project
+
+PixelDust
+
+LegionOS
+
+LLuviaOS
+
+LiquidRemix
+
+CarbonROM
+
+Evolution X
+
+NitrogenOS
+
+OxygenOS
+
+HydrogenOS
+
+ZUI
+
+ZenUI
+
+Android 10 Beta 4 - no RIL and camera
+</p>
+
+<details><summary>Not Booting:</summary>
+<p>
+
+OmniROM
+
+Havoc-OS
+
+LiquidRemix - Other developer
+
+Nubia
+
+RedMagic
+
+Xperia
+
+One UI - GSI too big for /system
+</p>
 ---
 
 Tested By: Leandro Manhaes - XT1792 (Brazil), Firmware Version: Oreo BC12, Date tested: May 22nd, 2019
