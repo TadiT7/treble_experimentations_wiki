@@ -39,6 +39,9 @@
 * If a dev is reading just make a caf kernel or just come to our telegram to fix bugs with the kernel made by us
 * Dont evem ask if a sGSI IS BOOTING.
 * None of erfan gsi are working as they do not provide vndk 26 support .
+* OEM ports/sGSI are also not working due to vendor
 * now all of the GSI are booting  due to a patch that enables or mounts ./data
 ##
 Template created by @raza231198
+##
+Template edited by @iamsaalim
