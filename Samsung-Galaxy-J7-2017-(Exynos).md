@@ -15,7 +15,7 @@ works ( But no Network Bars )
  * VoLTE
 Doesn't work
 * All sensors
-works
+work
  * NFC
 works
  * Fingerprint Reader
