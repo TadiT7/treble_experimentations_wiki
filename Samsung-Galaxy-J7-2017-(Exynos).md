@@ -3,7 +3,7 @@ Pie Vendor:
 https://forum.xda-developers.com/galaxy-j7-2017/development/treble-projecttreble-v1-0-jxy17lte-t3929286
  ## Hardware Support
  * Camera: 
-Doesn't work
+Does not work
  * Speaker / Microphone
 Speaker, Microphone works
  * Bluetooth
