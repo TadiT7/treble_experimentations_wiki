@@ -118,8 +118,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
-|[[[Samsung Galaxy J5 2017](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))]]|j5y17lte||A|arm_binder64|
-|[[[Samsung Galaxy J7 2017](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))]]|j7y17lte||A|arm_binder64|
+|[Samsung Galaxy J5 2017](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
+|[Samsung Galaxy J7 2017](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))|j7y17lte||A|arm_binder64|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
