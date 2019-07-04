@@ -3,7 +3,7 @@ Pie Vendor:
 https://forum.xda-developers.com/galaxy-j5/samsung-galaxy-j5-pro-2017-roms-kernels-recoveries--other-development/treble-projecttreble-v1-0-jxy17lte-t3929281
  ## Hardware Support
  * Camera: 
-Doesn't work 
+Does not work
  * Speaker / Microphone
 Speaker, Microphone works
  * Bluetooth
