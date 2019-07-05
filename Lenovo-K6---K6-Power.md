@@ -1,6 +1,4 @@
-# [Moto E5 Plus]
-
-## Hardware Support
+# Lenovo K6 / K6 Power
 
 * Camera:
 > Working with Google Camera (AOSP Camera broken for now.)
