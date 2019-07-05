@@ -5,7 +5,7 @@ Asus Zenfone Live L1 (codenamed "X00RD") is a smartphone from Asus released in M
 
 ## Device specifications
 
-|         Feature         |                           Information                                 |
+|         Feature         |                            Information                                |
 |-------------------------|-----------------------------------------------------------------------|
 | Dimensions              | 147.3 x 71.8 x 8.2 mm (5.80 x 2.83 x 0.32 in)                         |
 | Supported networks      | GSM / HSPA / LTE                                                      |
@@ -35,7 +35,7 @@ Front and back camera both working but with few bugs. Flash on stock camera if s
 * Boot into TWRP.
 * Flash the image file into the System Image partition.
 
-**DON'T EVER WIPE VENDOR PARTITION! IT'S A GSI, NOT AN OFFICIAL CUSTOM ROM!**
+**DON'T EVER WIPE VENDOR PARTITION! IT'S A GSI, NOT A CUSTOM ROM!**
 
 ## Hardware support
 
@@ -58,8 +58,6 @@ Tested By: AcAciA, [Maulana Kurniawan](https://t.me/maulaaana), [Satu Prasetyo G
 Join our [Asus Zenfone Live L1 Official Telegram Group](https://t.me/ZenfoneLiveL1) or our [Asus Zenfone Live L1 Official Facebook Group](https://www.facebook.com/groups/1179335585483994/)
 
 Helpful tools link below!
-* [Unofficial TWRP](https://drive.google.com/open?id=1FlE-HsSRJ-NwNQlACo-2vKfnvKQZFCKs). Flash this image file with Minimal ADB & Fastboot.
-* [Decrypt Patch](https://drive.google.com/open?id=14tt37xya-XKDzZ2-E4QGBonKN8YZ4-m9). Format data first in TWRP before installing this zip.
-* [VoLTE Activator Patch](https://drive.google.com/open?id=1Z9B7im-dskwrGmYvbrQnkNgFfQFN4ywH). Install this zip in TWRP.
-* [HAL3 Activator](https://drive.google.com/open?id=1N4rx-PWKrFtyvFQ7BHQV_9EGLt9AnsAl). Install this zip in TWRP to use Gcam Mod.
-* [GSI Storage Fix](https://drive.google.com/open?id=1aenVZwbc7Uq8y8QR3Hu0oidnFK91WnMG). For GSI who have problem with can't boot into homescreen & fixing storage can't be readed problem. List of GSI that need this patch : AEX v6.3 GSI and above (official). Resurrection Remix v7.0.x GSI (official). AOSiP GSI. LineageOS 16.0 GSI.
+* [twrp.img](https://drive.google.com/open?id=1FlE-HsSRJ-NwNQlACo-2vKfnvKQZFCKs). Flash this image file with fastboot command.
+* [decrypt.zip](https://drive.google.com/open?id=1Xlt7ghekdBt3SVpQBZlP8oGmoHOI2l-F). Format data first in TWRP before flash it.
+* [camera2api.zip](https://drive.google.com/open?id=1QATgW1oe7IOkuD26OBWS0mnR79NmS1OK). Flash it in TWRP to use GCam Mod.
