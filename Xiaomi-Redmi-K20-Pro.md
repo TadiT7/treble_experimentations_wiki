@@ -6,7 +6,7 @@ Similar to Mi 9, download [vbmeta.img](https://github.com/TadiT7/xiaomi_raphael_
 ```
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 ```
-Proceed with regular system image flashing steps.
+Proceed with regular system image flashing steps, using system-as-root (usually referred to as "A/B") GSI images.
 
 ## Hardware support
 
