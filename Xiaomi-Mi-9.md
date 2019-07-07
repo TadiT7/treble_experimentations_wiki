@@ -28,7 +28,7 @@ Tested with AOSP 9.0 v114 image
 
 * SIM / Mobile Data / Voice
 > Works, LTE+ works.
-> Some GSI force 3G only, type *#*#4636#*#* and set LTE
+> Some GSI force 3G only, type \*#\*#4636#\*#\* and set LTE
 
 * VoLTE
 > Not tested
