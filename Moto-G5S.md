@@ -24,6 +24,7 @@ fastboot flash system path/to/gsi.img
 **Whole system:**
 * Reboot to TWRP.
 * Flash the latest LineageOS Treble zip.
+* Format system and reinstall your GSI.
 * Reboot to system.
 
 **Vendor & Boot Images only:**
@@ -47,7 +48,7 @@ fastboot flash system path/to/gsi.img
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| Other feature             | Enabling/disabling navigation bar broken in stock Lineage |
+| Other feature             |.       |
 
 ## GSI support
 
@@ -92,7 +93,7 @@ ZUI
 
 ZenUI
 
-Android 10 Beta 4 - no RIL and camera
+Android 10 Beta 4
 </p>
 </details>
 
@@ -111,7 +112,7 @@ RedMagic
 
 Xperia
 
-One UI - GSI too big for /system
+One UI - GSI is too big for /system
 </p>
 </details>
 
