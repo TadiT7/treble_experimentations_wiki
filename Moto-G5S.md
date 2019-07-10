@@ -54,65 +54,38 @@ fastboot flash system path/to/gsi.img
 
 <details><summary>Booting:</summary>
 <p>
-
-Syberia Project
-
+```Syberia Project
 Resurrection Remix
-
 Android Open Source Illusion Project
-
 Pixel Experience
-
 ArrowOS
-
 BlissROM
-
 MIUI
-
 Android Open Source Project
-
 PixelDust
-
 LegionOS
-
 LLuviaOS
-
 LiquidRemix
-
 CarbonROM
-
 Evolution X
-
 NitrogenOS
-
 OxygenOS
-
 HydrogenOS
-
 ZUI
-
 ZenUI
-
-Android 10 Beta 4
+Android 10 Beta 4```
 </p>
 </details>
 
 <details><summary>Not Booting:</summary>
 <p>
-
-OmniROM
-
+```OmniROM
 Havoc-OS
-
 LiquidRemix - Other developer
-
 Nubia
-
 RedMagic
-
 Xperia
-
-One UI - GSI is too big for /system
+One UI - GSI is too big for /system```
 </p>
 </details>
 
