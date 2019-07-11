@@ -5,7 +5,7 @@ Your warranty is now void, though it's pretty easy to re-flash stock firmware & 
 
 Hardware Support
 * Camera: 
-> Works out of the box (Both back and front)
+> Works out of the box (Both back and front are working fine but the default camera app takes too long to open)
 * Speaker / Microphone : 
 > Needs further testing but looks good
 * Bluetooth : 
@@ -17,7 +17,7 @@ Hardware Support
 * VoLTE : 
 > Device supports VoLTE, but can't test at this moment. My provider does not offer VoLTE.
 * Google apps : not certified fix by this 
-> https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error/
+> https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error/ (dont forget to clear google play services / google play store / google services framework)
 ***
 
 ### Bootloader unlocking 
