@@ -33,6 +33,11 @@ fastboot flash system path/to/gsi.img
 * Flash the images (Install > Install Image > select partition > select image).
 * Reboot to system.-->
 
+### Android 10
+* Follow the clean flashing steps. Do **not** reboot.
+* Flash [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/allzygotefix2.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/Android10Fixes.zip), and then finally [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/lagfix-for-a_and_ab.zip)
+* Reboot to system.
+
 [Some more info](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179)
 
 ## Hardware support
