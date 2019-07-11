@@ -50,8 +50,7 @@ Hardware Support
 ***
 
 ### AOSP 9 graphics glitches
-* Edit `/system/build.prop` and add` debug.hwui.renderer=opengl` 
-* There are other optimisations on the link on top of the page (I do not know if it is recommended)
+* Edit `/system/build.prop` and add` debug.hwui.renderer=opengl` or dont use opengl skia on development settings use only opengl default (android oreo)
 ***
 
 ### Working GSI builds 
