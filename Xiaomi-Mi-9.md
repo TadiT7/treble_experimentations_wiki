@@ -29,16 +29,20 @@ Tested with AOSP 9.0 v114 image
 * SIM / Mobile Data / Voice
 > Works, LTE+ works.
 > Some GSI force 3G only, type \*#\*#4636#\*#\* and set LTE
+> If that doesn't work use primary slot instead of secondary
 
 * VoLTE
 > Not tested
 
 * Dual-Sim
-> Working except it's not possible to select main (4G) SIM
+> Working except:
+> it's not possible to select main (4G) SIM
+> it's not possible to set preference for 3g/4g in settings, use *#*#4636#*#* instead
+> second sim cannot use 4g due to the above issue
 
 * Fingerprint Reader
-> Mostly Works
-> Broken on Always on Display
+> Works
+> Broken on Always on Display (turn screen on first)
 
 * Brightness control
 > Works
@@ -65,10 +69,11 @@ Tested with AOSP 9.0 v114 image
 * @phhusson - 17 March 2019
 * @koenkk - 05 April 2019
 * @linjie997 - 14 April 2019
+* @penn5 - 11 July 3187 (descendant 3.0)
 
 ## Flashing instructions
 
-No need for magisk, nor no-verity, no-forceencrypt... \
+No need for magisk, nor no-verity, no-forceencrypt, etc... \
 
 You simply need to flash vbmeta then system. \
 
@@ -80,7 +85,7 @@ Connect the phone to your computer with the USB cable
 
 Reboot to bootloader:
 ```
-fastboot reboot bootloader
+adb reboot bootloader
 ```
 Flash vbmeta with 
 ```
@@ -96,7 +101,7 @@ Reboot to recovery pressing power up + power
 Factory reset, reboot
 
 ### Community
-Telegram: https://t.me/mi9group
+Telegram: https://t.me/mi9_group
 
 
 Template created by @zguithues
