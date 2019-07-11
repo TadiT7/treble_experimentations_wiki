@@ -1,4 +1,5 @@
 **Follow this link **:https://forum.xda-developers.com/t/xiaomi-redmi-go
+
 Preliminary information and warnings
 Your warranty is now void, though it's pretty easy to re-flash stock firmware & re-lock the bootloader.
 
