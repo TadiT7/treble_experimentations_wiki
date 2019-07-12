@@ -38,7 +38,7 @@ fastboot flash system path/to/gsi.img
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Not Working                                               |
+| Camera                    | Front cam is buggy, video recording broken                |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
