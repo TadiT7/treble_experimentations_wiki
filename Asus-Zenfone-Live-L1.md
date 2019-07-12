@@ -27,13 +27,14 @@ Asus Zenfone Live L1 (codenamed "X00RD") is a smartphone from Asus released in M
 | Sensors                 | Accelerometer, gyro, proximity, compass                               |
 | Shipped Android version | Android 8.0 Oreo (ZenUI 5)                                            |
 
-Front and back camera both working but with few bugs. Flash on stock camera if set to on or auto the camera will launch to force close. Also the camera have a dark problem on some GSI. If we using the front camera, we will see our face rendered very weird. Activating Camera2 API & installing 3rd party camera apps will solve the weird face & dark camera problem like Open Camera or GCam Mod. Also video calling cannot use front camera.
+Front and back camera both working but with few bugs. Flash on stock camera if set to on or auto the camera will launch to force close. Also the camera have a dark problem on some GSI. If we using the front camera, we will see our face rendered very weird. Also video calling cannot use front camera.
 
 ## Steps to install
 
 * Extract the image file (if it compressed, like .zip or .xz format).
-* Boot into TWRP.
-* Flash the image file into the System Image partition.
+* Boot into Fastboot Mode.
+* Flash the image file into the System Image partition with Fastboot command :
+`fastboot flash recovery [name of gsi file].img`
 
 **DON'T EVER WIPE VENDOR PARTITION! IT'S A GSI, NOT A CUSTOM ROM!**
 
@@ -53,11 +54,4 @@ Front and back camera both working but with few bugs. Flash on stock camera if s
 | Other feature             | Not tested at all                                         |
 ---
 
-Tested By: AcAciA, [Maulana Kurniawan](https://t.me/maulaaana), [Satu Prasetyo Gilang Mahameru](https://t.me/m4h4m3ru) - ASUS_X00RD, WW-15.01.xxxx.xxx - September 14, 2018 - Template created by [@maulaaana](https://github.com/maulaaana), @zguithues and @hackintosh5
-
-Join our [Asus Zenfone Live L1 Official Telegram Group](https://t.me/ZenfoneLiveL1) or our [Asus Zenfone Live L1 Official Facebook Group](https://www.facebook.com/groups/1179335585483994/)
-
-Helpful tools link below!
-* [twrp.img](https://drive.google.com/open?id=1FlE-HsSRJ-NwNQlACo-2vKfnvKQZFCKs). Flash this image file with fastboot command.
-* [decrypt.zip](https://drive.google.com/open?id=1Xlt7ghekdBt3SVpQBZlP8oGmoHOI2l-F). Format data first in TWRP before flash it.
-* [camera2api.zip](https://drive.google.com/open?id=1QATgW1oe7IOkuD26OBWS0mnR79NmS1OK). Flash it in TWRP to use GCam Mod.
+Tested By: AcAciA, Maulana Kurniawan, Satu Prasetyo Gilang Mahameru - ASUS_X00RD, WW-15.01.1902.121 - April 10, 2019 - Template created by @maulaaana, @zguithues and @hackintosh5
