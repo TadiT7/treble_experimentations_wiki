@@ -98,7 +98,7 @@ fastboot flash system path/to/gsi.img
 
 `ZenUI`
 
-`Android 10 Beta 4`
+`Android 10 Beta 5`
 </p>
 </details>
 
