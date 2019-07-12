@@ -182,7 +182,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
-|[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 7]]|lavender|✓|A|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[ZTE Axon 7]]|axon7||A|arm64|
