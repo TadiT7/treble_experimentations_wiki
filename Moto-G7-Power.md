@@ -1,19 +1,19 @@
 
 ## Wireless
 
-### Wi-Fi
+- Wi-Fi
 (not yet tested)
 
-### Mobile data
+- Mobile data
 Not currently working
 
-### Bluetooth
+- Bluetooth
 Not currently working
 
 
 ## RIL
 
-### Calling
+- Calling
 
 Start call
 (not yet tested)
@@ -21,10 +21,10 @@ Start call
 Receive call
 (not yet tested)
 
-### VoLTE
+- VoLTE
 (not yet tested)
 
-### Messaging
+- Messaging
 
 Sending
 (not yet tested)
@@ -35,7 +35,7 @@ Receiving
 
 ## Hardware
 
-### Camera
+- Camera
 
 Taking pictures
 (not yet tested)
@@ -43,17 +43,17 @@ Taking pictures
 Recording
 (not yet tested)
 
-### Speaker
+- Speaker
 (not yet tested)
 
-### Microphone
+- Microphone
 (not yet tested)
 
-### Headphone Audio
+- Headphone Audio
 (not yet tested)
 
-### FM Radio
+- FM Radio
 (not yet tested)
 
-### GPS
+- GPS
 (not yet tested)
