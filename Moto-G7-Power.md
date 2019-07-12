@@ -82,3 +82,7 @@ Not currently working
 ### GPS
 
 (not yet tested)
+
+# Additional Notes
+
+The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
