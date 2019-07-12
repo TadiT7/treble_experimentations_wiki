@@ -53,7 +53,7 @@ fastboot flash system path/to/gsi.img
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| Other feature             |.       |
+| Other feature             | Encryption - Not Working                                  |
 
 ## GSI support
 
