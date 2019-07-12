@@ -1,35 +1,73 @@
 # Moto G5
 
-## Hardware Support
-* Camera:
-> It works but front camera is buggy and video recording isnt work
+Not suitable for daily usage.
 
-* Speaker / Microphone
-> It works
+## Steps to install
 
-* Bluetooth
-> Fully working
+### Clean flash
+* Flash [this TWRP](https://drive.google.com/open?id=1XqpR6vYEbSXKZFD7StXc69jsh6YAOr3m) as "Recovery" in your existing recovery.
+* Reboot again to TWRP.
+* Format System, Data, Cache and Dalvik/ART Cache.
+* Flash [this ROM](https://drive.google.com/a/al.educacao.sp.gov.br/uc?id=1onmjOKJAPFeiws8MXTyeMGwIIF6gguYj&export=download).
 
-* Wifi
-> OK
+**Optional:**
+* Reboot to TWRP.
+* Format System.
+* Flash a GSI as "System Image". Or alternatively use fastboot to flash the GSI:
+```
+fastboot flash system path/to/gsi.img
+```
+* Reboot to system.
 
-* SIM / Mobile Data / Voice
-> OK
+### Dirty flash
 
-* VoLTE
-> OK
+**Whole system:**
+* Reboot to TWRP.
+* Flash the latest LineageOS Treble zip.
+* Format system and reinstall your GSI.
+* Reboot to system.
 
-* Fingerprint Reader
-> OK
+### Android 10
+* Follow the clean flashing steps. Do **not** reboot.
+* Flash [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/allzygotefix2.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/lagfix-for-a_and_ab.zip).
+* Reboot to system.
 
-* Brightness control
-> OK
+[Some more info](https://t.me/g5treble)
 
-***
+## Hardware support
 
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Not Working                                               |
+| Speaker / Mic             | Working                                                   |
+| Bluetooth                 | Working                                                   |
+| WiFi                      | Working                                                   |
+| SIM / Mobile Data / Voice | Working                                                   |
+| VoLTE                     | Not Working                                               |
+| Fingerprint               | Working                                                   |
+| Offline Charging          | Working                                                   |
+| Other feature             | -                                                         |
 
-***
-Tested By:@xdsurvivor, @zjrdroid
+## GSI support
 
-Template created by @zguithues
-Updated by @xdsurvivor
+<details><summary>Booting:</summary>
+<p>
+
+TBD
+</p>
+</details>
+
+<details><summary>Not Booting:</summary>
+<p>
+
+TBD
+</p>
+</details>
+
+---
+
+Tested By: Brickador - XT1672 (Brazil), Firmware Version: Oreo B831, Date tested: TBD
+
+Also tested by: ludke (SludkeSP)
+
+Template created by @zguithues and @hackintosh5
