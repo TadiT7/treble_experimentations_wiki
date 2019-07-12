@@ -1,59 +1,82 @@
 
 ## Wireless
 
-- Wi-Fi
+### Wi-Fi
+
 (not yet tested)
 
-- Mobile data
+### Mobile data
+
 Not currently working
 
-- Bluetooth
+### Bluetooth
+
 Not currently working
 
 
 ## RIL
 
-- Calling
+### Calling
 
-Start call
+- Start call
+
 (not yet tested)
 
-Receive call
+- Receive call
+
 (not yet tested)
 
-- VoLTE
+### VoLTE
+
 (not yet tested)
 
-- Messaging
+### Messaging
 
-Sending
+- Sending
+
 (not yet tested)
 
-Receiving
+- Receiving
+
 (not yet tested)
 
 
 ## Hardware
 
-- Camera
+### Camera
 
-Taking pictures
+- Taking pictures w/ front
+
 (not yet tested)
 
-Recording
+- Taking pictures w/ rear
+
 (not yet tested)
 
-- Speaker
+- Recording w/front
+
 (not yet tested)
 
-- Microphone
+- Recording w/ rear
+
 (not yet tested)
 
-- Headphone Audio
+### Speaker
+
 (not yet tested)
 
-- FM Radio
+### Microphone
+
 (not yet tested)
 
-- GPS
+### Headphone Audio
+
+(not yet tested)
+
+### FM Radio
+
+(not yet tested)
+
+### GPS
+
 (not yet tested)
