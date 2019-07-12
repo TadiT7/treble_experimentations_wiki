@@ -29,7 +29,7 @@ fastboot flash system path/to/gsi.img
 
 ### Android 10
 * Follow the clean flashing steps. Do **not** reboot.
-* Flash [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/allzygotefix2.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/lagfix-for-a_and_ab.zip).
+* Flash [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/allzygotefix2.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/lagfix-for-a_and_ab.zip) and then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/Q-google-debloat.zip).
 * Reboot to system.
 
 [Some more info](https://t.me/g5treble)
