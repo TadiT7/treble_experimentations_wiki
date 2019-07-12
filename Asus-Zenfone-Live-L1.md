@@ -34,9 +34,7 @@ Front and back camera both working but with few bugs. Flash on stock camera if s
 * Extract the image file (if it compressed, like .zip or .xz format).
 * Boot into Fastboot Mode.
 * Flash the image file into the System Image partition with Fastboot command :
-`fastboot flash recovery [name of gsi file].img`
-
-**DON'T EVER WIPE VENDOR PARTITION! IT'S A GSI, NOT A CUSTOM ROM!**
+`fastboot flash system [name of GSI file].img`
 
 ## Hardware support
 
