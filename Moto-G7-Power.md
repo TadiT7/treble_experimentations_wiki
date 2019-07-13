@@ -5,15 +5,15 @@
 
 ### Wi-Fi
 
-(not yet tested)
+works
 
 ### Mobile data
 
-Not currently working
+currently not working
 
 ### Bluetooth
 
-Not currently working
+currently not working
 
 
 ## RIL
@@ -22,11 +22,11 @@ Not currently working
 
 - Start call
 
-(not yet tested)
+works
 
 - Receive call
 
-(not yet tested)
+works
 
 ### VoLTE
 
@@ -34,32 +34,24 @@ Not currently working
 
 ### Messaging
 
-- Sending
+- Sending (SMS and MMS)
 
-(not yet tested)
+works
 
-- Receiving
+- Receiving (SMS and MMS)
 
-(not yet tested)
+currently not working - takes hours to receive a message, requires a restart, or doesn't receive at all
 
 
 ## Hardware
 
 ### Camera
 
-- Taking pictures w/ front
+- Taking pictures (front and rear)
 
-(not yet tested)
+works
 
-- Taking pictures w/ rear
-
-(not yet tested)
-
-- Recording w/front
-
-(not yet tested)
-
-- Recording w/ rear
+- Recording (front and rear)
 
 (not yet tested)
 
