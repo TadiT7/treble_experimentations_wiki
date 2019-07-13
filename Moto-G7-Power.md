@@ -30,7 +30,7 @@ works
 
 ### VoLTE
 
-(not yet tested)
+currently not working
 
 ### Messaging
 
