@@ -7,7 +7,7 @@ Suitable for daily usage.
 ### Clean flash
 * Flash [this TWRP](https://forum.xda-developers.com/moto-g5s/development/recovery-unofficial-twrp-recovery-moto-t3916370) as "Recovery" in your existing recovery.
 * Reboot again to TWRP.
-* Format System, Data, Cache and Dalvik/ART Cache.
+* Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Flash [this ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179).
 
 **Optional:**
@@ -34,8 +34,10 @@ fastboot flash system path/to/gsi.img
 * Reboot to system.-->
 
 ### Android 10
-* Follow the clean flashing steps. Do **not** reboot.
-* Flash [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/allzygotefix2.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/Android10Fixes.zip), then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/Q-google-debloat.zip), and then [this](https://github.com/montanadevelopment/releases/releases/download/Android10Fixes-1/lagfix-for-a_and_ab.zip).
+* Flash [this TWRP](https://forum.xda-developers.com/moto-g5s/development/recovery-unofficial-twrp-recovery-moto-t3916370) as "Recovery" in your existing recovery.
+* Reboot again to TWRP.
+* Format System, Vendor, Data, Cache and Dalvik/ART Cache.
+* Flash [these images](https://github.com/montanadevelopment/releases/releases/tag/Android10Beta5-1), respectively to Boot, System Image and Vendor Image.
 * Reboot to system.
 
 [Some more info](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179)
