@@ -9,11 +9,11 @@ works
 
 ### Mobile data
 
-currently not working
+currently not working - seems to work on unlocked models, but not carrier-locked models, like Metro by T-Mobile
 
 ### Bluetooth
 
-currently not working
+currently not working - a file on the device's vendor that the GSI requires is not available, preventing Bluetooth from working
 
 
 ## RIL
