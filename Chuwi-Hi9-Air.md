@@ -35,7 +35,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 | Speaker / Mic             | yes / yes                                                 |
 | Bluetooth                 | yes                                                       |
 | WiFi                      | yes (but signal seems worse compared to stock ROM)        |
-| SIM / Mobile Data         | partial (SIM1 only, may not reactivate from standby occasionally)|
+| SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
 | SMS                       | yes                                                       |
 | VoLTE                     | no (MTK 6797)                                             |
