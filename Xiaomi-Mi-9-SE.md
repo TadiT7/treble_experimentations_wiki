@@ -41,4 +41,5 @@ Then Flash again GAPPS
 | Offline Charging          | Broken, the screen flashes light blue instead of showing charge animation                   |
 ---
 
-Tested By: Nimayer - Mi 9 SE 128GB - 01/07/2019
+Tested By: 
+- @Nimayer - Mi 9 SE 128GB - 01/07/2019
