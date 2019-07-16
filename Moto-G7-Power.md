@@ -9,11 +9,11 @@ works
 
 ### Mobile data
 
-currently not working - seems to work on unlocked models, but not carrier-locked models, like Metro by T-Mobile
+currently not working - seems to work on unlocked models, but not carrier-locked models, like Metro by T-Mobile. Plus, on unlocked models, mobile data disconnects when a call is ongoing
 
 ### Bluetooth
 
-currently not working - a file on the device's vendor that the GSI requires is not available, preventing Bluetooth from working
+currently not working - a file on the device's vendor that the GSI requires is not available, preventing Bluetooth media audio from working. Bluetooth calls, on the other hand, works fine
 
 
 ## RIL
