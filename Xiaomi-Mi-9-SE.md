@@ -43,3 +43,6 @@ Then Flash again GAPPS
 
 Tested By: 
 - @Nimayer - Mi 9 SE 128GB - 01/07/2019
+
+### Community
+Telegram: https://t.me/GrusFamily
