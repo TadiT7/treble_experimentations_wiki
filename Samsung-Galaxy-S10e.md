@@ -18,7 +18,7 @@
 | Speaker / Mic             | Works                                                     |
 | Bluetooth                 | Not working                                               |
 | WiFi                      | Status                                                    |
-| SIM / Mobile Data / Voice | Not working                                               |
+| SIM / Mobile Data / Voice | Works [2]                                               |
 | VoLTE                     | Status                                                    |
 | Fingerprint               | Not working [1]                                           |
 | NFC                       | Unknown                                                   |
@@ -27,3 +27,4 @@
 ---
 
 [1] fixed with persist.sys.phh.samsung_fingerprint=0
+[2] Requires SIM to be in SIM1 slot. Multisim probably broken, but probably fixed with `setprop persist.radio.multisim.config dsds`
