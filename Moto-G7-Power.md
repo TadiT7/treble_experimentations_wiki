@@ -30,7 +30,7 @@ works
 
 ### VoLTE
 
-currently not working - the apk and the patch provided via [the #phh-volte Telegram group](https://t.me/phhvolte) works, but prevents calls from hanging up successfully
+currently not working - [the apk](https://t.me/R3SPX_UPDATES/459) and [the patch](https://t.me/R3SPX_UPDATES/458) provided via [the #phh-volte Telegram group](https://t.me/phhvolte) works, but prevents calls from hanging up successfully
 
 ### Messaging
 
