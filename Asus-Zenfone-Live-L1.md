@@ -1,7 +1,7 @@
- # Asus Zenfone Live L1 (ASUS_X00RD)(ZA550KL)
-![Asus Zenfone Live L1](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
+ # ASUS ZenFone Live L1
+![ASUS ZenFone Live L1](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
 
-Asus Zenfone Live L1 (codenamed "X00RD") is a smartphone from Asus released in May 2018.
+ASUS ZenFone Live L1 (codenamed "ASUS_X00RD") is a smartphone from ASUS released in May 2018.
 
 ## DEVICE SPECIFICATIONS
 |         Feature         |                           Information                       |
