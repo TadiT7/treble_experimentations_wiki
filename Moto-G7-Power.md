@@ -45,11 +45,11 @@ currently not working - takes hours to receive a message, requires a restart, or
 
 ## Hardware
 
-### Fingerprint Sensor
+### Fingerprint Reader
 
 (not yet tested)
 
-### Proximity Sensor
+### Proximity/Ambient/Gyro Sensor
 
 (not yet tested)
 
