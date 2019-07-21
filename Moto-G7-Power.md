@@ -7,7 +7,7 @@
 
 works
 
-### Mobile data
+### Mobile Data
 
 currently not working - seems to work on unlocked models, but not carrier-locked models, like Metro by T-Mobile. Plus, on unlocked models, mobile data disconnects when a call is ongoing
 
@@ -45,6 +45,14 @@ currently not working - takes hours to receive a message, requires a restart, or
 
 ## Hardware
 
+### Fingerprint Sensor
+
+(not yet tested)
+
+### Proximity Sensor
+
+(not yet tested)
+
 ### Camera
 
 - Taking pictures (front and rear)
@@ -52,6 +60,10 @@ currently not working - takes hours to receive a message, requires a restart, or
 works
 
 - Recording (front and rear)
+
+(not yet tested)
+
+- Flashlight
 
 (not yet tested)
 
