@@ -90,6 +90,12 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 
  works
 
+## USB Connection
+
+### USB On-The-Go Cable Connection
+
+(not yet tested)
+
 # Additional Notes
 
 - The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
