@@ -9,12 +9,15 @@ works
 
 ### Mobile Data
 
-currently not working - seems to work on unlocked models, but not carrier-locked models, like Metro by T-Mobile. Plus, on unlocked models, mobile data disconnects when a call is ongoing
+works - confirmed to work on at least Metro by T-Mobile on AOSP Pie v115 and up
 
 ### Bluetooth
 
-currently not working - a file on the device's vendor that the GSI requires is not available, preventing Bluetooth media audio from working. Bluetooth calls, on the other hand, works fine
+partially - Media audio is confirmed to be a bit choppy. Call audio, on the other hand, works fine
 
+### Mobile Hotspot
+
+works
 
 ## RIL
 
@@ -47,11 +50,11 @@ currently not working - takes hours to receive a message, requires a restart, or
 
 ### Fingerprint Reader
 
-(not yet tested)
+works
 
 ### Proximity/Ambient/Gyro Sensor
 
-(not yet tested)
+works
 
 ### Camera
 
@@ -61,31 +64,31 @@ works
 
 - Recording (front and rear)
 
-(not yet tested)
+partially - front camera lagged during recording; the sound from the recordings of the front and rear camera is also choppy
 
 - Flashlight
 
-(not yet tested)
+works
 
 ### Speaker
 
-(not yet tested)
+partially - resulting sound is choppy as well
 
 ### Microphone
 
-(not yet tested)
+works - results from voice recorder apps sounds choppy, but other than that, voice is recognized clearly
 
 ### Headphone Audio
 
-(not yet tested)
+works
 
 ### FM Radio
 
-(not yet tested)
+works - FM radio receiver was successfully picked up by the new NextRadio app
 
 ### GPS
 
-(not yet tested)
+ works
 
 # Additional Notes
 
