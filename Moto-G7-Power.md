@@ -89,4 +89,6 @@ works
 
 # Additional Notes
 
-The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
+- The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
+
+- Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge
