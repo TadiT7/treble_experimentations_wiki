@@ -101,3 +101,5 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 - The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
 
 - Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge
+
+- the international/unlocked variant of the Moto G7 Power seems to keep booting back to recovery mode every time it attempts to start the GSI system
