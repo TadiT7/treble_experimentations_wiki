@@ -4,12 +4,7 @@ Summary of what works and doesn't
 
 ## Steps to install
 
-* flash this image with the `fastboot` utility:
-    ```
-    $ a-command
-    $ fastboot flash system system-arm64-aonly-gapps-su.img
-    ```
-    Some more info
+* flash this image with the `TWRP` utility:
 
     As an alternative you can flash via TWRP as "System Image" and format data.
 
