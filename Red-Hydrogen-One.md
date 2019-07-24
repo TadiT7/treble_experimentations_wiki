@@ -3,14 +3,14 @@
 ## Hardware Support (AOSP 8.1)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | TBA                                                         |
-| Speaker / Mic             | TBA                                                         |
-| Bluetooth                 | TBA                                                         |
-| WiFi                      | TBA                                                         |
-| SIM / Mobile Data / Voice | TBA                                                         |
-| VoLTE                     | TBA                                                         |
-| Fingerprint               | TBA                                                         |
-| NFC                       | TBA                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | N/A                                                         |
+| Fingerprint               | √                                                         |
+| NFC                       | √                                                         |
 
 
 ## Hardware Support (AOSP 9)
