@@ -3,6 +3,7 @@
 Summary of what works and doesn't
 - **DO NOT USE STOCK VENDOR**
 - This is an arm64 A/B device
+- Known issues: same as most other devices with GSIs
 ## Steps to install
 
 * Step 1
@@ -12,13 +13,13 @@ Summary of what works and doesn't
 * Step 3
 * flash this image with the `fastboot` utility:
     ```
-    $ fastboot erase userdata
     $ fastboot flash system system-arm64-ab-gapps-su.img
+    $ fastboot erase userdata
     ```
 
     As an alternative you can flash via TWRP as "System Image" and format data.
 
-**IF COMING FROM STOCK YOU _MUST_ DO A FULL DATA WIPE OR YOU WILL BOOTLOOP**
+**IF COMING FROM STOCK YOU _MUST_ DO A FULL DATA WIPE OR YOU WILL BOOTLOOP**. Which you should have done when installing Resurrection Remix or lineage
 
 ## Hardware support
 
