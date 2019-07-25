@@ -1,7 +1,8 @@
-# Moto Z3 Play (Beckham) arm64 A/B
+# Moto Z3 Play (Beckham)
 
 Summary of what works and doesn't
 - **DO NOT USE STOCK VENDOR**
+- This is an arm64 A/B device
 ## Steps to install
 
 * Step 1
@@ -12,11 +13,12 @@ Summary of what works and doesn't
 * flash this image with the `fastboot` utility:
     ```
     $ fastboot erase userdata
-    $ fastboot flash system system-arm64-b-gapps-su.img
+    $ fastboot flash system system-arm64-ab-gapps-su.img
     ```
-    Some more info
 
     As an alternative you can flash via TWRP as "System Image" and format data.
+
+**IF COMING FROM STOCK YOU _MUST_ DO A FULL DATA WIPE OR YOU WILL BOOTLOOP**
 
 ## Hardware support
 
