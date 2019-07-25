@@ -5,7 +5,7 @@
 
 ### Wi-Fi
 
-works
+partially - DHCP method successfully connects on only some access points; other access points require the Static method for a reliable connection
 
 ### Mobile Data
 
@@ -103,3 +103,5 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 - Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge
 
 - the international/unlocked variant of the Moto G7 Power seems to keep booting back to recovery mode every time it attempts to start the GSI system
+
+https://github.com/phhusson/treble_experimentations/issues/611
