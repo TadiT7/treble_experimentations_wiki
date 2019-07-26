@@ -68,7 +68,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Itel A32F]]|f8007|✓ (Go)|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
-|[[Leago Power 5]]✓|A|arm64|
+|[[Leago Power 5]]|aospex|✓|A|arm64|
 |[[LeEco Le Max 2]]|x2||A|arm64|
 |[[LeEco Le Pro 3]]|zl1||A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
