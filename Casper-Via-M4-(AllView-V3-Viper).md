@@ -7,7 +7,7 @@ Not Working
 
 Works
 ****
-- Everything works very well.
+- Without InCall, stable.
 
 Tested by me.
 
