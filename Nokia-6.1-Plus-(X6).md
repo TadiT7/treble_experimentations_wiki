@@ -13,7 +13,8 @@ VoLTE          | Not tested yet.                                                
 NFC            | No compatiable hardware available.                                                             |
 Notch          | Mostly yes. Sometimes when many notifications come through, They go in to area of the notch.   |
 Fingerprint    | Yes                                                                                            |
-[size=5]>No issues with battery of performance.Although there are some minor lags when device is hot or the CPU is being utilised to the max. Battery is better than stock.[/size]
+---------------------------------------------------------------------------------------------------------------------------
+>No issues with battery of performance.Although there are some minor lags when device is hot or the CPU is being utilised to the max. Battery is better than stock.
 ---------------------------------------------------------------------------------------------------------------------------
 Tested by Thanuj09/SnapDrag910/MatteBlacke
 
