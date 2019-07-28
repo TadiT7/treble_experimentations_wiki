@@ -27,6 +27,8 @@ Component      | Support
 >I had to change the network signal reading method RSRP to get accurate signal reading. Leaving it on default mode shows no signal while the other two shows full-signal always.
 
 >Viper4Android(I used the magisk module, Material Edition) needs the option **Attach Audio Effects** to be enabled to work properly.
+
+>System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
 ---------------------------------------------------------------------------------------------------------------------------
 Tested by Thanuj/SnapDrag910/MatteBlacke
 
