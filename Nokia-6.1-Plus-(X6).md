@@ -1,5 +1,6 @@
 # Nokia 6.1 Plus(Nokia X6)
-## Code name - DRG_Sprout | Variant - Indian(TA-1083)
+## Code name - DRG_Sprout | Variant - Indian(TA-1083) | 4/64 Model
+
 ### Hardware support
 ----------------------------------------------------------------------------------------------------------------------------
 
