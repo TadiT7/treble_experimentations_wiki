@@ -9,8 +9,7 @@ Camera         | Yes, Works on 3rd party apps too(Snapchat, Instagram).         
 WiFi           | Yes                                                                                            |
 Mobile Data    | Yes                                                                                            |
 Bluetooth      | Not tested yet.                                                                                |
-GPS            | Not sure. Third-party apps can locate the device, But google maps cannot locate the device and |
-                load the map even after granting location permissions.                                          |
+GPS            | Not sure. Third-party apps can locate the device, But google maps cannot locate the device and load the map even after granting location permissions.                                         |
 VoLTE          | Not tested yet.                                                                                |
 Compass        | Yes                                                                                            |
 NFC            | No compatiable hardware available.                                                             |
