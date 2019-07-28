@@ -26,4 +26,5 @@ Component      | Support
 >I had to change the network signal reading method RSRP to get accurate signal reading. Leaving it on default mode shows no signal while the other two shows full-signal always.
 ---------------------------------------------------------------------------------------------------------------------------
 Tested by Thanuj/SnapDrag910/MatteBlacke
+
 Cheers!
