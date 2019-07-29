@@ -18,7 +18,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havoc-os-t3930030)|A - A/B|arm - arm64|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/amp/)|A - A/B|arm - arm64|
 |Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/amp/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
-|ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
+|ResurrectionRemix|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/amp/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 |ZirconiumAosp|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/amp/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
 |UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/amp/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
