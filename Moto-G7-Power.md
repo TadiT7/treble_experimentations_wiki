@@ -5,7 +5,7 @@
 
 ### Wi-Fi
 
-partially - DHCP method successfully connects on only some access points; other access points require the Static method for a reliable connection
+partially - DHCP method successfully connects on only few access points; most access points require the Static method for a reliable connection
 
 ### Mobile Data
 
@@ -43,7 +43,8 @@ works
 
 - Receiving (SMS and MMS)
 
-currently not working - takes hours to receive a message, requires a restart, or doesn't receive at all
+
+partially - messages can only be received on a 3G/HSPA/UMTS network, not on a 4G LTE network
 
 
 ## Hardware
@@ -76,7 +77,7 @@ partially - resulting sound is choppy as well
 
 ### Microphone
 
-works - results from voice recorder apps sounds choppy, but other than that, voice is recognized clearly
+works
 
 ### Headphone Audio
 
@@ -100,8 +101,6 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 
 - The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
 
-- Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge
-
-- the international/unlocked variant of the Moto G7 Power seems to keep booting back to recovery mode every time it attempts to start the GSI system
+- Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge such as the international/unlocked models
 
 https://github.com/phhusson/treble_experimentations/issues/611
