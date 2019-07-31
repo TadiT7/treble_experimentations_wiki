@@ -26,9 +26,11 @@ Component      | Support
 
 >I had to change the network signal reading method RSRP to get accurate signal reading. Leaving it on default mode shows no signal while the other two shows full-signal always.
 
->Viper4Android(I used the magisk module, Material Edition) needs the option **Attach Audio Effects** to be enabled to work properly.
+>Viper4Android(I used the magisk module, Material Edition) needs the option **Attach Audio Effects** to process sound effects properly.
 
 >System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
+
+>Magisk's safetynet manager will report ```Basic Intergrity:True``` and ```CTS:False```. You can use the MagiskHideProps module to pass the CTS test. Enable advanced hiding and change the fingerprint to Nokia 7 plus's(B2N). (Theoretically you can use any Fingerprint but i've never tested any other than Nokia 7 plus's.
 ---------------------------------------------------------------------------------------------------------------------------
 Tested by Thanuj/SnapDrag910/MatteBlacke
 
