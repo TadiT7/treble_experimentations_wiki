@@ -140,7 +140,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
-|[[Sony Xperia 1]]|kumano|✓|A/B|arm64
+|[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
+|[[Sony Xperia 10/10+]]|kirin and mermaid|✓|A/B|arm64|
 |[[UMIDIGI F1 / F1 Play]]|f1|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
