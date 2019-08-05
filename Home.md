@@ -128,6 +128,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
+|[[Samsung Galaxy S10 (Exynos/Snapdragon)]]|beyond|✓|A/B|arm64|
 |[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
@@ -138,6 +139,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ]]|kagura||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
+|[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
+|[[Sony Xperia 1]]|kumano|✓|A/B|arm64
 |[[UMIDIGI F1 / F1 Play]]|f1|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
