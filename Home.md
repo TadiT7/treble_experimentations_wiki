@@ -127,6 +127,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
+|[[Samsung Galaxy S8 and S8 Plus (Exynos)]]|dreamlte and dream2lte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos/Snapdragon)]]|beyond|✓|A/B|arm64|
 |[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A|arm64|
