@@ -9,7 +9,7 @@ Component      | Support
 **Camera**         | Yes, Works on 3rd party apps too(Snapchat, Instagram).                                         |
 **WiFi**           | Yes                                                                                            |
 **Mobile Data**    | Yes                                                                                            |
-**Bluetooth**      | Not tested yet.                                                                                |
+**Bluetooth**      | I think yes, My phone was visible to other devices accessing bluetooth.                                                                                |
 **GPS**            | Not sure. Third-party apps can locate the device, But google maps cannot locate the device and load the map even after granting location permissions.                                         |
 **VoLTE**          | Not tested yet.                                                                                |
 **Compass**        | Yes                                                                                            |
