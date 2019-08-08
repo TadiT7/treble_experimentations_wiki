@@ -89,7 +89,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |FireHound|ATechnoHazard|[Here](https://basketbuild.com/uploads/devs/ATechnoHazard/FireHound-4.5-UNOFFICIAL-20180430-treble.zip)|A|arm64|
 |Havoc-OS|EnesSastim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-havoc-os-8-1-t3819050)|A|arm64|
 |LineageOS|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690)|A - A/B|arm - arm64|
-|LineageOS|iamsaalim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/lineage-iamsaalim-t3938438)|A|arm64 - arm|
+|LineageOS|iamsaalim|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/lineage-iamsaalim-t3938438)|A - A/B|arm64 - arm|
 |OmniROM|planetera|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-omnirom-8-1-t3824159)|A|arm64|
 |OmniROM Treskmod|Letzen|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-8-1-omnirom-treskmod-t3818188)|A|arm64|
 |Resurrection Remix|mracar|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-resurrection-remix-o-6-1-0-t3811299)|A - A/B|arm - arm64|
