@@ -25,7 +25,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus ZenFone Max M1 (ZB555KL)]]|x00pd|✓|A|arm64|
 |[[Asus ZenFone Max M1 (ZB556KL)]]|x00pd|✓|A|arm64|
 |[[Asus ZenFone 5Z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
-|[[Barnes & Noble Nook Tablet 10.1"]]|BNTV650|✓|A|arm64|
+|[[[Barnes & Noble Nook Tablet 10.1"](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
 |[[Blackview BV9600 Pro]]|S700 *?*|✓|A|arm64|
