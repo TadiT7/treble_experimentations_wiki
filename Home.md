@@ -145,6 +145,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10/10+]]|kirin and mermaid|✓|A/B|arm64|
 |[[UMIDIGI F1 / F1 Play]]|f1|✓|A/B|arm64|
+|[[Umidigi One Max]]|n/a||A|arm64|
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Wileyfox Swift]]|crackling||A|arm64|
