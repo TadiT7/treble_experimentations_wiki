@@ -119,7 +119,7 @@ bash ../treble_experimentations/build-rom.sh android-8.1 romname
 
 ### 7. Build using @dakkar script
 
-dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/master/build-dakkar.sh#L36") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/a5e1b285cb3a3c0430a85b2ad8db16cbee3328f5).
+dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/master/build-dakkar.sh#L36") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/9ae752a94f20ba17c8a712429c4db42c20a0511a).
 
 1- Open your terminal and run:
 
