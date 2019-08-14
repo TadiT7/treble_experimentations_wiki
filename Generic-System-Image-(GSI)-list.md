@@ -34,6 +34,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Benzo Rom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
 |BootleggersROM|NFound|[Download](https://androidfilehost.com/?w=files&flid=291038&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |BootleggersROM|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919828/amp/) / [Download](https://androidfilehost.com/?w=files&flid=292505&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
+|crDroid Android|ExpressLuke|[Download](https://drive.google.com/a/zonc.eu/uc?id=1CCaeMlnI3ZZrocyffJ21F3ZTHshT6nHu&export=download)|A|arm64|
 |dotOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291210&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Evolution X|NFound|[Download](https://androidfilehost.com/?w=files&flid=291542&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Havoc-OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=290552&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
