@@ -9,7 +9,7 @@ General bugs:
 
 ## Steps to install
 
-1. Flash heroxlte_createVendor from here
+1. Flash heroxlte_createVendor from [here](https://mega.nz/#F!opVUCKCY!jy4WjnNZ2hw4bnQh35T6jQ)
 2. Reboot to recovery
 3. Flash any downloaded GSI as image-system image (ARM64_AONLY)
 4. Flash heroxlte_vendor
@@ -17,7 +17,7 @@ General bugs:
 
 ## Steps to revert
 1. Reboot to recovery
-2. Flash heroxlte_revertVendor from here
+2. Flash heroxlte_revertVendor from [here](https://mega.nz/#F!opVUCKCY!jy4WjnNZ2hw4bnQh35T6jQ)
 3. Reboot to recovery
 4. Wipe System,Data,Cache in TWRP wipe menu
 
