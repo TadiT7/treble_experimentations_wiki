@@ -152,7 +152,7 @@ In simple steps:
 1. Repo init the rom you want to build GSI for.
 ```
 mkdir ~/rom &&  cd ~/rom
-repo init -u https://github.com/LineageOS/android.git -b lineage-15.1
+repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
 ```
 
 2. Add phh repos to your local_manifest
@@ -169,10 +169,10 @@ repo sync -c -j4 --force-sync --no-tags --no-clone-bundle
 
 4. Modify the source to fix issues in other devices using one of these methods:
 
-- Apply [phh patches](https://github.com/phhusson/treble_patches/tree/android-8.1/patches):
+- Apply [phh patches](https://github.com/phhusson/treble_patches/tree/android-9.0/patches):
 
 ```
-git clone https://github.com/phhusson/treble_patches -b android-8.1
+git clone https://github.com/phhusson/treble_patches -b android-9.0
 ```
 
 Then apply each path in its project
