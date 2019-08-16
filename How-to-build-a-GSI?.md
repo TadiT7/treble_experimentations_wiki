@@ -189,7 +189,7 @@ patch -p1 < patch
 
 5. Go to the phh device repo and edit the .mk for your ROM (example lineage.mk)
 
-6. Lunch the [build varaint](https://github.com/phhusson/treble_experimentations/blob/master/build.sh#L380) you want (ex. treble_arm64_avN-userdebug) and start the build
+6. Lunch the [build variant](https://github.com/phhusson/treble_experimentations/blob/master/build.sh#L380) you want (ex. treble_arm64_avN-userdebug) and start the build
 
 ```
 . build/envsetup.sh
