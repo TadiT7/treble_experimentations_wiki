@@ -1,3 +1,4 @@
+_* TO BE REWRITED_
 
 Flashing procedure for Redmi Go Global version feb 1 2019
 Enable USB debugging and OEM unlock in developer options
