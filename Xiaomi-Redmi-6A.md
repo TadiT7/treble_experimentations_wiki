@@ -24,7 +24,7 @@ Xiaomi Redmi 6A (codenamed "cactus") is a smartphone from Xiaomi released in Jun
 | Bluetooth               | 4.2, A2DP, LE                                                         |
 | GPS                     | Yes, with A-GPS, GLONASS, BDS                                         |
 | Sensors                 | Accelerometer, proximity, compass                                     |
-| Shipped Android version | 8.1.0 (MIUI 9)                                                        |
+| Shipped Android version | 8.1.0 (MIUI 10)                                                        |
 
 ## Hardware Support
 
