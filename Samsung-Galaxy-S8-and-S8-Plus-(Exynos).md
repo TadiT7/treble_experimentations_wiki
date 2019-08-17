@@ -1,4 +1,4 @@
-# Samsung Galaxy S8 and S8 Plus (Exynos)
+# [Galaxy S8 and S8+] - [SM-G950F(D) and SM-G955F(D)]
 
 General bugs:
 - No signal bars shown (signal itself is working fine)
