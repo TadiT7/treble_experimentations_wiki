@@ -12,7 +12,7 @@ General bugs:
 1. Flash heroxlte_createVendor from [here](https://mega.nz/#F!opVUCKCY!jy4WjnNZ2hw4bnQh35T6jQ)
 2. Reboot to recovery
 3. Flash any downloaded GSI as image-system image (ARM64_AONLY)
-4. Flash heroxlte_vendor
+4. Flash heroxlte_vendor also from [here](https://mega.nz/#F!opVUCKCY!jy4WjnNZ2hw4bnQh35T6jQ)
 5. Optional flash Magisk root
 
 ## Steps to revert
