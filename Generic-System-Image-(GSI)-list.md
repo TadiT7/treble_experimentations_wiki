@@ -56,6 +56,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |PixelDirty|NFound|[Download](https://androidfilehost.com/?w=files&flid=292133&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |POSP|NFound|[Download](https://androidfilehost.com/?w=files&flid=291595&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |PrismaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=293030&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
+|Resurrection Remix|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1S6slE7u0CUgvu2xEBabDi8PMw7tmWgLj&export=download)|A|arm64|
 |SuperiorOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291324&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |SyberiaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289418&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Treble-ized 0s|noobstyle1337|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835092/amp/) / [Download](https://mega.nz/#F!rBsUyYYC!QlOfpjv7lnhrrgYssjLivA)|A - A/B|arm64|
