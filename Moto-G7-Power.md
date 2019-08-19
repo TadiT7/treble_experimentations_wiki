@@ -103,7 +103,7 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 
 - Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge such as the international/unlocked models
 
-- Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system somehow, causing the device to bootloop
+- Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system somehow, causing the device to bootloop (similar situation with the Moto G7 (river) (https://github.com/topjohnwu/Magisk/issues/844#issuecomment-485201012))
 
 - Once decrypting the device, the fingerprint API for the GSI is erased
 
