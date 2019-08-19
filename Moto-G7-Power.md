@@ -1,5 +1,6 @@
 # Motorola Moto G7 Power (XT-1955) (ocean)
 
+Tested with Phh Treble v117
 
 ## Wireless
 
@@ -105,6 +106,6 @@ works
 
 - Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system somehow, causing the device to bootloop (similar situation with the Moto G7 (river) (https://github.com/topjohnwu/Magisk/issues/844#issuecomment-485201012))
 
-- Once decrypting the device, the fingerprint API for the GSI is erased
+- Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
 
 https://github.com/phhusson/treble_experimentations/issues/611
