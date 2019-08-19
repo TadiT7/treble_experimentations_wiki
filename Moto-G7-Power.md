@@ -85,7 +85,7 @@ works
 
 ### FM Radio
 
-works - FM radio receiver was successfully picked up by [the new NextRadio app](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio)
+not working - FM radio receiver could not be picked up by [the new NextRadio app](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio)
 
 ### GPS
 
