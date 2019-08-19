@@ -95,7 +95,7 @@ works - FM radio receiver was successfully picked up by [the new NextRadio app](
 
 ### USB On-The-Go Cable Connection
 
-(not yet tested)
+works
 
 # Additional Notes
 
