@@ -129,6 +129,32 @@ dakkar's script is another treble building script, originally made by @Dakkar an
 
 ```bash ../treble_experimentations/build-dakkar.sh romname variant```
 
+
+>ROM types:
+>  aex
+>  aicp
+>  aokp
+>  aosmp
+>  aosp80
+>  aosp81
+>  aosp90
+>  aquarios
+>  carbon
+>  crdroid
+>  e-pie
+>  e-oreo
+>  havoc
+>  komodo
+>  lineage151
+>  lineage160
+>  mokee
+>  pixel81
+>  pixel90
+>  potato
+>  rebellion
+>  rr
+>  slim
+
 > Variants are dash-joined combinations of (in order):
 > * processor type
 >   * "arm" for ARM 32 bit
