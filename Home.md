@@ -74,6 +74,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LeEco Le Pro 3]]|zl1||A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
 |[[Lenovo K6 / K6 Power]]|karate||A|arm64|
+|[[Lenovo K8 Note]]|manning||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[Lenovo Z5]]|L78011|✓|A/B|arm64|
 |[[LG V30]]|joan||A|arm64|
