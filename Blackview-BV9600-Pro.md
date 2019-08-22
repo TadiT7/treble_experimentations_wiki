@@ -56,7 +56,7 @@ You can probably flash the system with fastboot or SP Flash Tool directly but I 
 | Component                 |      Comment                                              | [Github Issues] |
 |---------------------------|:---------------------------------------------------------:|:------:|
 | Camera                    | Back : At least 1 Ok / Front : Ok                         |        |
-| Speaker / Mic             | Main Speaker not working / "Call" speaker Ok / Mic Ok     | [Soon] |
+| Speaker / Mic             | Main Speaker not working / "Call" speaker Ok / Mic Ok     | [Link] |
 | Bluetooth                 | Not tested                                                |        |
 | WiFi                      | Ok                                                        |        |
 | SIM / Mobile Data / Voice | Not tested                                                |        |
@@ -81,4 +81,4 @@ Template created by @zguithues and @hackintosh5
 
 [Github Issues]: https://github.com/phhusson/treble_experimentations/issues/
 
-[Soon]: https://github.com/phhusson/treble_experimentations/issues/
+[Link]: https://github.com/phhusson/treble_experimentations/issues/417
