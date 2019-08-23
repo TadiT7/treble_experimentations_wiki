@@ -34,7 +34,7 @@ General bugs:
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
-| Offline Charging          | Not working                                               |
+| Offline Charging          | Working only in MoroKernel 7.1.1 - [Download](https://www.androidfilehost.com/?fid=6006931924117940846)                                              |
 | Other feature             | N/A                                                       |
 ---
 
