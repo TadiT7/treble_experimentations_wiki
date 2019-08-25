@@ -118,6 +118,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
 |[[Realme 3 Pro]]|rmx1851|✓|A/B|arm64|
+|[[Realme X]]|rmx1901|✓|A/B|arm64|
 |[[Red Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
 |[[Samsung Galaxy A7 2018]]|a7y18lte|✓|A|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
