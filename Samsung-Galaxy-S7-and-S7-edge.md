@@ -1,7 +1,7 @@
 # Samsung Galaxy S7/S7 edge (Exynos)
 
 General bugs:
-- No signal bars shown (signal itself is working fine)
+- No signal bars shown (signal itself is working fine) **Fixed in GSI ROMS with v118+ patches**
 - Offline Charging
 - Fingerprint Gestures
 - Wi-Fi Direct
