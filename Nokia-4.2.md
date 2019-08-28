@@ -18,7 +18,7 @@
 
 This particular one is a prototype unit with many parts missing including camera, so most of functions can't be tested.
 
-No navigation bar during testing, hope this could be fixed soon.
+No navigation bar during testing, even if the "Force navigation bar enabled" in "Phh Treble Settings" - "Misc features" enabled.
 
 When flashing, please ensure the vbmeta from PAN stock firmware need to be flashed with only "`--disable-verity`" parameter, otherwise the phone will get stuck at HS-USB Diagnostics 900E mode.
 
