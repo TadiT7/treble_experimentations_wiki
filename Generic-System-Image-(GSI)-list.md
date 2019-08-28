@@ -1,1 +1,0 @@
-yarrakito haçiroku fuçaa
