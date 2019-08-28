@@ -2,7 +2,7 @@
 
 General bugs:
 - No signal bars shown (signal itself is working fine) **Fixed in GSI ROMS with v118+ patches**
-- Offline Charging
+- Offline Charging Working only in MoroKernel 7.1.1 - [Download](https://www.androidfilehost.com/?fid=6006931924117940846) 
 - Fingerprint Gestures
 - Wi-Fi Direct
 - On each boot the first call is muted
