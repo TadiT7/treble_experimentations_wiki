@@ -11,7 +11,7 @@
 | VoLTE                     | ?                                                         |
 | Fingerprint               | √                                                         |
 | NFC                       | ?                                                         |
-| Notch Display             | Unproperly                                                |
+| Notch Display             | Unproperly in default configuration                       |
 
 ***
 ## Additional Notes
@@ -20,7 +20,12 @@ This particular one is a prototype unit with many parts missing including camera
 
 No navigation bar during testing, hope this could be fixed soon.
 
-When flashing, please ensure the vbmeta from PAN stock firmware need to be flashed with only "--disable-verity" parameter, otherwise the phone will get stuck at HS-USB Diagnostics 900E mode.
+When flashing, please ensure the vbmeta from PAN stock firmware need to be flashed with only "`--disable-verity`" parameter, otherwise the phone will get stuck at HS-USB Diagnostics 900E mode.
+
+e.g.
+`fastboot --disable-verity flash vbmeta_a /path/to/vbmeta.img`
+
+To fix the notch issue, choose Hide in developer options - Display cutout, then the rounded corners diameter in Phh Treble Settings - Misc features need to be configured to 10.
 
 ***
 
