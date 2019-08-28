@@ -1,8 +1,6 @@
 # [Galaxy S8 and S8+] - [SM-G950F(D) and SM-G955F(D)]
 
 General bugs:
-- No signal bars shown (signal itself is working fine)
-- offline charging
 - fingerprint gestures
 - touchscreen dies after a while with AOD/Ambient display always on (fixable with spamming power button 2-3 times)
 - wifi direct
@@ -37,6 +35,6 @@ General bugs:
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
-| Offline Charging          | Not working                                               |
+| Offline Charging          | Working                                            |
 | Other feature             | N/A                                                       |
 ---
