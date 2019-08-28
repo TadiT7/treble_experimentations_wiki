@@ -97,6 +97,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 2.1]]|e2m|✓ (Go)|A|arm|
 |[[Nokia 3.1]]|es2|✓|A/B|arm64|
 |[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
+|[[Nokia 3.2]]|deadpool|✓|A/B|arm64|
+|[[Nokia 4.2]]|panther|✓|A/B|arm64|
 |[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 6 (2018)]]|pl2|✓|A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
