@@ -19,7 +19,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |:-:|:-:|:-:|:-:|:-:|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
-|[[ASUS ZenFone Live (L1)]]|ASUS_X00RD|✓ (Go)|A|arm|
+|[[Asus Zenfone Live L1 (ZA550KL)]]|ASUS_X00RD|✓|A|arm64|
 [[Asus Zenfone Lite (L1)]]|x00r_5|✓ |A|arm64|
 |[[Asus ZenFone Max Pro M1]]|x00td|✓|A|arm64|
 |[[Asus ZenFone Max M1 (ZB555KL)]]|x00pd|✓|A|arm64|
