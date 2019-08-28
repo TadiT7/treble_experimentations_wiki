@@ -1,0 +1,1 @@
+yarrakito orospu çocuğudur
