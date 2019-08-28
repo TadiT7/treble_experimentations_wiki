@@ -1,0 +1,1 @@
+| [UMIDIGI A5 Pro](https://github.com/phhusson/treble_experimentations/wiki/UMIDIGI-A5-Pro)                    | n/a              | ✓ | A/B | arm64 |
