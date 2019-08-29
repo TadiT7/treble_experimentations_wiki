@@ -93,6 +93,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
+|[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
 |[[Nokia 2.1]]|e2m|✓ (Go)|A|arm|
 |[[Nokia 3.1]]|es2|✓|A/B|arm64|
