@@ -1,5 +1,5 @@
-# Asus Zenfone Live L1 (ZA550KL)
-![Asus Zenfone Live L1 (ZA550KL)](https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-2.jpg)
+## Asus Zenfone Live L1 (ZA550KL) <br> <img src="https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-2.jpg" alt="Asus Zenfone Live L1 (ZA550KL)" width="200"/>
+
 
 Asus Zenfone Live L1 (ZA550KL) codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK Computer Inc. released in May 2018.
 
