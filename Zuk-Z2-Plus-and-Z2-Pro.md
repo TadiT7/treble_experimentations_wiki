@@ -1,4 +1,5 @@
-# [Lenovo Zuk Z2] - [Z2_plus and Z2_row]
+## Lenovo Zuk Z2 Plus and Z2 Pro <br> <img src="https://www.91-img.com/pictures/98062-v1-lenovo-zuk-z2-mobile-phone-large-1.jpg" alt="Z2 Plus" width="200"/><img src="https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2016/09/22/goods_img_big-v1/20160922154413_95471.jpg" alt="Z2 Pro" width="200"/>
+
 Full Treble enabled by [Zuk-devs](https://github.com/Zuk-devs) (**Cosmedd, Davidevinavil and DD3Boh**)
 
 **REMEMBER** : Zuk Z2 Plus and Z2 Pro are arm64 and System A-ONLY
