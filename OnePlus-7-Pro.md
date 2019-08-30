@@ -1,4 +1,4 @@
-# [OnePlus 7 Pro](https://www.gsmarena.com/oneplus_7_pro-9689.php) - guacamole
+## OnePlus 7 Pro <br> <img src="https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg" alt="OnePlus 7 Pro" width="200"/>
 
 ## Preliminary information and warnings
 OnePlus is cool with warranty, even on unlocked bootloader. You will lose Widevine L1 after unlocking the bootloader, though it's pretty easy to re-flash [stock firmware](https://forum.xda-developers.com/showthread.php?t=3930585) & re-lock the bootloader to regain the functionality.
