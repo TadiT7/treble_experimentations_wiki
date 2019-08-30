@@ -1,3 +1,6 @@
+## Asus Zenfone Lite L1  <br> <img src="https://www.91-img.com/pictures/130635-v3-asus-zenfone-lite-l1-mobile-phone-large-1.jpg" alt="Asus Zenfone Lite L1" width="200"/>
+
+
 # # **# 1.AOSP 9.0 v111 Works Flawlessly on Zenfone Lite L1**
 
 *All sensors working 
