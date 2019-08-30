@@ -1,8 +1,10 @@
 # Redmi Note 7 (lavender)
-The device works with phh-treble almost perfectly. Some issues that are currently seen include:
-1. Brightness flickering
-2. Adaptive brightness doesn't work
-3. Proximity sensor has some issues if you enable->disable the adaptive brightness (to fix it, just enable->disable adaptive brightness again)
+The device works with phh-treble  perfectly. <s>Some issues that are currently seen include:<br>
+<s>1. Brightness flickering<br>
+<s>2. Adaptive brightness doesn't work<br>
+<s>3. Proximity sensor has some issues if you enable->disable the adaptive brightness (to fix it, just enable->disable adaptive brightness again)<br>
+
+<a href="https://github.com/phhusson/vendor_hardware_overlay/pull/114">Fixed</a>
 
 NOTE: Fingerprint sensor will now not work if you disable forceencrypt - [Issue #409](https://github.com/phhusson/treble_experimentations/issues/409)
 
@@ -64,12 +66,6 @@ $ adb push Magisk-*.zip /sdcard/TWRP/Magisk-*.zip
 - The device will reboot and initate the first-boot process. Let it complete and you should be entering the Setup Wizard
 
 ### Step 9: Additional Fixes
-- You will need to fix the brightness flickering bug by executing the following command through adb shell (however, it's not guaranteed that it will fix the issue - it didn't for me):
-```
-adb shell
-su
-setprop persist.sys.qcom-brightness 4095
-```
 - To get SafetyNet to pass on this you will need to enable late_service_start for Magisk. Find the link below.
 
 #### Helpful Links:
@@ -87,8 +83,8 @@ setprop persist.sys.qcom-brightness 4095
 | SIM / Mobile Data / Voice | Status: Working                                           |
 | VoLTE                     | Status: *Untested*                                        |
 | Fingerprint               | Status: Working                                           |
-| Offline Charging          | Status: *Untested*                                        |
-| Adaptive Brightness       | Status: **Not Working**                                   |
+| Offline Charging          | Status: Working                                     |
+| Adaptive Brightness       | Status: Working                                 |
 
 Please add other features, if I have missed anything.
 
@@ -99,5 +95,10 @@ Tested By:
    - Model: Redmi Note 7 (lavender)
    - Region: India
    - MIUI Vendor: MIUI India Stable 10.2.11
+
+2. Username: darkestDark
+   - Model: Redmi Note 7 (lavender)
+   - Region: EU
+   - MIUI Vendor: MIUI Stable 10.2.7.0
 
 Template created by @zguithues and @hackintosh5
