@@ -1,7 +1,7 @@
-## Asus Zenfone Live L1 (ZA550KL) <br> <img src="https://cdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-2.jpg" alt="Asus Zenfone Live L1 (ZA550KL)" width="200"/>
+# ASUS ZenFone Live L1
+![ASUS ZenFone Live L1](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
 
-
-Asus Zenfone Live L1 (ZA550KL) codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK Computer Inc. released in May 2018.
+ASUS ZenFone Live L1 codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK Computer Inc. released in May 2018.
 
 ## DEVICE SPECIFICATIONS
 |      Feature      |                         Information                          |
@@ -39,6 +39,7 @@ Android 8.1 Oreo list:
 
 Android 9 Pie list:
 * AOSP by Phhusson
+* ArrowOS by ganesh varma
 * AOSiP by Akhil Narang
 * POSP by NFound
 * dotOS by NFound
@@ -71,9 +72,9 @@ Android 9 Pie list:
 
 ## TOOLS & PATCH FIXES:
 * [Unofficial TWRP 3.2.3-0](https://www.androidfilehost.com/?fid=6006931924117936924)
-* [Decrypt](https://www.androidfilehost.com/?fid=6006931924117940566). Decrypt `/data` partition, so TWRP can read internal storage.
+* [Decrypt](https://www.androidfilehost.com/?fid=6006931924117940566). Decrypt `/data` partition, so TWRP can mount internal storage.
 * [Bootloop Patch](https://www.androidfilehost.com/?fid=6006931924117940568). Needed for Android Pie GSI to boot.
-* [VoLTE for GSI](https://www.androidfilehost.com/?fid=6006931924117940565). Flash it to get VoLTE feature on GSI.
+* [VoLTE](https://www.androidfilehost.com/?fid=6006931924117940565). Flash it to get VoLTE feature on GSI.
 
 ## TESTED BY:
 1. AcAciA
@@ -82,4 +83,4 @@ Android 9 Pie list:
 4. [Satu Prasetyo Gilang Mahameru](https://t.me/m4h4m3ru)
 5. [Alfian Dwi Affandi](https://t.me/Alfiannnnnnn)
 6. [Muhammad Luthfi Taqwim](https://t.me/Iluth_taqwim)
-7. And all of [Asus Zenfone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families ;)
+7. And all of [ASUS ZenFone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families ;)
