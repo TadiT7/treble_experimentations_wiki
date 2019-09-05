@@ -34,6 +34,7 @@ Tested with skorpion720 / Antaresbeta [Vendor (20190214)]
     * Proximity
 * USB (MTP, ADB)
 * Wifi
+* Fingerprint on Redmi 3 Pro
 * Maybe more
 
 
@@ -54,9 +55,6 @@ Tested with skorpion720 / Antaresbeta [Vendor (20190214)]
 
 * VoLTE
 > Unable to test.
-
-* Fingerprint Reader
-> Redmi 3
 
 * Surely more
 
