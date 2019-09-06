@@ -29,7 +29,7 @@ The front and rear cameras work well but with lots of bugs. Flashlight on AOSP /
 Android 8.1 Oreo list:
 * AOSP by Phhusson
 * LineageOS by Phhusson
-* Official dotOS by dotOS Team
+* dotOS by dotOS Team
 * AICP-mordiford by AndroPlus
 * Resurrection Remix by Phhusson
 * Bootleggers by Phhusson
@@ -42,9 +42,9 @@ Android 9 Pie list:
 * AOSiP by Akhil Narang
 * POSP by NFound
 * dotOS by NFound
-* Official Resurrection Remix by mracar
-* Official AEX by EnesSastim
-* Official HavocOS by vince31fr
+* Resurrection Remix by mracar
+* AEX by EnesSastim
+* HavocOS by vince31fr
 * Descendant by Dil3mm4
 * LineageOS by AndyYan
 * Pixel Experience by EnesSastim
@@ -71,9 +71,9 @@ Android 9 Pie list:
 
 ## TOOLS & PATCH FIXES:
 * [Unofficial TWRP 3.2.3-0](https://www.androidfilehost.com/?fid=6006931924117936924)
-* [Decrypt](https://www.androidfilehost.com/?fid=6006931924117940566). Decrypt `/data` partition, so TWRP can mount internal storage.
-* [Bootloop Patch](https://www.androidfilehost.com/?fid=6006931924117940568). Needed for Android Pie GSI to boot.
-* [VoLTE](https://www.androidfilehost.com/?fid=6006931924117940565). Flash it to get VoLTE feature on GSI.
+* [Decrypt patch](https://www.androidfilehost.com/?fid=1899786940962578198). Decrypt `/data` partition, so TWRP can mount internal storage.
+* [GSI storage fix](https://www.androidfilehost.com/?fid=1899786940962578200). Needed for Android Pie GSI to boot.
+* [SELinux permissive patch](https://www.androidfilehost.com/?fid=1899786940962578201). Needed for Android Pie GSI to boot.
 
 ## TESTED BY:
 1. AcAciA
