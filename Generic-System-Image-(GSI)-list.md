@@ -8,18 +8,18 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |RainUI|yey59|[Download]( https://sites.google.com/view/nitros-rom/)|A - A/B|arm64|
 |AOSDP|RealAkito|[Download](https://downloads.aosdp.com/gsi/)|A - A/B|arm - arm64|
 |AOSiP|Akhil Narang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|A - A/B|arm - arm64|
-|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64|
-|AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64|
+|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64 - binder|
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835111/amp/) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|A - A/B|arm64|
 |Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/amp/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/amp/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64|
-|Evolution X|RealAkito|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64|
+|Evolution X|RealAkito|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
 |FlokoROM|Andro Plus|[Download](https://treble.andro.plus/)|A - A/B|arm64|
-|Havoc-OS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3855601/amp/)|A - A/B|arm64|
-|Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havoc-os-t3930030)|A - A/B|arm - arm64|
+|Havoc-OS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3855601/amp/)|A - A/B|arm64 - binder|
+|Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havoc-os-t3930030)|A - A/B|arm - arm64 - binder|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/amp/)|A - A/B|arm - arm64|
 |Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/amp/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
-|ResurrectionRemix|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64|
+|ResurrectionRemix|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64 - binder|
 |ViperOS|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/amp/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 |ZirconiumAosp|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/amp/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
 |UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/amp/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
