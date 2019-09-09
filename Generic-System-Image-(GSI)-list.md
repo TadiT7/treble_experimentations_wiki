@@ -12,7 +12,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64 - binder|
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835111/amp/) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|A - A/B|arm64|
 |Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/amp/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm64|
-|Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/amp/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64|
+|Descendant|Dil3mm4|[XDA]() / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64|
 |Evolution X|RealAkito|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
 |FlokoROM|Andro Plus|[Download](https://treble.andro.plus/)|A - A/B|arm64|
 |Havoc-OS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3855601/amp/)|A - A/B|arm64 - binder|
