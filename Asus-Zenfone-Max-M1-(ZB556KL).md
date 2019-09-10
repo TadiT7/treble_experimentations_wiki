@@ -4,9 +4,11 @@
 
 * Camera:
 > Working But not usable Too muchh beauty effect like big eyes😂(When Device Encrypted)
+> now works fine after pie
 
 * Flashlight:
 > Working (When Device Encrypted)
+> in oreo decryption fixed so now all works fine 
 
 * Speaker / Microphone
 > Loudspeaker (bottom) works, Microphone works
@@ -42,6 +44,11 @@
 * OEM ports/sGSI are also not working due to vendor
 * now all of the GSI are booting  due to a patch that enables or mounts ./data
 * people who wanna give device for testing are welcome always
+
+
+* All source GSIs booting after beta pie.
+* In OEM GSIs and sGSI only op5 and op5t ports have been booted
+
 ##
 Template created by @raza231198
 ##
