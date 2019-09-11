@@ -23,8 +23,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ASUS ZenFone Live L1]]|X00RD|✓|A|arm64|
 |[[ASUS ZenFone Lite L1]]|X00R_5|✓ |A|arm64|
 |[[ASUS ZenFone Max Pro M1]]|X00TD|✓|A|arm64|
-|[[ASUS ZenFone Max M1 (ZB555KL)]]|X00PD|✓|A|arm64|
-|[[ASUS ZenFone Max M1 (ZB556KL)]]|X00PD|✓|A|arm64|
+|[[ASUS ZenFone Max M1 (ZB555KL)]]|X00PD|✓|AB|arm64|
+|[[ASUS ZenFone Max M1 (ZB556KL)]]|X00PD|✓|AB|arm64|
 |[[ASUS ZenFone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[[ASUS ZenFone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
 |[[Barnes & Noble Nook Tablet 10.1"]]|BNTV650|✓|A|arm64|
