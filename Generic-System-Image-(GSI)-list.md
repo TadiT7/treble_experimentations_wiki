@@ -42,7 +42,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ion|NFound|[Download](https://androidfilehost.com/?w=files&flid=290933&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |LegionOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=292989&sort_by=date&sort_dir=DESC)|A|arm64|
 |LineageOS|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1Z8gTYdjFrNogffw8CRdPg9vxQJgELOce&export=download)|A|arm64|
-|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3908029/amp/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/)|A - A/B|arm - arm64|
+|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3908029/amp/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840801/amp/) / [Download](https://mega.nz/#F!3XwFlAaC!VdzCKlrR-f6D-a8oEz9JkQ)|A - A/B|arm64|
 |LiquidRemix|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3889160/amp/)|A - A/B|arm - arm64|
 |LiquidRemix|NFound|[Download](https://androidfilehost.com/?w=files&flid=291978&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
