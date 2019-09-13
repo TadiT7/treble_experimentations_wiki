@@ -6,16 +6,15 @@ Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed
 
 ## Steps to install
 
-Decryption is not required, but it's recommended.  
+* Decryption is not required, but it's recommended
 * Follow this guide for up-to-date instructions: [[guide] [root] [oreo&pie] [jeter/aljeter] [twrp, decrypt, magisk] [stock firmware]](https://forum.xda-developers.com/g6-play/how-to/guide-t3929928)
-* Even if you have the 32GB model, you need to use the TWRP built for the **16GB** model
+* If your phone is running Pie, you need to use TWRP built for the **16GB** model, even if you have the 32GB model
 * This thread contains a list of tested GSI ROMs: [ROMs that run on the G6 Play [GSI]](https://forum.xda-developers.com/g6-play/development/roms-run-g6-play-gsi-t3904067)
 * Flash the image with the `fastboot` utility:
     ```
     $ fastboot flash system system-arm-aonly.img
     ```
-
-    As an alternative you can flash via TWRP as "System Image"
+* As an alternative you can flash via TWRP as **System Image**
 
 ## Hardware support
 
@@ -25,7 +24,7 @@ Decryption is not required, but it's recommended.
 | Speaker / Mic             | Works                                                           |
 | Bluetooth                 | Works                                                           |
 | WiFi                      | Works                                                           |
-| SIM / Mobile Data / Voice | Works (Tested with Boost Mobile, APNs need to be added manually)|
+| SIM / Mobile Data / Voice | Works (Tested with Boost Mobile, APNs may need to be added manually)|
 | VoLTE                     | Untested                                                        |
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
