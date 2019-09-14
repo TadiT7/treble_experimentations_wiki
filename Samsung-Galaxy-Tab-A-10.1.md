@@ -1,1 +1,1 @@
-Galaxy Tab A 10.1 (2019) [SM-T510/T515] actually uses arm32_binder64-ab builds, not arm64. Running pretty well overall, except for double-tap to wake (#663).
+Galaxy Tab A 10.1 (2019) [SM-T510/T515] actually uses arm32_binder64-ab builds, not arm64-aonly. Running pretty well overall, except for double-tap to wake (#663).
