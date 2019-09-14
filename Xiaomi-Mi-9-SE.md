@@ -38,7 +38,7 @@ Then Flash again GAPPS
 | VoLTE                     | Not tested                                                    |
 | Fingerprint               | Works, broken on Always on Display (turn screen on first)                                                    |
 | NFC                       | Not tested                                                    |
-| Offline Charging          | Broken, the screen flashes light blue instead of showing charge animation                   |
+| Wireless Charging          | Broken, the screen flashes light blue instead of showing charge animation                   |
 ---
 
 Tested By: 
