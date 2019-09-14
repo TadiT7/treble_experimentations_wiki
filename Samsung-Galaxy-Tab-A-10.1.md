@@ -16,7 +16,7 @@ Running pretty well overall, except for double-tap to wake (#663).  Note that th
 * Reboot to system
 
 Some more info:
-* Alternatively, you can flash [Nexus Stock custom ROM](https://forum.xda-developers.com/galaxy-tab-a/development/rom-nexus-stock-2019-galaxy-tab-10-1-t3944222), which is based on latest AOSP build and includes the MTP fix.
+* Alternatively, you can flash [Nexus Stock custom ROM](https://forum.xda-developers.com/galaxy-tab-a/development/rom-nexus-stock-2019-galaxy-tab-10-1-t3944222), which is based on latest AOSP build and includes the [MTP fix](https://forum.xda-developers.com/showpost.php?p=76453315&postcount=245).
 
 ## Hardware support
 
