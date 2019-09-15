@@ -76,7 +76,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |Android P|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3906486/amp/) / [Telegram](https://t.me/ErfanGSIs) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
-|Android P (PQ2A)|GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|A - AB|arm64|
+|Android P (PQ2A)|GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|A - A/B|arm64|
 |ColorOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919861/amp/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/ColorOS%206/)|A - A/B|arm64|
 |RedmagicOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3909798/amp/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/Nubia%20-%20RedMagic%20OS/)|A - A/B|arm64|
 
