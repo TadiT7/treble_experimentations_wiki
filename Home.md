@@ -194,7 +194,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 6A]]|cactus|✓|A|arm|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
-|[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm|[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
+|[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi K20 Pro]]|raphael|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
