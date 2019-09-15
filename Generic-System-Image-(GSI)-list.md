@@ -2,62 +2,71 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
+## Official Android 10 Q:
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|AOSP|phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+
+
+## Unofficial Android 10 Q:
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659/amp/) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+
+
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|RainUI|yey59|[Download]( https://sites.google.com/view/nitros-rom/)|A - A/B|arm64|
-|AOSDP|RealAkito|[Download](https://downloads.aosdp.com/gsi/)|A - A/B|arm - arm64|
+|AOSDP|peaktogoo|[Download](https://downloads.aosdp.com/gsi/)|A - A/B|arm - arm64|
 |AOSiP|Akhil Narang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|A - A/B|arm - arm64|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64 - binder|
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835111/amp/) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|A - A/B|arm64|
-|Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/amp/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm64|
-|Descendant|Dil3mm4|[XDA]() / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64|
-|Evolution X|RealAkito|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
-|FlokoROM|Andro Plus|[Download](https://treble.andro.plus/)|A - A/B|arm64|
-|Havoc-OS|mountaser halak|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3855601/amp/)|A - A/B|arm64 - binder|
-|Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-havoc-os-t3930030)|A - A/B|arm - arm64 - binder|
+|Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/amp/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm - arm64|
+|Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/amp/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64 - binder|
+|Evolution X|peaktogoo|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
+|FlokoROM|AndroPlus|[Download](https://treble.andro.plus/)|A - A/B|arm64|
+|Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3930030/amp/)|A - A/B|arm - arm64 - binder|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/amp/)|A - A/B|arm - arm64|
-|Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/amp/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
-|ResurrectionRemix|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64 - binder|
-|ViperOS|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/amp/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
-|ZirconiumAosp|RealAkito|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/amp/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
+|Paranoid Android|joshuous|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3886750/amp/) / [MIRROR](https://androidfilehost.com/?w=files&flid=288192&sort_by=date&sort_dir=DESC) / [Download](http://downloads.hostingsharedbox.com/herna/pie/beta/qssi/)|A|arm64|
+|ProjectTitanium|XTutorials|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3944646/amp/) / [Download](https://sourceforge.net/projects/projecttitanium/files/GSI-Beta/)|A - A/B|arm64|
+|RainOS|yey59|[Download](https://sites.google.com/view/nitros-rom/devices/gsi)|A - A/B|arm64|
+|ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/amp/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64 - binder|
+|ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/amp/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
+|ZirconiumAosp|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/amp/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
 |UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/amp/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 
 
 ## Unofficial Android 9 Pie
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|AOSP [MicroG]|oF2pks|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3878115/amp/) / [Download](https://androidfilehost.com/?w=files&flid=286761&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64 - binder|
 |AOKP|NFound|[Download](https://androidfilehost.com/?w=files&flid=290688&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
+|AospExtended|ashu7073|[Download](https://sourceforge.net/projects/aospextended-gsi/files/)|A/B|arm64|
 |AospExtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289419&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|Benzo Rom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-benzo-rom-9-0-t3837127)|A - A/B|arm64|
+|Benzo Rom|yshalsager|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3837127/amp/)|A - A/B|arm64|
 |BootleggersROM|NFound|[Download](https://androidfilehost.com/?w=files&flid=291038&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |BootleggersROM|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919828/amp/) / [Download](https://androidfilehost.com/?w=files&flid=292505&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
-|crDroid Android|ExpressLuke|[Download](https://drive.google.com/a/zonc.eu/uc?id=1CCaeMlnI3ZZrocyffJ21F3ZTHshT6nHu&export=download)|A|arm64|
-|dotOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291210&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
+|dotOS|ashu7073|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3952035/amp/) / [Download](https://sourceforge.net/projects/dotos-treble/files/)|A - A/B|arm - arm64 - binder|
+|/e/|Phie|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3960376/amp/)|A - A/B|arm - arm64|
 |Evolution X|NFound|[Download](https://androidfilehost.com/?w=files&flid=291542&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Havoc-OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=290552&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |Havoc-OS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3914038/amp/) / [Download](https://androidfilehost.com/?w=files&flid=291817&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |ion|NFound|[Download](https://androidfilehost.com/?w=files&flid=290933&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |LegionOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=292989&sort_by=date&sort_dir=DESC)|A|arm64|
-|LineageOS|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1Z8gTYdjFrNogffw8CRdPg9vxQJgELOce&export=download)|A|arm64|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3908029/amp/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840801/amp/) / [Download](https://mega.nz/#F!3XwFlAaC!VdzCKlrR-f6D-a8oEz9JkQ)|A - A/B|arm64|
-|LiquidRemix|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3889160/amp/)|A - A/B|arm - arm64|
-|LiquidRemix|NFound|[Download](https://androidfilehost.com/?w=files&flid=291978&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|LiquidRemix|Technical|[Download](https://androidfilehost.com/?w=files&flid=291600&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
+|LiquidRemix|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3889160/amp/)|A - A/B|arm - arm64 - binder|
 |LLuviaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291872&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|MSM-Xtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289558&sort_by=date&sort_dir=DESC)|A|arm64|
+|MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3942924/amp/)|A - A/B|arm - arm64 - binder|
 |NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|OmniROM|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3901305/amp/)|A - A/B|arm - arm64|
-|Pixel Dust|NFound|[Download](https://androidfilehost.com/?w=files&flid=290365&sort_by=date&sort_dir=DESC)|A|arm64|
-|Pixel Experience|EnesSastim|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3833294/amp/) / [Download](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm - arm64|
-|Pixel Experience|NFound|[Download](https://androidfilehost.com/?w=files&flid=291933&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
+|OmniROM|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3901305/amp/)|A - A/B|arm - arm64 - binder|
+|Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/amp/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
+|Pixel Experience|EnesSastim|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3833294/amp/) / [Download](https://github.com/EnesSastim/Downloads/releases)|A - A/B|arm - arm64 - binder|
 |PixelDirty|NFound|[Download](https://androidfilehost.com/?w=files&flid=292133&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |POSP|NFound|[Download](https://androidfilehost.com/?w=files&flid=291595&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |PrismaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=293030&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|Resurrection Remix|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1S6slE7u0CUgvu2xEBabDi8PMw7tmWgLj&export=download)|A|arm64|
 |SuperiorOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291324&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |SyberiaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289418&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Treble-ized 0s|noobstyle1337|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835092/amp/) / [Download](https://mega.nz/#F!rBsUyYYC!QlOfpjv7lnhrrgYssjLivA)|A - A/B|arm64|
@@ -66,9 +75,10 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|Android P (PR1) sGSI |erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659) / [Download](https://androidfilehost.com/?w=files&flid=275999)|A - A/B|arm64|
-|Android P (PQ1A) sGSI |AyamDobhal|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development-a-only-roms/ported-p-sgsi-pr2-t3845789) / [Download](https://mega.nz/#F!p7gmVYzJ!ECjtB-8Vvqorr9UK1I2mGg)|A|arm64|
-|Android P(PQ2A) sGSI |GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f#MI-A1-Pie-sGSI-Tutorials) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|AB|arm64|
+|Android P|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3906486/amp/) / [Telegram](https://t.me/ErfanGSIs) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+|Android P (PQ2A)|GabrielHoward|[Telegram](https://t.me/Psemigsi) / [Notes](https://gist.github.com/TheGabrielHoward/71d22d6d7c6bb71d02a37f8cc5dc8d3f) / [Donwload](https://mega.nz/#F!gpp1DQYZ!vLjcKGHvaZL4gqw0QsiAtg)|A - AB|arm64|
+|ColorOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919861/amp/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/ColorOS%206/)|A - A/B|arm64|
+|RedmagicOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3909798/amp/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/Nubia%20-%20RedMagic%20OS/)|A - A/B|arm64|
 
 ## Android 8 Oreo:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
