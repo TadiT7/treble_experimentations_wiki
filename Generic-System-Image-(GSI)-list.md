@@ -25,7 +25,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/amp/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm - arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/amp/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64 - binder|
 |Evolution X|peaktogoo|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
-|FlokoROM|AndroPlus|[Download](https://treble.andro.plus/)|A - A/B|arm64|
+|FlokoROM|AndroPlus|[Download](https://drive.google.com/drive/folders/1Und0ubXS7hNT_26YduVVXXJ5-MUVAsSq)|A - A/B|arm64|
 |Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3930030/amp/)|A - A/B|arm - arm64 - binder|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/amp/)|A - A/B|arm - arm64|
 |Paranoid Android|joshuous|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3886750/amp/) / [MIRROR](https://androidfilehost.com/?w=files&flid=288192&sort_by=date&sort_dir=DESC) / [Download](http://downloads.hostingsharedbox.com/herna/pie/beta/qssi/)|A|arm64|
