@@ -123,6 +123,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G6 Play]]|aljeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
 |[[Moto G7 Power]]|ocean|✓|A/B|arm64|
+|[[Moto G7 Plus]]|lake|✓|A/B|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
