@@ -50,6 +50,9 @@ Android 9 Pie list:
 * Pixel Experience by EnesSastim
 * OctopusOS by Deepflex
 
+Android 10 list:
+* AOSP by Phhusson
+
 ## STEPS TO INSTALL
 1. Extract the compressed zip or xz file to retrieve the img file.
 2. Boot your device into fastboot mode by pressing the volume up and power buttons simultaneously.
@@ -82,4 +85,5 @@ Android 9 Pie list:
 4. [Satu Prasetyo Gilang Mahameru](https://t.me/m4h4m3ru)
 5. [Alfian Dwi Affandi](https://t.me/Alfiannnnnnn)
 6. [Muhammad Luthfi Taqwim](https://t.me/Iluth_taqwim)
-7. And all of [ASUS ZenFone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families ;)
+7. [bramaudi](https://t.me/bramaudi)
+8. And all of [ASUS ZenFone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families ;)
