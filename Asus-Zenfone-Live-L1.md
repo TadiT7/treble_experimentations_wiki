@@ -1,6 +1,6 @@
-![ASUS ZenFone Live L1](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
+![Asus Zenfone Live L1](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-live-l1-za550kl-1.jpg)
 
-ASUS ZenFone Live L1 codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK Computer Inc. released in May 2018.
+Asus Zenfone Live L1 codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK Computer Inc. released in May 2018.
 
 ## DEVICE SPECIFICATIONS
 |      Feature      |                         Information                          |
@@ -26,7 +26,7 @@ ASUS ZenFone Live L1 codenamed "ASUS_X00RD" is a budget smartphone from ASUSTeK 
 The front and rear cameras work well but with lots of bugs. Flashlight on AOSP / stock camera if set to on or auto the camera will close forcibly. Also the camera has problems taking photos and videos with dark results on some GSI. If we use the front camera, we will see our faces become very strange. Video calls like the WhatsApp application also cannot use the front camera.
 
 ## TESTED GSI-TREBLE ROMS
-Android 8.1 Oreo list:
+Android 8.1 (Oreo) list :
 * AOSP by Phhusson
 * LineageOS by Phhusson
 * dotOS by dotOS Team
@@ -36,7 +36,7 @@ Android 8.1 Oreo list:
 * XenonHD by yshalsager
 * CrDroid by Dil3mm4
 
-Android 9 Pie list:
+Android 9 (Pie) list :
 * AOSP by Phhusson
 * ArrowOS by ganesh varma
 * AOSiP by Akhil Narang
@@ -50,8 +50,8 @@ Android 9 Pie list:
 * Pixel Experience by EnesSastim
 * OctopusOS by Deepflex
 
-Android 10 list:
-* AOSP by Phhusson
+Android 10 (Q) list :
+* AOSP 10 by Phhusson
 
 ## STEPS TO INSTALL
 1. Extract the compressed zip or xz file to retrieve the img file.
@@ -75,8 +75,8 @@ Android 10 list:
 ## TOOLS & PATCH FIXES:
 * [Unofficial TWRP 3.2.3-0](https://www.androidfilehost.com/?fid=6006931924117936924)
 * [Decrypt patch](https://www.androidfilehost.com/?fid=1899786940962578198). Decrypt `/data` partition, so TWRP can mount internal storage.
-* [GSI storage fix](https://www.androidfilehost.com/?fid=1899786940962578200). Needed for Android Pie GSI to boot.
-* [SELinux permissive patch](https://www.androidfilehost.com/?fid=1899786940962578201). Needed for Android Pie GSI to boot.
+* [Bootloop Patch](https://www.androidfilehost.com/?fid=1899786940962588983). Needed for Android Pie GSI to boot.
+* [HAL3 (camera2 API) patch](https://www.androidfilehost.com/?fid=1899786940962578199). To activate full control of the device camera hardware.
 
 ## TESTED BY:
 1. AcAciA
@@ -85,5 +85,5 @@ Android 10 list:
 4. [Satu Prasetyo Gilang Mahameru](https://t.me/m4h4m3ru)
 5. [Alfian Dwi Affandi](https://t.me/Alfiannnnnnn)
 6. [Muhammad Luthfi Taqwim](https://t.me/Iluth_taqwim)
-7. [bramaudi](https://t.me/bramaudi)
-8. And all of [ASUS ZenFone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families ;)
+7. [Brama Udi](https://t.me/bramaudi)
+8. And all of [Zenfone Live L1 Indonesia](https://t.me/ZenfoneLiveL1) families!
