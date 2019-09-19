@@ -1,6 +1,6 @@
-![ASUS ZenFone Lite L1](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-1.jpg)
+![Asus Zenfone Lite L1](https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-lite-l1-za551kl-4g022in-1.jpg)
 
-### AOSP 9.0 v111 works flawlessly on ASUS ZenFone Lite L1
+### AOSP 9.0 v111 works flawlessly on Asus Zenfone Lite L1
 * All sensors are working
 * Battery backup same as stock ROM
 * For better RAM management, use NFS Injector Magisk module
