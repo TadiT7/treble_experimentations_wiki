@@ -49,16 +49,15 @@ Hardware Support
 
 ***
 
-### AOSP 9 graphics glitches
-* Edit `/system/build.prop` and add` debug.hwui.renderer=opengl` or dont use opengl skia on development settings use only opengl default (android oreo)
-***
 
 ### Working GSI builds 
 
-* Tested July 2019 AOSP 9.0 v115 https://github.com/phhusson/treble_experimentations/releases   
+* Tested sep 2019 AOSP 9.0 v119 https://github.com/phhusson/treble_experimentations/releases   
 * Aosp 8 go
 * RR oreo go 
 * Havoc os pie
 * Lineageos 15 go 
+* android 10 200c
+
 
 
