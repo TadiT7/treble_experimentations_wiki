@@ -22,14 +22,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
-|[[ASUS ZenFone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
-|[[ASUS ZenFone 5Z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
-|[[ASUS ZenFone Go]]|Z00VD|✓ (Go)|A|arm|
-|[[ASUS ZenFone Live L1]]|X00RD|✓|A|arm64|
-|[[ASUS ZenFone Lite L1]]|X00R_5|✓|A|arm64|
-|[[ASUS ZenFone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
-|[[ASUS ZenFone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
-|[[ASUS ZenFone Max Pro M1]]|X00TD|✓|A|arm64|
+|[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
+|[[Asus Zenfone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
+|[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
+|[[Asus Zenfone Live L1 (ZA550KL)]]|X00RD|✓|A|arm64|
+|[[Asus Zenfone Lite L1 (ZA551KL)]]|X00R_5|✓|A|arm64|
+|[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
+|[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
+|[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 10.1]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
