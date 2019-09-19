@@ -16,7 +16,10 @@
 > Working
 
 * VoLTE
-> Working
+> Not Supported
 
 * Fingerprint Reader
 > Working
+
+* Wifi-Router
+> Not Working
