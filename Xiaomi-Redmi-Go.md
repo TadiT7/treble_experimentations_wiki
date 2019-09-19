@@ -17,7 +17,7 @@ Hardware Support
 * VoLTE : 
 > Device supports VoLTE, but can't test at this moment. My provider does not offer VoLTE.
 * Google apps : not certified fix by this 
-> https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error/ (dont forget to clear google play services / google play store / google services framework)
+> flash this https://forum.xda-developers.com/attachment.php?attachmentid=4817057&d=1567996750
 ***
 
 ### Bootloader unlocking 
