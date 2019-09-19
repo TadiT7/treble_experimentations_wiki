@@ -8,12 +8,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |AOSP|phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 
 
-## Unofficial Android 10 Q:
-|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|:-:|
-|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659/amp/) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
-
-
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
