@@ -52,7 +52,7 @@ partially - messages can only be received on a 3G/HSPA/UMTS network, not on a 4G
 
 ### Fingerprint Reader
 
-works
+works (only if encrypted)
 
 ### Proximity/Ambient/Gyro Sensor
 
