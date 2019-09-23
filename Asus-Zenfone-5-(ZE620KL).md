@@ -13,17 +13,17 @@ If you need help with this model or if you have a particular issue not listed he
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Stock apps not working, but camera works                  |
-| Speaker / Mic             | NXP amplifiers on external storage doesn't works          |
+| Speaker / Mic / Calls     | Doesn't works well, no audio fix for the moment.          |
 | Bluetooth                 | APT-X/APT-X HD doesn't works,                             |
 | WiFi                      | Works                                                     |
 | SIM / Mobile Data / Voice | Works                                                     |
 | VoLTE                     | Doesn't works                                             |
 | Fingerprint               | Works                                                     |
 | NFC                       | Works                                                     |
-| Bluetooth calls           | Works but need to manual fix                              |
+| Bluetooth calls           | Works                                                     |
 ---
 
 ## Tested by
-* Conobi - ZE620KL, WW__ZE620KL_16.0615.1903.92_M3.17.26.14-ASUS_1.1.16, HavocOS GSI 2.7 12-07-19 - Tested the 09-08-19 
+* Conobi - ZE620KL, WW__ZE620KL_16.0615.1908.109-0, HavocOS GSI 2.9 14-09-19 - Tested the 20-09-19 
 
 _Template created by @zguithues and @hackintosh5_
