@@ -193,6 +193,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ]]|kagura||A|arm64|
+|[[Sony Xperia X Performance]]|dora||A|arm64|
+|[[Sony Xperia XZ Premium]]|maple||A|arm64|
+|[[Sony Xperia X]]|suzu||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
