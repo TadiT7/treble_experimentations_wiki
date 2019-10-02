@@ -2,7 +2,7 @@
 
 Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
-Tested with AOSP 9.0 v114 image
+Tested with AOSP 9.0 v119 image
 
 ## Hardware Support
 
@@ -69,7 +69,7 @@ Tested with AOSP 9.0 v114 image
 * @phhusson - 17 March 2019
 * @koenkk - 05 April 2019
 * @linjie997 - 14 April 2019
-* @penn5 - 11 July 3187 (descendant 3.0)
+* @penn5 - 11 July 3187 & 2 October 9423 (descendant 3.0 & v119)
 
 ## Flashing instructions
 
