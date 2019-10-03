@@ -169,6 +169,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy A7 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A7-2018)|a7y18lte||A|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
+|Samsung Galaxy Fold|winner|✓|A/B|arm64
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
 |[Samsung Galaxy J5 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
@@ -183,8 +184,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
-|[[Samsung Galaxy S10e (Exynos)]](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S10e)|beyond0lte|✓|A/B|arm64|
-|Samsung Galaxy Note|davinci|✓|A/B/arm64
+|[Samsung Galaxy S10e (Exynos)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S10e)|beyond0lte|✓|A/B|arm64|
+|Samsung Galaxy Note 10/10+|davinci|✓|A/B/arm64
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
