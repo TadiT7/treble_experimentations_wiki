@@ -148,7 +148,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
 |[[Nokia X71]]|tas|✓|A/B|arm64|
-|[[OnePlus 3 and 3T]]|oneplus3||A|arm64|
+|[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26/08/2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
