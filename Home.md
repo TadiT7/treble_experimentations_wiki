@@ -22,7 +22,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
-|[[Asus ROG Phone]]|ZS600KL|✓|A/B|arm64
+|[[Asus ROG Phone]]|ZS600KL|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[[Asus Zenfone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
@@ -149,6 +149,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
 |[[Nokia X71]]|tas|✓|A/B|arm64|
+|[[nubia Red Magic 3]]|NX629J|✓|A/B|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26/08/2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
@@ -170,7 +171,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy A7 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A7-2018)|a7y18lte||A|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
-|[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64
+|[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
 |[Samsung Galaxy J5 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
