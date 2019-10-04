@@ -107,5 +107,3 @@ works
 - Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system due to /vendor/bin/init.mmi.hab.sh, which forces the device to bootloop
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
-
-https://github.com/phhusson/treble_experimentations/issues/611
