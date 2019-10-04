@@ -22,6 +22,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
+|[[Asus ROG Phone]]|ZS600KL|✓|A/B|arm64
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[[Asus Zenfone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
