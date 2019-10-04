@@ -186,7 +186,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
 |[Samsung Galaxy S10e (Exynos)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S10e)|beyond0lte|✓|A/B|arm64|
-|[[Samsung Galaxy Note 10/10+]]|davinci|✓|A/B/arm64
+|[[Samsung Galaxy Note 10/10+]]|davinci|✓|A/B|arm64
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
