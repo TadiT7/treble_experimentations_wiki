@@ -104,7 +104,7 @@ works
 
 - Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge such as the international/unlocked models
 
-- Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system due to init.mmi.hab.sh located in /vendor/bin, which forces the device to bootloop (similar situation with the Moto G7 (river) (https://github.com/topjohnwu/Magisk/issues/844#issuecomment-485201012))
+- Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system due to init.mmi.hab.sh located in /vendor/bin, which forces the device to bootloop
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
 
