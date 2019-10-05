@@ -145,6 +145,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
 |[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
 |[[Nokia 7.1]]|ctl|✓|A/B|arm64|
+|[[Nokia 8]]|nb1||A/B|arm64|
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
