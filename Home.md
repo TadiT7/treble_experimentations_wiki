@@ -27,7 +27,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[[Asus Zenfone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
 |[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
-|[[Asus Zenfone Lite L1 (ZA551KL)]]|X00R_5|✓|A|arm64|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
