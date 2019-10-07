@@ -1,4 +1,5 @@
 Model BNTV650.
+
 # Hardware Support
 * Buttons: Work.
 * Camera: Stock camera works, front and back.
@@ -6,6 +7,11 @@ Model BNTV650.
 * Bluetooth: Bluetooth Audio works. File transfer untested.
 * WiFi: Works.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
+
+# OEM hardware drivers
+* OEM recovery drivers: https://github.com/secretwolf98/android_device_recovery_bn_bntv650_st18c10bnn
+* OEM boot drivers: https://github.com/secretwolf98/android_device_kernel_bn_bntv650_st18c10bnn
+* OEM vendor drivers: https://github.com/secretwolf98/android_device_vendor_bn_bntv650_st18c10bnn
 
 ## Additional Notes:
 * Boot animation is missing on Phh-treble v25, unsure why.
