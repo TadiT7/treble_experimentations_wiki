@@ -41,6 +41,7 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 
 ### Additional infos:
 
+- GSIs tested and working well: [OpenKirin](https://openkirin.net/download/)
 - [Ported stock Camera exists](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/kirin-huawei-camera-android-p-t3840110) and mostly work, keeping original quality.
 
 - Brightness stuck at 40%, both in settings and real life.  
