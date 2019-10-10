@@ -2,13 +2,13 @@
 
 Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed  
 
-**Note:** Boot animations don't work on some models. While booting, it will only show the bootloader logo ("bad key" or "N/A" screen)
+**Note:** Boot animations don't work on some models. While booting, it might only show the bootloader logo ("bad key" or "N/A" screen)
 
 ## Steps to install
 
 * Decryption is not required, but it's recommended
 * Follow this guide for up-to-date instructions: [[guide] [root] [oreo&pie] [jeter/aljeter] [twrp, decrypt, magisk] [stock firmware]](https://forum.xda-developers.com/g6-play/how-to/guide-t3929928)
-* If your phone is running Pie, you need to use TWRP built for the **16GB** model, even if you have the 32GB model
+* If your phone is running Pie, you will need to use TWRP built for the **16GB** model, even if you have the 32GB model
 * This thread contains a list of tested GSI ROMs: [ROMs that run on the G6 Play [GSI]](https://forum.xda-developers.com/g6-play/development/roms-run-g6-play-gsi-t3904067)
 * Flash the image with the `fastboot` utility:
     ```
@@ -28,8 +28,13 @@ Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed
 | VoLTE                     | Untested                                                        |
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
+
+## Stock ROMs
+
+Motorola stock ROMs are available [here for aljeter](https://mirrors.lolinet.com/firmware/moto/aljeter/official/), and [here for jeter](https://mirrors.lolinet.com/firmware/moto/jeter/official/). Make sure you use the correct ROM for your model, otherwise you may run into weird issues.
+
 ---
 
-Tested by @ry755 - XT1922-7 (Jeter, Boost Mobile, US), Pie vendor firmware - Tested on 6/8/19
+Tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/19 with AOSP v119
 
 Using a wiki template created by @zguithues and @hackintosh5
