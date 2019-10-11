@@ -6,6 +6,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|POSP|idk|[Download](https://sourceforge.net/projects/posp/files/)|ikd|arm - arm64|
 
 ## Unofficial Android 10 Q:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
