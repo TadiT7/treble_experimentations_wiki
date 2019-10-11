@@ -86,4 +86,4 @@ Alternatively you can just extract the boot.img file from xiaomi.EU ROM zip file
 7. Wait for the installation to finish and the system will start the initial screen of `AOSP 9 PIE`
 ![](https://user-images.githubusercontent.com/47562939/57715499-7cfcbe80-76a9-11e9-9ad3-9d8ae7095dfd.png)
 ![](https://user-images.githubusercontent.com/47562939/57715509-8423cc80-76a9-11e9-97d1-783fe5bcc5a9.png)
-tested by dkmgfk May 2019
+tested by dkmgfk May 2019 
