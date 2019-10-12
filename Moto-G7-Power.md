@@ -1,6 +1,10 @@
 # Motorola Moto G7 Power (XT-1955) (ocean)
 
-Tested with Phh Treble v117
+Tested with Phh Treble v200 - beta D
+
+VERY IMPORTANT
+- To boot the Android 10 GSI, you must first change `ro.control_privapp_permissions=enforcing` to `ro.control_privapp_permissions=log` in `/vendor/build.prop`. Vendor enforcements denies permissions from the GSI and considers them violations. If this property is not changed, the vendor will prevent the device from booting.
+- To use Magisk on this GSI or any other, you must also remove `init.mmi.hab.sh` from `/vendor/bin/`. This file conflicts with Magisk's rooting permissions, preventing the device from booting when applied.
 
 ## Wireless
 
@@ -10,15 +14,15 @@ partially - DHCP method successfully connects on only few access points; most ac
 
 ### Mobile Data
 
-works - confirmed to work on at least Metro by T-Mobile on AOSP Pie v115 and up
+(not yet tested)
 
 ### Bluetooth
 
-partially - Media audio is confirmed to be a bit choppy. Call audio, on the other hand, works fine
+(not yet tested)
 
 ### Mobile Hotspot
 
-works
+(not yet tested)
 
 ## RIL
 
@@ -26,21 +30,21 @@ works
 
 - Start call
 
-works
+(not yet tested)
 
 - Receive call
 
-works
+(not yet tested)
 
 ### VoLTE
 
-currently not working - [the apk](https://t.me/R3SPX_UPDATES/459) and [the patch](https://t.me/R3SPX_UPDATES/458) provided via [the #phh-volte Telegram group](https://t.me/phhvolte) works, but prevents calls from hanging up successfully
+currently not working - [the apk](https://t.me/R3SPX_UPDATES/459) and [the patch](https://t.me/R3SPX_UPDATES/458) provided via [the #phh-volte Telegram group](https://t.me/phhvolte) has no effect on the system, therefore the function is still unavailable
 
 ### Messaging
 
 - Sending (SMS and MMS)
 
-works
+(not yet tested)
 
 - Receiving (SMS and MMS)
 
@@ -52,7 +56,7 @@ partially - messages can only be received on a 3G/HSPA/UMTS network, not on a 4G
 
 ### Fingerprint Reader
 
-works (only if encrypted)
+not working
 
 ### Proximity/Ambient/Gyro Sensor
 
@@ -62,11 +66,11 @@ works
 
 - Taking pictures (front and rear)
 
-works
+(not yet tested)
 
 - Recording (front and rear)
 
-partially - front camera lagged during recording; the sound from the recordings of the front and rear camera is also choppy
+(not yet tested)
 
 - Flashlight
 
@@ -74,15 +78,15 @@ works
 
 ### Speaker
 
-partially - resulting sound is choppy as well
+works
 
 ### Microphone
 
-works
+(not yet tested)
 
 ### Headphone Audio
 
-works
+not working
 
 ### FM Radio
 
@@ -90,7 +94,7 @@ not working - FM radio receiver could not be picked up by [the new NextRadio app
 
 ### GPS
 
- works
+(not yet tested)
 
 ## USB Connection
 
@@ -100,10 +104,6 @@ works
 
 # Additional Notes
 
-- The GSI does not yet feature a developer option "Display Cutout" in order to hide the notch, like it does on the device's stock firmware
-
-- Unlike the stock firmware, which aims to keep the device's battery life lasting up to 72 hours, multiple users report that battery life with the GSI does not last near to 72 hours on a full charge such as the international/unlocked models
-
-- Although Magisk works on the stock firmware, flashing Magisk on the GSI conflicts with the system due to /vendor/bin/init.mmi.hab.sh, which forces the device to bootloop
+- The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
