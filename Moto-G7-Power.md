@@ -107,3 +107,7 @@ works
 - The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
+
+- (Beta D) This may be a kernel problem but in certain button presses or certain actions, the GSI freezes and forcefully restarts the device, such as opening the camera, or disabling Airplane mode by enabling Wi-Fi
+
+- (Beta D) After leaving the phone for a while, increasing the up time, apps refuse to open, and if so, gets stuck on their splash screen, having the user to restart the device each time
