@@ -111,3 +111,5 @@ works
 - (Beta D) This may be a kernel problem but in certain button presses or certain actions, the GSI freezes and forcefully restarts the device, such as opening the camera, or disabling Airplane mode by enabling Wi-Fi
 
 - (Beta D) After leaving the phone for a while, increasing the up time, apps refuse to open, and if so, gets stuck on their splash screen, having the user to restart the device each time
+
+- (Beta D) The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function
