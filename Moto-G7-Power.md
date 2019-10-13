@@ -94,7 +94,7 @@ not working - FM radio receiver could not be picked up by [the new NextRadio app
 
 ### GPS
 
-(not yet tested)
+works
 
 ## USB Connection
 
