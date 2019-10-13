@@ -66,11 +66,11 @@ works
 
 - Taking pictures (front and rear)
 
-(not yet tested)
+works
 
 - Recording (front and rear)
 
-(not yet tested)
+works
 
 - Flashlight
 
@@ -82,7 +82,7 @@ works
 
 ### Microphone
 
-(not yet tested)
+works
 
 ### Headphone Audio
 
@@ -102,11 +102,13 @@ not working - FM radio receiver could not be picked up by [the new NextRadio app
 
 works
 
-# Additional Notes
+# Other Issues
 
 - The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware
 
 - The System UI of the GSI currently conflicts with the Magisk module Pix3lify
+
+- Any navigation bar scheme no longer be edited with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner)
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
 
