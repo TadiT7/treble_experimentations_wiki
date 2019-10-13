@@ -108,7 +108,7 @@ works
 
 - The System UI of the GSI currently conflicts with the Magisk module Pix3lify
 
-- Any navigation bar scheme no longer be edited with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner), therefore receiving an incompatibility error when installing from the Google Play Store
+- The navigation bar (the 2 button or 3 button scheme) can no longer be edited with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner), therefore receiving an incompatibility error when installing from the Google Play Store
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
 
