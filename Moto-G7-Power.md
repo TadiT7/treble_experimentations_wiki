@@ -119,3 +119,4 @@ works
 - (Beta D) The two issues above may correspond with the system itself significantly lagging or straight up freezing when performing certain actions or playing powerful games, such as Asphalt 9: Legends
 
 - (Beta D) The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function, if in the development settings, the "Smallest width" display value is set to at least 597
+- (Beta D) When forcefully enabling full-gesture navigation on launchers other than the default, (using the adb command `cmd overlay enable com.android.internal.systemui.navbar.gestural`) the swipe up and hold for recent apps function does not work, neither does the swipe right for previous app function. (Tested with Lawnchair Launcher v2) This is proven not to work when the "Smallest width" value was set to either more or less than 597
