@@ -37,6 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[BLU Vivo XL4]]|n/a|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
+|[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|n/a|✓|A|arm64|
