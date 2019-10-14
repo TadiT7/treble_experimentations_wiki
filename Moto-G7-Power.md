@@ -118,4 +118,4 @@ works
 
 - (Beta D) The two issues above may correspond with the system itself significantly lagging or straight up freezing when performing certain actions or playing powerful games, such as Asphalt 9: Legends
 
-- (Beta D) The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function, if in the development settings, the "Smallest width" display value is set higher than 597
+- (Beta D) The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function, if in the development settings, the "Smallest width" display value is set to at least 597
