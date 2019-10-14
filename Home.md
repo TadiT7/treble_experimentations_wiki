@@ -176,6 +176,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
+|[[Samsung Galaxy J4plus (j4primelte)]]|j4primelte|✓|A|arm|
 |[Samsung Galaxy J5 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[Samsung Galaxy J7 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))|j7y17lte||A|arm_binder64|
