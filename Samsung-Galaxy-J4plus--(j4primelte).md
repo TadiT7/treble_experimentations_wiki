@@ -1,5 +1,6 @@
 # Samsung Galaxy J4+ (MSM8917) report
 Tested by [SebaUbuntu](https://github.com/SebaUbuntu)
+ARM32, A-only
 
 ## Procedure
 1) Start from clean stock One UI rom (so reflash it from Odin)
