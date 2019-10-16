@@ -129,6 +129,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
+|[[Moto Z2 Play]]|albus||A|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
@@ -172,11 +173,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy A7 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A7-2018)|a7y18lte||A|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
-|[[Samsung Galaxy A50]]|SM-A505FN||A/B|arm64|
+|[[Samsung Galaxy A50 (Exynos)]]|a50dd||A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
-|[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm|
+|[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm_binder64|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
-|[[Samsung Galaxy J4plus]]|j4primelte|✓|A|arm|
+|[Samsung Galaxy J4 Plus](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J4plus)|j4primelte|✓|A|arm|
 |[Samsung Galaxy J5 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[Samsung Galaxy J7 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))|j7y17lte||A|arm_binder64|
@@ -185,7 +186,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Note 10 (Exynos)]]|davinci|✓|A/B|arm64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
-|[[Samsung Galaxy S7 and S7 edge]]|herolte and hero2lte||A|arm64|
+|[[Samsung Galaxy S7 and S7 Edge]]|herolte and hero2lte||A|arm64|
 |[[Samsung Galaxy S8 and S8 Plus (Exynos)]]|dreamlte and dream2lte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
