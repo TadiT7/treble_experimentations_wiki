@@ -10,6 +10,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 10 Q:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|PixelExperience 10.0 BETA|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1M10gjBtCIm9QBoz-4wor2fNw8PR5pCxl&export=download)|A|arm64|
+|PixelExperience 10.0 BETA|ExpressLuke|[Download](https://drive.google.com/a/turbox.uk/uc?id=1R_PGOJEmTyX6IG_M5iqF6r1yoGBQHKIF&export=download)|AB|arm64|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
