@@ -153,7 +153,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
 |[[Nokia X71]]|tas|✓|A/B|arm64|
-|[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26/08/2019)|arm64|
+|[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
@@ -256,7 +256,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 5]]|rosy||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
 |[[Xiaomi Redmi 5A]]|riva||A|arm64|
-|[[Xiaomi Redmi 6]]|cereus|✓|A|arm|
+|[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
