@@ -49,6 +49,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |BootleggersROM|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919828/amp/) / [Download](https://androidfilehost.com/?w=files&flid=292505&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |dotOS|ashu7073|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3952035/amp/) / [Download](https://sourceforge.net/projects/dotos-treble/files/)|A - A/B|arm - arm64 - binder|
 |/e/|Phie|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3960376/amp/)|A - A/B|arm - arm64|
+|Evolution X v2.2|ExpressLuke|[arm](https://drive.google.com/a/turbox.uk/uc?id=1GCwWJu_KEJMEltp8RTU9t9lRTCAhxn1O&export=download) / [arm64](https://drive.google.com/a/turbox.uk/uc?id=1xiqS-nWzzqPDdZnaifpihfcuDLIwLvDF&export=download) / [a64](https://drive.google.com/a/turbox.uk/uc?id=1NJ7LV4nxF8Dy0qE1_YXpskA_AqI2bih3&export=download)|A|arm - arm64 - a64|
 |Evolution X|NFound|[Download](https://androidfilehost.com/?w=files&flid=291542&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Havoc-OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=290552&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |Havoc-OS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3914038/amp/) / [Download](https://androidfilehost.com/?w=files&flid=291817&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
