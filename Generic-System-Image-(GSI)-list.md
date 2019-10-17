@@ -10,7 +10,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 10 Q:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|PixelExperience 10.0 BETA|ExpressLuke|[A](https://drive.google.com/a/turbox.uk/uc?id=1M10gjBtCIm9QBoz-4wor2fNw8PR5pCxl&export=download) / [A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperience_treble_arm64_avS-10.0-20191016-1917-BETA-UNOFFICIAL.img.xz/download) / [AB](https://drive.google.com/a/turbox.uk/uc?id=1R_PGOJEmTyX6IG_M5iqF6r1yoGBQHKIF&export=download) / [AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperience_treble_arm64_bvS-10.0-20191016-2028-BETA-UNOFFICIAL.img.xz/download)|A - AB|arm64|
+|PixelExperience 10.0 BETA|ExpressLuke|[A](https://drive.google.com/a/turbox.uk/uc?id=1M10gjBtCIm9QBoz-4wor2fNw8PR5pCxl&export=download) / [A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperience_treble_arm64_avS-10.0-20191016-1917-BETA-UNOFFICIAL.img.xz/download) \\ [AB](https://drive.google.com/a/turbox.uk/uc?id=1R_PGOJEmTyX6IG_M5iqF6r1yoGBQHKIF&export=download) / [AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperience_treble_arm64_bvS-10.0-20191016-2028-BETA-UNOFFICIAL.img.xz/download)|A - AB|arm64|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
