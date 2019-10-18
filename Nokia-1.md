@@ -1,17 +1,22 @@
 # [Nokia 1] - [frt]
 
-## *Updates*
+## *Updates (Since October/2019)*
+- Technically you can flash Android 10 build into it but you'll get blank screen (Applies to vendor and kernel build 00WW_1_550, Android 8.1 go last build before turn into Android 9).
+- Maybe Android 9's vendor and kernel (00WW_2_130) will make the ROM works.
+> More updates soon.
+
+## *Past Updates (Since April/2019)*
 - Vendor/Kernel since build 00WW_1_550_SP1 will make the screen unusable when booting up (Black screen).
-- 00WW_1_550 still working fine.
-- Due to lack of system partition memory, the phone can be flashed within Android 9 (version 107) and Android 8.1 (Version 26).
+- Build 00WW_1_550 still working fine.
+- Due to lack of system partition memory, the phone can be flashed within Android 9 (version 107) and Android 8.1 (Version 26). Higher builds can't be flashed.
 - But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
 
-## *Hardware Support (From build 00WW_1_40A and up)*
+## *Hardware Support (Since build 00WW_1_40A, up to 00WW_1_550)*
 
 ## TL;DR
 - Hardware support since this vendor/kernel build will work flawlessly.
 - What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera , Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1), GPS and Screen Brightness.
-- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera ,Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1) and Adaptive brightness.
+- What doesn't work or work improperly: Wi-Fi Hotspot (Android 9 if OpenGapps installed), Sensors, GPS, Camera, Secure boot (Android 9, Asking for Pattern password), FM Radio, SIM and Built-in GMS (Android 8.1) and Adaptive brightness.
 
 ## GPS:
 - Magically works without any Wi-Fi scan or Mobile data help (This is also true with Android 9 too).
@@ -95,5 +100,6 @@
 ## Tested builds:
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v107 w/ no Google apps and OpenGapps.
+- Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 12:00 PM; April 21st, 2019_
+_**Last update:** 11:15 PM; October 18st, 2019_
