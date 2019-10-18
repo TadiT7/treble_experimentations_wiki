@@ -47,4 +47,5 @@ SafetyNet doesn't pass because of wrong fingerprint. There is a magisk mod for t
 
 Tested By: @defvs - One Max (EU), PHH AOSP 9.0 v112 - Template created by @zguithues and @hackintosh5
 
-# Suggestion: can you add notes to clarify if/why one should twrp apply patches.zip and if you used system_arm64_aonly_gapps_su.img.xz or system_arm64_aonly_vanilla_nosu.img.xz system image file?
+### Suggestion: 
+Please add notes to clarify if/why one should use twrp to apply patches.zip and if in your test runs you the used android 9 asop system_arm64_aonly_gapps_su.img.xz or system_arm64_aonly_vanilla_nosu.img.xz system image file?
