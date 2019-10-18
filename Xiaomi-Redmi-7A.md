@@ -24,4 +24,10 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | Other feature             | Status                     | Status                        |
 ---
 
+Tested Roms:
+
+Pie * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
+
+Q   * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
+
 Tested By: amrhelmy2004 - Model-Number(Global), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
