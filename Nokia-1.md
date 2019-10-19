@@ -102,4 +102,4 @@
 - Android 9.0 build v107 w/ no Google apps and OpenGapps.
 - Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 12:02 PM; October 19th, 2019_
+_**Last update:** 05:06 PM; October 19th, 2019_
