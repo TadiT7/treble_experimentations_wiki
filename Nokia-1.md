@@ -3,7 +3,7 @@
 ## *Updates (Since October/2019)*
 - Technically you can flash Android 10 build into it but you'll get blank screen (Applies to vendor and kernel build 00WW_1_550, Android 8.1 go last build before turn into Android 9).
 - Maybe Android 9's vendor and kernel (00WW_2_130) will make the ROM works.
-- Currently Android 10 works with 00WW_0_39G build. Without USSD flaw, modem crashing (Still only has the 1st SIM working as 4G SIM, No data for 2nd SIM, no incoming calls for the 1st SIM, 2nd works fine), No Wi-Fi hotspot (turn it on won't make the phone soft-reboot), other hotspots features seems working well, locking the phone will result system hang and soft reboot. Also, soft reboot won't make phone modem working again until the next hard reboot.
+- Currently Android 10 works with 00WW_0_39G build. Without USSD flaw, modem crashing (Still only has the 1st SIM working as 4G SIM, No data for 2nd SIM, no incoming calls for the 1st SIM, 2nd works fine), No Wi-Fi hotspot (turn it on won't make the phone soft-reboot), other hotspots features seems working well, locking the phone will result system hang and soft reboot. Has problems with Google-coded videos (illustration videos like in gestures settings, others seems fine). Also, soft reboot won't make phone modem working again until the next hard reboot.
 
 ## *Past Updates (Since April/2019)*
 - Vendor/Kernel since build 00WW_1_550_SP1 will make the screen unusable when booting up (Black screen).
