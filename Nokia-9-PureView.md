@@ -1,6 +1,6 @@
 # [Nokia 9 PureView] - [aop]
 
-## Hardware Support (AOSP 9)
+## Hardware Support (AOSP 8.1)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -14,7 +14,35 @@
 | NFC                       | √                                                         |
 > Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
 
+## Hardware Support (AOSP 9)
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
+| Fingerprint               | √ (Incompatible with in-screen fingerprint reader.)|
+| NFC                       | √                                                         |
+> Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
+
 > [More issues about in-screen fingerprint reader](https://github.com/topjohnwu/Magisk/issues/1378)
+
+## Hardware Support (AOSP 10)
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | N/A                                                       |
+| Speaker / Mic             | N/A                                                       |
+| Bluetooth                 | N/A                                                       |
+| WiFi                      | N/A                                                       |
+| SIM / Mobile Data / Voice | N/A                                                       |
+| VoLTE                     | N/A                                                       |
+| Fingerprint               | N/A                                                       |
+| NFC                       | N/A                                                       |
+> Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
 
 ***
 ## Additional Notes
@@ -27,6 +55,8 @@ When flashing, please ensure the vbmeta from AOP stock firmware need to be flash
 
 ## Tested By:
 
+AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_1_840 @ 21/10/2019
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_4_22C @ 28/04/2019
+AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00WW_5_??? @ 21/10/2019
 
 Template created by @zguithues
