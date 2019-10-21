@@ -106,17 +106,18 @@ works
 
 - The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware
 
-- The System UI of the GSI currently conflicts with the Magisk module Pix3lify
+- The System UI of the GSI currently conflicts with the Magisk module Pix3lify when the enabling of the Pixel framework is selected
 
-- The navigation bar (the 2 button or 3 button scheme) can no longer be edited with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner), therefore receiving an incompatibility error when installing from the Google Play Store
+- The navigation bar (the 2 button or 3 button scheme) can no longer be modified with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner), therefore receiving an incompatibility error when installing from the Google Play Store
 
 - Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
 
-- (Beta D) This may be a kernel problem but in certain button presses or certain actions, the GSI freezes and forcefully restarts the device, such as opening the camera, or changing certain states of quick settings
+- (Beta D) This may be a kernel problem but in certain button presses or certain actions, the GSI freezes and forcefully restarts the device, such as opening the camera, or changing certain states of quick settings such as Airplane mode
 
 - (Beta D) After leaving the phone for a while, increasing the up time, apps refuse to open, and if so, gets stuck on their splash screen, having the user to restart the device each time
 
 - (Beta D) The two issues above may correspond with the system itself significantly lagging or straight up freezing when performing certain actions or playing powerful games, such as Asphalt 9: Legends
 
 - (Beta D) The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function, if in the development settings, the "Smallest width" display value is set to at least 597
+
 - (Beta D) When forcefully enabling full-gesture navigation on launchers other than the default, (using the adb command `adb shell cmd overlay enable com.android.internal.systemui.navbar.gestural`) the swipe up and hold for recent apps function does not work, neither does the swipe right for previous app function. (Tested with Lawnchair Launcher v2) This is proven not to work when the "Smallest width" value was set to either more or less than 597
