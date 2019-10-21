@@ -10,7 +10,7 @@ VERY IMPORTANT
 
 ### Wi-Fi
 
-partially - DHCP method successfully connects on only few access points; most access points require the Static method for a reliable connection
+works - only if [this patch](https://t.me/G7Power/27482) is flashed in TWRP, modifying the vendor partition, otherwise Wifi connections will only be successful on Static connections and not DHCP (default) connections
 
 ### Mobile Data
 
