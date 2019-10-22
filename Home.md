@@ -175,6 +175,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy A7 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A7-2018)|a7y18lte||A|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
+|[[Samsung Galaxy A10 (Exynos)]]|n/a||A/B|arm_binder64|
 |[[Samsung Galaxy A50 (Exynos)]]|a50dd||A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓ (Go)|A|arm_binder64|
