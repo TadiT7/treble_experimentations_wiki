@@ -58,7 +58,10 @@ When flashing, please ensure the vbmeta from AOP stock firmware need to be flash
 ## Tested By:
 
 AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_1_840 @ 21/10/2019
+
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_4_22C @ 28/04/2019
+
 AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00WW_4_27D_SP02 (AOP-427F-0-00WW-B01) @ 22/10/2019
+
 
 Template created by @zguithues
