@@ -50,6 +50,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[General Mobile GM 5]]|n/a||A|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 Go]]|GM8_go_sc|✓ (Go)|A|arm|
@@ -97,6 +98,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[Leagoo M8 Pro]]|n/a|✓|A|arm|
+|[[Leagoo M13]]|n/a||A/B|arm64|
 |[[Leagoo Power 5]]|aospex|✓|A|arm64|
 |[[Leagoo T8s]]|n/a|✓|A|arm64|
 |[[LeEco Le Max 2]]|x2||A|arm64|
@@ -208,6 +210,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|n/a||A|arm|
+|[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Umidigi A3]]|n/a||A|arm64|
 |[[Umidigi A3 Pro]]|n/a||A|arm64|
 |[[Umidigi A5 Pro]]|n/a||A|arm64|
@@ -215,6 +218,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Umidigi One Max]]|n/a||A|arm64|
 |[[Umidigi One Pro]]|n/a||A|arm64|
 |[[Umidigi Z2]]|n/a||A|arm64|
+|[[Vertex Impress Luck]]|n/a||A|arm|
 |[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Wileyfox Swift]]|crackling||A|arm64|
@@ -271,6 +275,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
+|[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[ZTE Blade V9]]|n/a||A|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
