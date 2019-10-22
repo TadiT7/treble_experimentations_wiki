@@ -34,14 +34,14 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | N/A                                                       |
-| Speaker / Mic             | N/A                                                       |
-| Bluetooth                 | N/A                                                       |
-| WiFi                      | N/A                                                       |
-| SIM / Mobile Data / Voice | N/A                                                       |
-| VoLTE                     | N/A                                                       |
-| Fingerprint               | N/A                                                       |
-| NFC                       | N/A                                                       |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
+| Fingerprint               | √ (Incompatible with in-screen fingerprint reader.)|
+| NFC                       | √                                                         |
 > Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
 
 ***
@@ -57,6 +57,6 @@ When flashing, please ensure the vbmeta from AOP stock firmware need to be flash
 
 AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_1_840 @ 21/10/2019
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00CN_4_22C @ 28/04/2019
-AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00WW_5_??? @ 21/10/2019
+AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 9 PureView 00WW_4_27D_SP02 (AOP-427F-0-00WW-B01) @ 22/10/2019
 
 Template created by @zguithues
