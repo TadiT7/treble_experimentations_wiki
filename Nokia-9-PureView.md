@@ -44,6 +44,8 @@
 | NFC                       | √                                                         |
 > Camera: The power of penta camera can't be unleashed without stock Nokia Camera App.
 
+AOSP 10 build will boot loop under Android 10 vendor (00WW_5_???).
+
 ***
 ## Additional Notes
 
