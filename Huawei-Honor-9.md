@@ -41,8 +41,8 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 
 ### Additional infos:
 
-- EMUI 8 & 8.1 use ARM64 A Roms.
-- EMUI 9.0 use ARM64 AB ROMs (if in doubt check [here](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck))
+- EMUI 8.0 & 8.1 use ARM64 A Roms.
+- EMUI 9.0 & 9.1 use ARM64 AB ROMs due to system as root (if in doubt check [here](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)).
 
 - GSIs tested and working well: [OpenKirin](https://openkirin.net/download/)
 - [Ported stock Camera exists](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/kirin-huawei-camera-android-p-t3840110) and mostly work, keeping original quality.
