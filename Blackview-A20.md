@@ -1,23 +1,17 @@
 # [Blackview A20] - [a20/MT6580M]
- ## Hardware Support
- * Camera
-> main back camera works, no dual camera,
-front camera works
- * Speaker / Microphone
-> works
- * Bluetooth
-> works
- * Wifi
-> works, Hotspot also works perfect on Oreo 8.1 , Hotspot doesn't work on Pie
- * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-> info about SIM / Mobile Data / Voice support/workarounds
- * VoLTE
-> not supported
- * Fingerprint Reader
-> no Fingerprint Reader
- * 3.5mm audio jack
-> works
- ***
+## Hardware support
+
+| Component                 | Oreo    |      Pie                   |              Q                |
+|---------------------------|----------------------------|-------------------------------|
+| Camera                    |      | Working                    | Working                       |
+| Speaker / Mic             |       | Working                    | Working                       |
+| Bluetooth                 |       | Working                    | Working                       |
+| WiFi                      |       | Working                    | Working                       |
+| SIM / Mobile Data / Voice |       | Working                    | Working                       |
+| VoLTE                     |       | Not Tested                 | Not Tested                    |
+| Offline Charging          |       | Working                    | Working                       |
+| Other feature             |       | Status                     | Status                        |
+---
 ## Additional Notes
  Test Results
   *  AOSP8.1v27 Boots
