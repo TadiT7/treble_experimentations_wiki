@@ -3,13 +3,13 @@
 
 | Component                 | Oreo    |      Pie                   |              Q                |
 |---------------------------|---------|-------------------|-------------------------------|
-| Camera                    |      | Working                    | Working                       |
-| Speaker / Mic             |       | Working                    | Working                       |
-| Bluetooth                 |       | Working                    | Working                       |
-| WiFi                      |       | Working                    | Working                       |
-| SIM / Mobile Data / Voice |       | Working                    | Working                       |
+| Camera                    | Working     | Working                    | Working                       |
+| Speaker / Mic             | Working      | Working                    | Working                       |
+| Bluetooth                 | Working      | Working                    | Working                       |
+| WiFi                      | Working , Hotspot      | Working                    | Working                       |
+| SIM / Mobile Data / Voice | Working      | Working                    | Working                       |
 | VoLTE                     |       | Not Tested                 | Not Tested                    |
-| Offline Charging          |       | Working                    | Working                       |
+| Offline Charging          | Not Working      | Not Working                    | Working                       |
 | Other feature             |       | Status                     | Status                        |
 ---
 
@@ -19,6 +19,7 @@
   *  AOSP9v109  Boots
   *  Lineage15.1  Boots
   *  HavocP       Boot Animation Loop
+  *  Android Q above 201 (after fixing key master issue)
     
  ***
  ## Tested By:
