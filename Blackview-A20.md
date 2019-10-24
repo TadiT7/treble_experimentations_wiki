@@ -2,7 +2,7 @@
 ## Hardware support
 
 | Component                 | Oreo    |      Pie                   |              Q                |
-|---------------------------|----------------------------|-------------------------------|
+|---------------------------|---------|-------------------|-------------------------------|
 | Camera                    |      | Working                    | Working                       |
 | Speaker / Mic             |       | Working                    | Working                       |
 | Bluetooth                 |       | Working                    | Working                       |
@@ -12,6 +12,7 @@
 | Offline Charging          |       | Working                    | Working                       |
 | Other feature             |       | Status                     | Status                        |
 ---
+
 ## Additional Notes
  Test Results
   *  AOSP8.1v27 Boots
