@@ -1,6 +1,6 @@
 # Device
 
-Summary of what works and doesn't
+Xiaomi Redmi 7A
 
 ## Steps to install
 Refer to XDA Thread
@@ -8,11 +8,11 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 
     Some more info
 
-    it takes one week to unlock the boot loader
+    Like all Xiaomi's devices, it takes one week to unlock the bootloader.
 
 ## Hardware support
 
-| Component                 |      Pie                   |              Q                |
+| Component                 |      Pie                   |              10                |
 |---------------------------|----------------------------|-------------------------------|
 | Camera                    | Working                    | Working                       |
 | Speaker / Mic             | Working                    | Working                       |
@@ -28,8 +28,8 @@ Tested Roms:
 
 Pie * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
 
-Q   * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
+10   * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
 
-Tested By: amrhelmy2004 - Model-Number(Global), Firmware Version - Date tested
+Tested By: amrhelmy2004 - Global version -
 
 Template created by @zguithues and @hackintosh5
