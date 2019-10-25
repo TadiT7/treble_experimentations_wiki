@@ -10,7 +10,7 @@ VERY IMPORTANT
 
 ### Wi-Fi
 
-works - only if [this patch](https://t.me/G7Power/27482) is flashed in TWRP, modifying the vendor partition, otherwise Wifi connections will only be successful on Static connections and not DHCP (default) connections
+works - only if [this patch](https://t.me/G7Power/29274) is flashed in TWRP, modifying the vendor partition, otherwise Wifi connections will only be successful on Static connections and not DHCP (default) connections
 
 ### Mobile Data
 
