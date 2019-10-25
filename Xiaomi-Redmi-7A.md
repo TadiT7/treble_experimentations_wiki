@@ -21,7 +21,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | SIM / Mobile Data / Voice | Working                    | Working                       |
 | VoLTE                     | Not Tested                 | Not Tested                    |
 | Offline Charging          | Working                    | Working                       |
-| Other feature             | Status                     | Status                        |
+| Other feature             | N/A                     | N/A                        |
 ---
 
 Tested Roms:
