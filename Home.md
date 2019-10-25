@@ -160,6 +160,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
 |[[OnePlus 7 Pro]]|guacamole|✓|A/B|arm64|
+|[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel C10]]|n/a|✓|A|arm|
 |[[Oukitel C11 Pro]]|n/a|✓|A|arm64|
@@ -179,8 +180,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A50 (Exynos)]]|a50dd|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
-|[[Samsung Galaxy J4]]|j4ltejx|✓ (Go)|A|arm_binder64|
-|[Samsung Galaxy J4 Plus](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J4plus)|j4primelte|✓|A|arm|
+|[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
+|[Samsung Galaxy J4 Plus](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J4plus)|j4primelte|✓ (Go)|A|arm|
 |[Samsung Galaxy J5 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J5-2017-(Exynos))|j5y17lte||A|arm_binder64|
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[Samsung Galaxy J7 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))|j7y17lte||A|arm_binder64|
