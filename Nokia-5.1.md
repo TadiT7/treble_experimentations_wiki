@@ -33,6 +33,8 @@ The GSI need to be flashed with command, and you must define a slot:
 
 > fastboot -w flash system_a /path/to/system-quack-arm64-ab-gapps.img.xz
 
+NFC can't be tested due to lack of hardware.
+
 ***
 
 
