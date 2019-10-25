@@ -1,16 +1,15 @@
 # [Blackview A20] - [a20/MT6580M]
 ## Hardware support
 
-| Component                 | Oreo    |      Pie                   |              Q                |
-|---------------------------|---------|-------------------|-------------------------------|
-| Camera                    | Working     | Working                    | Working                       |
-| Speaker / Mic             | Working      | Working                    | Working                       |
-| Bluetooth                 | Working      | Working                    | Working                       |
-| WiFi                      | Working , Hotspot      | Working                    | Working                       |
-| SIM / Mobile Data / Voice | Working      | Working                    | Working                       |
-| VoLTE                     |       | Not Tested                 | Not Tested                    |
-| Offline Charging          | Not Working      | Not Working                    | Working                       |
-| Other feature             |       | Status                     | Status                        |
+| Component                 | Oreo                      | Pie                       | Q                         |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| Camera                    | Working , One Back Camera | Working , One Back Camera | Working , One Back Camera |
+| Speaker / Mic             | Working                   | Working                   | Working                   |
+| Bluetooth                 | Working                   | Working                   | Working                   |
+| WiFi                      | Working , Hotspot         | Working                   | Working                   |
+| SIM / Mobile Data / Voice | Working , Data Only SIM1  | Working , Data Only SIM1  | Working , Data Only SIM1  |
+| Offline Charging          | Not Working               | Not Working               | Not Working               |
+| Other feature             |                           |                           |                           |
 ---
 
 ## Additional Notes
