@@ -199,15 +199,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
-|[[Sharp Aquos S2]]|ss2 / sat|✓|A/B|arm64|
-|[[Sharp Aquos C10]]|n/a|✓|A/B|arm64|
+|[Sharp Aquos S2 / C10](https://github.com/phhusson/treble_experimentations/wiki/Sharp-AQUOS-S2)|ss2 / sat|✓|A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
+|[[Sony Xperia X]]|suzu||A|arm64|
+|[[Sony Xperia X Performance]]|dora||A|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ]]|kagura||A|arm64|
-|[[Sony Xperia X Performance]]|dora||A|arm64|
 |[[Sony Xperia XZ Premium]]|maple||A|arm64|
-|[[Sony Xperia X]]|suzu||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
