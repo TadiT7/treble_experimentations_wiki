@@ -9,7 +9,7 @@ Xiaomi Redmi 6A (codenamed "cactus") is a smartphone from Xiaomi released in Jun
 | Dimensions              | 147.5 x 71.5 x 8.3 mm (5.81 x 2.81 x 0.33 in)                         |
 | Supported networks      | GSM / CDMA / HSPA / LTE                                               |
 | SIM type                | Dual SIM (Nano-SIM, dual stand-by)                                    |
-| Voice over LTE          | Yes                                                                   |
+| Voice over LTE          | No                                                                   |
 | SoC                     | Helio A22 MediaTek MT6762M                                            |
 | CPU                     | Quad-core 2.0 GHz Cortex-A53                                          |
 | GPU                     | PowerVR GE8320                                                        |
