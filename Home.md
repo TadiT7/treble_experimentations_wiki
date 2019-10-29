@@ -277,6 +277,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
+|[[ZTE A530]]|P639T10||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[ZTE Blade V9]]|n/a||A|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
