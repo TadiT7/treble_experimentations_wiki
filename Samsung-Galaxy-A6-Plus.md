@@ -15,7 +15,7 @@ Summary of what works and doesn't
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working(voice not working for 2nd sim)                    |
-| Dual SIM                  | Not Working(Requires multi sim enabler to enable 2nd sim) |    
+| Dual SIM                  | Working(Requires multi sim enabler to enable 2nd sim) |    
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
