@@ -18,7 +18,7 @@ Summary of what works and doesn't
 | Dual SIM                  | Working(Requires multi sim enabler to enable 2nd sim) |    
 | VoLTE                     | Not working                                               |
 | Fingerprint               | Not Working                                                   |
-| NFC                       | Working                                                   |
+| NFC                       | Not Tested                                                  |
 | Hotspot / Usb tethering   | Working                                                   |
 | MTP                       | Not working                                               |
 ---
