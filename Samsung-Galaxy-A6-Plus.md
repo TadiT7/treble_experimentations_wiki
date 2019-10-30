@@ -24,3 +24,4 @@ Summary of what works and doesn't
 ---
 
 Tested By: @karmurparth - SM-A605G,  Version Havoc Os 2.9 -vince31fr 9.0 
+Telegram support group - [A6PLUS](https://t.me/a605x)
