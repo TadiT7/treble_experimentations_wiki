@@ -87,7 +87,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P10 Lite]]|was|✓|A|arm64|
 |[[Huawei P20]]|eml|✓|A|arm64|
 |[[Huawei P20 Lite]]|anne|✓|A (A/B when updated to EMUI 9)|arm64|
-|[[Huawei P20 Pro]]|clt|✓|A|arm64|
+|[[Huawei P20 Pro]]|clt|✓|A (A/B when updated to EMUI 9)|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|n/a|✓|A|arm64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
