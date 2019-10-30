@@ -1,0 +1,1 @@
+Works with EMUI 9 vendor, need to factory reset in stock recovery after flashing GSI, otherwise it does not boot.
