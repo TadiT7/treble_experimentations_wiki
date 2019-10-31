@@ -179,6 +179,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
 |[[Samsung Galaxy A10 (Exynos)]]|n/a|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A30 (Exynos)]]|a30dd|✓|A|arm64|
 |[[Samsung Galaxy A50 (Exynos)]]|a50dd|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
@@ -279,7 +280,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
-|[[ZTE A530]]|P639T10||A|arm64|
+|[[ZTE A530]]|p639t10||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
 |[[ZTE Blade V9]]|n/a||A|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
