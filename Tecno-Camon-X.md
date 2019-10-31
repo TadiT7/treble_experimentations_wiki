@@ -9,6 +9,8 @@ Almost all the roms from [here](https://github.com/phhusson/treble_experimentati
 
 
 **Android 9**
+***
+
 I had a problem where the device would boot once and then after a reboot it would be stuck in a bootloop however there is a fix which requires you to have a PC, what you have to do is enter `adb root & adb shell setprop ro.audio.ignore_effects true` using adb to fix the bootloop, and after you boot you should enter this in adb while your device is still connected to make it a permanent fix (note this is a series of commands)  `adb shell<enter>phh-su<enter>mount -o remount,rw /<enter>mount -o remount,rw /system<enter>echo ro.audio.ignore_effects=true >> /system/build.prop`. If you do that bootloop will be fixed
 
 **Android 10**
