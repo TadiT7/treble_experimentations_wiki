@@ -30,12 +30,12 @@ After getting the necessary files i used the this [guide](https://www.xda-develo
 
 | Component                 |      Comment                                                       |
 |---------------------------|--------------------------------------------------------------------|
-| Camera                    | I havent tested                                                    |
+| Camera                    | My camera is broken                                                    |
 | Speaker / Mic             | Works                                                              |
 | Bluetooth                 | Works                                                              |
 | WiFi                      | Works                                                              |
 | SIM / Mobile Data / Voice | Works                                                              |
-| VoLTE                     | (havent tested)                                                    |
+| VoLTE                     | havent tested                                                    |
 | Fingerprint               | Works                                                              |
 | NFC                       | Doesn't have                                                       |
 | Offline Charging          | Not working                                                        |
