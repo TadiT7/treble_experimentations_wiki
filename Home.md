@@ -214,7 +214,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|n/a||A|arm|
-|[[Tecno Camon X]]|tecno_ca7||✓|A|arm64|
+|[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Umidigi A3]]|n/a||A|arm64|
 |[[Umidigi A3 Pro]]|n/a||A|arm64|
