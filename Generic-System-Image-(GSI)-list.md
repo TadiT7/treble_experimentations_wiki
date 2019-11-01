@@ -37,7 +37,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 
 
-## Unofficial Android 9 Pie
+## Unofficial Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP [MicroG]|oF2pks|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3878115/) / [Download](https://androidfilehost.com/?w=files&flid=286761&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64 - binder|
@@ -75,6 +75,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ZirconiumAosp|NFound|[Download](https://androidfilehost.com/?w=files&flid=291634&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 
 
+## OEM Android 9 Pie Ports:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |Android P|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3906486/) / [Telegram](https://t.me/ErfanGSIs) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
