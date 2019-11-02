@@ -8,7 +8,7 @@ AOSP 10 v201: Everything works except camera, fingerprint and micro SD.
 *Flash this image with the `fastboot` utility: ```fastboot flash system <image_name>```
 As an alternative you can flash via TWRP as "System Image" and format data.
 
-## Hardware support (AOSP 10 v202)
+## Hardware support (AOSP 10 v201)
 
 | Component                 | Status                                             |
 |---------------------------|-----------------------------------------------------------|
@@ -24,4 +24,5 @@ As an alternative you can flash via TWRP as "System Image" and format data.
 | Micro SD                  | ✗ |
 ---
 
-Tested By: Montelion - Model-Number(region): ANE-L01(Europe), Firmware Version: AOSP 10.0 v202 arm64-ab-gapps - Date tested (DD/MM/YY): 02/10/19 - Template created by @zguithues and @hackintosh5
+Tested By: Montelion - Model-Number(region): ANE-L01(Europe), Firmware Version: AOSP 10.0 v202
+1 arm64-ab-gapps - Date tested (DD/MM/YY): 02/10/19 - Template created by @zguithues and @hackintosh5
