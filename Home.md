@@ -1,4 +1,4 @@
-![GSI-Treble](https://www.xda-developers.com/files/2018/04/Generic-System-Image.jpg)
+![GSI-Treble](https://i.imgur.com/bcMIpYj.png)
 ### What is Project Treble, GSI, etc?
 Here's [[Frequently Asked Questions (FAQ)]].
 
