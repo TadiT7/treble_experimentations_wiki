@@ -33,7 +33,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | yes (both work, front cam orientation upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
-| Bluetooth                 | yes (only up to v31, [broken](https://github.com/phhusson/treble_experimentations/issues/608) in v32)                       |
+| Bluetooth                 | yes (only up to v31, [flakey](https://github.com/phhusson/treble_experimentations/issues/608) in v32)                       |
 | WiFi                      | yes (but signal seems worse compared to stock ROM)        |
 | SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
