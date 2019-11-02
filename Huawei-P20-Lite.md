@@ -1,7 +1,7 @@
 ![](https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125076744/125076744_0_MC/8799298355250_1557493302288.jpg)
 ***
 
-AOSP 10 v202: Everything works except camera, fingerprint and micro SD.
+AOSP 10 v201: Everything works except camera, fingerprint and micro SD.
 
 ## Steps to install
 
