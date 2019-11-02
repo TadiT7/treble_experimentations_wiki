@@ -136,6 +136,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
+|[[Nokia 1 Plus]]|ant|✓ (Go)|A|arm|
 |[[Nokia 2.1 and V]]|e2m and evw|✓ (Go)|A|arm|
 |[[Nokia 3.1]]|es2|✓|A/B|arm64|
 |[[Nokia 3.1 A and C]]|eag|✓|A/B|arm64|
