@@ -30,6 +30,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
+|[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 10.1]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview BV9500]]|s32v63c2k_jk|✓|A|arm64|
@@ -60,6 +61,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[Google Pixel 3 and Pixel 3 XL]]|blueline and crosshatch|✓|A/B|arm64|
 |[[Google Pixel 3a and Pixel 3a XL]]|sargo and bonito|✓|A/B|arm64|
+|[[Google Pixel 4 and Pixel 4 XL]]|flame and coral|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|bln|✓|A|arm64|
