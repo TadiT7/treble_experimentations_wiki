@@ -25,8 +25,8 @@ Because of the supporting of system-as-root for our device, you can now use ever
 ## Downloads:
 * [New][A/B] LineageOS 16.0 Treble system-as-root: https://mega.nz/#F!UgdQRYSD!8s-_u2HJQZDEqNnFOnejxQ
 * [Old][A-only] LineageOS 16.0 Treble: https://mega.nz/#F!A0VmQAaC!Mc3HYZgAkxeoQwGkZyJvwg
+---
 ## Hardware support
-
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working (with [linker fix](https://github.com/OP3Treble/linkerfix) to load shims)|
@@ -39,9 +39,14 @@ Because of the supporting of system-as-root for our device, you can now use ever
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
 | Other feature             | N/A                                                       |
+
+## Things not working:
+* [A-only & A/B] SELinux is set to permissive for most GSIs.
+Unnecessary and won't fix for now.
+* [A/B] Reboot and stuck at boot animation while GSI installation.
+Solution: Use adb for a reboot, don't just hold the power button. After this the system will boot, at least we could get console-ramoops correctly for debugging.
 ---
 
-***
 ## Additional Notes
 Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/treble-lineageos-15-1-treble-oneplus-3-t3830455)
 ***
