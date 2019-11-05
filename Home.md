@@ -177,7 +177,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
 |[[Realme 3 Pro]]|rmx1851|✓|A/B|arm64|
 |[[Realme X]]|rmx1901|✓|A/B|arm64|
-|[[realme XT]]|rmx1921|✓|A/B|arm64|
+|[[Realme XT]]|rmx1921|✓|A/B|arm64|
 |[[RED Hydrogen One]]|n/a|✓|A/B|arm64|
 |[Samsung Galaxy A6 Plus (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A6-Plus)|a6plte|✓|A|arm_binder64|
 |[Samsung Galaxy A7 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A7-2018)|a7y18lte||A|arm64|
