@@ -1,33 +1,45 @@
-# OnePlus 3/3T
+## The step-by-step guide on how to treblize your device:
 
-## Hardware Support
+Treble needs a partition called "Vendor", but our device does not have this device. What we need to do is to create a vendor partition by our selves.
+I made a custom TWRP Treble build to do this process, here is what you should do in TWRP.
+1. Flash this TWRP in the download link below.
+2. Boot it up and go to "Advanced" -> "Terminal", Type treblize and run.
+Treblize is a shell that we could modify our partition. It basically does the same thing as the commands below.
+Code:
+  ```
+  /sbin/sgdisk --typecode=5:8300 /dev/block/sdf
+  /sbin/sgdisk --change-name=5:vendor /dev/block/sdf
+  ```
+3. Reboot your phone to your current system to check if there is storage failure.
+It's very important. Some of the users report it may cause storage broken. You'd better check it first before flashing LOS Treble.
+4. Reboot your phone to TWRP.
+5. Flash LOS Treble in the download link below.
+After these processes, you have got a treblized Oneplus3. Boot it up to check if everything works, or just trying other GSIs anyway.
 
-* Camera:
-> Partly works (with [linker fix](https://github.com/OP3Treble/linkerfix) to load shims)
+## The step-by-step guide on how to flash GSIs:
+1. Choose and flash LOS Treble solution first for the vendor partition.
+Because of the supporting of system-as-root for our device, you can now use every GSIs if possible. I personally recommend the system-as-root solution for future android standards, although they are basically the same some old recovery install scripts may be broken like opengapps will not working anymore according to the report.
+2. Flash A-only or A/B GSI image according to the flag in the download section.
+3. Wipe data.
 
-* Speaker / Microphone
-> Works
+## Downloads:
+* [New][A/B] LineageOS 16.0 Treble system-as-root: https://mega.nz/#F!UgdQRYSD!8s-_u2HJQZDEqNnFOnejxQ
+* [Old][A-only] LineageOS 16.0 Treble: https://mega.nz/#F!A0VmQAaC!Mc3HYZgAkxeoQwGkZyJvwg
+## Hardware support
 
-* Bluetooth
-> Works
-
-* Wifi
-> Works
-
-* SIM / Mobile Data / Voice
-> Works 
-
-* VoLTE
-> Not tested
-
-* Fingerprint Reader
-> Works
-
-* Brightness control
-> Works
-
-* 3.5mm audio jack
-> Works
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Working (with [linker fix](https://github.com/OP3Treble/linkerfix) to load shims)|
+| Speaker / Microphone      | Working                                                   |
+| Bluetooth                 | Working                                                   |
+| WiFi                      | Working                                                   |
+| SIM / Mobile Data / Voice | Working                                                   |
+| VoLTE                     | Device supports VoLTE, but can't test at this moment      |
+| Fingerprint Reader        | Working                                                   |
+| NFC                       | Working                                                   |
+| Offline Charging          | Working                                                   |
+| Other feature             | N/A                                                       |
+---
 
 ***
 ## Additional Notes
@@ -38,4 +50,4 @@ Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus
 ## Tested By:
 * @simonsmh - Device Specifics - July 19 2018
 
-Template created by @zguithues
+Template created by [zguithues](https://github.com/zguithues)
