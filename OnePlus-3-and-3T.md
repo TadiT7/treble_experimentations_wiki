@@ -55,6 +55,7 @@ Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus
 ## Tested By:
 * [simonsmh](https://github.com/simonsmh) - Device Specifics - 19 July 2018
 * Tested with the following builds:
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [Pixel Experience 10.0](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM64-AB.img.xz/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [AOSP 10.0](https://github.com/phhusson/treble_experimentations/releases/tag/v203) (system-quack-arm64-ab-gapps)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [OxygenOS 10](https://github.com/EnesSastim/GSI/releases/download/ErfanGSI/OxygenOS-AB-10-20190922-ErfanGSI.img.7z) with  [Permissiver_v5](https://androidfilehost.com/?fid=6006931924117940902) [Partly works]
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [ResurrectionRemix P v7.0.x](https://get.resurrectionremix.com/gsi/ARM64_AB_20191205.img)
