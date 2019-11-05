@@ -101,7 +101,14 @@ Reboot to recovery pressing power up + power
 Factory reset, reboot
 
 ### Community
-Telegram: https://t.me/mi9_group
+#### Telegram: 
+https://t.me/mi9_group
+
+https://t.me/mi9aosp
+
+https://t.me/mi9group
+
+There are several groups, choose the one you prefer
 
 
 Template created by @zguithues
