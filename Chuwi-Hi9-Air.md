@@ -20,10 +20,10 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 * flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive):
     ```
     $ fastboot erase system
-    $ fastboot -u flash system system-arm64-aonly-gapps-su.img
+    $ fastboot -u flash system system-arm64-aonly-vanilla-nosu.img
     $ fastboot reboot
     ```
-    :repeat: This step may be repeated for later image releases with fixes and Android security patches (works for v32)...
+    :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32)...
      > Alternatively, you could flash via TWRP as "System Image". Refrain from formatting data, as the device will fail to boot then :-1:: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 * wait patiently for another erase job to finish and initial boot (which now displays android animation instead of CHUWI) to complete: This will take several minutes 
 
