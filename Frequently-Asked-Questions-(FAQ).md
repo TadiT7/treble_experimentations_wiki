@@ -12,7 +12,7 @@ It might be a play on the Meghan Trainor song [All About That Bass](https://yout
 
 ### How can I check if my device is treble-enabled?
 
-[Method 1](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
+[Method 1 (preferred)](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
 
 Note that any device that launched with Android Oreo must be treble-enabled.
 
