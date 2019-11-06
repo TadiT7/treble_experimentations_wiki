@@ -12,7 +12,7 @@ It might be a play on the Meghan Trainor song [All About That Bass](https://yout
 
 ### How can I check if my device is treble-enabled?
 
-[Method 1](https://play.google.com/store/apps/details?id=com.kevintresuelo.treble) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
+[Method 1](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
 
 Note that any device that launched with Android Oreo must be treble-enabled.
 
@@ -32,7 +32,7 @@ The AB partition style was introduced in Android N to support [seamless OTA upda
 
 A-only, A, or non-AB refers to the [legacy partition style](https://source.android.com/devices/tech/ota/nonab/).
 
-If you have an AB device, then you must flash it with an AB GSI. If you have an A-only device running Android 8, then you must flash it with an A-only GSI. If you have an A-only device running Android 9+, then you must flash it with an AB GSI.
+If you have an AB device, then you must flash it with an AB GSI. Note that if an AB GSI works it does not mean that your phone supports seamless upgrades, and likewise, if your phone does not support seamless upgrades, it might still use AB. However, if it supports seamless upgrades, it definitely uses AB. You can check for sure using [this app](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck). The "System-as-Root" section represents A/B support.
 
 ### What is the difference between FLOSS, GAPPS, GO and Vanilla?
 
