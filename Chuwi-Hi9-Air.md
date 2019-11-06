@@ -33,7 +33,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | yes (both work, front cam orientation upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
-| Bluetooth                 | yes (only up to v31, [flakey](https://github.com/phhusson/treble_experimentations/issues/608) in v32)                       |
+| Bluetooth                 | yes (only works for 8.1 GSI, no BT devices detected on scan with 9)                       |
 | WiFi                      | yes (but signal seems worse compared to stock ROM)        |
 | SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
@@ -45,4 +45,4 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 | Casting                   | no, only via Google Home (as for Chuwi stock ROM)         |
 ---
 
-Tested by bofh2k - phh-treble 8.1 v31 (arm64-aonly-gapps-su) - 2019-05-31
+Tested by bofh2k - phh-treble 8.1 v32 (arm64-aonly-vanilla-nosu) - 2019-10-31
