@@ -63,5 +63,7 @@ Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [AOSiP 9.0](https://sourceforge.net/projects/illusionproject/files/GSI/AOSiP-9.0-GSI-arm64_ab-20190819.img/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [ResurrectionRemix P v7.0.x](https://get.resurrectionremix.com/gsi/ARM64_AB_20191205.img)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [Descendant 4.0.1](https://github.com/Descendant/InOps/releases/download/4.0.1/Descendant_4.0.1_arm64_ab.zip)
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [crDroidAndroid v4.4](https://androidfilehost.com/?fid=5862345805528041177)
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [LineageOS 15.1](https://github.com/phhusson/treble_experimentations/releases/tag/lineage-v21) (system-arm64-ab-gapps-su)
 
 Template created by [zguithues](https://github.com/zguithues) and [simonsmh](https://github.com/simonsmh)
