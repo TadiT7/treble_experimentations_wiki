@@ -36,6 +36,7 @@ When flashing, please ensure the vbmeta from RHD stock firmware need to be flash
 
 ## Tested By:
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 07/11/2019
+
 AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 07/11/2019
 
 Template created by @zguithues
