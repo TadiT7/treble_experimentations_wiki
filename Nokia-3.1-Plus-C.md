@@ -3,14 +3,14 @@
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | TBA                                                         |
-| Speaker / Mic             | TBA                                                         |
-| Bluetooth                 | TBA                                                         |
-| WiFi                      | TBA                                                         |
-| SIM / Mobile Data / Voice | TBA                                                         |
-| VoLTE                     | TBA                                                         |
-| Fingerprint               | TBA                                                         |
-| NFC                       | TBA                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | ? (Unable to test due to SIM lock.)                       |
+| VoLTE                     | ? (Unable to test due to SIM lock.)                       |
+| Fingerprint               | √                                                         |
+| NFC                       | √                                                         |
 
 ## Hardware Support (AOSP 10)
 | Component                 |      Comment                                              |
