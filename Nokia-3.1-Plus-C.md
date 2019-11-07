@@ -29,12 +29,12 @@
 
 Nokia 3.1 Plus C is TA-1124 sold in the US for Cricket Wireless. Not to be confused with Nokia 3.1 Plus with Helio P22.
 
-When flashing, please ensure the vbmeta from PNX stock firmware need to be flashed with both disabling parameters as well.
+When flashing, please ensure the vbmeta from RHD stock firmware need to be flashed with only "--disable-verity" parameter as well.
 
 ***
 
 
 ## Tested By:
-AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 06/11/2019
+AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 07/11/2019
 
 Template created by @zguithues
