@@ -20,7 +20,7 @@ Unable to flash due to small system partition (1,488 MB).
 
 Only "arm32_binder64-ab-vanilla" flavor is known working.
 
-You must erase userdata under stock recovery before flashing this treble GSI, don't use fastboot to erase userdata (either format userdata, -w or flash userdata are not acceptable).
+You must wipe data / factory reset under stock recovery + stock ROM before flashing this treble GSI, don't use fastboot to erase userdata (either format userdata, -w or flash userdata are not acceptable). Otherwise you'll only get less than 1GB free storage space to use.
 
 ***
 
