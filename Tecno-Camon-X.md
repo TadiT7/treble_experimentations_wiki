@@ -15,8 +15,8 @@ I had a problem where the device would boot once and then after a reboot it woul
 
 **Android 10**
 ***
-Android 10 is not working so far, i'm getting stuck in a bootloop when i reboot but it cant be fixed using the method I used for pie
-(i'll update when i find a fix)
+To be able to boot android 10 you'll need to manually disable verity or use phh-magisk,
+if there is a bootloop use this command `adb root & adb shell setprop ro.audio.ignore_effects true`
 
 ## Steps to install
 Since there is no working version of TWRP on this device, I used adb and fastboot to flash the rom
