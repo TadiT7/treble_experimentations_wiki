@@ -35,6 +35,12 @@
 
 Possibly due to hardware video decoding broken, the navigation key option can't be accessed without workaround.
 
+Here's the workaround (AOSP 10 V203):
+
+Download rw-system.sh you'll need to replace from here : https://github.com/phhusson/device_phh_treble/blob/android-10.0/rw-system.sh
+
+`adb root & adb remount & adb push rw-system.sh /system/bin/rw-system.sh`
+
 ## EVW Hardware Support (AOSP 8.1)
 
 | Component                 |      Comment                                              |
