@@ -27,7 +27,7 @@ You must wipe data / factory reset under stock recovery + stock ROM before flash
 
 ## Tested By:
 
-AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 1 Plus 00WW_0_980 @ 08/11/2019
+AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 1 Plus TA-1111 00WW_0_980 @ 08/11/2019
 
 
 Template created by @zguithues
