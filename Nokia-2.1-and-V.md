@@ -33,6 +33,8 @@
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
 
+Possibly due to hardware video decoding broken, the navigation key option can't be accessed without workaround.
+
 ## EVW Hardware Support (AOSP 8.1)
 
 | Component                 |      Comment                                              |
