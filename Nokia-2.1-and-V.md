@@ -11,6 +11,8 @@
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
 
+Night Light doesn't work on this build.
+
 ## E2M Hardware Support (AOSP 9)
 
 | Component                 |      Comment                                              |
