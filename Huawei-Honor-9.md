@@ -12,7 +12,7 @@ _(reboots into your recovery and stock recovery if you haven't installed a custo
 [TWRP-Mod for Huawei/Honor only with EMUI 9.1](https://4pda.ru/forum/index.php?showtopic=934177&view=findpost&p=88038324)
 
 Direct download links:
-[TWRP-Mod for Huawei/Honor only with EMUI 9](https://my.pcloud.com/publink/show?code=XZdQCI7ZxsXVkgOqQmX0nb4HpWBQTXoibubV)
+[TWRP-Mod for Huawei/Honor only with EMUI 9](https://my.pcloud.com/publink/show?code=XZdQCI7ZxsXVkgOqQmX0nb4HpWBQTXoibubV) and
 [TWRP-Mod for Huawei/Honor only with EMUI 9.1](https://my.pcloud.com/publink/show?code=XZIe9QkZaK1MK6QaqImiom7Tm8a97Ht7e2kV)
 
 4. Reboot device `fastboot reboot`
