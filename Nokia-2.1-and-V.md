@@ -73,7 +73,7 @@ Download rw-system.sh you'll need to replace from here : https://github.com/phhu
 
 For AOSP 8.1, "arm-aonly-go" flavor is known working.
 
-For AOSP 9, since there's no "arm-ab-vanilla" flavor, you have to use Android 8.1 stock vendor along with "arm-aonly-vanilla" flavor, but it keeps bootlooping.
+For AOSP 9, since there's no "arm-ab-vanilla" flavor, you have to use Android 8.1 stock vendor along with "arm-aonly-vanilla" flavor, but it gets stuck at "Android" animation forever.
 
 For AOSP 10, "arm-ab-vanilla" flavor is known working.
 
