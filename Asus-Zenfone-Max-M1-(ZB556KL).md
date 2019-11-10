@@ -23,7 +23,7 @@
 > Working
 
 * VoLTE
-> I Don't Have Jio
+> Need To install VoLTE PaTcH and install ims.apk
 
 * Fingerprint Reader
 > Working
