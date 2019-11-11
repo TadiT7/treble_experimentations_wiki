@@ -1,6 +1,6 @@
 ### Flash instructions:
 
-1. Backup data with [TWRP](https://forum.xda-developers.com/honor-9/development/oreo-t3754483) or other backup tool:
+1. Backup data with [TWRP ONLY for Oreo 8.0 firmwares](https://forum.xda-developers.com/honor-9/development/oreo-t3754483) or other backup tool:
 `adb reboot recovery`
 _(reboots into your recovery and stock recovery if you haven't installed a custom recovery)_
 
