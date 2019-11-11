@@ -52,7 +52,9 @@ _(replace GSINAME.img with the name and location of your GSI image)_
 - [Ported stock Camera exists](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/kirin-huawei-camera-android-p-t3840110) and mostly work, keeping original quality.
 
 - Brightness stuck at 40%, both in settings and real life.  
-_May be not an issue anymore, started from v19 (2018-06-03), now using v23 (2018-08-07) and never been able to reproduce. Currently (November 2019) this requires confirmation or rebuttal._
+_May be not an issue anymore, started from v19 (2018-06-03), now using v23 (2018-08-07) and never been able to reproduce. 
+
+Currently (November 2019) this requires confirmation or rebuttal._
 
 - On-screen navigation buttons can be hidden by adding `qemu.hw.mainkeys=1` to /system/build.prop
 
