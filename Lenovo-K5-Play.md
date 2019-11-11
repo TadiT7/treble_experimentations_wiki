@@ -1,3 +1,33 @@
+# AOSP 10
+Flashed Android 10 A only variant with gapps and su. The device is booted successfully, but mobile data and camera is not working. Other features like fingerprint scanner or bluetooth work properly. Still as good as a daily driver if mobile network and camera is fixed.<br/><br/>
+**Steps for installing** <br/>
+Same as the procedure stated in Android Pie
+
+Hardware support Component:
+
+Camera	                   not working,
+
+Speaker / Mic	              working,
+
+Bluetooth	              working,
+
+WiFi	                      working,
+
+SIM / Mobile Data / Voice   not working,
+
+VoLTE	                    not working,
+
+Fingerprint	              working,
+
+NFC	                      n/a,
+
+Offline Charging	      unknown,
+
+Other feature	              working,
+ 
+Tested By: littlephone - K5 Play(L38011), ZUI 3.7.088 (GLOBAL VARIANT)
+
+# AOSP 9
 Flashed AOSP 9 with gapps and su, I flashed it over stock rom (Chinese variant), should work same way with global variant.
 It booted fine, WiFi and hotspot doesn't work, testing fix soon. Every other thing works fine, camera is a bit dark but third party camera should fix it, no auto brightness overlay is needed to fix that, I don't really know how to compile one but I'll work on it.
 The ROM is smooth and good as daily driver. (As far as WiFi and hotspot is fixed.)
