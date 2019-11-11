@@ -1,6 +1,6 @@
 # Samsung Galaxy A50 (Exynos)
 
-**Samsung Galaxy A50 (SEE) (SM-A505FN/DS Exynos) Quack Compatibility Report (Android 10 v203)**
+Samsung Galaxy A50 (SEE) (SM-A505FN/DS Exynos) Quack Compatibility Report (Android 10 v203).
 
 **What works out of the box:**
 - RIL (network)
@@ -21,6 +21,7 @@
 - SIM Toolkit
 - Chrome
 - Double tap to wake (in Samsung settings of Treble-App)
+- Flashlight
 
 **What works with fixes:**
 - Smooth animations (see https://gist.github.com/milankragujevic/7ec6d3bffbc56fd36b9291471caa9f04)
@@ -39,7 +40,11 @@
 - Bluetooth (maybe?)
 - NFC (so far it reads my work access card and bus card)
 
+Observation: Dialer app complains that the device isn't supported, but works none the less. 
+
 Notice: Testing was done after flashing phh-magisk. I am unsure if the phone would work without it, as I haven't tried it.
+
+Disclamation of support notice: I am selling the device in a few days, as of 11.11.2019., and will not and can not provide support or help. For all inquiries, contact **Lord phhusson** himself.
 
 ## Steps to install
 
