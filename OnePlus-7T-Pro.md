@@ -1,17 +1,20 @@
-OP 7T (tested GApps + su version)
+OP 7T (tested GApps + su version 203+204)
 * boots Q, P does not boot.
 
 working
+* GSM network + LTE data
 * WiFi
 * Camera (also gcam)
-* brightness
+* brightness (seems no auto brightness)
+* BT
+* Video playback
 
 Not Working
 * Fingerprint
+* Headset: audio still comes out of speakers (USB c dongle)
 
 Not yet tested
 * NFC
-* BT
 
 How to install
 * reboot to bootloader
