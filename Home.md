@@ -25,7 +25,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus ROG Phone (ZS600KL)]]|n/a|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
-|[[Asus Zenfone 5z]]|ZS620KL/ZS621KL|✓|A/B|arm64|
+|[Asus Zenfone 5Z (ZS620KL/ZS621KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-ZenFone-5Z)|Z01R|✓|A/B|arm64|
 |[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
@@ -104,6 +104,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Leagoo M13]]|n/a||A/B|arm64|
 |[[Leagoo Power 5]]|aospex|✓|A|arm64|
 |[[Leagoo T8s]]|n/a|✓|A|arm64|
+|[[LeEco Le 2]]|s2||A|arm64|
 |[[LeEco Le Max 2]]|x2||A|arm64|
 |[[LeEco Le Pro 3]]|zl1||A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
@@ -194,7 +195,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
 |[Samsung Galaxy J7 (2017)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-J7-2017-(Exynos))|j7y17lte||A|arm_binder64|
 |[[Samsung Galaxy Note 8 (Exynos)]]|greatlte||A|arm64|
+|[[Samsung Galaxy Note 8 (Snapdragon)]]|greatqlte|✓|A|arm64|
 |[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A|arm64|
+|[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A|arm64|
 |[[Samsung Galaxy Note 10 (Exynos)]]|davinci|✓|A/B|arm64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
@@ -202,8 +205,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S8 and S8 Plus (Exynos)]]|dreamlte and dream2lte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
-|[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 and S10 Plus (Exynos)]]|beyond1lte and beyond2lte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 and S10 Plus (Snapdragon)]]|beyond1qlte and beyond2qlte|✓|A/B|arm64|
 |[Samsung Galaxy S10e (Exynos)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S10e)|beyond0lte|✓|A/B|arm64|
+|[[Samsung Galaxy S10e (Snapdragon)]]|beyond0qlte|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
@@ -212,14 +217,15 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia X]]|suzu||A|arm64|
 |[[Sony Xperia X Performance]]|dora||A|arm64|
+|[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
 |[[Sony Xperia XZ]]|kagura||A|arm64|
 |[[Sony Xperia XZ Premium]]|maple||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
-|[[Tecno POP 1s Pro (F4 Pro)]]|n/a||A|arm|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
+|[[Tecno POP 1s Pro (F4 Pro)]]|n/a||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Umidigi A3]]|n/a||A|arm64|
 |[[Umidigi A3 Pro]]|n/a||A|arm64|
