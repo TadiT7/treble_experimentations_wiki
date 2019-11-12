@@ -1,5 +1,5 @@
 OP 7T (tested GApps + su version)
-* boots 
+* boots Q, P does not boot.
 
 working
 * WiFi
