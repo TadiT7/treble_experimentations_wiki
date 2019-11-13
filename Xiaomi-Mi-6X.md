@@ -124,6 +124,7 @@
     * *Some Camera apps (e.g: Google Camera) use Camera2 API, maybe they can work normally, but you should enable Camera2 API first.*
 * Xiaomi Mi 6X (wayne) is similar to Xiaomi Mi A2 (jasmine), but the latter one has A/B partitions, the former one only have A partition.
 * If you living in China, recommends to logout your Google Account and pull out all of your SIM card first, or it may let you stuck on "Checking information" after flashed.
+* **AOSP 10.0 should uninstall Magisk to boot.(If you have.)**
 
 ## Notes about Custom ROMs
 
@@ -257,6 +258,7 @@
     * *部分 app (例如: Google Camera) 使用了 Camera2 API，这些应用或许可以正常工作，但你需要先行开启 Camera2 API。*
 * 小米 6X 和 小米 A2 相似，但后者拥有 A/B 分区，前者只有 A 分区。
 * 如果你在中国居住，建议在刷入前退出你的 Google 账户并取出所有 SIM 卡，否则有可能在“正在核对信息”处卡住。
+* **AOSP 10.0 目前需要卸载 Magisk 方可正常启动。**
 
 ## 关于自定义 ROM 的注意事项
 
@@ -287,6 +289,8 @@
     * suwakowww @ AOSP v109 @ system-arm64-aonly-gapps-su.img, 2019-01-15
     * suwakowww @ AOSP v111 @ system-arm64-aonly-gapps-su.img, 2019-03-10
     * sxrhd @AOSP v111 @ unknown, 2019-03-29
+* AOSP 10.0
+    * suwakowww @ AOSP v204 @ system-quack-arm64-aonly-gapps.img, 2019-11-13
 
 Template: @zguithues, @hackintosh5, @suwakowww
 
