@@ -213,6 +213,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
 |[Sharp Aquos S2 / C10](https://github.com/phhusson/treble_experimentations/wiki/Sharp-AQUOS-S2)|ss2 / sat|✓|A/B|arm64|
+|[Sharp Aquos S3]|hh1 / hh6 and sd1|✓|A/B|arm64|
+|[Sharp Aquos S3mini]|sg1||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia X]]|suzu||A|arm64|
