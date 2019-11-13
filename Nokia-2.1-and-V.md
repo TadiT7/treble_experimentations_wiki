@@ -1,6 +1,6 @@
 # [Nokia 2.1 / V] - [e2m / evw]
 
-## E2M Hardware Support (AOSP 8.1)
+## Hardware Support (AOSP 8.1)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -13,11 +13,11 @@
 
 Night Light doesn't work on this build.
 
-## E2M Hardware Support (AOSP 9)
+## Hardware Support (AOSP 9)
 
 Boot failed.
 
-## E2M Hardware Support (AOSP 10)
+## Hardware Support (AOSP 10)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -36,38 +36,6 @@ Download rw-system.sh you'll need to replace from here : https://github.com/phhu
 
 `adb root & adb remount & adb push rw-system.sh /system/bin/rw-system.sh`
 
-## EVW Hardware Support (AOSP 8.1)
-
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
-
-## EVW Hardware Support (AOSP 9)
-
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
-
-## EVW Hardware Support (AOSP 10)
-
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
 ***
 ## Additional Notes
 
