@@ -118,6 +118,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG G7 ThinQ™️]]|judyln|✓|A/B|arm64|
 |[[LG V30]]|joan||A|arm64|
 |[[Meizu 16th]]|n/a||A|arm64|
+|[[Meizu 16x]]|n/a||A|arm64|
 |[[Meizu M2 Mini]]|n/a||A|arm64|
 |[[Meizu Note 9]]|n/a||A|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
@@ -214,7 +215,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
 |[Sharp Aquos S2 / C10](https://github.com/phhusson/treble_experimentations/wiki/Sharp-AQUOS-S2)|ss2 / sat|✓|A/B|arm64|
 |[[Sharp Aquos S3 / D10]]|hh1 / hh6 and sd1|✓|A/B|arm64|
-|[[Sharp Aquos S3mini]]|sg1||A/B|arm64|
+|[[Sharp Aquos S3 Mini]]|sg1||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia X]]|suzu||A|arm64|
@@ -231,7 +232,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Umidigi A3]]|n/a||A|arm64|
 |[[Umidigi A3 Pro]]|n/a||A|arm64|
-|[[Umidigi A5 Pro]]|n/a||A|arm64|
+|[[Umidigi A5 Pro]]|n/a||A/B|arm64|
 |[[Umidigi F1 / F1 Play]]|f1|✓|A/B|arm64|
 |[[Umidigi One Max]]|n/a||A|arm64|
 |[[Umidigi One Pro]]|n/a||A|arm64|
