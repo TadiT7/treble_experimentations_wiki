@@ -55,7 +55,7 @@ Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus
 ## Tested By:
 * [simonsmh](https://github.com/simonsmh) - Device Specifics - 19 July 2018
 * Tested with the following builds:
-    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [EvolutionX 3.3](https://sourceforge.net/projects/developerluke-roms/files/GSIs/Evolution-X_3.3_20191111_ARM64-AB.img.xz/download)
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [EvolutionX 3.3](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/Ten/EvolutionX_3.3_ARM64-AB-10.0-20191117-0523-UNOFFICIAL.img.xz/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [ResurrectionRemix P v7.0.3](https://sourceforge.net/projects/developerluke-roms/files/GSIs/RR-P-v7.0.3-20191112-ARM64-AB.img.xz/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [Dirty Unicorns v14.0](https://sourceforge.net/projects/developerluke-roms/files/GSIs/DirtyUnicorns-14.0_111119-ARM64-AB.img.xz/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [OxygenOS 9](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20191031-ErfanGSI.img-2108.7z)
