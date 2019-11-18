@@ -2,29 +2,39 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
-## Official Android 10 Q:
+## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSP|phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 
-## Unofficial Android 10 Q:
+
+## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|PixelExperience 10.0 BETA|ExpressLuke|[ARM64 A](https://drive.google.com/a/turbox.uk/uc?id=1DTAnb2U1OProkJFpWQdhvWh_CBMJYIrS&export=download) / [ARM64 A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM64-A.img.xz/download) <br/> [ARM64 AB](https://drive.google.com/a/turbox.uk/uc?id=1Sw96w1J_ZymUh9J7ayhqYrlLZwhuQjJB&export=download) / [ARM64 AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM64-AB.img.xz/download) <br/> [ARM A](https://drive.google.com/a/turbox.uk/uc?id=1SZDaqFkUnZfR_5aC6xkQJNU2-0CsZkQG&export=download) / [ARM A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM-A.img.xz/download) <br/> [ARM AB](https://drive.google.com/a/turbox.uk/uc?id=1HaDHC9W_vkdNBnkXcB5TwZ-_GtSvfkUa&export=download) / [ARM AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM-AB.img.xz/download) <br/> [A64 A](https://drive.google.com/a/turbox.uk/uc?id=13pcVuIoRAnPnbC4frQqQktrHRbokK90s&export=download) / [A64 A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-A64-A.img.xz/download) <br/> [A64 AB](https://drive.google.com/a/turbox.uk/uc?id=1pEyebIH2BfiPPfHYFcBslk8o1kpGqn8P&export=download) / [A64 AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-A64-AB.img.xz/download)|A - AB|arm - arm64 - binder|
-|AospExtended v7.0 ALPHA|ExpressLuke|[ARM64 A](https://drive.google.com/a/turbox.uk/uc?id=1I3iEb2XX9dYGWU3Ou2uVX8DSLkqM-7D1&export=download) / [ARM64 A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/AospExtended-v7.0-20191017-2132-ALPHA-treble_arm64_avS.img.xz/download) <br/> [ARM64 AB](https://drive.google.com/a/turbox.uk/uc?id=1GbE2Y_BOYSq6-2FhTkZ7MvQjHDsQz3zO&export=download) / [ARM64 AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/AospExtended-v7.0-20191017-2132-ALPHA-treble_arm64_bvS.img.xz/download) <br/> [ARM A](https://drive.google.com/a/turbox.uk/uc?id=12Pid_eRhAcJvi7VsOnlFQ7SzzcVWT7PP&export=download) / [ARM A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/AospExtended-v7.0-20191017-ALPHA-treble_arm_avS.img.xz/download) <br/> [A64 A](https://drive.google.com/a/turbox.uk/uc?id=1dhn8nKFINmYocxtURGGTQXVylflFjnOO&export=download) / [A64 A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/AospExtended-v7.0-20191017-ALPHA-treble_a64_avS.img.xz/download)|A - AB|arm - arm64 - binder|
-|Havoc OS 3.0|ExpressLuke|[ARM64 A](https://drive.google.com/a/turbox.uk/uc?id=1hP3jlvWB_goUq2Rsa1OH67uIWVnRzaUh&export=download) / [ARM64 A Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/Havoc-OS-3.0_ARM64-A.img.xz/download) <br/> [ARM64 AB](https://drive.google.com/uc?id=1pPI90cY0R52HYUDEpvPOY5YR1SRMCqtS&export=download) / [ARM64 AB Mirror](https://sourceforge.net/projects/developerluke-roms/files/GSIs/Havoc-OS-3.0_ARM64-AB.img.xz/download) <br/> [ARM A]() / [ARM A Mirror]() <br/> [A64 A]() / [A64 A Mirror]()|A - AB|arm - arm64 - binder|
+|EvolutionX|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/)|A - A/B|arm - arm64 - binder|
+|Havoc-OS|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/)|A - A/B|arm - arm64 - binder|
+|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673/amp/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.0/)|A - A/B|arm - arm64 - binder|
+|MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4001147/amp/)|A - A/B|arm - arm64|
+|Pixel Experience|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/)|A - A/B|arm - arm64 - binder|
+|POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
+
+
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659/amp/) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSDP|RealAkito|[Download](https://downloads.aosdp.com/gsi/)|A - A/B|arm - arm64|
-|AOSiP|Akhil Narang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|A - A/B|arm - arm64|
+|AOSiP|akhilnarang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|A - A/B|arm - arm64|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64 - binder|
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835111/) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|A - A/B|arm64|
 |Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|A - A/B|arm - arm64|
 |Descendant|Dil3mm4|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840578/) / [Download](https://descendant.me/downloads/)|A - A/B|arm - arm64 - binder|
-|Evolution X|peaktogoo|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
+|EvolutionX|peaktogoo|[Download](https://sourceforge.net/projects/evolution-x/files/GSI/)|A - A/B|arm - arm64 - binder|
 |FlokoROM|AndroPlus|[Download](https://drive.google.com/drive/folders/1Und0ubXS7hNT_26YduVVXXJ5-MUVAsSq)|A - A/B|arm64|
 |Havoc-OS|vince31fr|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3930030/)|A - A/B|arm - arm64 - binder|
 |OctopusOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3859233/)|A - A/B|arm - arm64|
@@ -50,9 +60,9 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |BootleggersROM|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919828/) / [Download](https://androidfilehost.com/?w=files&flid=292505&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |dotOS|ashu7073|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3952035/) / [Download](https://sourceforge.net/projects/dotos-treble/files/)|A - A/B|arm - arm64 - binder|
 |/e/|Phie|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3960376/)|A - A/B|arm - arm64|
-|Evolution X v2.2|ExpressLuke|[arm](https://drive.google.com/a/turbox.uk/uc?id=1Xv70rvOJfWtsSOpsgoBOQ8oNv_DHcNsc&export=download) / [arm64](https://drive.google.com/a/turbox.uk/uc?id=1wdqWzQaNg9wOkbxO_9JG4ZSHKtA8cmA5&export=download) / [binder](https://drive.google.com/a/turbox.uk/uc?id=1ZG1fzm6XzhclS7WCk38ub0tiQz-QGecE&export=download)|A|arm - arm64 - binder|
-|Evolution X|NFound|[Download](https://androidfilehost.com/?w=files&flid=291542&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|Havoc-OS v2.9|ExpressLuke|[arm](https://drive.google.com/a/turbox.uk/uc?id=1GCwWJu_KEJMEltp8RTU9t9lRTCAhxn1O&export=download) / [arm64](https://drive.google.com/a/turbox.uk/uc?id=1xiqS-nWzzqPDdZnaifpihfcuDLIwLvDF&export=download) / [binder](https://drive.google.com/a/turbox.uk/uc?id=1NJ7LV4nxF8Dy0qE1_YXpskA_AqI2bih3&export=download)|A|arm - arm64 - binder|
+|EvolutionX|turbolukex5|[arm](https://drive.google.com/a/turbox.uk/uc?id=1Xv70rvOJfWtsSOpsgoBOQ8oNv_DHcNsc&export=download) / [arm64](https://drive.google.com/a/turbox.uk/uc?id=1wdqWzQaNg9wOkbxO_9JG4ZSHKtA8cmA5&export=download) / [binder](https://drive.google.com/a/turbox.uk/uc?id=1ZG1fzm6XzhclS7WCk38ub0tiQz-QGecE&export=download)|A|arm - arm64 - binder|
+|EvolutionX|NFound|[Download](https://androidfilehost.com/?w=files&flid=291542&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
+|Havoc-OS|turbolukex5|[arm](https://drive.google.com/a/turbox.uk/uc?id=1GCwWJu_KEJMEltp8RTU9t9lRTCAhxn1O&export=download) / [arm64](https://drive.google.com/a/turbox.uk/uc?id=1xiqS-nWzzqPDdZnaifpihfcuDLIwLvDF&export=download) / [binder](https://drive.google.com/a/turbox.uk/uc?id=1NJ7LV4nxF8Dy0qE1_YXpskA_AqI2bih3&export=download)|A|arm - arm64 - binder|
 |Havoc-OS|NFound|[Download](https://androidfilehost.com/?w=files&flid=290552&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |Havoc-OS|Technical|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3914038/) / [Download](https://androidfilehost.com/?w=files&flid=291817&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |ion|NFound|[Download](https://androidfilehost.com/?w=files&flid=290933&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
