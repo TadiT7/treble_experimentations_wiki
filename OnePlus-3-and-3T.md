@@ -55,6 +55,9 @@ Works using this [Treble ROM](https://forum.xda-developers.com/oneplus-3/oneplus
 ## Tested By:
 * [simonsmh](https://github.com/simonsmh) - Device Specifics - 19 July 2018
 * Tested with the following builds:
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [EvolutionX 3.3](https://sourceforge.net/projects/developerluke-roms/files/GSIs/Evolution-X_3.3_20191111_ARM64-AB.img.xz/download)
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [ResurrectionRemix P v7.0.3](https://sourceforge.net/projects/developerluke-roms/files/GSIs/RR-P-v7.0.3-20191112-ARM64-AB.img.xz/download)
+    * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [Dirty Unicorns v14.0](https://sourceforge.net/projects/developerluke-roms/files/GSIs/DirtyUnicorns-14.0_111119-ARM64-AB.img.xz/download)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [OxygenOS 9](https://mirrors.lolinet.com/firmware/gsi/OxygenOS/OxygenOS-AB-9-20191031-ErfanGSI.img-2108.7z)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [ResurrectionRemix Q v8.0.0](https://github.com/EnesSastim/GSI/releases/download/ErfanGSI/RR-Q-AB-10-20190911-ErfanGSI.img.7z)
     * [M6R1ARTY](https://github.com/M6R1ARTY) - A3010 - [Pixel Experience 10.0](https://sourceforge.net/projects/developerluke-roms/files/GSIs/PixelExperienceQ-28102019-ARM64-AB.img.xz/download)
