@@ -2,6 +2,9 @@
 
 **ROM images tested / used:**
 
+`AOSP 10.0 v204`
+`system-quack-arm64-ab-vanilla.img.xz`
+
 `AOSP 10.0 v202`
 `system-quack-arm64-ab-vanilla.img.xz`
 
@@ -12,6 +15,8 @@ _(flashed with fastboot, no TWRP needed!)_
 
 ## Hardware Support
 >  everything important for daily usage is working!
+
+* Overlays added: _battery usage stats working, autobrightness working, recent apps overview clear all button working_
 
 * Camera: _working_
 
@@ -27,10 +32,6 @@ _(flashed with fastboot, no TWRP needed!)_
 
 ***
 ## Additional Notes
-
-- adaptive brightness doesnt work, i can change brightness
-- battery stats....there is no app data....only the graph
-- _do not disturb seems not to work...or i have no idea how to set it up properly under android 10_  ??
 
 >  ! update without wipes,from previous release. no crashes or whatsoever !
 
