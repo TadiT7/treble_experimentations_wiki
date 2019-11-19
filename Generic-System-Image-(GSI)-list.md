@@ -6,6 +6,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|Atom-OS|iamsaalim|[Download](https://sourceforge.net/projects/gsibyekherio/files/Atom-OS-gsi/)|A|arm64|
 
 
 ## Unofficial Android 10:
@@ -17,6 +18,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4001147/amp/)|A - A/B|arm - arm64|
 |Pixel Experience|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/)|A - A/B|arm - arm64 - binder|
 |POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
+|POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 
 
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
