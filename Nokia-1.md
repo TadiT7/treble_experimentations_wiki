@@ -52,7 +52,7 @@
 
 Bugs that automatically fixed in newer Android or Vendor builds:
 - The RIL works fine again in any Android. Except some quirks like in known bugs. (Vendor)
-- MediaTek's DocumentsUI overlay (/vendor/overlay) will not hide the Files app anymore.
+- MediaTek's DocumentsUI overlay (/vendor/overlay) break Files app anymore.
 ## Build since 00WW_1_33A and up (Android 8.1)
 
 | Component                 | Is it working?                                                                                          |
