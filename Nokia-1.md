@@ -1,99 +1,96 @@
 # [Nokia 1] - [frt]
 
-## *Updates (Since October/2019)*
-- Technically you can flash Android 10 build into it but you'll get blank screen (Applies to vendor and kernel build 00WW_1_550, Android 8.1 go last build before turn into Android 9).
-~~- Maybe Android 9's vendor and kernel (00WW_2_130) will make the ROM works.~~ (System-as-Root thing won't make system boot)
-- Currently Android 10 works with 00WW_0_39G build. Without USSD flaw, modem crashing (Still only has the 1st SIM working as 4G SIM, No data for 2nd SIM, no incoming calls for the 1st SIM, 2nd works fine), No Wi-Fi hotspot (turn it on won't make the phone soft-reboot), other hotspots features seems working well, locking the phone will result system hang and soft reboot. Has problems with Google-coded videos (illustration videos like in gestures settings, others seems fine). Also, soft reboot won't make phone modem working again until the next hard reboot.
-- Android 10 is very UNSTABLE.
-- Android 9 v119 can be flashable on this phone.
+[OEM's support](#oems-support-vendor-and-kernel)
 
-## *Past Updates (Since April/2019)*
-- Vendor/Kernel since build 00WW_1_550_SP1 will make the screen unusable when booting up (Black screen).
-- Build 00WW_1_550 still working fine.
-- Due to lack of system partition memory, the phone can be flashed within Android 9 (version 107) and Android 8.1 (Version 26). Higher builds can't be flashed.
-- But you can spend your time building newer version for this device and starting tinkering it and finding bugs.
+[Android's support](#android-raw-build-support)
+# Android RAW build support
+## Overview
 
-## *Hardware Support (Since build 00WW_1_40A, up to 00WW_1_550)*
+> These Android builds only works and works best with 00WW_0_39L up to 00WW_1_550.
 
-## TL;DR
-- Hardware support since this vendor/kernel build will work flawlessly.
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera , Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1), GPS and Screen Brightness.
-- What doesn't work or work improperly: Wi-Fi Hotspot (Android 9 if OpenGapps installed), Sensors, GPS, Camera, Secure boot (Android 9, Asking for Pattern password), FM Radio, SIM and Built-in GMS (Android 8.1) and Adaptive brightness.
+> It would probably works with Android 9's Vendor/Kernel too if there is System-as-Root build for ARM-A phones. But the screen probably will not work since it blanked out in Android 8.1's last Maintain release (00WW_1_550_SP1, not 00WW_1_550).
 
-## GPS:
-- Magically works without any Wi-Fi scan or Mobile data help (This is also true with Android 9 too).
+## Common bugs in All builds
+~~- Builds with Google Play Services crashes a lot. Install OpenGapps with the vanilla builds to fix this.~~ (Only true with older builds)
 
-## *Hardware Support (From build 00WW_1_33A and below)*
+~~- You should skip setup wizard because it takes a lot of time to complete.~~ (Edit the gapps properly and this won't happen again)
 
-## TL;DR
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera, Microphone, Bluetooth, USB, Graphics, Storage, Secure boot (Android 8.1) and GPS (Android 8.1), Screen Brightness (Android 9).
-- What doesn't work or work improperly: Wi-Fi (Android 9), Sensors, GPS, Camera, Secure boot (Android 9), FM Radio, SIM and Built-in GMS (Android 8.1), Screen Brightness (Android 8.1).
+~~- Fake allowed SMS permissions.~~ (Edit the gapps properly and this won't happen again)
 
-## Screen Brightness:
-- In Android 8.1. You'll stuck at 1/2 of the screen brightness. You can change it over terminal.
-- Android 9 works fine.
+- Please edit the device fingerprint property in /system/etc/prop.default, /system/build.prop, /vendor/default.prop and /vendor/build.prop so it would not make Google apps freaks out that your phone loaded with "Unofficial" build.
 
-## Storage:
-- Due to new ROM rebuild. Nokia made Files app show up into home screen (Except stock ROM).
-- Showing Internal Storage is no longer crashing the Files app anymore.
+- TWRP formats the /data in ext4. While we need f2fs to make system work. Only use Stock Android recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
 
-## SIM:
-- Solved almost everything in previous vendor/kernel build. (Modem is much more stable like stock ROM and no more crashing and unrecognizing SIM).
-- Network bands are now showing up in Testing settings.
+- USSD incoming message without replies will get fixed in Android 9.
+- Wi-Fi hotspot always broken (Android 9+).
 
-## Notes:
-- Unlisted categories means they have the same behaviors like previous vendor/kernel builds.
+- No 1st SIM incoming calls though.
 
-## *Hardware Support (From build 00WW_0_39L and below)*
+## Android 10
+- Very unstable.
+- Wi-Fi will kinda hang system.
+- Don't set a lock screen. Will hang system and no password has been set after that.
+- Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
+## Android 9
+- Not sure. But there's a point of time where I can make Wi-Fi hotspot works with Android 9. But currently, it will not work.
+- Used to has storage limitation to be flashed with v107. So far can flashed with v119 (With no built-in gapps of course).
+## Android 8
+- Nothing, except OEM's? Though it's literally Android 8.1 so this one will get the best compatibilty.
 
-## TL;DR
-- What works flawlessly: Wi-Fi (Android 8.1), Sensors (Except internal thermal sensors), Flashlight, Speaker, Camera, Microphone, Bluetooth, USB, Graphics and GPS (Android 8.1 only), Screen Brightness.
-- What doesn't work or work improperly (TL;DR): Sensors, GPS (Android 9), Camera, FM Radio, Storage, SIM and Built-in GMS (Android 8.1 builds), Adaptive brightness.
 
-## Screen Brightness
-- No adaptive brightness (Unless there's a layer allows system enable it.)
+# OEM's support (Vendor and Kernel)
+## Overview
+> Build since 00WW_1_550_SP1 will break the screen.
+## Build since 00WW_0_39L and above (Android 8.1)
+> Won't mention the perfectly working features or known bugs (See older builds below).
 
-## Sensors
-- Can't detect any thermal sensors (Example: battery's temp, battery's voltage).
+| Component                 | Is it working?                                                                                          |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| SIM / Mobile Data / Voice | ✓/✕                                                                                                     |
 
-## GPS (Android 9 only):
-- No GPS signal. But does when Wi-Fi and Mobile data supports it.
+Bugs that automatically fixed in newer Android or Vendor builds:
+- The RIL works fine again in any Android. Except some quirks like in known bugs. (Vendor)
 
-## Camera
-- Theoretically works perfectly.
-- ROM lacks Camera2 API permissions. Which leads to low-lighting on both front and back camera. Installing Stock ROM's Camera app might help but it won't save pics.
-- Google Camera app from Android 4.x will fix everything. Even the 2.7 version.
+Known bugs/Workarounds:
+- MediaTek's DocumentsUI overlay (/vendor/overlay) will not hide the Files app anymore.
+## Build since 00WW_1_33A and up (Android 8.1)
 
-## Wi-Fi (Android 9):
--  Tethering won't work (If you install OpenGapps).
+| Component                 | Is it working?                                                                                          |
+|---------------------------|---------------------------------------------------------------------------------------------------------|
+| Camera                    | ✓                                                                                                       |
+| Speaker / Mic             | ✓                                                                                                       |
+| Bluetooth / Hotspot       | ✓                                                                                                       |
+| Wi-Fi                     | ✓                                                                                                       |
+| Wi-Fi Hotspot             | ✓/✕ (Gapps somehow broke it in Android 9)                                                               |
+| USB Tethering             | ✓                                                                                                       |
+| SIM / Mobile Data / Voice | ✓/✕ (No signal on SIMs, modem software crashes, LTE/WCDMA broken)                                       |
+| VoLTE                     | ✕ (Can't confirm it will work or not)  			                                                      |
+| Thermal Sensors           | ✕ (For example: Battery's temp, Battery's voltage) 										              |
+| GPS				        | ✓                                                                                                       |
+| Camera		            | ✓/✕ (Low light on Camera2 app)                                                                          |
+| Adaptive Brightness		| ✕                                                                                                       |
+| Night lights      		| ✕                                                                                                       |
+| Doze screen       		| ✕                                                                                                       |
+| Screen            		| ✓                                                                                                       |
 
-## Storage:
-- Files app will crash if you trying to show Internal storage. If you made it crashed constantly. Clean up the app data will do the trick.
-- By default, the Files app icon on Launcher will be disabled. Go to Storage settings to explore, or use 3rd party app to launch it.
-- Use Google's Files app (Previously Files go), it will show you both Internal and SD card storage without any compromises.
+Bugs that automatically fixed in newer Android:
+- The RIL works fine again in Android 10. Also true with Network band. Except some quirks like in known bugs.
 
-## SIM:
-- Only notifies 2nd SIM incoming call. The 1st SIM incoming call will be ignored.
-- No USSD messages (Common problem).
-- 2G networking and LTE/UTMS (auto PRL) aka 4,3,2G mode will make the phone somehow unrecognize the SIM. (Don't try to switch this network). Try LTE/WCDMA instead in Test settings (Very unstable). Or edit build.prop and add this line "ro.telephony.default_network=12" at first boot or somehow you can access networking menu in Android 9's Test settings. That will make the modem stable (Kinda).
-- Supports some of Network bands (Better network bands support in Android 8.1).
-- You can't change working Network band in Testing settings.
-- For 2nd SIM (Non-mobile data SIM). PLEASE choose 2G network and disable Mobile data for that SIM or the phone modem will be confused and there will be no signal from any SIM (Probably modem software crashing too).
-- You cannot make 2nd SIM work like 1st SIM acting as a 4G capable Mobile data SIM (No network on both SIM if you try to do that or Modem crash).
-- DO NOT PRE-SET SIM LOCK WHEN YOU PERFORM FIRST BOOT OR YOU'LL GET BOOTLOOPED!
-
-## Secure boot (Android 9):
-- If you enter the wrong password in the first place. System will forced you to press Reset Phone button because you entered the wrong password "too much". Reboot the phone and try again.
-
-***
-## Notes / Other Bugs
-- Booting into Android causes screen went out for a few secs. The phone reboots after first boot.
-- The phone is still pre-encrypted anyway (Even if you wiped it with TWRP and Not recommended).
-- Builds with Google Play Services crashes a lot. Install OpenGapps with the vanilla builds to fix this.
-- Skip setup wizard because it's buggy and if you wanna setup the phone when it's check for update, press back button and then recheck for updates again. (Probably because of Google Play services "fake allowing SMS permission" and "improper android build").
-- If you installed Gapps, please edit the ROM build info. (in /system/etc/prop.default, /system/build.prop, /vendor/default.prop and /vendor/build.prop) or every Google app will yell at you that your phone's software isn't "legit".
-- The TWRP recovery formats /data partiton in ext4 format. But the phone partition and encryption only works with f2fs format. So don't try to wipe the phone with TWRP. Only use Stock Android recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
-***
+Known bugs/Workarounds:
+- MediaTek's DocumentsUI overlay (/vendor/overlay) will hide the Files launcher app. It also break Files app when trying to show Internal Storage. Delete it.
+- Secure boot: Broken in Android 9 and up. For Android 9 will sort of works properly while Android 10 will broken completely (And don't even try to upgrade the OS from Android 9. It won't work and will ask you for "non-existent password".
+)
+- In Android 9. If you pre-lock and enabled lock on boot and happen to enter the wrong password in the first place. System will forced you to press Reset Phone button because you entered the wrong password "too much". Reboot the phone and try again.
+- You can't set any form screen locking in Android 10.
+- RIL modem: No 1st SIM incoming call, 2nd SIM as Data SIM/LTE (2G only). No proper network band selecting.
+- Prelocking SIM with a PIN will make the phone bootlooped in the initial setup process.
+- Wi-Fi in Android 10: Probably unstable.
+- Wi-Fi Hotspot in Android 9+: Can't figured out yet. But at least Android 10 won't freak out the OS and soft reboot.
+- Booting into Android causes screen went out for a few secs.
+- The phone will reboot a few times after reboot (Sometimes, not always).
+- For Adaptive Brightness, Night Lights, Doze Screen. You need to edit the framework-res or make an overlay app overlays framework-res to enable them in res/values.xml.
+- Flashing a very different Vendor/Kernel will make Bluetooth crashes.
+- Camera: Low light in newer Camera2 app. Use Android 6 or 5's Camera2. Or Google Camera from 2.7 or 2.4 (Android 9+). This feature slowly broken in newer Android incrementals.
 
 ## Tested by:
 - Kutiz w/ Nokia 1 (TA-1047 Dual-SIM)
@@ -104,4 +101,4 @@
 - Android 9.0 build v119 w/ no Google apps and OpenGapps.
 - Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 6:27 PM; November 20th, 2019_
+_**Last update:** 8:40 PM; November 20th, 2019_
