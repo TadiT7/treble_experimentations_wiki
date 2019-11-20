@@ -89,7 +89,7 @@ Known bugs/Workarounds:
 - Wi-Fi Hotspot in Android 9+: Can't figured out yet. But at least Android 10 won't freak out the OS and soft reboot.
 - Booting into Android causes screen went out for a few secs.
 - The phone will reboot a few times after reboot (Sometimes, not always).
-- For Adaptive Brightness, Night Lights, Doze Screen. You need to edit the framework-res or make an overlay app overlays framework-res to enable them in res/values.xml.
+- For Adaptive Brightness, Night Lights, Doze Screen. You need to edit the framework-res or make an overlay app overlays framework-res to enable them in res/bools.xml.
 - Flashing a very different Vendor/Kernel will make Bluetooth crashes.
 - Camera: Low light in newer Camera2 app. Use Android 6 or 5's Camera2. Or Google Camera from 2.7 or 2.4 (Android 9+). This feature slowly broken in newer Android incrementals.
 
@@ -102,4 +102,4 @@ Known bugs/Workarounds:
 - Android 9.0 build v119 w/ no Google apps and OpenGapps.
 - Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 8:48 PM; November 20th, 2019_
+_**Last update:** 8:50 PM; November 20th, 2019_
