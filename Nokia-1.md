@@ -41,6 +41,7 @@
 # OEM's support (Vendor and Kernel)
 ## Overview
 > Build since 00WW_1_550_SP1 will break the screen. Still works though.
+
 > Build 00WW_1_550 will work the best of all Kernel/Vendor builds.
 ## Build since 00WW_0_39L and above (Android 8.1)
 > Won't mention the perfectly working features or known bugs (See older builds below).
@@ -51,8 +52,6 @@
 
 Bugs that automatically fixed in newer Android or Vendor builds:
 - The RIL works fine again in any Android. Except some quirks like in known bugs. (Vendor)
-
-Known bugs/Workarounds:
 - MediaTek's DocumentsUI overlay (/vendor/overlay) will not hide the Files app anymore.
 ## Build since 00WW_1_33A and up (Android 8.1)
 
@@ -102,4 +101,4 @@ Known bugs/Workarounds:
 - Android 9.0 build v119 w/ no Google apps and OpenGapps.
 - Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 8:40 PM; November 20th, 2019_
+_**Last update:** 8:45 PM; November 20th, 2019_
