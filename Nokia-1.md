@@ -40,7 +40,8 @@
 
 # OEM's support (Vendor and Kernel)
 ## Overview
-> Build since 00WW_1_550_SP1 will break the screen.
+> Build since 00WW_1_550_SP1 will break the screen. Still works though.
+> Build 00WW_1_550 will work the best of all Kernel/Vendor builds.
 ## Build since 00WW_0_39L and above (Android 8.1)
 > Won't mention the perfectly working features or known bugs (See older builds below).
 
