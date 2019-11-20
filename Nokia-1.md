@@ -28,7 +28,8 @@
 
 ## Android 10
 - Very unstable.
-- Wi-Fi will kinda hang system.
+- Wi-Fi will kinda hang system. Sometimes will not work at all
+- Quickstep/SystemUI lockscreen break after a long while (Blank screen).
 - Don't set a lock screen. Will hang system and no password has been set after that.
 - Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
 ## Android 9
@@ -101,4 +102,4 @@ Known bugs/Workarounds:
 - Android 9.0 build v119 w/ no Google apps and OpenGapps.
 - Android 10 build v200.d w/o Google apps and OpenGapps
 
-_**Last update:** 8:45 PM; November 20th, 2019_
+_**Last update:** 8:48 PM; November 20th, 2019_
