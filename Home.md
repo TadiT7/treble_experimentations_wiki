@@ -266,6 +266,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
+|[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
