@@ -32,6 +32,7 @@
 - Quickstep/SystemUI lockscreen break after a long while (Blank screen).
 - Don't set a lock screen. Will hang system and no password has been set after that.
 - Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
+- If system freaked out and got a Soft-reboot. Modem software will never work again until a full reboot.
 ## Android 9
 ~~- Not sure. But there's a point of time where I can make Wi-Fi hotspot works with Android 9. But currently, it will not work.~~
 - Except Android 8.1 has the Wi-Fi working perfectly. Android 9 and 10 will have some sort of problems with Wi-Fi tethering.
@@ -104,4 +105,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 9:25 PM; November 21th, 2019_
+_**Last update:** 9:27 PM; November 21th, 2019_
