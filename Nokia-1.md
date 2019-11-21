@@ -22,18 +22,19 @@
 - TWRP formats the /data in ext4. While we need f2fs to make system work. Only use Stock Android recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
 
 - USSD incoming message without replies will get fixed in Android 9.
-- Wi-Fi hotspot always broken (Android 9+).
+- Wi-Fi hotspot always broken (Android 9+, with any form of Google Apps installed).
 
 - No 1st SIM incoming calls though.
 
 ## Android 10
 - Very unstable.
-- Wi-Fi will kinda hang system. Sometimes will not work at all
+- Wi-Fi will kinda hang system. Sometimes will not work at all.
 - Quickstep/SystemUI lockscreen break after a long while (Blank screen).
 - Don't set a lock screen. Will hang system and no password has been set after that.
 - Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
 ## Android 9
-- Not sure. But there's a point of time where I can make Wi-Fi hotspot works with Android 9. But currently, it will not work.
+~~- Not sure. But there's a point of time where I can make Wi-Fi hotspot works with Android 9. But currently, it will not work.~~
+- Except Android 8.1 has the Wi-Fi working perfectly. Android 9 and 10 will have some sort of problems with Wi-Fi tethering.
 - Used to has storage limitation to be flashed with v107. So far can flashed with v119 (With no built-in gapps of course).
 ## Android 8
 - Nothing, except OEM's? Though it's literally Android 8.1 so this one will get the best compatibilty.
@@ -100,6 +101,7 @@ Known bugs/Workarounds:
 - Android 8.1 build v26 w/ Google apps and OpenGapps.
 - Android 9.0 build v107 w/ no Google apps and OpenGapps.
 - Android 9.0 build v119 w/ no Google apps and OpenGapps.
-- Android 10 build v200.d w/o Google apps and OpenGapps
+- Android 10 build v200.d w/o Google apps and OpenGapps.
+- Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 8:50 PM; November 20th, 2019_
+_**Last update:** 9:25 PM; November 21th, 2019_
