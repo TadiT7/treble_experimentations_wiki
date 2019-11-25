@@ -112,7 +112,7 @@ https://t.me/mi9aosp
 
 https://t.me/mi9group
 
-https://t.me/mi9channel
+https://t.me/mi9discussion
 
 There are several groups, choose the one you prefer
 
