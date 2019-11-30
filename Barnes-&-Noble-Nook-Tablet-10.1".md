@@ -7,6 +7,10 @@ Model BNTV650.
 * Bluetooth: Bluetooth Audio works. File transfer untested.
 * WiFi: Works.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
+* The battery drains quite too fast on Treble, even with low battery power saving mode is enabled compared to the stock firmware. 
+
+# Stock OEM firmware files (excluding the userdata.img)
+* Link: https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view
 
 # OEM hardware drivers
 * OEM recovery drivers: https://github.com/secretwolf98/android_device_recovery_bn_bntv650_st18c10bnn
