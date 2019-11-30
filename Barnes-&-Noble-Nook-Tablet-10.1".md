@@ -9,7 +9,7 @@ Model BNTV650.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
 * The battery drains quite too fast on Treble, even with low battery power saving mode is enabled compared to the stock firmware. 
 
-# Stock OEM firmware files (excluding the userdata.img)
+# Stock OEM v1.0.9 Android 8.1 Oreo firmware files (excluding the userdata.img)
 * Link: https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view
 
 # OEM hardware drivers
