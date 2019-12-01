@@ -1,3 +1,4 @@
+
 Model BNTV650.
 
 # Hardware Support
@@ -8,6 +9,27 @@ Model BNTV650.
 * WiFi: Works.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
 * The battery drains quite too fast on Treble, even with the low battery power saving mode enabled, compared to the stock firmware. 
+
+# Tablet specs
+* Battery: Up to 8.5 hours.
+* 32GB Internal eMMC chip.
+* 2GB RAM.
+* The storage is expandable to 256GB with an SD card.
+* Dimensions in mm: 262.00 x 158.00 x 9.60
+* Front camera: 2MP.
+* Rear camera: 2MP.
+* Shipped OS: Android 8.1 Oreo with Google Play support.
+* VNDK v27.0 legacy.
+* A-Only system partition.
+* Release date: November 2018.
+* Supported wifi modules: 802.11 a/b/g/n/ac
+* Screen size in inches: 10.10
+* Screen resolution: 1200x1920 pixels.
+* Processor arch: arm64.
+* CPU: Quad Core MediaTek A35-MT8167A.
+* Claims to have "stereo speakers".
+* Full HD display.
+* Original brand new price from OEM: $130
 
 # Stock OEM v1.0.9 Android 8.1 Oreo firmware files (excluding the userdata.img)
 * Link: https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view
@@ -30,3 +52,5 @@ Model BNTV650.
 * izzy84075 (Phh Treble v25 on 11/30/2018, Phh Treble v107 on 11/30/2018)
 * secretwolf98 (Phh Treble v119 on 10/4/2019)
 * secretwolf98 (Phh Treble v121, Phh Treble v120, Phh Treble v204 on 11/30/2019)
+
+![Nook Tablet 10.1](https://prodimage.images-bn.com/pimages/9780594827917_p0_v1_s600x595.jpg)
