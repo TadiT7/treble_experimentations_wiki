@@ -9,7 +9,7 @@ Model BNTV650.
 * WiFi: Works.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
 * The battery drains quite too fast on Treble, even with the low battery power saving mode enabled, compared to the stock firmware.
-* The display will be in portrait mode on a fresh start. You'll have to allow screen rotation under "display" under device settings.
+* The display will be in portrait mode on a fresh start. You'll have to allow screen rotation under "display" under the device settings.
 
 # Tablet specs
 * Battery: up to 8.5 hours
