@@ -8,10 +8,11 @@ Model BNTV650.
 * Bluetooth: Bluetooth Audio works. File transfer untested.
 * WiFi: Works.
 * Display: Works, though screen size is retrieved incorrectly? Reports as a 14.1" display, so the DPI is off. Can be worked around with "Easy DPI Changer" or through the "Developer options" in the device settings with the values of "752 dp".
-* The battery drains quite too fast on Treble, even with the low battery power saving mode enabled, compared to the stock firmware. 
+* The battery drains quite too fast on Treble, even with the low battery power saving mode enabled, compared to the stock firmware.
+* The display will be in portrait mode on a fresh start. You'll have to allow screen rotation under "display" under device settings.
 
 # Tablet specs
-* Battery: Up to 8.5 hours.
+* Battery: up to 8.5 hours
 * 32GB Internal eMMC chip.
 * 2GB RAM.
 * The storage is expandable to 256GB with an SD card.
@@ -30,6 +31,7 @@ Model BNTV650.
 * Claims to have "stereo speakers".
 * Full HD display.
 * Original brand new price from OEM: $130
+* It comes with a 1GB swap file out of the box (you can use "free swapper for root" from the Google Play Store to increase the size of the current swap file).
 
 # Stock OEM v1.0.9 Android 8.1 Oreo firmware files (excluding the userdata.img)
 * Link: https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view
