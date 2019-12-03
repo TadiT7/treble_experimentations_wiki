@@ -2,7 +2,10 @@
 
 Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed  
 
-**Note:** Boot animations don't work on some models. While booting, it might only show the bootloader logo ("bad key" or "N/A" screen)
+***If you are flashing an Android 10 GSI:*** make sure you don't have Magisk installed, as it will cause bootloops  
+
+**Note:** Boot animations don't work on some models. While booting, it might only show the bootloader logo ("bad key" or "N/A" screen)  
+Be patient, the first boot will take a while
 
 ## Steps to install
 
@@ -16,7 +19,7 @@ Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed
     ```
 * As an alternative you can flash via TWRP as **System Image**
 
-## Hardware support
+## Hardware support (Pie)
 
 | Component                 |      Comment                                                    |
 |---------------------------|-----------------------------------------------------------------|
@@ -29,12 +32,26 @@ Any GSI that is ARM A-Only should boot, but full compatibility isn't guaranteed
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
 
+## Hardware support (10/Q)
+
+| Component                 |      Comment                                                    |
+|---------------------------|-----------------------------------------------------------------|
+| Camera                    | Works                                                           |
+| Speaker / Mic             | Works                                                           |
+| Bluetooth                 | Has issues with audio                                           |
+| WiFi                      | Works                                                           |
+| SIM / Mobile Data / Voice | Works (Tested with Boost Mobile, APNs may need to be added manually)|
+| VoLTE                     | Untested                                                        |
+| Fingerprint               | Works                                                           |
+| Offline Charging          | Works                                                           |
+
 ## Stock ROMs
 
 Motorola stock ROMs are available [here for aljeter](https://mirrors.lolinet.com/firmware/moto/aljeter/official/), and [here for jeter](https://mirrors.lolinet.com/firmware/moto/jeter/official/). Make sure you use the correct ROM for your model, otherwise you may run into weird issues.
 
 ---
 
-Tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/19 with AOSP v119
+Pie: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/19 with AOSP v119  
+10/Q: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 12/2/19 with AOSP v204  
 
 Using a wiki template created by @zguithues and @hackintosh5
