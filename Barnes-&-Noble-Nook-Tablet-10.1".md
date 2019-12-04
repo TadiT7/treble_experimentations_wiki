@@ -47,8 +47,8 @@ Model BNTV650.
 * Does not boot Phh-treble v107, seems to have errors with the GPU and KeyMaster.
 * Phh Treble 9 Pie arm64 A-only with G-Apps & with SU GSI v119 boots perfectly (make sure to fastboot erase system before installing & factory reset/clear cache in the stock recovery before going into the system).
 * Phh Treble v204 Android 10 Q arm64 A-only with gapps fails to flash via fastboot due to a small system partition.
-* Phh Treble v121 Android 9 Pie arm64 A-only flashes successfully via fastboot, but it bootloops back into fastboot. 
-* Phh Treble v120 Android 9 Pie arm64 A-only flashes successfully via fastboot & it boots into the system without a issue.
+* Phh Treble v121 Android 9 Pie arm64 A-only flashes successfully via fastboot & boots into the system without an issue.
+* Phh Treble v120 Android 9 Pie arm64 A-only flashes successfully via fastboot & it boots into the system without an issue.
 * Phh Treble v205 Android 10 Q arm64 A-only with gapps fails to flash via fastboot due to a small system partition.
 * Phh Treble v205 Android 10 Q arm64 A-only vanilla flashes successfully via fastboot & boots into the system without an issue.
 
