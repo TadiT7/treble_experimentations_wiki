@@ -5,25 +5,25 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559/amp/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |Atom-OS|iamsaalim|[Download](https://sourceforge.net/projects/gsibyekherio/files/Atom-OS-gsi/)|A|arm64|
 
 
 ## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|EvolutionX|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/)|A - A/B|arm - arm64 - binder|
-|Havoc-OS|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/)|A - A/B|arm - arm64 - binder|
-|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673/amp/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.0/)|A - A/B|arm - arm64 - binder|
-|MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4001147/amp/)|A - A/B|arm - arm64|
-|Pixel Experience|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/)|A - A/B|arm - arm64 - binder|
-|POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457/amp/) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
+|EvolutionX|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/)|A - A/B|arm - arm64 - binder|
+|Havoc-OS|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/)|A - A/B|arm - arm64 - binder|
+|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.0/)|A - A/B|arm - arm64 - binder|
+|MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4001147)|A - A/B|arm - arm64|
+|Pixel Experience|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/)|A - A/B|arm - arm64 - binder|
+|POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 
 
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659/amp/) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 
 
 ## Official Android 9 Pie:
