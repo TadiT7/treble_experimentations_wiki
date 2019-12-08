@@ -8,6 +8,7 @@ Works with selinux=permissive, VoLTE untested, all other hardware works.
 Using the Xiami tool or [Penn5's tool](https://github.com/penn5/miunlock)
 
 #### 2. Flash stock rom [V10.2.8.0.PFLEUXM_20190407](http://bigota.d.miui.com/V10.2.8.0.PFLEUXM/onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea_c3f21781e6.tgz)
+([_index of ROMs_](https://mirom.ezbox.idv.tw/en/phone/onclite/))
 
 Not sure if you need this, but this is what worked for me.
 
