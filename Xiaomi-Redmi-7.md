@@ -69,6 +69,10 @@ $ fastboot flash system ARM64_AB_20191205.img
 $ fastboot reboot
 ```
 
+#### GApps
+Flashing OpenGApps with official TWRP [`twrp-3.3.1-1-onclite`](https://eu.dl.twrp.me/onclite/twrp-3.3.1-1-onclite.img) doesn't work, it fails with [error 64](https://github.com/TeamWin/Team-Win-Recovery-Project/issues/1070).
+Unofficial version [`TWRP-Redmi7-LRTeam`](https://miui.blog/redmi-7/twrp-flasher-tool-redmi-7/) works. 
+
 Enjoy!
 
 ## Hardware support
