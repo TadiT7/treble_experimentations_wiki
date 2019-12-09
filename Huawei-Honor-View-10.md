@@ -1,6 +1,6 @@
 Device supported.
 
-EMUI8 base - A only ROM _
+EMUI8 base - A only ROM<br>
 EMUI9 base - AB ROM
 
 Additional infos:
