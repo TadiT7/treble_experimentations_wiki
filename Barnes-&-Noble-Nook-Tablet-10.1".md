@@ -47,15 +47,17 @@ Model BNTV650.
 * Does not boot Phh-treble v107, seems to have errors with the GPU and KeyMaster.
 * Phh Treble 9 Pie arm64 A-only with G-Apps & with SU GSI v119 boots perfectly (make sure to fastboot erase system before installing & factory reset/clear cache in the stock recovery before going into the system).
 * Phh Treble v204 Android 10 Q arm64 A-only with gapps fails to flash via fastboot due to a small system partition.
-* Phh Treble v121 Android 9 Pie arm64 A-only flashes successfully via fastboot & boots into the system without an issue.
-* Phh Treble v120 Android 9 Pie arm64 A-only flashes successfully via fastboot & it boots into the system without an issue.
+* Phh Treble v121 Android 9 Pie arm64 A-only with gapps and su flashes successfully via fastboot & boots into the system without an issue.
+* Phh Treble v120 Android 9 Pie arm64 A-only with gapps and su flashes successfully via fastboot & it boots into the system without an issue.
 * Phh Treble v205 Android 10 Q arm64 A-only with gapps fails to flash via fastboot due to a small system partition.
 * Phh Treble v205 Android 10 Q arm64 A-only vanilla flashes successfully via fastboot & boots into the system without an issue.
+* Phh Treble v122 Android 9 Pie arm64 A-only with gapps and su flashes successfully via fastboot & it boots into the system without an issue.
 
 ## Tested By:
 * izzy84075 (Phh Treble v25 on 11/30/2018, Phh Treble v107 on 11/30/2018)
 * secretwolf98 (Phh Treble v119 on 10/4/2019)
 * secretwolf98 (Phh Treble v121, Phh Treble v120, Phh Treble v204 on 11/30/2019)
 * secretwolf98 (Phh Treble v205 on 12/3/2019)
+* secretwolf98 (Phh Treble v122 on 12/9/2019)
 
 ![Nook Tablet 10.1](https://prodimage.images-bn.com/pimages/9780594827917_p0_v1_s600x595.jpg)
