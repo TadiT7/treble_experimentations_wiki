@@ -33,9 +33,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 10.1]]|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
+|[[Blackview A60]]|a60|✓ (Go)|A|arm|
+|[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
 |[[Blackview BV9500]]|s32v63c2k_jk|✓|A|arm64|
-|[[Blackview BV9500 Pro]]|MT6763|✓|A|arm64|
-|[[Blackview BV9600 Pro]]|S700 *?*|✓|A|arm64|
+|[[Blackview BV9500 Pro]]|n/a|✓|A|arm64|
+|[[Blackview BV9600 Pro]]|n/a|✓|A|arm64|
 |[[BLU Vivo XL4]]|n/a|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
@@ -43,7 +45,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|n/a|✓|A|arm64|
-|[[DEXP BL250]]|n/a||A|arm|
+|[[DEXP A140]]|n/a|✓|A|arm|
+|[[DEXP A240]]|n/a|✓|A|arm|
+|[[DEXP B260]]|n/a|✓|A|arm|
+|[[DEXP BL250]]|n/a|✓|A|arm|
 |[[Doogee X5]]|n/a|✓|A|arm|
 |[[Doogee X5 Max]]|n/a|✓|A|arm|
 |[[Doogee X5 Pro]]|n/a|✓|A|arm|
@@ -57,6 +62,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 Go]]|GM8_go_sc|✓ (Go)|A|arm|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
+|[[GOME U9]]|n/a|✓|A|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
 |[[Google Pixel 3 and Pixel 3 XL]]|blueline and crosshatch|✓|A/B|arm64|
