@@ -182,6 +182,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel K8]]|n/a|✓|A|arm64|
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
+|[[Realme 1]]|cph1861|✓|A|arm64|
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
 |[[Realme 3 Pro]]|rmx1851|✓|A/B|arm64|
 |[[Realme X]]|rmx1901|✓|A/B|arm64|
