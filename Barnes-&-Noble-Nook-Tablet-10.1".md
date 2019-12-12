@@ -52,6 +52,8 @@ Model BNTV650.
 * Phh Treble v205 Android 10 Q arm64 A-only with gapps fails to flash via fastboot due to a small system partition.
 * Phh Treble v205 Android 10 Q arm64 A-only vanilla flashes successfully via fastboot & boots into the system without an issue.
 * Phh Treble v122 Android 9 Pie arm64 A-only with gapps and su flashes successfully via fastboot & it boots into the system without an issue.
+* Phh Treble v123 Android 9 Pie arm64 A-only with gapps and su flashes successfully via fastboot & it boots into the system without an issue. (I was able to dirty flash this update from v122. First step is to clear the cache in the stock recovery. Then flash the system img in bootloader/fastboot)
+* It seems like the battery was lasting fine on v122 with normal use without low battery power mode. But I will continue to test this out in v123 and report back after some testing after a few days.
 
 ## Tested By:
 * izzy84075 (Phh Treble v25 on 11/30/2018, Phh Treble v107 on 11/30/2018)
@@ -59,5 +61,6 @@ Model BNTV650.
 * secretwolf98 (Phh Treble v121, Phh Treble v120, Phh Treble v204 on 11/30/2019)
 * secretwolf98 (Phh Treble v205 on 12/3/2019)
 * secretwolf98 (Phh Treble v122 on 12/9/2019)
+* secretwolf98 (Phh Treble v123 on 12/12/2019)
 
 ![Nook Tablet 10.1](https://prodimage.images-bn.com/pimages/9780594827917_p0_v1_s600x595.jpg)
