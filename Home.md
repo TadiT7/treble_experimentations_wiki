@@ -174,8 +174,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
+|[[OnePlus 7]]|guacamoleb|✓|A/B|arm64|
 |[[OnePlus 7 Pro]]|guacamole|✓|A/B|arm64|
-|[[OnePlus 7T and 7T Pro]]|hotdogb and hotdog|✓|A/B|arm64|
+|[OnePlus 7T](https://github.com/phhusson/treble_experimentations/wiki/OnePlus-7T-and-7T-Pro)|hotdogb|✓|A/B|arm64|
+|[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel C10]]|n/a|✓|A|arm|
 |[[Oukitel C11 Pro]]|n/a|✓|A|arm64|
@@ -293,6 +295,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
 |[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi K20]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro]]|raphael|✓|A/B|arm64|
@@ -300,8 +303,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
-|[[Xiaomi Redmi Note 7]]|lavender|✓|A|arm64|
-|[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A|arm64|
+|[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
