@@ -16,7 +16,7 @@ Pretty much everything works. Keybord lacks backlight (except for capslock state
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Works, but the stock camera app refuses to run, install any other|
+| Camera                    | Works                                                     |
 | Speaker / Mic             | Works                                                     |
 | Bluetooth                 | Works, tested only pairing and file sharing               |
 | WiFi                      | Works, along with hotspot                                 |
