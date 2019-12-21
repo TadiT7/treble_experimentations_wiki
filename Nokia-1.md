@@ -79,7 +79,7 @@ Bugs that automatically fixed in newer Android:
 - The RIL works fine again in Android 10. Also true with Network band. Except some quirks like in known bugs.
 
 Known bugs/Workarounds:
-- The purpose of MediaTek's DocumentsUI overlay (/vendor/overlay) is hide the Files launcher app in order to hide duplication of Google's Files (Go) app. It also breaks Files app when trying to show Internal Storage. Delete it.
+- The main purpose of MediaTek's DocumentsUI overlay (/vendor/overlay) is to hide the Files AOSP app in order to prevent duplication of Google's Files (Go) app that is pre-installed with the phone. It also breaks Files app when trying to show Internal Storage. Delete it.
 - Secure boot: Broken in Android 9 and up. For Android 9 will sort of works properly while Android 10 will broken completely (And don't even try to upgrade the OS from Android 9. It won't work and will ask you for "non-existent password".
 )
 - In Android 9. If you pre-lock and enabled lock on boot and happen to enter the wrong password in the first place. System will forced you to press Reset Phone button because you entered the wrong password "too much". Reboot the phone and try again.
@@ -104,4 +104,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 10:34 PM; December 21st, 2019_
+_**Last update:** 10:36 PM; December 21st, 2019_
