@@ -30,11 +30,13 @@
 - Wi-Fi will kinda hang system. Sometimes will not work at all.
 - Quickstep/SystemUI lock screen will hang the system and shows blank screen with System UI bar after a long while (Usually overnight sleep).
 - Don't set a lock screen. Will hang system and no password has been set after that. (Encryption issues)
+- That means you can't even use your existing user data from Android 8.1 or 9 to upgrade it. It will ask for Non-existent password when done with the upgrade. So backup before doing stuff.
 - Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
 - If system freaked out and got a Soft-reboot. Modem software will never work again until a full reboot is initiated.
 ## Android 9
 - Wi-Fi hotspot will always broken with any form of Google Apps installed. In older builds without Google Apps it would work, but newer builds will completely break this feature. (Except Android 8.1 has the Wi-Fi hotspot working perfectly. Android 10 will have some sort of problems with Wi-Fi or Wi-Fi tethering)
 - Used to has storage limitation to be flashed with v107. So far can flashed with v119 (With no built-in gapps).
+- Technically you can downgrade 9 to 8.1. But you can't get pass the lock screen. Because keyguard won't respond to your touches.
 ## Android 8
 - Nothing, except some quirks like internal thermal values like battery capacity or its health and voltage? Though it's literally Android 8.1 so this one will get the best compatibilty.
 
@@ -102,4 +104,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 10:23 PM; December 21st, 2019_
+_**Last update:** 10:29 PM; December 21st, 2019_
