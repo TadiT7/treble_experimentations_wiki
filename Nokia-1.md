@@ -6,45 +6,42 @@
 # Android RAW build support
 ## Overview
 
-> These Android builds only works and works best with 00WW_0_39L up to 00WW_1_550.
+> These Android builds only works and works best with 00WW_0_39L up to 00WW_1_550 Vendor/Kernel builds.
 
 > It would probably works with Android 9's Vendor/Kernel too if there is System-as-Root build for ARM-A phones. But the screen probably will not work since it blanked out in Android 8.1's last Maintain release (00WW_1_550_SP1, not 00WW_1_550).
 
 ## Common bugs in All builds
 ~~- Builds with Google Play Services crashes a lot. Install OpenGapps with the vanilla builds to fix this.~~ (Only true with older builds)
 
-~~- You should skip setup wizard because it takes a lot of time to complete.~~ (Edit the gapps properly and this won't happen again)
+- You should skip setup wizard because it took a lot of time to complete the "additional" installations.
 
-~~- Fake allowed SMS permissions.~~ (Edit the gapps properly and this won't happen again)
+~~- SMS permission is allowed for Google Play Services app by default but it was faked to be allowed and need to manually switch on/off in settings.~~ (Edit the gapps permissions properly and this won't happen again)
 
-- Please edit the device fingerprint property in /system/etc/prop.default, /system/build.prop, /vendor/default.prop and /vendor/build.prop so it would not make Google apps freaks out that your phone loaded with "Unofficial" build.
+- Edit the device's fingerprint property in /system/etc/prop.default, /system/build.prop, /vendor/default.prop and /vendor/build.prop to stop Google screaming out that this ROM isn't a legit ROM.
 
-- TWRP formats the /data in ext4. While we need f2fs to make system work. Only use Stock Android recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
+- TWRP formats the /data folder in ext4. While we need f2fs to make system work. So only Stock recovery or "fastboot -w" (Only works when bootloader unlocked) can wipe the phone's user data properly.
 
 - USSD incoming message without replies will get fixed in Android 9.
-- Wi-Fi hotspot always broken (Android 9+, with any form of Google Apps installed).
 
-- No 1st SIM incoming calls though.
+- 1st SIM slot will never get incoming call notification. Android will ignore it completely.
 
 ## Android 10
 - Very unstable.
 - Wi-Fi will kinda hang system. Sometimes will not work at all.
-- Quickstep/SystemUI lockscreen break after a long while (Blank screen).
-- Don't set a lock screen. Will hang system and no password has been set after that.
+- Quickstep/SystemUI lock screen will hang the system and shows blank screen with System UI bar after a long while (Usually overnight sleep).
+- Don't set a lock screen. Will hang system and no password has been set after that. (Encryption issues)
 - Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
-- If system freaked out and got a Soft-reboot. Modem software will never work again until a full reboot.
+- If system freaked out and got a Soft-reboot. Modem software will never work again until a full reboot is initiated.
 ## Android 9
-~~- Not sure. But there's a point of time where I can make Wi-Fi hotspot works with Android 9. But currently, it will not work.~~
-- Except Android 8.1 has the Wi-Fi working perfectly. Android 9 and 10 will have some sort of problems with Wi-Fi tethering.
-- Used to has storage limitation to be flashed with v107. So far can flashed with v119 (With no built-in gapps of course).
+- Wi-Fi hotspot will always broken with any form of Google Apps installed. In older builds without Google Apps it would work, but newer builds will completely break this feature. (Except Android 8.1 has the Wi-Fi hotspot working perfectly. Android 10 will have some sort of problems with Wi-Fi or Wi-Fi tethering)
+- Used to has storage limitation to be flashed with v107. So far can flashed with v119 (With no built-in gapps).
 ## Android 8
-- Nothing, except OEM's? Though it's literally Android 8.1 so this one will get the best compatibilty.
+- Nothing, except some quirks like internal thermal values like battery capacity or its health and voltage? Though it's literally Android 8.1 so this one will get the best compatibilty.
 
 
 # OEM's support (Vendor and Kernel)
 ## Overview
 > Build since 00WW_1_550_SP1 will break the screen. Still works though.
-
 > Build 00WW_1_550 will work the best of all Kernel/Vendor builds.
 ## Build since 00WW_0_39L and above (Android 8.1)
 > Won't mention the perfectly working features or known bugs (See older builds below).
@@ -105,4 +102,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 9:27 PM; November 21th, 2019_
+_**Last update:** 10:23 PM; December 21st, 2019_
