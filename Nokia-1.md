@@ -31,7 +31,7 @@
 - Quickstep/SystemUI lock screen will hang the system and shows blank screen with System UI bar after a long while (Usually overnight sleep).
 - Don't set a lock screen. Will hang system and no password has been set after that. (Encryption issues)
 - That means you can't even use your existing user data from Android 8.1 or 9 to upgrade it. It will ask for Non-existent password when done with the upgrade. So backup before doing stuff.
-- Video codec kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
+- Video codec is kinda broken (As seen in Google's looped static videos in Pixel Setup Wizard, Gesture settings illustration video)
 - If system freaked out and got a Soft-reboot. Modem software will never work again until a full reboot is initiated.
 ## Android 9
 - Wi-Fi hotspot will always broken with any form of Google Apps installed. In older builds without Google Apps it would work, but newer builds will completely break this feature. (Except Android 8.1 has the Wi-Fi hotspot working perfectly. Android 10 will have some sort of problems with Wi-Fi or Wi-Fi tethering)
@@ -54,7 +54,7 @@
 
 Bugs that automatically fixed in newer Android or Vendor builds:
 - The RIL works fine again in any Android. Except some quirks like in known bugs. (Vendor)
-- MediaTek's DocumentsUI overlay (/vendor/overlay) break Files app anymore.
+- MediaTek's DocumentsUI overlay (/vendor/overlay) won't break Files app anymore.
 ## Build since 00WW_1_33A and up (Android 8.1)
 
 | Component                 | Is it working?                                                                                          |
@@ -79,7 +79,7 @@ Bugs that automatically fixed in newer Android:
 - The RIL works fine again in Android 10. Also true with Network band. Except some quirks like in known bugs.
 
 Known bugs/Workarounds:
-- MediaTek's DocumentsUI overlay (/vendor/overlay) will hide the Files launcher app. It also break Files app when trying to show Internal Storage. Delete it.
+- The purpose of MediaTek's DocumentsUI overlay (/vendor/overlay) is hide the Files launcher app in order to hide duplication of Google's Files (Go) app. It also breaks Files app when trying to show Internal Storage. Delete it.
 - Secure boot: Broken in Android 9 and up. For Android 9 will sort of works properly while Android 10 will broken completely (And don't even try to upgrade the OS from Android 9. It won't work and will ask you for "non-existent password".
 )
 - In Android 9. If you pre-lock and enabled lock on boot and happen to enter the wrong password in the first place. System will forced you to press Reset Phone button because you entered the wrong password "too much". Reboot the phone and try again.
@@ -104,4 +104,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 10:29 PM; December 21st, 2019_
+_**Last update:** 10:34 PM; December 21st, 2019_
