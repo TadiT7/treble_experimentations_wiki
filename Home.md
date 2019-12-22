@@ -265,7 +265,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 8 Pro (UD)]]|equuleus|✓|A|arm64|
 |[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
 |[[Xiaomi Mi 9]]|cepheus|✓|A/B|arm64|
-|[[Xiaomi Mi 9 Lite]]|pyxis|✓|A/B|arm64|
+|[[Xiaomi Mi 9 Lite (Mi CC9)]]|pyxis|✓|A/B|arm64|
 |[[Xiaomi Mi 9 Pro 5G]]|сrux|✓|A/B|arm64|
 |[[Xiaomi Mi 9 SE]]|grus|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
@@ -281,6 +281,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
+|[[Xiaomi Mi Note 10 (CC9 Pro)]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|n/a||A|arm64|
 |[[Xiaomi Pocophone F1]]|beryllium|✓|A|arm64|
