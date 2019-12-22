@@ -265,6 +265,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 8 Pro (UD)]]|equuleus|✓|A|arm64|
 |[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
 |[[Xiaomi Mi 9]]|cepheus|✓|A/B|arm64|
+|[[Xiaomi Mi 9 Lite]]|pyxis|✓|A/B|arm64|
+|[[Xiaomi Mi 9 Pro 5G]]|сrux|✓|A/B|arm64|
 |[[Xiaomi Mi 9 SE]]|grus|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
@@ -296,9 +298,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
 |[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
+|[[Xiaomi Redmi 8A]]|olivelite|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi K20]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro]]|raphael|✓|A/B|arm64|
+|[[Xiaomi Redmi K20 Pro Premium]]|raphaels|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
@@ -306,8 +310,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
