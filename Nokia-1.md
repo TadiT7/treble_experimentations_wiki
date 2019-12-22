@@ -63,13 +63,13 @@ Bugs that automatically fixed in newer Android or Vendor builds:
 | Speaker / Mic             | ✓                                                                                                       |
 | Bluetooth / Hotspot       | ✓                                                                                                       |
 | Wi-Fi                     | ✓                                                                                                       |
-| Wi-Fi Hotspot             | ✓/✕ (Gapps somehow broke it in Android 9)                                                               |
+| Wi-Fi Hotspot             | ✓/✕ (Gapps somehow break it in Android 9)                                                               |
 | USB Tethering             | ✓                                                                                                       |
 | SIM / Mobile Data / Voice | ✓/✕ (No signal on SIMs, modem software crashes, LTE/WCDMA broken)                                       |
 | VoLTE                     | ✕ (Can't confirm it will work or not)  			                                                      |
 | Thermal Sensors           | ✕ (For example: Battery's temp, Battery's voltage) 										              |
 | GPS				        | ✓                                                                                                       |
-| Camera		            | ✓/✕ (Low light on Camera2 app)                                                                          |
+| Camera		            | ✓/✕ (Low light with Camera2 app, Use Google Camera 2.7 or 2.5)                                                                          |
 | Adaptive Brightness		| ✕                                                                                                       |
 | Night lights      		| ✕                                                                                                       |
 | Doze screen       		| ✕                                                                                                       |
@@ -84,8 +84,9 @@ Known bugs/Workarounds:
 )
 - In Android 9. If you pre-lock and enabled lock on boot and happen to enter the wrong password in the first place. System will forced you to press Reset Phone button because you entered the wrong password "too much". Reboot the phone and try again.
 - You can't set any form screen locking in Android 10.
-- RIL modem: No 1st SIM incoming call, 2nd SIM as Data SIM/LTE (2G only). No proper network band selecting.
-- Prelocking SIM with a PIN will make the phone bootlooped in the initial setup process.
+- RIL modem: 1st SIM slot will never get incoming call and is the only slot that work as Data SIM with All networks like 4/3/2G. No proper network band selecting.
+- 2nd SIM slot will only work as a Non data SIM with 2G only. Forcing system choosing this slot as data SIM will freaks out the modem software (no network on both SIMs, system hangs)
+- Prelocking SIM with a PIN will make the phone bootlooped while the phone is completing the initial setup process.
 - Wi-Fi in Android 10: Probably unstable.
 - Wi-Fi Hotspot in Android 9+: Can't figured out yet. But at least Android 10 won't freak out the OS and soft reboot.
 - Booting into Android causes screen went out for a few secs.
@@ -104,4 +105,4 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 10:36 PM; December 21st, 2019_
+_**Last update:** 7:10 PM; December 22nd, 2019_
