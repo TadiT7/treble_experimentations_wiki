@@ -10,7 +10,7 @@
 | SIM / Mobile Data / Voice | ✓                                                         |
 | VoLTE                     | ✓                                                         |
 | Fingerprint               | ✓                                                         |
-| NFC                       | ✓ (Unable to test due to lack of hardware.)               |
+| NFC                       | ✓                                                         |
 
 Vendor error will appear every time when booting.
 
