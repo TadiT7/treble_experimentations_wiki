@@ -48,6 +48,7 @@ Effect:
 AOSP 8.1: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus 00CN_1_30C @ 26/06/2019
 
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus 00WW_2_230 @ 26/06/2019
+
 AOSP 9: * Zapacitu18  @ Nokia 3.1 Plus 00CN_1_30C @ 12/23/2019
 
 Template created by @zguithues
