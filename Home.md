@@ -31,7 +31,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
-|[[Barnes & Noble Nook Tablet 10.1]](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|BNTV650|✓|A|arm64|
+|[Barnes & Noble Nook Tablet 10.1](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|BNTV650|✓|A|arm64|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview A60]]|a60|✓ (Go)|A|arm|
 |[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
@@ -265,7 +265,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 8 Pro (UD)]]|equuleus|✓|A|arm64|
 |[[Xiaomi Mi 8 SE]]|sirius|✓|A|arm64|
 |[[Xiaomi Mi 9]]|cepheus|✓|A/B|arm64|
-|[[Xiaomi Mi 9 Lite (Mi CC9)]]|pyxis|✓|A/B|arm64|
+|[[Xiaomi Mi 9 Lite (CC9)]]|pyxis|✓|A/B|arm64|
 |[[Xiaomi Mi 9 Pro 5G]]|сrux|✓|A/B|arm64|
 |[[Xiaomi Mi 9 SE]]|grus|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
