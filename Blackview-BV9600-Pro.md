@@ -79,7 +79,7 @@ Comment (tested by [@AreYouLoco?](https://github.com/AreYouLoco)) | [Github Issu
 | WiFi                      | Ok                                                        | 5GHz: Ok / 2.4Ghz: Ok                                                      |        |
 | SIM / Mobile Data / Voice | Not tested                                                | Not tested                                                |        |
 | VoLTE                     | Not tested                                                | Not tested                                                |        |
-| GPS                       | Ok                                                        | Not tested                                                |        |
+| GPS                       | Ok                                                        | Ok                                                |        |
 | Fingerprint               | Ok                                                        | Ok                                                |        |
 | NFC                       | Not working                                               | Ok? (Other phone could detect tag) / Payment: Not tested                                               |        |
 | Proximity sensor / Giro / Magnetic / Pressure   | Ok / Ok                                        | Not working / Ok / Ok / Not working                                      |        |
