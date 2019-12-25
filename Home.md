@@ -37,7 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
 |[[Blackview BV9500]]|s32v63c2k_jk|✓|A|arm64|
 |[[Blackview BV9500 Pro]]|n/a|✓|A|arm64|
-|[[Blackview BV9600 Pro]]|k71v1_64_bsp|✓|A or A/B|arm64|
+|[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[BLU Vivo XL4]]|n/a|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Chuwi Hi9 Air]]|n/a|✓|A|arm64|
