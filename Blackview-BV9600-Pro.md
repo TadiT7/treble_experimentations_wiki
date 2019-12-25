@@ -75,7 +75,7 @@ Comment (tested by [@AreYouLoco?](https://github.com/AreYouLoco)) | [Github Issu
 |---------------------------|:---------------------------------------------------------:|:---------------------------------------------------------:|:------:|
 | Camera                    | Back: At least 1 Ok / Front: Ok                         | Back: Not working / Front: Ok                         |        |
 | Speaker / Microphone             | Main Speaker: Not working / "Call" Speaker: Ok / Mic: Ok     | Main Speaker: Not working / "Call" Speaker: Not tested / Mic: Ok     | [Link] |
-| Bluetooth                 | Not tested                                                | Ok? (Turns on, detects devices, but disconnects randomly)                                                |        |
+| Bluetooth                 | Not tested                                                | Ok? (Turns on, detects devices, but disconnects randomly. Audio stream works tho!)                                                |        |
 | WiFi                      | Ok                                                        | 5GHz: Ok / 2.4Ghz: Ok                                                      |        |
 | SIM / Mobile Data / Voice | Not tested                                                | Not tested                                                |        |
 | VoLTE                     | Not tested                                                | Not tested                                                |        |
