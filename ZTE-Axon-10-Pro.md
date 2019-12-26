@@ -7,7 +7,7 @@
 * Speaker: Works.
 * Microphone: Works.
 * Bluetooth: A2DP,transfer, incall audio everything works.
-* Telephony: VOLTE does not work, ims.apk could possibly fix it, needs testing, SMS only work on HSPA.
+* Telephony: VOLTE does not work related to SMS only working on HSPA,ims.apk could possibly fix it, needs testing,
 * Fingerprint sensor: Not working
 
 ## Additional Notes:
