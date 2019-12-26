@@ -1,11 +1,12 @@
-# Hardware Support
+# Hardware Support:
+* Brightness: Has correct values
 * Camera: Stock camera works.
 * GPS:  works.
 * Stereo Sound: Audio comes out of both speakers.
 * NFC: works 
 * Speaker: Works.
 * Microphone: Works.
-* Bluetooth: Work's.
+* Bluetooth: A2DP,transfer, incall audio everything works.
 * Telephony: VOLTE does not work, ims.apk could possibly fix it, needs testing.
 * Fingerprint sensor: Not working
 
