@@ -67,7 +67,7 @@ http://bigota.d.miui.com/V10.3.1.0.PEBCNXM/sirius_images_V10.3.1.0.PEBCNXM_20190
 > Tip: If TWRP does not start then use combination of buttons `(POWER) + (VOLUME +)` to force the device to start from the recovery 
 
 ### b. Installing the latest available version of MIUI EU (or flash the boot.img only)
-1. Enter `TWRP` and perform `WIPE > FORMAT DATA` and factory reset
+1. Enter `TWRP` and perform `WIPE > FORMAT DATA` and `FACTORY RESET`
 2. Copy the ZIP file (MIUI 10) to `DEVICE / TWRP` from the `Windows Explorer` (Drag and Drop)
 3. Next go to `INSTALL > INSTALL ZIP`, enter the directory `/data/media/0/TWRP`, flash ZIP file and finish by pressing `SWIPE TO CONFIRM FLASH`
 4. Wait for the installation to finish (the system starts in initial MIUI screen)
