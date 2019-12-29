@@ -53,7 +53,7 @@ Summary of what works and doesn't
 | Other feature             | Work                                                      |
 ---
 ## Tested GSI's
-Lineage OS 16/17,AOSP 9/10,Piexl Expirience 9/10,Havoc OS.
+Lineage OS 16/17,AOSP 9/10, Pixel Expirience 9/10,Havoc OS.
 ## Tested By:
 LittleCherryFox,Iddqd228 and other guys from 4PDA 
 # Info
