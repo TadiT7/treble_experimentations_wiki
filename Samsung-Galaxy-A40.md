@@ -52,5 +52,9 @@ Summary of what works and doesn't
 | Bluetooth calls           | Not work                                                  |
 | Other feature             | Work                                                      |
 ---
-Tested GSI's - Lineage OS 16/17,AOSP 9/10,Piexl Expirience 9/10,Havoc OS.
-Tested By: LittleCherryFox,Iddqd228 and other guys from 4PDA - Model-Number(A405-FM,A405-FN), Firmware Version A405XXXXU2ASJ1 - Date tested - December 2019  Template created by @zguithues and @hackintosh5
+## Tested GSI's
+Lineage OS 16/17,AOSP 9/10,Piexl Expirience 9/10,Havoc OS.
+## Tested By:
+LittleCherryFox,Iddqd228 and other guys from 4PDA 
+# Info
+Model-Number(A405-FM,A405-FN), Firmware Version A405XXXXU2ASJ1 - Date tested - December 2019  Template created by @zguithues and @hackintosh5
