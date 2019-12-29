@@ -1,6 +1,11 @@
 # Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)
 ![Nook Tablet 10.1](https://prodimage.images-bn.com/pimages/9780594827917_p0_v1_s600x595.jpg)
 
+## Stock Android 8.1 Oreo v1.0.9 firmware files (excluding the userdata.img):
+
+Link: ([click here to continue to the download](https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view))
+
+
 # Working & non-working Phh-Treble versions (with added notes):
 
 * Phh-Treble v25 (The boot animation seems not to show up on this build. That can be fixed with this commit: ([click here to continue to the commit](https://github.com/phhusson/device_phh_treble/commit/92db7539d07ddb90f89fb611c6f32f3f72b3f349))
