@@ -34,7 +34,6 @@ AOSP 9.0 - Phh-Treble (2019-03-10)
 
 RR 7.0 (Pie) - Resurrection Remix Team (2019-04-07)
  ## Tested By:
-* [Chakib_Chemso]
-(https://github.com/ChemsoDev)
+* [Chakib_Chemso](https://github.com/ChemsoDev)
 * [phh](https://github.com/phhusson) - 2018-12-05
 * [takarushi](https://github.com/takarushi) - 2019-03-10 & 2019-04-07
