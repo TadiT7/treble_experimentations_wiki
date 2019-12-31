@@ -7,7 +7,7 @@ Works with selinux=permissive, VoLTE untested, all other hardware works.
 #### 1. Unlock bootloader
 Using the Xiami tool or [Penn5's tool](https://github.com/penn5/miunlock)
 
-#### 2. Flash stock rom [V10.2.8.0.PFLEUXM_20190407](http://bigota.d.miui.com/V10.2.8.0.PFLEUXM/onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea_c3f21781e6.tgz)
+#### 2. Flash stock rom [V11.0.2.0.PFLMIXM_20191022](https://bigota.d.miui.com/V11.0.2.0.PFLMIXM/onclite_global_images_V11.0.2.0.PFLMIXM_20191022.0000.00_9.0_global_b0cd3cab92.tgz)
 ([_index of ROMs_](https://mirom.ezbox.idv.tw/en/phone/onclite/))
 
 Not sure if you need this, but this is what worked for me.
@@ -16,14 +16,12 @@ Note: I've made sure the device is not rebooting after this step by uncommenting
 in the second last line of "flash_all.sh" below. This enables the GSI ROM to run the device encryption.
 
 ```
-$ wget http://bigota.d.miui.com/V10.2.8.0.PFLEUXM/
-onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea_c3f21781e6.tgz
-$ tar -xzvf onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea_c3f21781e6.tgz
-$ cd onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea
+$ wget https://bigota.d.miui.com/V11.0.2.0.PFLMIXM/onclite_global_images_V11.0.2.0.PFLMIXM_20191022.0000.00_9.0_global_b0cd3cab92.tgz
+$ tar -xzvf onclite_global_images_V11.0.2.0.PFLMIXM_20191022.0000.00_9.0_global_b0cd3cab92.tgz
+$ cd onclite_global_images_V11.0.2.0.PFLMIXM_20191022.0000.00_9.0_global
 $ cat ./flash_all.sh | sed "s/fastboot reboot/#fastboot reboot/g" > flash_all_no_reboot.sh
 $ chmod u+x ./flash_all_no_reboot.sh
 $ ./flash_all_no_reboot.sh
-$ cd ..
 ```
 
 #### 3. Flash vbmeta with disable verity
@@ -35,7 +33,7 @@ Note: Flashing with --disable-verity AND --disable-verification did NOT enable
 the device to boot (stuck in bootloader). Flashing with --disable-verity ONLY worked for me.
 
 ```
-$ fastboot flash --disable-verity vbmeta onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea/images/vbmeta.img
+$ fastboot flash --disable-verity vbmeta images/vbmeta.img
 ```
 
 #### 4. Modify stock boot.img to make "androidboot.selinux=permissive"
@@ -47,11 +45,11 @@ The following commands basically add "androidboot.selinux=permissive" to the
 end of the kernel cmdline in boot img.
 
 ```
-$ cp ../onclite_eea_global_images_V10.2.8.0.PFLEUXM_20190407.0000.00_9.0_eea/images/boot.img stock-boot-with-bootarg-permissive.img
-$ echo "7c7b4e0b4acd2eb3dd3a31d1aaf5270d  stock-boot-with-bootarg-permissive.img" | md5sum -c
+$ cp images/boot.img stock-boot-with-bootarg-permissive.img
+$ echo "6d6dd34f63ab42785186e01ca036a751  stock-boot-with-bootarg-permissive.img" | md5sum -c
 $ if [ $? -ne 0 ] ; then echo "MD5 checksum of input boot.img not as expected"; fi
 $ printf " androidboot.selinux=permissive" | dd if=/dev/stdin of=stock-boot-with-bootarg-permissive.img obs=1 seek=388 conv=notrunc
-$ echo "c68488a9ca4565f7f71578c47e571cfb  stock-boot-with-bootarg-permissive.img" | md5sum -c
+$ echo "be80a5217ebe846c1e547c14092c4efe  stock-boot-with-bootarg-permissive.img" | md5sum -c
 $ if [ $? -eq 0 ] ; then echo "MD5 checksum of patched boot.img is OK - patching successful"; fi
 ```
 
