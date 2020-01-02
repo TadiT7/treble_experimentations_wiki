@@ -313,8 +313,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 8T]]|willow|✓|A|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
