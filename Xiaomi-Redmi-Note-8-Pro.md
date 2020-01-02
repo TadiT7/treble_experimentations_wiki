@@ -2,7 +2,7 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Status: Working                                           |
+| Camera                    | Status: Working, No 64MP Support                          |
 | Speaker / Mic             | Status: Working                                           |
 | Bluetooth                 | Status: Working                                           |
 | WiFi                      | Status: Working                                           |
