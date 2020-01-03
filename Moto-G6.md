@@ -1,40 +1,98 @@
-##Moto G6 (32Gb/3GB RAM)
-A-Only-32bit-Vanilla- no su
+>Moto G6 (32GB/3GB RAM)
+A-Only - 32bit - Vanilla - no su
+## Bluetooth
 
-* Camera:
-> Working (Video working too)
+|  Version      |Status |
+|---------------|-------|
+| Android Oreo  |  -    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
+>On Oreo, you may need to use VIPER4ANDROID to fix some audio issues
+### Bluetooth Low Energy:
 
-* Speaker / Microphone
-> Tested only in video recording and works
+|  Version      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
 
-* Bluetooth
-> Bug with a2dp
-"Partially repaired" by installing magisk, then install the viper4android module. (Using "VIPER4Android FX Materialized" v.1.7.1) (This does not fix all sounds on the device, such as Google Duo's audio, but it does fix most)
+## Camera
 
-> BLE working (tested with Garmin Fenix 3HR smartwatches)
+|  Version      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
 
-> File transfer (Send/Receive) working fine
+## Compass
 
-* Wifi
-> Working
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
 
-* SIM / Mobile Data / Voice
-> Working
+## File transfer
 
-* Fingerprint Reader
-> Working (unlock device)
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
 
-> Moto actions not working
+## Fingerprint Reader
 
-* Location
-> GPS working
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
 
-> Compass working
+## Location
 
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √/-  |
+>On Android 10, location may randomly not work at times
 
-* There is no NFC switch in setting
+## Moto Actions
 
-## Next known bugs:
-* Moto G6 have only one partition (A-only)
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  ×    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
+
+## SIM / Mobile Data / Voice
+
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  ×    |
+
+>On Android 10, calling currently does not work as callers can't hear you. On Android Pie, vendor modem is broken: **use Oreo modem**!
+
+## Speaker / Microphone
+
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  √    |
+
+## Wifi
+
+|  Working      |Status |
+|---------------|-------|
+| Android Oreo  |  √    |
+| Android Pie   |  √    |
+| Android 10    |  -    |
+>Some have reported WiFi randomly dropping at times
+
+## Notes:
+* Moto G6 only has one partition (A-only)
 [Treble Checker](https://drive.google.com/open?id=1nO3aStuZ7dY03Vdxkn2y6f1t5FO5cAfg)
-
+* Moto G6 has a 64-bit architecture but has a 32-bit kernel so always flash **arm**.
