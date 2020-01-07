@@ -4,7 +4,8 @@
 * confirmed on: [BND-L24][BND-L21]
 * waiting for confirmation: [BND-AL00/AL10/AL20/L22/L31&TL10]
 * have test LineageOS,AOSP and Dotos
-* Treble ROMs for Honor 7x":https://forum.xda-developers.com/honor-7x/how-to/best-treble-roms-honor-7x-t3799700
+* Treble ROMs for Honor 7x:  
+  https://forum.xda-developers.com/honor-7x/how-to/best-treble-roms-honor-7x-t3799700
 
 ## Hardware Support
 ### RR and AOSP:
