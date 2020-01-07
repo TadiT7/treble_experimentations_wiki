@@ -25,7 +25,7 @@ Be patient, the first boot will take a while
 |---------------------------|-----------------------------------------------------------------|
 | Camera                    | Works                                                           |
 | Speaker / Mic             | Works                                                           |
-| Bluetooth                 | Works                                                           |
+| Bluetooth                 | Has issues with audio                                           |
 | WiFi                      | Works                                                           |
 | SIM / Mobile Data / Voice | Works (Tested with Boost Mobile, APNs may need to be added manually)|
 | VoLTE                     | Untested                                                        |
