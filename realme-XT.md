@@ -29,8 +29,9 @@
 | Offline Charging          | Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Working                                                   |
+| Auto-Brightness           | Working                                                   |
 ---
 
 Tested By: Kamildotmus / whitefox9000 - RMX1921 , Firmware version - RMX1921EX_11.A.11, Date tested - 04/11/2019.
-
+Tested By: pjgowtham/ Lineage 17.1 GSI -RMX1921 , Firmware version - RMX1921EX_11.A.14, Date tested - 06/01/2020
 Template created by @zguithues and @hackintosh5
