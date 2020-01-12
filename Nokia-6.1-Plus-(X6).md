@@ -11,7 +11,7 @@ Component      | Support
 **Mobile Data**    | Yes                                                                                            |
 **Bluetooth**      | Yes                                                                                |
 **GPS**            | Yes                                        |
-**VoLTE**          | Not tested yet.                                                                                |
+**VoLTE**          | No                                                                                |
 **Compass**        | Yes                                                                                            |
 **NFC**            | No compatiable hardware available.                                                             |
 **Notch**          | Mostly yes. Sometimes when many notifications come through, They go in to area of the notch.   |
