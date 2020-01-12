@@ -9,8 +9,8 @@ Component      | Support
 **Camera**         | Yes, Works on 3rd party apps too(Snapchat, Instagram).                                         |
 **WiFi**           | Yes                                                                                            |
 **Mobile Data**    | Yes                                                                                            |
-**Bluetooth**      | I think yes, My phone was visible to other devices accessing bluetooth.                                                                                |
-**GPS**            | Not sure. Third-party apps can locate the device, But google maps cannot locate the device and load the map even after granting location permissions.                                         |
+**Bluetooth**      | Yes                                                                                |
+**GPS**            | Yes                                        |
 **VoLTE**          | Not tested yet.                                                                                |
 **Compass**        | Yes                                                                                            |
 **NFC**            | No compatiable hardware available.                                                             |
@@ -22,9 +22,7 @@ Component      | Support
 ---------------------------------------------------------------------------------------------------------------------------
 >The phone runs cooler than stock ROM and also is cooler during fast charging. Battery is better than the stock ROM. Performance is sufficient for a user's daily needs(Social Media, Light gaming and calls) although there are lags when the device is pushed.
 
->Google Assistant is not available in this ROM even after installing both the Google App and Google Assistant .apk files from Google Play. Says device not supported.
-
->I had to change the network signal reading method RSRP to get accurate signal reading. Leaving it on default mode shows no signal while the other two shows full-signal always.
+>Move the Google app to /root/system-priv/ directory to enable Google Assistant
 
 >Viper4Android(I used the magisk module, Material Edition) needs the option **Attach Audio Effects** to process sound effects properly.
 
@@ -32,6 +30,6 @@ Component      | Support
 
 >Magisk's safetynet manager will report ```Basic Intergrity:True``` and ```CTS:False```. You can use the MagiskHideProps module to pass the CTS test. Enable advanced hiding and change the fingerprint to Nokia 7 plus's(B2N). (Theoretically you can use any Fingerprint but i've never tested any other than Nokia 7 plus's.
 ---------------------------------------------------------------------------------------------------------------------------
-Tested by Thanuj/SnapDrag910/MatteBlacke
+Tested by CarbonGTR
 
 Cheers!
