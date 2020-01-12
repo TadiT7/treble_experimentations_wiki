@@ -36,7 +36,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview A60]]|a60|✓ (Go)|A|arm|
 |[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
 |[[Blackview BV9500]]|s32v63c2k_jk|✓|A|arm64|
-|[[Blackview BV9500 Pro]]|n/a|✓|A|arm64|
+|[[Blackview BV9500 Pro]]|s32v63c2k_jk_pro|✓|A|arm64|
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[BLU Vivo XL4]]|n/a|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
@@ -45,6 +45,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|n/a|✓|A|arm64|
+|[[Cubot X19]]|n/a|✓|A/B|arm64|
 |[[DEXP A140]]|n/a|✓|A|arm|
 |[[DEXP A240]]|n/a|✓|A|arm|
 |[[DEXP B260]]|n/a|✓|A|arm|
@@ -242,6 +243,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|n/a||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
+|[[Ulefone Armor X]]|n/a||A|arm64|
 |[[Umidigi A3]]|n/a||A|arm64|
 |[[Umidigi A3 Pro]]|n/a||A|arm64|
 |[[Umidigi A5 Pro]]|n/a||A/B|arm64|
@@ -313,15 +315,18 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
 |[[ZTE Axon 7]]|axon7||A|arm64|
+|[[ZTE Blade A3 (2019)]]|n/a|✓|A/B|arm_binder64|
 |[[ZTE Blade V9]]|n/a||A|arm64|
+|[[ZTE Blade V9 Vita]]|n/a||A|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
 |[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
 |[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
+|[[ZTE Nubia Z18]]|nx606j||A|arm64|
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
