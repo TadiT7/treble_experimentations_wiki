@@ -21,7 +21,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alcatel 5V 5060D]]|n/a||A|arm64|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
-|[[AllView V3 Viper]]|v3_viper|✓|A|arm64|
+|[[AllView V3 Viper]]|V3_Viper|✓|A|arm64|
 |[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
