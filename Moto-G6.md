@@ -7,7 +7,8 @@ A-Only - 32bit - Vanilla - no su
 | Android Oreo  |  -    |
 | Android Pie   |  √    |
 | Android 10    |  ×    |
->On Oreo, you may need to use VIPER4ANDROID to fix some audio issues
+>On Oreo, you may need to use VIPER4ANDROID to fix some audio issues.
+
 >On Android 10, Bluetooth is extremely broken. Audio doesn't play, app playing audio lags and crashes, volume becomes unresponsive. VIPER4ANDROID ***breaks*** the OS completely (pressing OK on the lockscreen causes it to just gray out and do nothing, mobile networks are broken)
 ### Bluetooth Low Energy:
 
@@ -57,7 +58,9 @@ A-Only - 32bit - Vanilla - no su
 |---------------|-------|
 | Android Oreo  |  √    |
 | Android Pie   |  √    |
-| Android 10    |  √    |
+| Android 10    |  -    |
+
+>Oddly, the fingerprint sensor sometimes causes Google Assistant to be triggered on the lockscreen which basically renders it useless in its most used part.
 
 ## Location
 
