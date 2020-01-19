@@ -76,7 +76,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 4 and Pixel 4 XL]]|flame and coral|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
-|[[Huawei Honor 6X]]|bln|✓|A|arm64|
+|[[Huawei Honor 6X]]|berlin / bln|✓|A|arm64|
 |[[Huawei Honor 7A]]|dua|✓|A|arm64|
 |[[Huawei Honor 7A Pro]]|aum|✓|A|arm64|
 |[[Huawei Honor 7C]]|aum|✓|A|arm64|
@@ -90,6 +90,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
 |[[Huawei Honor View 10]]|berkeley / bkl|✓|A|arm64|
 |[[Huawei Mate 9]]|mha|✓|A|arm64|
+|[[Huawei Mate 10]]|alp|✓|A|arm64|
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
@@ -99,11 +100,16 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P Smart Z]]|stk|✓|A|arm64|
 |[[Huawei P8 Lite (2017)]]|prague / pra|✓|A|arm64|
 |[[Huawei P9]]|eva|✓|A|arm64|
+|[[Huawei P9 Lite]]|vns|✓|A|arm64|
+|[[Huawei P9 Plus]]|vienna / vie|✓|A|arm64|
 |[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei P10 Lite]]|was|✓|A|arm64|
 |[[Huawei P20]]|eml|✓|A|arm64|
 |[[Huawei P20 Lite]]|ane|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei P20 Pro]]|charlotte / clt|✓|A (A/B when updated to EMUI 9)|arm64|
+|[[Huawei P30]]|ele|✓|A/B|arm64|
+|[[Huawei P30 Lite]]|mar|✓|A/B|arm64|
+|[[Huawei P30 Pro]]|vog|✓|A/B|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|fla|✓|A|arm64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
