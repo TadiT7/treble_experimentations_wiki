@@ -94,7 +94,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
-|[[Huawei MediaPad M5 Lite]]||BAH2|A|arm64|
+|[[Huawei MediaPad M5 Lite]]|BAH2||A|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
 |[[Huawei P Smart (2019)]]|pot|✓|A|arm64|
 |[[Huawei P Smart Z]]|stk|✓|A|arm64|
