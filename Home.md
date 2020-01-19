@@ -30,6 +30,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
+|[[Asus Zenfone Max M2 (ZB632KL)]]|X01AD|✓|A/B|arm64|
+|[[Asus Zenfone Max M2 (ZB633KL)]]|X01AD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
 |[Barnes & Noble Nook Tablet 10.1](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|BNTV650|✓|A|arm64|
@@ -50,7 +52,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
 |[[DEXP B260]]|b260|✓|A|arm|
-|[[DEXP BL250]]|BL250|✓|A|arm|
+|[[DEXP BL250]]|bl250|✓|A|arm|
 |[[Doogee X5]]|X5|✓|A|arm|
 |[[Doogee X5 Max]]|X5max|✓|A|arm|
 |[[Doogee X5 Max Pro]]|X5max_PRO|✓|A|arm|
@@ -64,7 +66,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[General Mobile GM 5]]|GM5_sprout||A|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock / GM5PlUS_sprout||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
-|[[General Mobile GM 8 Go]]|GM8_go|✓ (Go)|A|arm|
+|[[General Mobile GM 8 Go]]|GM8_go_sprout|✓ (Go)|A|arm|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
@@ -86,22 +88,22 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
-|[[Huawei Honor View 10]]|berkeley|✓|A|arm64|
+|[[Huawei Honor View 10]]|berkeley / bkl|✓|A|arm64|
 |[[Huawei Mate 9]]|mha|✓|A|arm64|
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
-|[[Huawei Mate 10 Pro]]|blanc|✓|A|arm64|
+|[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei MediaPad M5 Lite]]||BAH2|A|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
 |[[Huawei P Smart (2019)]]|pot|✓|A|arm64|
 |[[Huawei P Smart Z]]|stk|✓|A|arm64|
-|[[Huawei P8 Lite (2017)]]|prague|✓|A|arm64|
+|[[Huawei P8 Lite (2017)]]|prague / pra|✓|A|arm64|
 |[[Huawei P9]]|eva|✓|A|arm64|
 |[[Huawei P10 and P10 Plus]]|vtr and vky|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei P10 Lite]]|was|✓|A|arm64|
 |[[Huawei P20]]|eml|✓|A|arm64|
 |[[Huawei P20 Lite]]|ane|✓|A (A/B when updated to EMUI 9)|arm64|
-|[[Huawei P20 Pro]]|clt|✓|A (A/B when updated to EMUI 9)|arm64|
+|[[Huawei P20 Pro]]|charlotte / clt|✓|A (A/B when updated to EMUI 9)|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|fla|✓|A|arm64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
@@ -259,6 +261,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Wiko View Max]]|p200|✓|A|arm|
 |[[Wileyfox Swift]]|crackling||A|arm64|
 |[[Wileyfox Swift 2 (Plus) (X)]]|marmite||A|arm64|
+|[[Xiaomi Black Shark]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark Helo]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 2]]|n/a|✓|A/B|arm64|
 |[Xiaomi Mi 3 / Mi 4](https://github.com/phhusson/treble_experimentations/wiki/Xiaomi-Mi-3-Mi-4)|cancro||A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
