@@ -49,7 +49,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
 |[[Cubot X19]]|x19|✓|A/B|arm64|
-|[[CherryMobileFlareS8]]|X930|✓|A/B|arm64|
+|[[CherryMobileFlareS8]]|g1860ps_v2_gh_fng_g33scr_p|✓|A/B|arm64|
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
 |[[DEXP B260]]|b260|✓|A|arm|
