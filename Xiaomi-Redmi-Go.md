@@ -30,6 +30,7 @@ Hardware Support
 
 ### Flashing direct image
 
+*  Note some expert please add the decryption fix here. as this method does not work.
 * `fastboot flash system _your_gsi_path_`
 * `fastboot format userdata `
 * `fastboot reboot`
@@ -42,16 +43,21 @@ Hardware Support
 * Hold Volume Down + Power Key to boot to TWRP
 * Make a backup of stock ROM
 * Copy the TWRP backup to your computer just in case
-* Copy `system-arm-aonly-gapps-su.img` to internal storage (after` unxz filename` from  https://github.com/phhusson/treble_experimentations/releases
+* Now inside TWRP -> Format DATA. Type "yes".
+* In the same thread ( https://forum.xda-developers.com/android/development/recovery-twrp-3-3-0-redmi-t3929282 ) there is the "Decryption Fix" file: decrypt.zip
+* copy the decrypt.zip to your phone using MTP
+* Select install and flash the decrypt.zip
+* Now copy `system-quack-arm-aonly-vanilla.img` to internal storage (after` unxz filename` from  https://github.com/phhusson/treble_experimentations/releases
 * Flash as 'system image'
-* "Format data" (I do not know why, but if I did not do it system did not boot).
 * Reboot to System
+
 
 ***
 
 
 ### Working GSI builds 
 
+* Tested AOSP 10.0 v209 (Jan 2020) 
 * Tested sep 2019 AOSP 9.0 v119 https://github.com/phhusson/treble_experimentations/releases   
 * Aosp 8 go
 * RR oreo go 
