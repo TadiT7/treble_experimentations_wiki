@@ -1,0 +1,1 @@
+CherryMobile Flare S8
