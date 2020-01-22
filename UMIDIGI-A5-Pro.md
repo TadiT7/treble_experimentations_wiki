@@ -10,7 +10,7 @@ Three possibilities :
 1. [Install TWRP](https://androidfilehost.com/?w=files&flid=297428) into ``recovery`` using SPFT method
 2. Boot into TWRP : Shut down the phone, press power + vol up. It will bring a menu, you can navigate using vol+ and select using vol-
 3. Use "install image" to install system.img into ``system``
-4. Use [install image](https://androidfilehost.com/?fid=6006931924117944358) to install vendor_1.4_treble_encryptable_a5PRO.img into ``vendor``
+4. Use [install image](https://androidfilehost.com/?fid=6006931924117944358) to install vendor_treble_encryptable_a5PRO.img into ``vendor``
 5. Clear data partition in TWRP
 
 ### Install using SPFT (Doesn't require bootloader unlock)
