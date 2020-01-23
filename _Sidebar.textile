@@ -1,1 +1,0 @@
-!git://(git clone https://git.code.sf.net/p/lineage-15-1-gsi/code lineage-15-1-gsi-code)!
