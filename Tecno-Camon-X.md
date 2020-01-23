@@ -20,6 +20,9 @@ if there is a bootloop use this command `adb root & adb shell setprop ro.audio.i
 
 ## Steps to install
 Since there is no working version of TWRP on this device, I used adb and fastboot to flash the rom
+
+Edit: TWRP for this device is found [here](http://www.mediafire.com/file/5lqwu35xlrnf9wo/TWRP_for_Tenco_Camon_X_%2528CA7%2529.zip/file)
+
 * Step 1
 While you are still on your stock rom, you need to patch boot.img with magisk otherwise it'll not boot
 Download adb and fastboot from [here](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)
@@ -32,12 +35,12 @@ After getting the necessary files i used the this [guide](https://www.xda-develo
 
 | Component                 |      Comment                                                       |
 |---------------------------|--------------------------------------------------------------------|
-| Camera                    | My camera is broken                                                    |
+| Camera                    | Works                                                              |
 | Speaker / Mic             | Works                                                              |
 | Bluetooth                 | Works                                                              |
 | WiFi                      | Works                                                              |
 | SIM / Mobile Data / Voice | Works                                                              |
-| VoLTE                     | havent tested                                                    |
+| VoLTE                     | havent tested                                                      |
 | Fingerprint               | Works                                                              |
 | NFC                       | Doesn't have                                                       |
 | Offline Charging          | Not working                                                        |
@@ -48,4 +51,5 @@ Tested By: Tashi
 Model-Number(region): International
 Firmware Version - 
 Date tested - 30 October 2019
+Edited and Updated By: Racka98 (23 January 2019)
 Template created by @zguithues and @hackintosh5
