@@ -113,6 +113,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P30 Pro]]|vog|✓|A/B|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|fla|✓|A|arm64|
+|[[Infinix Hot 8]]|x650B|✓|A/B|arm_binder64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
