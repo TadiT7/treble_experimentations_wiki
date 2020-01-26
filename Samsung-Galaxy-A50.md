@@ -54,5 +54,5 @@
 | Dual SIM                  | Yes                                                                 |
 | VoLTE                     | No                                                                  |
 | Fingerprint               | No                                                                  |
-| NFC                       | Yes                                                                 |
+| NFC                       | Yes(Some models do not include this feature)                        |
 ---
