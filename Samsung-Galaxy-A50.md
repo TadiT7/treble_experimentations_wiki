@@ -1,5 +1,3 @@
-# Samsung Galaxy A50
-
 ## What works with fixes:
 #### [Overlay + Build.prop](https://t.me/a50_offl/54):
 - Auto Brightness
