@@ -22,6 +22,10 @@
 - [ **G-APPs** ](https://opengapps.org/)
 - [ **PHH-Magisk** ](https://t.me/a50_offl/117)
 
+## A50 Forums:
+- [XDA](https://forum.xda-developers.com/galaxy-a50)
+- [Telegram](https://t.me/SamsungGalaxyA50)
+
 ## Steps to install:
 
 1. Go to settings and search for **_Build Number_** and repeatedly tap the **_Build Number_** until you see a message saying that you have unlocked the developer settings.
