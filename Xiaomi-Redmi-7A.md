@@ -1,6 +1,6 @@
 # Device
 
-Xiaomi Redmi 7A
+Xiaomi Redmi 7A arm32 binder 64
 
 ## Steps to install
 Refer to XDA Thread
