@@ -63,6 +63,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
 |[[General Mobile GM 5]]|GM5_sprout||A|arm64|
 |[[General Mobile GM 5 Plus]]|shamrock / GM5PlUS_sprout||A|arm64|
