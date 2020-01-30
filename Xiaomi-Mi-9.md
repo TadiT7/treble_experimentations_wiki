@@ -112,7 +112,7 @@ https://t.me/mi9aosp
 
 https://t.me/mi9group
 
-https://t.me/mi9discussion
+https://t.me/UOCepheus
 
 There are several groups, choose the one you prefer
 
