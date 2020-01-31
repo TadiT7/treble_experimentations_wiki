@@ -30,7 +30,7 @@ Link: ([click here to continue to the download](https://drive.google.com/file/d/
 | Buttons                   | Working.                                            |
 | Display size              | You will have to set the screen size to 752dp in the developer opitions in the device settings.                                                   |
 | Display mode              | On first boot, the display shows in portrait mode. You'll have to fix this by allowing screen rotation in the display section of the device settings.                                                      |
-| Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help this.                                                       |
+| Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help with this.                                                       |
 ---
 
 ## Tested By:
