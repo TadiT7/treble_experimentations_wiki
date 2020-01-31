@@ -32,6 +32,31 @@ Link: ([click here to continue to the download](https://drive.google.com/file/d/
 | Display mode              | On first boot, the display shows in portrait mode. You'll have to fix this by allowing screen rotation in the display section of the device settings.                                                      |
 | Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help with this.                                                       |
 ---
+# Basic Flashing Guide
+This is assuming your device is brand-new, with a locked bootloader. You should also have **adb** installed on your computer with the appropriate drivers. **Make sure your device has a good charge before continuing.**
+
+## Pre-Flash
+1. Boot your device and skip through the setup procedure. _A Wi-Fi connection is not required for this process._
+2. Open the **Setting menu**, go to **System**, **About tablet**, and enable developer mode by tapping the **Build number** field several times. _Hint: watch for the popup at the bottom of the screen to tell you how many times you need to tap the Build number._
+3. Go back to the **System** menu, and open the new **Developer options** menu.
+4. Toggle OEM unlocking to unlock your bootloader.
+5. Toggle USB debugging, and accept the popup.
+6. Connect your tablet with a USB cable. You should see a popup asking if you want to allow USB debugging. Check the **Always allow** box, and tap **OK**.
+
+## Ready to flash
+1. Open a terminal on your computer, and type `adb devices` to verify that your tablet is available and ready to accept commands. You should see a response similar to this:
+
+> List of devices attached
+
+> 60901650008348  device
+
+_If you see an error message, double-check that your tablet has been authorized with your computer. You may need to disconnect/reconnect it, or restart the adb server (`adb kill-server`)._
+
+2. Now that adb is ready, reboot into the bootloader with `adb reboot bootloader`. The screen will go blank, and in a few moments you should see `=> FASTBOOT mode...` at the bottom of your screen.
+3. Enter `fastboot flashing unlock`. You will see a warning appear on the tablet. Press the **Volume Up** button on your tablet to accept. Your bootloader is now completely unlocked, and all user data has been erased.
+4. Wipe the System partition by entering `fastboot erase system`. You will see output confirming this action.
+5. Enter `fastboot -u flash system name_of_system.img`, where _system name_of_system.img_ is the name of the ROM image you'd like to flash. You should see some output as the image is written to memory. This may take several minutes. Interrupting this process may require that you have to restart the flash process.
+6. Finally, enter `fastboot reboot`. Your device will reboot several times, at one point showing an erasing screen. Allow the device to continue and it will eventually boot into your new system.
 
 ## Tested By:
 
@@ -46,4 +71,4 @@ Link: ([click here to continue to the download](https://drive.google.com/file/d/
 ## Device wiki notes:
 
 * Created by: izzy84075 (12/3/2018)
-* Last edited by: secretwolf98 (1/31/2020)
+* Last edited by: tgp1994 (1/31/2020)
