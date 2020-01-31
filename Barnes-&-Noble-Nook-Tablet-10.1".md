@@ -46,4 +46,4 @@ Link: ([click here to continue to the download](https://drive.google.com/file/d/
 ## Device wiki notes:
 
 * Created by: izzy84075 (12/3/2018)
-* Last edited by: secretwolf98 (12/29/2019)
+* Last edited by: secretwolf98 (1/31/2020)
