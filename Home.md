@@ -43,13 +43,13 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
+|[[Cherry Mobile Flare S8]]|X930|✓|A/B|arm64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
 |[[Cubot X19]]|x19|✓|A/B|arm64|
-|[[CherryMobileFlareS8]]|g1860ps_v2_gh_fng_g33scr_p|✓|A/B|arm64|
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
 |[[DEXP B260]]|b260|✓|A|arm|
@@ -122,8 +122,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
-|[[Leagoo M9 Pro]]|pu562_lg_l5705l|✓|A|arm|
 |[[Leagoo M8 Pro]]|M8_Pro|✓|A|arm|
+|[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm|
 |[[Leagoo M13]]|M13||A/B|arm64|
 |[[Leagoo Power 5]]|Power_5|✓|A|arm64|
 |[[Leagoo T8s]]|T8s|✓|A|arm64|
@@ -153,8 +153,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
-|[[Moto G7 Power]]|ocean|✓|A/B|arm64|
 |[[Moto G7 Plus]]|lake|✓|A/B|arm64|
+|[[Moto G7 Power]]|ocean|✓|A/B|arm64|
+|[[Moto G8 Plus]]|doha|✓|A/B|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
 |[[Moto Z Play]]|addison||A|arm64|
