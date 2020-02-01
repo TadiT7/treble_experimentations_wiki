@@ -21,7 +21,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alcatel 5V 5060D]]|n/a||A|arm64|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
-|[[AllView V3 Viper]]|V3_Viper|✓|A|arm64|
+|[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
 |[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
@@ -76,6 +76,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 3 and Pixel 3 XL]]|blueline and crosshatch|✓|A/B|arm64|
 |[[Google Pixel 3a and Pixel 3a XL]]|sargo and bonito|✓|A/B|arm64|
 |[[Google Pixel 4 and Pixel 4 XL]]|flame and coral|✓|A/B|arm64|
+|[HTC U11 Life](https://github.com/phhusson/treble_experimentations/wiki/HTC-U11-life-(Android-One))|ocl|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|berlin / bln|✓|A|arm64|
@@ -114,7 +115,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei P30 Pro]]|vog|✓|A/B|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|fla|✓|A|arm64|
-|[[Infinix Hot 8]]|x650B|✓|A/B|arm_binder64|
+|[[Infinix Hot 8]]|x650|✓|A/B|arm_binder64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
@@ -263,11 +264,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
+|[[Ulefone Armor 6 / 6E]]|armor_6 and armor_6e||A/B|arm64|
 |[[Ulefone Armor X]]|armor_x||A|arm64|
 |[[Umidigi A3]]|a3||A|arm64|
 |[[Umidigi A3 Pro]]|a3_pro||A|arm64|
 |[[Umidigi A5 Pro]]|a5_pro||A/B|arm64|
-|[[Umidigi F1 / F1 Play]]|f1|✓|A/B|arm64|
+|[[Umidigi F1 / F1 Play]]|f1 and f1_play|✓|A/B|arm64|
 |[[Umidigi One Max]]|one_max||A|arm64|
 |[[Umidigi One Pro]]|one_pro||A|arm64|
 |[[Umidigi Z2]]|z2||A|arm64|
