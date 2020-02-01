@@ -72,7 +72,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |LineageOS|Deepflex|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3840801/) / [Download](https://mega.nz/#F!3XwFlAaC!VdzCKlrR-f6D-a8oEz9JkQ)|A - A/B|arm64|
 |LiquidRemix|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3889160/)|A - A/B|arm - arm64 - binder|
 |LLuviaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=291872&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-|MSM-Xtended|luisgonzales1977|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3942924/)|A - A/B|arm - arm64 - binder|
 |NitrogenOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289421&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |OmniROM|king1990|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3901305/)|A - A/B|arm - arm64 - binder|
 |Pixel Dust|amarbajpai|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3862484/) / [Download](https://sourceforge.net/projects/pixeldust-treble/files/)|A - A/B|arm64|
