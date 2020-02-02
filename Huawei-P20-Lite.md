@@ -1,7 +1,7 @@
 ![](https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125076744/125076744_0_MC/8799298355250_1557493302288.jpg)
 ***
 
-AOSP 10 v206: Everything works except USB OTG and NFC.
+AOSP 10 v209: Everything works except USB OTG and NFC.
 
 ## Steps to install
 
