@@ -33,6 +33,8 @@ HavocOS 3.0 (with modified 64bit vendor)
 AOSP 9.0 - Phh-Treble (2019-03-10)
 
 RR 7.0 (Pie) - Resurrection Remix Team (2019-04-07)
+ ##Galaxy J6 DevGroups and Useful Links
+* [Telegram J6 DevGroup](https://t.me/joinchat/PI898hPGf-3CLuNiOqAJ7A)
  ## Tested By:
 * [Chakib_Chemso](https://github.com/ChemsoDev)
 * [phh](https://github.com/phhusson) - 2018-12-05
