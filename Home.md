@@ -199,7 +199,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[OnePlus 7T](https://github.com/phhusson/treble_experimentations/wiki/OnePlus-7T-and-7T-Pro)|hotdogb|✓|A/B|arm64|
 |[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
-|[[Oukitel C10]]|n/a|C10|A|arm|
+|[[Oukitel C10]]|C10|✓|A|arm|
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
 |[[Oukitel K7 Power]]|K7_power|✓|A|arm64|
 |[[Oukitel K8]]|K8|✓|A|arm64|
