@@ -30,7 +30,8 @@ Link: ([click here to continue to the download](https://drive.google.com/file/d/
 | Buttons                   | Working.                                            |
 | Display size              | You will have to set the screen size to 752dp in the developer opitions in the device settings.                                                   |
 | Display mode              | On first boot, the display shows in portrait mode. You'll have to fix this by allowing screen rotation in the display section of the device settings.                                                      |
-| Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help with this.                                                       |
+| Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help with this.       
+| OEM attachable keyboard case cover                   | The OEM attachable keyboard case cover doesn't seem to work on the Project Treble enabled GSIs.                                                   |
 ---
 # Basic Flashing Guide
 This is assuming your device is brand-new, with a locked bootloader. You should also have **adb** installed on your computer with the appropriate drivers. **Make sure your device has a good charge before continuing.**
@@ -71,4 +72,4 @@ _If you see an error message, double-check that your tablet has been authorized 
 ## Device wiki notes:
 
 * Created by: izzy84075 (12/3/2018)
-* Last edited by: tgp1994 (1/31/2020)
+* Last edited by: secretwolf98 (2/3/2020)
