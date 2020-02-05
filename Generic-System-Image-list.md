@@ -1,6 +1,6 @@
-### GSI List
+### Generic System Image List
 
-Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
+Here's a collection of available Generic System Image ROM's, in order to keep it easy to choose what you want.
 
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -11,6 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 |EvolutionX|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/)|A - A/B|arm - arm64 - binder|
 |Havoc-OS|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/)|A - A/B|arm - arm64 - binder|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.0/)|A - A/B|arm - arm64 - binder|
@@ -18,10 +19,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
-
-|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|:-:|
-|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 
 
 ## Official Android 9 Pie:
@@ -92,7 +89,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ColorOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3919861/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/ColorOS%206/)|A - A/B|arm64|
 |RedmagicOS|ataberkozen|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3909798/) / [Download](https://sourceforge.net/projects/mactavishao-builds/files/GSI/Nubia%20-%20RedMagic%20OS/)|A - A/B|arm64|
 
-## Android 8 Oreo:
+## Android 8.1 Oreo:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSIP|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/aosip-t3792494)|A - A/B|arm64|
