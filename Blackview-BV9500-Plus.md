@@ -22,5 +22,5 @@ Flashed image via fastboot. Could not get TWRP working
   *  AOSP10v209  Boots (Goes into bootloop if Factory resent is done via AOSP)
  ***
  ## Tested By:
-* nobody666
+* nob0dy666
 * Template created by @zguithues
