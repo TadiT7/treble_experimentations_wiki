@@ -11,11 +11,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|EvolutionX|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/EvolutionX/)|A - A/B|arm - arm64 - binder|
-|Havoc-OS|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/HavocOS/Ten/)|A - A/B|arm - arm64 - binder|
+|Firmware collection|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
-|Pixel Experience|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/)|A - A/B|arm - arm64 - binder|
-|POSP|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/PotatoProject/Ten/)|A|arm64|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 |CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/C-A-O-S/treble_manifest_caos/wiki/CAOS-Project)|A - A/B|arm64|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
