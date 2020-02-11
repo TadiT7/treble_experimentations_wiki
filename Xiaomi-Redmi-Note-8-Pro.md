@@ -2,19 +2,19 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera 64MP                    | Status: Working in 16MP mode |
+| Camera 64MP | Status: Works in 16MP mode |
 | Camera Macro | Status: No support |
 | Camera Ultrawide | Status: No support |
 | Camera Depth Sensor | Status: *Untested* |
-| Speaker / Mic             | Status: Working                                        |
+| Speaker / Mic | Status: Working |
 | Media playback / Recording | Status: Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
-| Bluetooth                 | Status: Working                                           |
-| WiFi                      | Status: Working                                           |
+| Bluetooth | Status: Working |
+| WiFi | Status: Working |
 | RIL | Status: Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
-| VoLTE                     | Status: *Untested*                                       |
-| Fingerprint               | Status: Working                                           |
-| Offline Charging          | Status: Working                                     |
-| Adaptive Brightness       | Status: Not working                                 |
+| VoLTE | Status: *Untested* |
+| Fingerprint | Status: Working |
+| Offline Charging | Status: Working |
+| Adaptive Brightness | Status: Not working, overlay was made ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
 
 Please add other features, if I have missed anything.
 
