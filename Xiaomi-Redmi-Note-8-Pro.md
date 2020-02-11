@@ -1,5 +1,4 @@
 ## Hardware support:
-
 | Component | Status |
 |-|-|
 | Camera 64MP | Works in 16MP mode |
@@ -14,7 +13,6 @@
 | Offline Charging | Working |
 
 ## Software Support:
-
 | Component | Status |
 |-|-|
 | Media playback / Recording | Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
@@ -25,7 +23,6 @@
 Please add other features, if I have missed anything.
 
 ## Bug reports:
-
 | Application |      Status                                              |
 |---------------------------|-----------------------------------------------------------|
 | YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes on AOSP 10 |
@@ -33,7 +30,7 @@ Please add other features, if I have missed anything.
 | Audio Recorder | Crash on start of recording on AOSP 10 |
 
 ## Installation:
-Dependencies: unlocked bootloader, TWRP (not official), stock MIUI (rooted/unrooted).
+Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/unrooted).
 
 _Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop._
 
@@ -44,8 +41,9 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
 5. If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
 6. Apply some fixes, like brightness slider fix and others. DONE.
 
- - If you wish to change GSI, restore System partition from your backup made on step 1.
- - If you wish rollback to stock, restore System partition, reboot to system, then restore Data.
+## Uninstall: 
+ - If you wish to **change GSI**: restore System partition from your backup made on step 1, an then continue from step 2.
+ - If you wish to **go back to stock**: restore System partition, reboot to system, then restore Data.
 
 ---
 
