@@ -1,6 +1,9 @@
-# Sony Xperia 10, Kirin (dual sim)
+# Sony Xperia 10, Kirin (single or dual sim)
 
 **ROM images tested / used:**
+
+`AOSP 10.0 v210`
+`system-quack-arm64-ab-gapps.img.xz`
 
 `AOSP 10.0 v204`
 `system-quack-arm64-ab-vanilla.img.xz`
