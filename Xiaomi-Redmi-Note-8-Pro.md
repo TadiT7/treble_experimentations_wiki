@@ -30,6 +30,19 @@ Please add other features, if I have missed anything.
 | YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes on AOSP 10 |
 | Android Setup Master / Android Settings | Broken embedded 2D animations on AOSP 10 |
 | Audio Recorder | Crash on start of recording on AOSP 10 |
+
+## Installation:
+Dependencies: unlocked bootloader, TWRP (not official), stock MIUI (rooted/unrooted).
+
+*Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop. *
+
+1. Go to TWRP and make backup of System and Data partitions. **You DON'T need to backup other partitions such as Vendor or Boot, because if you do restore them once, you will GET A SOFTBRICK.**
+2. Format -> Format Data -> Type "yes". Do NOT format system and any other partition.
+3. Install -> Flash image -> Select your GSI.img and flash it as "System image".
+4. Boot into system.
+(5.) If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
+6. Apply some fixes, like brightness slider fix and others. DONE.
+
 ---
 
 ### Tested By:
