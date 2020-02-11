@@ -34,7 +34,7 @@ Please add other features, if I have missed anything.
 ## Installation:
 Dependencies: unlocked bootloader, TWRP (not official), stock MIUI (rooted/unrooted).
 
-*Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop. *
+_Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop._
 
 1. Go to TWRP and make backup of System and Data partitions. **You DON'T need to backup other partitions such as Vendor or Boot, because if you do restore them once, you will GET A SOFTBRICK.**
 2. Format -> Format Data -> Type "yes". Do NOT format system and any other partition.
@@ -42,6 +42,9 @@ Dependencies: unlocked bootloader, TWRP (not official), stock MIUI (rooted/unroo
 4. Boot into system.
 (5.) If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
 6. Apply some fixes, like brightness slider fix and others. DONE.
+
+If you wish to change GSI, restore System partition from your backup made on step 1.
+If you wish rollback to stock, restore System partition, reboot, then restore Data.
 
 ---
 
