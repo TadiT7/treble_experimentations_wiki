@@ -2,15 +2,19 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Status: Working, No 64MP Support                          |
-| Speaker / Mic             | Status: Working                                           |
+| Camera 64MP                    | Status: Working in 16MP mode |
+| Camera Macro | Status: No support |
+| Camera Ultrawide | Status: No support |
+| Camera Depth Sensor | Status: *Untested* |
+| Speaker / Mic             | Status: Working                                        |
+| Media playback / Recording | Status: Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
 | Bluetooth                 | Status: Working                                           |
 | WiFi                      | Status: Working                                           |
-| SIM / Mobile Data / Voice | Status: Working                                           |
-| VoLTE                     | Status: *Untested*                                        |
+| RIL | Status: Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
+| VoLTE                     | Status: *Untested*                                       |
 | Fingerprint               | Status: Working                                           |
 | Offline Charging          | Status: Working                                     |
-| Adaptive Brightness       | Status: Working                                 |
+| Adaptive Brightness       | Status: Not working                                 |
 
 Please add other features, if I have missed anything.
 
@@ -28,3 +32,9 @@ Tested By:
    - Region: United States
    - MIUI Vendor: MIUI Global Stable 10
    - GSI: AOSP 10.0 v208 A/B ARM64
+
+2. Username: tvardero
+   - Model: Redmi Note 8 Pro Global (begonia)
+   - Region: Ukraine
+   - MIUI Vendor: MIUI Global Stable 11
+   - GSI: phh's AOSP 10 ARM64 A/B v208; phh's AOSP 9 ARM64 A/B v123
