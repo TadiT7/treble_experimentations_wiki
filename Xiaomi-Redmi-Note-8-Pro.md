@@ -1,25 +1,26 @@
 ## Hardware support:
 
-| Component | Comment |
+| Component | Status |
 |-|-|
-| Camera 64MP | Status: Works in 16MP mode |
-| Camera Macro | Status: No support |
-| Camera Ultrawide | Status: No support |
-| Camera Depth Sensor | Status: *Untested* |
-| Speaker / Mic | Status: Working |
-| Bluetooth | Status: Working |
-| WiFi | Status: Working |
-| RIL | Status: Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
-| Fingerprint | Status: Working |
-| Offline Charging | Status: Working |
+| Camera 64MP | Works in 16MP mode |
+| Camera Macro | No support |
+| Camera Ultrawide | No support |
+| Camera Depth Sensor | *Untested* |
+| Speaker / Mic | Working |
+| Bluetooth | Working |
+| WiFi | Working |
+| RIL | Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
+| Fingerprint | Working |
+| Offline Charging | Working |
 
 ## Software Support:
 
-| Component | Comment |
+| Component | Status |
 |-|-|
-| Media playback / Recording | Status: Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
-| Brightness | Status: Not working, but overlay was made ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
-| VoLTE | Status: *Untested* |
+| Media playback / Recording | Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
+| Auto-brightness | Not working, but overlay was made ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
+| VoLTE | *Untested* |
+| Bluetooth calls | Working |
 
 Please add other features, if I have missed anything.
 
@@ -40,7 +41,7 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
 2. Format -> Format Data -> Type "yes". Do NOT format system and any other partition.
 3. Install -> Flash image -> Select your GSI.img and flash it as "System image".
 4. Boot into system.
-(5.) If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
+5. If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
 6. Apply some fixes, like brightness slider fix and others. DONE.
 
  - If you wish to change GSI, restore System partition from your backup made on step 1.
