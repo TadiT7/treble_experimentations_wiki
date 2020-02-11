@@ -27,7 +27,7 @@ Please add other features, if I have missed anything.
 
 | Application |      Status                                              |
 |---------------------------|-----------------------------------------------------------|
-| YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes |
+| YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes on AOSP 10 |
 | Android Setup Master / Android Settings | Broken embedded 2D animations on AOSP 10 |
 | Audio Recorder | Crash on start of recording on AOSP 10 |
 ---
