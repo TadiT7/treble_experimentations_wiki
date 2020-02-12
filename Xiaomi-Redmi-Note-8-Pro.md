@@ -1,7 +1,7 @@
 ## Hardware support:
 | Component | Status |
 |-|-|
-| Camera 64MP | Works in 16MP mode |
+| Camera 64MP | Works only in 16MP mode |
 | Camera Macro | No support |
 | Camera Ultrawide | No support |
 | Camera Depth Sensor | *Untested* |
@@ -10,7 +10,8 @@
 | WiFi | Working |
 | RIL | Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
 | Fingerprint | Working |
-| Offline Charging | Working |
+| Offline Charging | Working, but has animation bootloop |
+| NFC | *Untested* |
 
 ## Software Support:
 | Component | Status |
@@ -30,6 +31,8 @@ Please add other features, if I have missed anything.
 | Audio Recorder | Crash on start of recording on AOSP 10 |
 
 ## Installation:
+Your warranty will be **nullified** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
+
 Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/unrooted).
 
 _Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop._
@@ -59,3 +62,5 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
    - Region: Ukraine
    - MIUI Vendor: MIUI Global Stable 11
    - GSI: phh's AOSP 10 ARM64 A/B v208; phh's AOSP 9 ARM64 A/B v123
+
+More testers needed.
