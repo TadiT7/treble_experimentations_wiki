@@ -49,6 +49,7 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
  - If you wish to **go back to stock**: restore System partition, reboot to system, then restore Data.
 
 ## Recovery:
+|-|-|
 | Got bootloop after restoring vendor / boot / any other partition | Flash **vendor -> firmware -> MIUI ROM** files from https://xiaomifirmwareupdater.com/ (begonia, mind your version (global or not)!) |
 | Can't boot into recovery mode, but fastboot mode is ok | Same here |
 | Can't boot nothing | Dry out your phone battery fully. After that plug your charger in, you will see charging animation. After that ASAP boot into fastboot and recover your phone |
