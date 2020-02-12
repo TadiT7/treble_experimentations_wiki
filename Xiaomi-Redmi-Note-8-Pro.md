@@ -30,15 +30,6 @@ Please add other features, if I have missed anything.
 | Android Setup Master / Android Settings | Broken embedded 2D animations on AOSP 10 |
 | Audio Recorder | Crash on start of recording on AOSP 10 |
 
-## Bug solutions:
-| Bug | Solution |
-|-|-|
-| Brightness slider is broken (flickering brightness) | Using ADB do this:
-`adb shell`
-`su (be sure to grant root access on your phone to shell.apk)`
-`setprop persist.sys.qcom-brightness 4095` 
-Brighness is broken because value of max brightness is 4095 (12 bit), not 255 (8 bit). |
-
 ## Installation:
 Your warranty will be **nullified** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
 
