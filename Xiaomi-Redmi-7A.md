@@ -25,6 +25,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | SIM / Mobile Data / Voice | Working                    | Working                       |
 | VoLTE                     | Not Tested                 | Not Tested                    |
 | Offline Charging          | Working                    | Working                       |
+| Root and MAGISK           | Working                    | Working                       |
 | Adoptable Storage         | Not Tested                 | Not Tested                    |
 | Other feature             | N/A                        | N/A                           |
 ---
@@ -40,6 +41,8 @@ Tested Roms:
 9  * Aosp 9
 
 9  * xiaomi.eu_multi_HM7A_V11.0.2.0.PCMCNXM_v11-9 by ingbrzy
+
+9  * MK90.0-pine-202002191544-NIGHTLY by GuaiYiHu
 
 
 Tested By: Ralph Garcia - Global version -
