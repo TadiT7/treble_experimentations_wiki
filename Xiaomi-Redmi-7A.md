@@ -25,14 +25,19 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | SIM / Mobile Data / Voice | Working                    | Working                       |
 | VoLTE                     | Not Tested                 | Not Tested                    |
 | Offline Charging          | Working                    | Working                       |
+| Adoptable Storage         | Not Tested                 | Not Tested                    |
 | Other feature             | N/A                        | N/A                           |
 ---
 
 Tested Roms:
 
-Pie * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
+9  * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
 
-10   * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
+10 * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
+
+10 * Havoc OS
+
+9  * Aosp 9
 
 Tested By: amrhelmy2004 - Global version -
 
