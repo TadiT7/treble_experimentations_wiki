@@ -42,6 +42,6 @@ Tested Roms:
 9  * xiaomi.eu_multi_HM7A_V11.0.2.0.PCMCNXM_v11-9 by ingbrzy
 
 
-Tested By: amrhelmy2004 - Global version -
+Tested By: Ralph Garcia - Global version -
 
 Template created by @zguithues and @hackintosh5
