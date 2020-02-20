@@ -23,9 +23,9 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | SIM / Mobile Data / Voice | Working                    | Working                       |
 | VoLTE                     | Not Tested                 | Not Tested                    |
 | Offline Charging          | Working                    | Working                       |
-| Other feature             | N/A                     | N/A                        |
+| Other feature             | N/A                        | N/A                           |
 ---
-
+If you see insufficient storage when installing gapps try resizing the system partition on twrp then reboot to recovery and reflash gapps
 Tested Roms:
 
 Pie * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
