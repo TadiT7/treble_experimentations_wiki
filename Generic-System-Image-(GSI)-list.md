@@ -10,7 +10,9 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 
 
 ## Android 11 Developer Preview
-[Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)
+|Download|Architecture|
+|:-:|:-:|
+|[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|arm64 - x86|
 
 
 ## Unofficial Android 10:
