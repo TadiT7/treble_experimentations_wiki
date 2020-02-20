@@ -5,7 +5,7 @@ Summary of what works and doesn't
 ## Steps to install
 
 * Step 1 - Unlock Bootloader
-* Step 2 - Install frimware version ASJ1 (temporarily)
+* Step 2 - Install firmware version ASJ1 (temporarily)
 * Step 3 - Flash TWRP (https://4pda.ru/forum/dl/post/18167443/recovery.tar) By Ponces
 * Step 4 - Reboot into TWRP and follow these points
 - Format DATA (lost all files)
