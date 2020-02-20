@@ -23,7 +23,7 @@
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | BT media doesn't work                                     |
 | WiFi                      | Working                                                   |
-| SIM / Mobile Data / Voice | Working                                                   |
+| SIM / Mobile Data / Voice | SIM-1 messages doesn't work                               |
 | VoLTE                     | Not Working                                               |
 | In-display Fingerprint    | Not Working                                               |
 | Offline Charging          | Working                                                   |
