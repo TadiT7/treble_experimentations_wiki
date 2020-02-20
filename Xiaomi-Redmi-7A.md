@@ -11,6 +11,8 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
     Like all Xiaomi's devices, it takes one week to unlock the bootloader.
 
     If you have some bugs (quick settings broken, user /data files) with Android 10, first install AOSP 9.0 (v121 recommended), configure your Google account and install latest AOSP 10.0 (only wipe system needed for update).
+    If you see insufficient storage when installing gapps try resizing the system partition on twrp then reboot to recovery and reflash gapps
+    If a gsi treble rom does not boot either the rom is not arm 32 binder 64 bit or flash mokee rom first then flash the gsi rom
 
 ## Hardware support
 
@@ -25,7 +27,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | Offline Charging          | Working                    | Working                       |
 | Other feature             | N/A                        | N/A                           |
 ---
-If you see insufficient storage when installing gapps try resizing the system partition on twrp then reboot to recovery and reflash gapps
+
 Tested Roms:
 
 Pie * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
