@@ -13,6 +13,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
     If you have some bugs (quick settings broken, user /data files) with Android 10, first install AOSP 9.0 (v121 recommended), configure your Google account and install latest AOSP 10.0 (only wipe system needed for update).
     If you see insufficient storage when installing gapps try resizing the system partition on twrp then reboot to recovery and reflash gapps
     If a gsi treble rom does not boot either the rom is not arm 32 binder 64 bit or flash mokee rom first then flash the gsi rom
+    To root Redmi 7a flash the correct file according to your system version! http://www.mediafire.com/folder/zx01...a_patched_boot then flash latest magisk zip and install magisk manager (you might need to format your phone)
 
 ## Hardware support
 
