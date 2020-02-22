@@ -5,4 +5,4 @@ Bugs
 - Headphones
 - Fingerprint
 
-Tested by Azat Barış MIZRAKLI
+Tested by ZENLTY
