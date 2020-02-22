@@ -48,7 +48,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Cherry Mobile Flare S8 Plus]]|FS8Plus|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Max]]|Flare_S8_Max|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Prime]]|Flare_S8_Prime|√|A/B|arm64|
-|[[Cherry Mobile Flare S8 Lite]]Flare_S8_Lite|√|A/B|arm64/arm32|
+|[[Cherry Mobile Flare S8 Lite]]|Flare_S8_Lite|√|A/B|arm64/arm32|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
