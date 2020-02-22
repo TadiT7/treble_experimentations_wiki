@@ -125,7 +125,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[Leagoo M8 Pro]]|M8_Pro|✓|A|arm|
-|[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm|
+|[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm(arm_binder_64)|
 |[[Leagoo M13]]|M13||A/B|arm64|
 |[[Leagoo Power 5]]|Power_5|✓|A|arm64|
 |[[Leagoo T8s]]|T8s|✓|A|arm64|
