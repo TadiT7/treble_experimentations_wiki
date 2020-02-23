@@ -1,4 +1,5 @@
-# [Ulefone S1] - [MT6580M/1GB/8GB/480p]
+# [Ulefone S1](https://www.gsmarena.com/ulefone_s1-10036.php)
+![Ulefone S1](https://fdn2.gsmarena.com/vv/pics/ulefone/ulefone-s1.jpg)
 ## Hardware support
 
 | Component                 | Oreo                      | Pie                       | Q                         |
