@@ -30,8 +30,7 @@ HW wise, it seems to be almost identical to Oukitel C10/Blackview A20. Recovery 
 Very small /system partition (about ~1GB). Needs resizing (custom scatter file) to enable loading larger roms.
     
 ## External links
-https://4pda.ru/forum/index.php?s=&showtopic=200800&view=findpost&p=80562065 (patched boot.img for rooting)
-
+https://4pda.ru/forum/index.php?s=&showtopic=200800&view=findpost&p=80562065 (patched boot.img)
 https://4pda.ru/forum/index.php?s=&showtopic=911631&view=findpost&p=93047996 (TWRP image)
 https://drive.google.com/drive/folders/159eYdv4EVTFPpk6OmlZgbLz7Tu39D6O3 (stock firmware)
 https://androidfilehost.com/?fid=11410963190603870471 (flashing utility)
