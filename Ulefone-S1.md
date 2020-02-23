@@ -13,8 +13,8 @@
 ---
 
 ## Test Results 
-  *  Unofficial Lineage 15.1 V5 boots
-  *  Every other rom i've tested seems to bootloop or reset the phone at splashscreen
+  *  Unofficial LineageOS 15.1 V5 boots
+  *  Every other ROM i've tested seems to bootloop or reset the phone at splashscreen.
 
 ## Additional Info
 
@@ -28,6 +28,8 @@ Open SP Tool utility, load stock firmware but untick all partitions except syste
 Reboot the device and if it's a compatible rom, it should boot.
 
 HW wise, it seems to be almost identical to Oukitel C10/Blackview A20. Recovery image however does not work from these devices! 
+
+Very small /system partition (about ~1GB). Needs resizing (custom scatter file) to enable loading larger roms.
     
  ***
  ## Tested By:
