@@ -1,5 +1,5 @@
 No special flash settings for the GSI are required (not known for me). Process is as generically stated on XDA pages. The display scaling is much smaller than OEM ROM on 2K screen, but when set to largest it is the ideal size (set DPI in settings). As an alternative you can flash via TWRP as "System Image" and format data.
-Stock maybe flashed via fasboot and SP Flash Tool [thread about SPFT on russian 4pda](https://4pda.ru/forum/index.php?showtopic=469340)
+Stock maybe flashed via fasboot and SP Flash Tool: [thread about SPFT on russian 4pda](https://4pda.ru/forum/index.php?showtopic=469340)
 
 Device version M4P7 [official stock v3 link](https://mega.nz/#!1FY1BA4Q!aLM899AghOQHnnDdR5f_6L0IqADZxUieKJqqYwhi2rI)
 
@@ -9,6 +9,7 @@ At future Will change rom-links to torrents.
 If you have stock firmware, tell me.
 
 ##Tested
+Only Android Pie 9 below
 
 ### Android 9
 * Havoc-OS v2.9 [XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3930030/)
