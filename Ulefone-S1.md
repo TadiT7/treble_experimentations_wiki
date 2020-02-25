@@ -24,17 +24,19 @@ To get custom roms working, you need V24 stock firmware. Open SP Tool, load V24 
 
 If calling doesn't work or IMEI is lost after flashing, use this tuturial to restore IMEI
 https://forum.hovatek.com/thread-25458.html
+If it still doesn't work, try RIL patch below.
 
 Very small /system partition (about ~1GB). Needs resizing (custom scatter file) to enable loading larger roms.
 
 
 ## External links
-https://4pda.ru/forum/index.php?s=&showtopic=200800&view=findpost&p=80562065 (boot.img)
-https://4pda.ru/forum/index.php?s=&showtopic=911631&view=findpost&p=93047996 (TWRP image)
-https://drive.google.com/drive/folders/159eYdv4EVTFPpk6OmlZgbLz7Tu39D6O3 (latest stock firmware)
-insert_link (V24 stock firmware)
-https://androidfilehost.com/?fid=11410963190603870471 (flashing utility)
-
+https://mega.nz/#!cokRjDRL!VwhG8GF-lXu2p5GOefy9JYD8oRCfelHJ79KBzaoFr3o (boot.img)
+https://mega.nz/#!og91UZxA!vhi_3CPZ3U5QKQAHS66akF3XcTADF3tv3vF67DaWhx4 (TWRP image)
+https://mega.nz/#!Y4lVXDTT!Aalfgy5T1vXh-Gwpovp2wOPisX6FRD3T8Os0LX2GZXI (latest stock firmware)
+https://mega.nz/#!Zgs30bQa!R4lYzzDq_TL4rff-JwiKEln5FnXho6M5yUA6wMqujQI (V24 stock firmware)
+https://mega.nz/#!l99j0biJ!R2S-0ByoNm9M_vhq_OyKlXz8Xu08G_knmSc6Zud-fTU (SP flashing utility)
+https://mega.nz/#!pp1jABZA!MwAyk5mUIsLySxEiK9RzIME4X0TI6KcsKOG9P7KqSQs (Working LineageOS rom)
+https://mega.nz/#!xtsjXbBR!FExjQBxBhtax9zjjymSFyCwQ8ArqWl3skuy2i2Nibro (RIL patch)
 ***
 ## Tested By:
 * HojnikB
