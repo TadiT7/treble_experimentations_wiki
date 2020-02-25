@@ -1,3 +1,6 @@
+**Tested on:**
+phh's AOSP v212 ARM64 A/B gappsed
+
 ## Hardware support:
 | Component | Status |
 |-|-|
@@ -18,14 +21,20 @@
 ## Software Support:
 | Component | Status |
 |-|-|
+| Performance | Unstable, random freezes and lags. |
+| Random reboots | Not detected, phone is stable on this. |
+| Mirrorcast | Not working. |
+| SafetyNet -> Google Pay | Fails on ctsProfile, Magisk props module *untested* | 
 | Media playback / Recording | Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
-| Auto-brightness | Not working, but overlay was made ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
+| Notch and rounded corners detection | Please, install overlay. ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
+| Auto-brightness | Please, install overlay. ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
 | VoLTE | *Untested* |
 | Bluetooth calls | Working |
 
-Please add other features, if I have missed anything.
+Please, edit page and add other major features, if I have missed any.
 
 ## Bug reports:
+*Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first.*
 | Application | Status |
 |-|-|
 | YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes on AOSP 10 |
@@ -33,11 +42,13 @@ Please add other features, if I have missed anything.
 | Audio Recorder | Crash on start of recording on AOSP 10 |
 
 ## Installation:
-Your warranty will be **nullified** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
+Your **warranty** will be **void** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
 
 Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/unrooted).
 
-_Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop._
+*Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop.*
+
+**ARM64 A/B**
 
 1. Go to TWRP and make backup of System and Data partitions. **You DON'T need to backup other partitions such as Vendor or Boot, because if you do restore them once, you will GET A SOFTBRICK.**
 2. Format -> Format Data -> Type "yes". Do NOT format system and any other partition.
