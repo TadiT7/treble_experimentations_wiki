@@ -4,10 +4,10 @@ phh's AOSP v212 ARM64 A/B gappsed
 ## Hardware support:
 | Component | Status |
 |-|-|
-| Camera 64MP | Works only in 16MP mode, Google Camera test is needed. |
-| Camera Macro | No support, Google Cemera test is needed. |
-| Camera Ultrawide | No support, Google Camera test is needed. |
-| Camera Depth Sensor | *Untested* |
+| Camera 64MP | Works only in 16MP mode, even in Google Camera Port. |
+| Camera Macro | Use Google Cemera Port. |
+| Camera Ultrawide | Use Google Camera Port. |
+| Camera Depth Sensor | *Unknown* |
 | Speaker / Mic | Working |
 | Bluetooth | Working |
 | WiFi | Working |
@@ -16,18 +16,20 @@ phh's AOSP v212 ARM64 A/B gappsed
 | Fingerprint | Working |
 | Offline Charging | Working, but has animation bootloop |
 | NFC | *Untested* |
-| IR blaster | *Untested* |
+| IR blaster | Working |
+You can found GCam Port here: telegram.
 
 ## Software Support:
 | Component | Status |
 |-|-|
-| Performance | Unstable, random freezes and lags. |
+| Performance | Little bit unstable, random little freezes and lags. |
 | Random reboots | Not detected, phone is stable on this. |
 | Mirrorcast | Not working. |
-| SafetyNet -> Google Pay | Fails on ctsProfile, Magisk props module *untested* | 
-| Media playback / Recording | Working on AOSP 9, Not working on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
-| Notch and rounded corners detection | Please, install overlay. ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
-| Auto-brightness | Please, install overlay. ([Pull req. #174](https://github.com/phhusson/vendor_hardware_overlay/pull/174)) |
+| SafetyNet -> Google Pay | Basic Integrity fail, CTS Profile fail. | 
+| Media playback / Recording | Working, please apply sound fix on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
+| Notch and rounded corners detection | Working |
+| Auto-brightness | Working. No "A" button, go to settings to turn it on. |
+| Nightlight | Bugged. To fix flickering, disable HW overlay in developer settings after each reboot. |
 | VoLTE | *Untested* |
 | Bluetooth calls | Working |
 
@@ -37,9 +39,7 @@ Please, edit page and add other major features, if I have missed any.
 *Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first.*
 | Application | Status |
 |-|-|
-| YouTube / Twitter | Crashes with NDK Mediacodec, Errors when playing video, First Frame Loads then crashes on AOSP 10 |
-| Android Setup Master / Android Settings | Broken embedded 2D animations on AOSP 10 |
-| Audio Recorder | Crash on start of recording on AOSP 10 |
+| None unfixed bug is reported |  |
 
 ## Installation:
 Your **warranty** will be **void** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
@@ -82,6 +82,6 @@ Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/u
    - Model: Redmi Note 8 Pro (begonia) Global ver.
    - Region: Ukraine
    - MIUI Vendor: MIUI Global Stable 11
-   - GSI: phh's AOSP 10 ARM64 A/B v208; phh's AOSP 9 ARM64 A/B v123
+   - GSI: phh's AOSP 10 ARM64 A/B v212; phh's AOSP 9 ARM64 A/B v123
 
 More testers needed.
