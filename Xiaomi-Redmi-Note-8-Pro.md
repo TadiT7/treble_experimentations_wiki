@@ -17,7 +17,8 @@ phh's AOSP v212 ARM64 A/B gappsed
 | Offline Charging | Working, but has animation bootloop |
 | NFC | *Untested* |
 | IR blaster | Working |
-You can found GCam Port here: telegram.
+
+You can found GCam Port here: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
 
 ## Software Support:
 | Component | Status |
