@@ -32,10 +32,10 @@ Very small /system partition (about ~1GB). Needs resizing (custom scatter file) 
 ## External links
 https://mega.nz/#!cokRjDRL!VwhG8GF-lXu2p5GOefy9JYD8oRCfelHJ79KBzaoFr3o (boot.img)
 https://mega.nz/#!og91UZxA!vhi_3CPZ3U5QKQAHS66akF3XcTADF3tv3vF67DaWhx4 (TWRP image)
-https://mega.nz/#!Y4lVXDTT!Aalfgy5T1vXh-Gwpovp2wOPisX6FRD3T8Os0LX2GZXI (latest stock firmware)
-https://mega.nz/#!Zgs30bQa!R4lYzzDq_TL4rff-JwiKEln5FnXho6M5yUA6wMqujQI (V24 stock firmware)
+https://mega.nz/#!Y4lVXDTT!Aalfgy5T1vXh-Gwpovp2wOPisX6FRD3T8Os0LX2GZXI (stock firmware)
+https://mega.nz/#!Zgs30bQa!R4lYzzDq_TL4rff-JwiKEln5FnXho6M5yUA6wMqujQI (V24 firmware)
 https://mega.nz/#!l99j0biJ!R2S-0ByoNm9M_vhq_OyKlXz8Xu08G_knmSc6Zud-fTU (SP flashing utility)
-https://mega.nz/#!pp1jABZA!MwAyk5mUIsLySxEiK9RzIME4X0TI6KcsKOG9P7KqSQs (Working LineageOS rom)
+https://mega.nz/#!pp1jABZA!MwAyk5mUIsLySxEiK9RzIME4X0TI6KcsKOG9P7KqSQs (LineageOS rom)
 https://mega.nz/#!xtsjXbBR!FExjQBxBhtax9zjjymSFyCwQ8ArqWl3skuy2i2Nibro (RIL patch)
 ***
 ## Tested By:
