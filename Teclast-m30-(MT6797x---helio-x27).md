@@ -34,8 +34,11 @@ fill it in if you know
 | Speaker / Mic             | Work                                         |
 | Bluetooth                 | Not working                                  |
 | WiFi                      | Work                                         |
-| SIM / Mobile Data / Voice | Glitches                                     |
+| SIM / Mobile Data / Voice | Glitches / Secondary SIM seems not working   |
+| SDcard                    | Not tested                                   |
 | VoLTE                     | Not tested                                   |
+| Sensors                   | Not tested                                   |
+| GPS                       | Seems not working                            |
 | Fingerprint               | No hardware                                  |
 | NFC                       | No hardware                                  |
 | Offline Charging          | Not tested                                   |
