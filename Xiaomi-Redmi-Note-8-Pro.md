@@ -1,17 +1,19 @@
 ## Hardware support:
 | Component | Status |
 |-|-|
-| Camera 64MP | Works only in 16MP mode |
-| Camera Macro | No support |
-| Camera Ultrawide | No support |
+| Camera 64MP | Works only in 16MP mode, Google Camera test is needed. |
+| Camera Macro | No support, Google Cemera test is needed. |
+| Camera Ultrawide | No support, Google Camera test is needed. |
 | Camera Depth Sensor | *Untested* |
 | Speaker / Mic | Working |
 | Bluetooth | Working |
 | WiFi | Working |
 | RIL | Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
+| Double SIM | *Untested* |
 | Fingerprint | Working |
 | Offline Charging | Working, but has animation bootloop |
 | NFC | *Untested* |
+| IR blaster | *Untested* |
 
 ## Software Support:
 | Component | Status |
@@ -46,7 +48,7 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
 
 ## Uninstall: 
  - If you wish to **change GSI**: restore System partition from your backup made on step 1, an then continue from step 2.
- - If you wish to **go back to stock**: restore System partition, reboot to system, then restore Data.
+ - If you wish to **go back to stock**: restore System partition, reboot to system, then restore Data. Please note, that your lockscreen password will be reset, but not your fingerprints.
 
 ## Recovery:
 | Problem | Solution |
@@ -54,7 +56,7 @@ _Please note: if you wish to use Google Market, flash GSI with preinstalled GApp
 | Got bootloop after restoring vendor / boot / any other partition | Flash **vendor -> firmware -> MIUI ROM** files from https://xiaomifirmwareupdater.com/ (begonia, mind your version (global or not)!) |
 | Can't boot into recovery mode, but fastboot mode is ok | Recovery is broken. Flash TWRP recovery.img using ADB. Do not use official version, it doesn't have AVB patcher. |
 | Can't boot nothing, even fastboot mode | Dry out your phone battery fully. After seeing critical battery charge logo (~5 days after), plug your charger in. Wait some time until Redmi logo. After that you can boot into fastboot and recover your phone. |
-| HardestBrick | Service |
+| HardestBrick | Service center |
 
 ---
 
