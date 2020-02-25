@@ -21,7 +21,7 @@ Only some Android Pie 9 (below) boots and works.
 * Descendant 4.0.1 for Treble Enabled Devices [XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)
 
 ### WIP Android 10 (no booting yet)
-* AOSP v10.0 v211 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/tree/v211)
+* AOSP v10.0 v211 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases/tag/v212)
 
 ### POST FLASH INSTRUCTIONS
 fill it in if you know
