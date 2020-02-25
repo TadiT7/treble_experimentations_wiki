@@ -8,7 +8,7 @@
 | Speaker / Mic             | Working                   | Bootloop                  | Bootloop                  |
 | Bluetooth                 | Working                   | Bootloop                  | Bootloop                  |
 | WiFi                      | Working , Hotspot         | Bootloop                  | Bootloop                  |
-| SIM / Mobile Data / Voice | Working , Data Only SIM1  | Bootloop                  | Bootloop                  |
+| SIM / Mobile Data / Voice | Working                   | Bootloop                  | Bootloop                  |
 | Offline Charging          | Not Working               | Bootloop                  | Bootloop                  |
 | Other feature             |                           |                           |                           |
 ---
@@ -28,11 +28,15 @@ Reboot the device and if it's a compatible rom, it should boot.
 HW wise, it seems to be almost identical to Oukitel C10/Blackview A20. Recovery image however does not work from these devices! 
 
 Very small /system partition (about ~1GB). Needs resizing (custom scatter file) to enable loading larger roms.
+
+When flashing roms (stock or modified) you might lose IMEI. In this case, you need to flash back using this tuturial
+https://forum.hovatek.com/thread-25458.html
+This will restore calling functionality, that usually breaks, when flashing roms.
     
 ## External links
 https://4pda.ru/forum/index.php?s=&showtopic=200800&view=findpost&p=80562065 (boot.img)
 https://4pda.ru/forum/index.php?s=&showtopic=911631&view=findpost&p=93047996 (TWRP image)
-https://drive.google.com/drive/folders/159eYdv4EVTFPpk6OmlZgbLz7Tu39D6O3 (stock firmware)
+https://drive.google.com/drive/folders/159eYdv4EVTFPpk6OmlZgbLz7Tu39D6O3 (latest stock firmware)
 https://androidfilehost.com/?fid=11410963190603870471 (flashing utility)
 
 ***
