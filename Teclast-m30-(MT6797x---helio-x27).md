@@ -24,7 +24,7 @@ Only some Android Pie 9 (below) boots and works.
 * AOSP v10.0 v211 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/tree/v211)
 
 ### POST FLASH INSTRUCTIONS
-tell me if you know
+fill it in if you know
 
 ## Hardware support (not tested fully)
 
