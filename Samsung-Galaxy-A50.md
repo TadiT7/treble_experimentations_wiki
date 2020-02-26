@@ -1,5 +1,5 @@
 ## What works with fixes:
-#### [Overlay + Build.prop](https://t.me/a50_offl/54):
+#### [Overlay + Build.prop](https://t.me/a50_offl/142):
 - Auto Brightness
 - AOD (Always on display)
 - Notch + Rounded corners
@@ -18,7 +18,7 @@
 - [ **Odin** ](https://odindownload.com/download/Odin3_v3.14.1.zip)
 - [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE)
 - [ **SkyKernal for GSI's** ](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing)
-- [ **A50.overlay+prop.zip** ](https://t.me/a50_offl/54)
+- [ **A50.overlay+prop.zip** ](https://t.me/a50_offl/142)
 - [ **G-APPs** ](https://opengapps.org/)
 - [ **PHH-Magisk** ](https://t.me/a50_offl/117)
 
