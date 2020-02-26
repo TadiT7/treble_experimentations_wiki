@@ -61,7 +61,7 @@ Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/u
 
 ## Uninstall: 
  - If you wish to **change GSI**: restore System partition from your backup made on step 1, an then continue from step 2.
- - If you wish to **go back to stock**: restore System partition, reboot to system, then restore Data. Please note, that your lockscreen password will be reset, but not your fingerprints.
+ - If you wish to **go back to stock**: format Data -> yes, restore System partition, reboot to system, then restore Data. Please note, that your lockscreen password will be reset, but not your fingerprints.
 
 ## Recovery:
 | Problem | Solution |
