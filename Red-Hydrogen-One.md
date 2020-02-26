@@ -35,11 +35,14 @@ To prevent flashing error, you need to add parameter "-S 131073K", or "-S 65535K
 
 e.g. 
 `fastboot flash system_b E:\system-arm64-ab-gapps-su.img -S 131073K`
+
+Camera can be used, not in 3d, with a third party camera app like open camera.
 ***
 
 
 ## Tested By:
 * Calyx Hikari (HikariCalyx) @ Red Hydrogen One (Verizon Wireless) H1A1000.010ho.01.01.01r.109 @ 24/07/2019
+* TJ Lillo (TJLillo) @ Red Hydrogen One (AT&T) @ 02/26/2020
 
 
 Template created by @zguithues
