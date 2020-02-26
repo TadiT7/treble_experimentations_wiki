@@ -50,7 +50,7 @@ works
 - Receiving (SMS and MMS)
 
 
-partially - only if android.hardware.telephony.ims.xml is applied to the system as instructed above
+partially - only if `android.hardware.telephony.ims.xml` is applied to the system as instructed above
 
 
 ## Hardware
