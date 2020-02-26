@@ -266,6 +266,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
+|[[Teclast m30 (MT6797x helio x27)]]|n/a| |A|arm64|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
