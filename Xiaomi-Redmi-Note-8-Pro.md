@@ -5,8 +5,8 @@ phh's AOSP v212 ARM64 A/B gappsed
 | Component | Status |
 |-|-|
 | Camera 64MP | Works only in 16MP mode, even in Google Camera Port. |
-| Camera Macro | Use Google Cemera Port. |
-| Camera Ultrawide | Use Google Camera Port. |
+| Camera Macro | Use listed below camera apps. |
+| Camera Ultrawide | Use listed below camera apps. |
 | Camera Depth Sensor | *Unknown* |
 | Speaker / Mic | Working |
 | Bluetooth | Working |
@@ -14,12 +14,12 @@ phh's AOSP v212 ARM64 A/B gappsed
 | RIL | Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
 | Double SIM | *Untested* |
 | Fingerprint | Working |
-| Offline Charging | Working, but has animation bootloop |
+| Offline Charging | Working, but boots into recovery after plug-in. |
 | NFC | *Untested* |
 | IR blaster | Working |
 
 You can found GCam Port here: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
-Also works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play).
+Also works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play). Don't forget to use Camera2API.
 
 ## Software Support:
 | Component | Status |
