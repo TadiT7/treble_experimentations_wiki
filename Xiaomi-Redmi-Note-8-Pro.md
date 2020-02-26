@@ -19,6 +19,7 @@ phh's AOSP v212 ARM64 A/B gappsed
 | IR blaster | Working |
 
 You can found GCam Port here: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
+Also works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play).
 
 ## Software Support:
 | Component | Status |
