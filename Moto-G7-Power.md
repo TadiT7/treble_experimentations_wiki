@@ -29,11 +29,11 @@ works
 
 ### Calling
 
-- Send call
+- Outgoing call
 
 partially - (https://github.com/phhusson/treble_experimentations/issues/1138)
 
-- Receive call
+- Incoming call
 
 partially - (https://github.com/phhusson/treble_experimentations/issues/1138)
 
