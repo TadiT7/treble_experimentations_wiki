@@ -1,1 +1,1 @@
-https://github.com/phhusson/treble_experimentations/wiki.git
+https://github.com/phhusson/treble_experimentations/wiki
