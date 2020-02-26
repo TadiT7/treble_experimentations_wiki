@@ -10,7 +10,6 @@
 | WiFi                      | Working                   | Bootloop                  | Bootloop                  |
 | SIM / Mobile Data / Voice | Working                   | Bootloop                  | Bootloop                  |
 | Offline Charging          | Not Working               | Bootloop                  | Bootloop                  |
-| Other feature             |                           |                           |                           |
 ---
 
 ## Test Results 
