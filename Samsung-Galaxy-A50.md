@@ -5,6 +5,7 @@
 - Notch + Rounded corners
 - Duel SIM
 - Proximity Sensor
+- Dual Stereo Speakers (Added feature isn't available on stock OS)
 #### [SkyKernal for GSI's](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing):
 - MTP (Transferring files over USB)
 
