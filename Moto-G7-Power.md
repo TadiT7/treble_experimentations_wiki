@@ -5,7 +5,7 @@ Tested with Phh Treble v212
 VERY IMPORTANT
 - To boot the Android 10 GSI, you must first change `ro.control_privapp_permissions=enforcing` to `ro.control_privapp_permissions=log` in `/vendor/build.prop`. Vendor enforcements denies permissions from the GSI and considers them violations. If this property is not changed, the vendor will prevent the device from booting.
 - To use Magisk on this GSI or any other, you must also remove `init.mmi.hab.sh` from `/vendor/bin/`. This file conflicts with Magisk's rooting permissions, preventing the device from booting when applied.
-- To successfully receive an SMS message over the LTE network, [`android.hardware.telephony.ims.xml`](http://treble.phh.me/android.hardware.telephony.ims.xml) must be applied to `system/etc/permissions` with the permission 0644. Optionally, the file can also be applied to `vendor/etc/permissions` given the 0644 permission. This solution may be easily break, so installing a Magisk module such as Pix3lify, is strongly ill-advised.
+- To successfully receive an SMS message over the LTE network, [`android.hardware.telephony.ims.xml`](http://treble.phh.me/android.hardware.telephony.ims.xml) must be applied to `vendor/etc/permissions` with the permission 0644. This solution may easily break, so installing a Magisk module such as Pix3lify, is strongly ill-advised.
 
 ## Wireless
 
