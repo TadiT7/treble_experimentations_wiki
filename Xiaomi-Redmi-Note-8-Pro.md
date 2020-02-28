@@ -4,10 +4,10 @@ phh's AOSP v212 ARM64 A/B gappsed
 ## Hardware support:
 | Component | Status |
 |-|-|
-| Camera 64MP | Works only in 16MP mode, even in Google Camera Port. |
+| Camera 64MP | Works only in 16MP mode, even on Google Camera Port. |
 | Camera Macro | Use listed below camera apps. |
 | Camera Ultrawide | Use listed below camera apps. |
-| Camera Depth Sensor | *Unknown* |
+| Camera Depth Sensor | Works as 2MP camera. |
 | Speaker / Mic | Working |
 | Bluetooth | Working |
 | WiFi | Working |
@@ -15,33 +15,50 @@ phh's AOSP v212 ARM64 A/B gappsed
 | Double SIM | *Untested* |
 | Fingerprint | Working |
 | Offline Charging | Working, but boots into recovery after plug-in. |
-| NFC | *Untested* |
+| NFC | Working |
 | IR blaster | Working |
 
 You can found GCam Port here: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
-Also works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play). Don't forget to use Camera2API.
+Also apps that works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play). Don't forget to use Camera2API.
 
 ## Software Support:
 | Component | Status |
 |-|-|
-| Performance | Little bit unstable, random little freezes and lags. |
-| Random reboots | Not detected, phone is stable on this. |
-| Mirrorcast | Not working. |
-| SafetyNet -> Google Pay | Basic Integrity fail, CTS Profile fail. | 
-| Media playback / Recording | Working, please apply sound fix on AOSP 10 ([#1028](https://github.com/phhusson/treble_experimentations/issues/1028)) |
-| Notch and rounded corners detection | Working |
-| Auto-brightness | Working. No "A" button, go to settings to turn it on. |
-| Nightlight | Bugged. To fix flickering, disable HW overlay in developer settings after each reboot. |
-| VoLTE | *Untested* |
+| Performance and random reboots | Little bit unstable, random little freezes and lags. No random reboots. |
 | Bluetooth calls | Working |
+| Auto-brightness | Working |
+| SafetyNet and Google Pay | See fix below. | 
+| Media playback / Recording | See fix below. |
+| Nightlight | See fix below. |
+| Mirrorcast | Not working. |
+| VoLTE | *Untested* |
+| Notch and rounded corners detection | *Untested* |
 
 Please, edit page and add other major features, if I have missed any.
 
-## Bug reports:
+## Bugs:
 *Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first.*
-| Application | Status |
+| Bug | Status |
 |-|-|
 | None unfixed bug is reported |  |
+
+## Fixes:
+#### Nightlight fix
+**Problem:** Nightlight is flickering with strong orange color on screen updates.
+**Solution:** Go to developer settings (unlock them first), turn on "Disable HW overlay" ("Отключить аппаратное наложение"). Apply this after each reboot. **Note that this will lower your phone performance.**
+
+#### Media fix
+**Problem:** No sound, no video, no notifications and alarms, no ringtones. Apps crash when trying record or play sound, or stuck on 0:00.
+**Solution:** Add those lines to the end of file /etc/prop.default (root needed, mount partition r/w):
+`debug.stagefright.omx_default_rank.sw-audio=1`
+`debug.stagefright.omx_default_rank=0`
+
+#### Google Pay and SafetyNet:
+**Problem:** basicIntegrity fail, ctsProfile fail.
+**Solution:** Root explorer needed.
+To fix basicIntegrity remove folder /data/su. To prevent creation of this folder each reboot remove file (mount partition r/w): /etc/init/su.rc
+To fix ctsProfile, flash this module with Magisk Manager: [module.zip](https://drive.google.com/open?id=1mlAWmNJdJnN77rZN0AvGddURxh65RXxU) and reboot.
+Also you can uninstall vanilla SU apk: me.phh.superuser to stop getting notification about update of binary file.
 
 ## Installation:
 Your **warranty** will be **void** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
