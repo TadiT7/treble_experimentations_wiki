@@ -69,16 +69,15 @@ Your **warranty** will be **void** if not already. **Proceed on your own risk.**
 
 Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/unrooted).
 
-*Please note: if you wish to use Google Market, flash GSI with preinstalled GApps. Unfortunately, Gapps can't be flashed due error 20, resizing of system partition leads to bootloop.*
-
-**ARM64 A/B**
+Use only **ARM64 A/B** GSIs. Use of sGSI is not recommended, they weren't tested yet.
 
 1. Go to TWRP and make backup of System and Data partitions. **You DON'T need to backup other partitions such as Vendor or Boot, because if you do restore them once, you will GET A SOFTBRICK.**
 2. Format -> Format Data -> Type "yes". Do NOT format system and any other partition.
 3. Install -> Flash image -> Select your GSI.img and flash it as "System image".
-4. Boot into system.
+4. If you are sure that your GSI comes without GApps, then flash [latest GApps](https://opengapps.org/) made for ARM64, nano or micro (if available) are recommended. If you encounter error 20, then mount system. If you encounter error 70, then go to "wipe" -> "advanced" -> select system partition -> "resize or repair" -> resize partition first -> then repair partition, now you can flash GApps.
 5. If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
-6. Apply some fixes, like brightness slider fix and others. DONE.
+6. Boot into system.
+7. Apply some fixes, like brightness slider fix and others. DONE.
 
 ## Uninstall: 
 Before anything, wipe system partition and "format data -> yes".
