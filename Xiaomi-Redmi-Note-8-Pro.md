@@ -50,8 +50,11 @@ Please, edit page and add other major features, if I have missed any.
 #### Media fix
 **Problem:** No sound, no video, no notifications and alarms, no ringtones. Apps crash when trying record or play sound, or stuck on 0:00.
 **Solution:** Add those lines to the end of file /etc/prop.default (root needed, mount partition r/w):
-```debug.stagefright.omx_default_rank.sw-audio=1
-debug.stagefright.omx_default_rank=0```
+
+```
+debug.stagefright.omx_default_rank.sw-audio=1
+debug.stagefright.omx_default_rank=0
+```
 
 #### Google Pay and SafetyNet:
 **Problem:** basicIntegrity fail, ctsProfile fail.
