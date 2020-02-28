@@ -1,5 +1,6 @@
 **Tested on:**
-phh's AOSP v212 ARM64 A/B gappsed
+- phh's AOSP v212, both vanilla and gappsed
+- AndyYan's LOS v17.1-20200227 
 
 ## Hardware support:
 | Component | Status |
@@ -80,8 +81,9 @@ Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/u
 6. Apply some fixes, like brightness slider fix and others. DONE.
 
 ## Uninstall: 
- - If you wish to **change GSI**: restore System partition from your backup made on step 1, an then continue from step 2.
- - If you wish to **go back to stock**: format Data -> yes, restore System partition, reboot to system, then restore Data. Please note, that your lockscreen password will be reset, but not your fingerprints.
+Before anything, wipe system partition and "format data -> yes".
+ - If you wish to **change GSI**: restore System partition from your backup made on step 1, boot once, go back to TWRP and continue from step 2.
+ - If you wish to **go back to stock**: format Data -> yes, restore System partition, reboot to system, then restore Data. Please note, that your lockscreen password will be reset, but not your fingers.
 
 ## Recovery:
 | Problem | Solution |
@@ -104,6 +106,7 @@ Dependencies: unlocked bootloader, TWRP (not official one), stock MIUI (rooted/u
    - Model: Redmi Note 8 Pro (begonia) Global ver.
    - Region: Ukraine
    - MIUI Vendor: MIUI Global Stable 11
-   - GSI: phh's AOSP 10 ARM64 A/B v212; phh's AOSP 9 ARM64 A/B v123
+   - GSI: phh's AOSP 10 ARM64 A/B v212
+   - GSI: AndyYan's LOS v17.1-20200227 
 
 More testers needed.
