@@ -32,12 +32,13 @@ fill it in if you know
 |---------------------------|----------------------------------------------|
 | Camera                    | Work                                         |
 | Speaker / Mic             | Work                                         |
-| Bluetooth                 | Not working                                  |
+| Bluetooth                 | Work (turn on workaround in phh-settings)    |
 | WiFi                      | Work                                         |
-| SIM / Mobile Data / Voice | Glitches / Secondary SIM seems not working   |
+| SIM / Mobile Data / Voice | Work                                         |
 | SDcard                    | Not tested                                   |
 | VoLTE                     | Not tested                                   |
-| Sensors                   | Not tested / Rotation Ok                     |
+| Sensors / Rotation        | Ok                                           |
+| Sensors                   | Others?                                      |
 | GPS                       | Seems not working                            |
 | Fingerprint               | No hardware                                  |
 | NFC                       | No hardware                                  |
