@@ -50,15 +50,15 @@ Please, edit page and add other major features, if I have missed any.
 #### Media fix
 **Problem:** No sound, no video, no notifications and alarms, no ringtones. Apps crash when trying record or play sound, or stuck on 0:00.
 **Solution:** Add those lines to the end of file /etc/prop.default (root needed, mount partition r/w):
-`debug.stagefright.omx_default_rank.sw-audio=1`
-`debug.stagefright.omx_default_rank=0`
+```debug.stagefright.omx_default_rank.sw-audio=1
+debug.stagefright.omx_default_rank=0```
 
 #### Google Pay and SafetyNet:
 **Problem:** basicIntegrity fail, ctsProfile fail.
 **Solution:** Root explorer needed.
-To fix basicIntegrity remove folder /data/su. To prevent creation of this folder each reboot remove file (mount partition r/w): /etc/init/su.rc
-To fix ctsProfile, flash this module with Magisk Manager: [module.zip](https://drive.google.com/open?id=1mlAWmNJdJnN77rZN0AvGddURxh65RXxU) and reboot.
-Also you can uninstall vanilla SU apk: me.phh.superuser to stop getting notification about update of binary file.
+- To fix basicIntegrity remove folder /data/su. To prevent creation of this folder each reboot remove file (mount partition r/w): /etc/init/su.rc
+- To fix ctsProfile, flash this module with Magisk Manager: [module.zip](https://drive.google.com/open?id=1mlAWmNJdJnN77rZN0AvGddURxh65RXxU) and reboot.
+- Also you want to uninstall vanilla SU apk: me.phh.superuser to stop getting notification about update of binary file.
 
 ## Installation:
 Your **warranty** will be **void** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
