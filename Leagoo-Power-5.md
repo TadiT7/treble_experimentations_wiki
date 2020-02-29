@@ -23,7 +23,7 @@ Link:https://androidfilehost.com/?w=files&flid=289419&sort_by=date&sort_dir=DESC
 | WiFi                      | OK |                                                  
 | SIM / Mobile Data / Voice | OK |                                                  
 | VoLTE                     | Not verified|                                                 
-| Fingerprint               | Not working |                                                
+| Fingerprint               | OK |                                                
 | NFC                       | N/A |                                             
 | Wireless Charging         | OK |                                                  
 | GPS                       | OK |    
