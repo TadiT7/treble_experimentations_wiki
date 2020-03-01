@@ -168,6 +168,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
 |[[Moto Z2 Play]]|albus||A|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
+|[[Moto Z3]https://github.com/phhusson/treble_experimentations/wiki/Motorola-Z3]|messi|✓|A/B|arm64|
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
