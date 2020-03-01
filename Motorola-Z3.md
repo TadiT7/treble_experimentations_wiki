@@ -19,5 +19,4 @@ Model : XT1929-15
 Android version : 9.0
 Date : 1st March 2020
 
-template by @abkdmn
 
