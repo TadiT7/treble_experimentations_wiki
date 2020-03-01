@@ -3,7 +3,7 @@ Unlock Bootloader (do a Google search)
 Flash twrp via fastboot
 * fastboot flash recovery twrp-*messi*.IMG
 
-Boot to twrp recovery
+ Boot to twrp recovery
 * Format/wipe : system, data, cache ,dalvik
 * flash gsi in twrp : install>install_image>select gsi>select system image and swipe and reboot
 
