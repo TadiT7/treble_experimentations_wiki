@@ -12,7 +12,10 @@ Pretty much everything works. Keybord lacks backlight (except for capslock state
 * Format and wipe userdata using `fastboot format userdata` and `fastboot erase userdata` commands
 * Reboot the device
 
-## Hardware support on Q
+### Notice:
+Latest LineageOS 16.0 packages are much more Treble-compatible than stock. Currently, they are the recommended prerequisite for flashing a GSI. Keyboard no longer causes a hassle.
+
+## Hardware support on Q (stock Pie vendor)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
