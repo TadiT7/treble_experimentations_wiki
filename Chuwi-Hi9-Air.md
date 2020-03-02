@@ -36,7 +36,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | yes (both work, front cam orientation upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
-| Bluetooth                 | yes (works for 8.1 GSI, with 9 GSI enable the Mediatek workaround under phh treble settings > misc features > bluetooth workarounds  )                       |
+| Bluetooth                 | yes (works for 8.1 GSI, with 9 GSI enable the Mediatek workaround under ```phh treble settings > misc features > bluetooth workarounds ```)                       |
 | WiFi                      | yes (but signal seems worse compared to stock ROM)        |
 | SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
