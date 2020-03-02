@@ -12,7 +12,9 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 * wait for erase to finish and power off (long press)
 * start device with `power` and `vol+` simultaneously for bootloader menu, select "Fastboot Mode" via 'vol+', then confirm OK via 'vol-'
 * unlock bootloader
-    > ℹ️ You may keep the bootloader locked, if [TWRP](https://drive.google.com/open?id=1pl3XaTkKen9yL98toJX-Y_0uanwuEL4d) is installed via SP Flash as well and you subsequently install the system image and OpenGApps via TWRP...    ```
+    > ℹ️ You may keep the bootloader locked, if [TWRP](https://drive.google.com/open?id=1pl3XaTkKen9yL98toJX-Y_0uanwuEL4d) is installed via SP Flash as well and you subsequently install the system image and OpenGApps via TWRP...
+
+    ```
     $ fastboot oem unlock
     ```
     Confirm OK on screen via 'vol+'.
