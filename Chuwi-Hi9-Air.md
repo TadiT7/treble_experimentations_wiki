@@ -1,6 +1,6 @@
 # Chuwi Hi9 Air (Mediatek Helio X20 chipset)
 
-Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** Treble GSI (Oreo).
+Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** (Oreo) and **9.0** (Pie) Treble GSI.
 
 ## Steps to install
 
@@ -17,6 +17,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     ```
     Confirm OK on screen via 'vol+'.
     > :warning: When relocking the bootloader again via `fastboot oem lock` the device won't boot custom images any longer...
+    > ℹ️ You may keep the bootloader locked, if [TWRP](https://drive.google.com/open?id=1pl3XaTkKen9yL98toJX-Y_0uanwuEL4d) is installed via SP Flash as well and you subsequently install the system image and OpenGApps via TWRP...
 * flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive):
     ```
     $ fastboot erase system
@@ -33,7 +34,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | yes (both work, front cam orientation upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
-| Bluetooth                 | yes (only works for 8.1 GSI, no BT devices [detected](https://github.com/phhusson/treble_experimentations/issues/1097) on scan with 9)                       |
+| Bluetooth                 | yes (works for 8.1 GSI, with 9 GSI enable the Mediatek workaround under phh treble settings > misc features > bluetooth workarounds  )                       |
 | WiFi                      | yes (but signal seems worse compared to stock ROM)        |
 | SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
@@ -45,4 +46,4 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 | Casting                   | no, only via Google Home (as for Chuwi stock ROM)         |
 ---
 
-Tested by bofh2k - phh-treble 8.1 v32 (arm64-aonly-vanilla-nosu) - 2019-10-31
+Tested by bofh2k - phh-treble 8.1 v32 & 9 v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
