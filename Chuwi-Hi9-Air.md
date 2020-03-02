@@ -26,7 +26,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     $ fastboot -u flash system system-arm64-aonly-vanilla-nosu.img
     $ fastboot reboot
     ```
-    :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32)...
+    :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32>123)...
      > Alternatively, you could flash via TWRP as "System Image". Refrain from formatting data, as the device will fail to boot then :-1:: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
 * wait patiently for another erase job to finish and initial boot (which now displays android animation instead of CHUWI) to complete: This will take several minutes 
 
