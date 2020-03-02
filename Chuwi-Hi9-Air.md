@@ -17,6 +17,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     ```
     Confirm OK on screen via 'vol+'.
     > :warning: When relocking the bootloader again via `fastboot oem lock` the device won't boot custom images any longer...
+
     > ℹ️ You may keep the bootloader locked, if [TWRP](https://drive.google.com/open?id=1pl3XaTkKen9yL98toJX-Y_0uanwuEL4d) is installed via SP Flash as well and you subsequently install the system image and OpenGApps via TWRP...
 * flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive):
     ```
