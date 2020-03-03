@@ -38,10 +38,10 @@ Also apps that works with multi cameras: Open Camera (from Google Play), HedgeCa
 Please, edit page and add other major features, if I have missed any.
 
 ## Bugs:
-*Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first.*
+*Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first before adding new bugs here or creating new issues on repo.*
 | Bug | Status |
 |-|-|
-| Camera is glitchy in some apps like Viber | Please, be updated with on #1154 issue. |
+| Camera is glitchy in some apps like Viber | Please, be updated with on [#1154](https://github.com/phhusson/treble_experimentations/issues/1154) issue. |
 
 ## Fixes:
 #### Nightlight fix
