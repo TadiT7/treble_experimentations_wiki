@@ -8,7 +8,7 @@
 | Camera 64MP | Works only in 16MP mode, even on Google Camera Port. |
 | Camera Macro | Use listed below camera apps. |
 | Camera Ultrawide | Use listed below camera apps. |
-| Camera Depth Sensor | Works as 2MP camera. |
+| Camera Depth Sensor | Works as simple 2MP camera. |
 | Speaker / Mic | Working |
 | Bluetooth | Working |
 | WiFi | Working |
@@ -19,8 +19,8 @@
 | NFC | Working |
 | IR blaster | Working |
 
-You can found GCam Port here: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
-Also apps that works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play). Don't forget to use Camera2API.
+You can found GCam Port here, but it's very buggy on GSIs: [telegram chat (speak english only!)](https://t.me/rn8pro_gcam).
+Also apps that works with multi cameras: Open Camera (from Google Play), HedgeCam2 (from Google Play). Don't forget to swith on Camera2API, in other case you can't set manually camera exposure.
 
 ## Software Support:
 | Component | Status |
@@ -41,7 +41,7 @@ Please, edit page and add other major features, if I have missed any.
 *Please, read issue [#1028](https://github.com/phhusson/treble_experimentations/issues/1028) first.*
 | Bug | Status |
 |-|-|
-| None unfixed bug is reported |  |
+| Camera is glitchy in some apps like Viber | Please, be updated with on #1154 issue. |
 
 ## Fixes:
 #### Nightlight fix
@@ -51,7 +51,6 @@ Please, edit page and add other major features, if I have missed any.
 #### Media fix
 **Problem:** No sound, no video, no notifications and alarms, no ringtones. Apps crash when trying record or play sound, or stuck on 0:00.
 **Solution:** Add those lines to the end of file /etc/prop.default (root needed, mount partition r/w):
-
 ```
 debug.stagefright.omx_default_rank.sw-audio=1
 debug.stagefright.omx_default_rank=0
