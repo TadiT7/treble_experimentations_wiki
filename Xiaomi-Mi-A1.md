@@ -34,7 +34,10 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 
 ## Tested By:
 * Nofan Tasi - 2020-03-05
-  - Phh-AOSP Q working (using sooti 07-11-19 vendor.img and Lightning Kernel V5.1)
+  - Phh-AOSP Android 10/Q (March 2020) working
+   sooti 07-11-19 vendor.img
+   prorooter007 Lightning Kernel V5.1
+   giovix92 TWRP 3.3 withTM 2.1
 * GabrielHoward - 2018-12-03
   - [Android P PQ2A](https://t.me/psemigsi) working
 * kdrag0n - Resized userdata - 2018-05-27
