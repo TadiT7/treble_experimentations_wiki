@@ -20,8 +20,11 @@ Only some Android Pie 9 (below) boots and works.
 * AOSP 9.0 v123 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases/tag/v123)
 * Descendant 4.0.1 for Treble Enabled Devices [XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/descendant-android-pie-custom-rom-ver-t3840578)
 
-### WIP Android 10 (no booting yet)
-* AOSP v10.0 v211 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases/tag/v212)
+### WIP Android 10
+* AOSP v10.0 v213 [phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases/tag/v213)
+In release applied fix for lib's : dlopen failed: library "libstdc++.so" not found
+Maybe you still have to copy it in /vendor/lib/libstdc++.so [(details issue #1134)](https://github.com/phhusson/treble_experimentations/issues/1134) (+ magisk_pphusson + magisk_4_gsi_fix if needed)
+
 
 ### POST FLASH INSTRUCTIONS
 fill it in if you know
