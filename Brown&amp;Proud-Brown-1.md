@@ -34,6 +34,17 @@ The kernel is still WIP so as always, do it at your own risk.
 `Resurrection Remix Oreo/Pie`
 
 `MoKee OS v81.0`
+
+<details><summary>Not Tested:</summary><p>
+'Lineage OS 15.1'
+
+'Lineage OS 16.0'
+
+'Android Open Source Project (10)'
+
+'Arrow OS'
+
+'Havoc OS'
 ---
 Also tested by: LionSinOfPride, TiaFourté, Черная мамба
 
