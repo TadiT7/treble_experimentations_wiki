@@ -44,7 +44,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
-|[[Brown&Proud brown 1]]|V4701_I01 / halibut||A|arm64
+|[[Brown&Proud Brown 1]]|V4701_I01||A|arm64
 |[[Cherry Mobile Flare S8]]|X930|✓|A/B|arm64|
 |[[Cherry Mobile Flare S8 Plus]]|FS8Plus|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Max]]|Flare_S8_Max|√|A/B|arm64|
