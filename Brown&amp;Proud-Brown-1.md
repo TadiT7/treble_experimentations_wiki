@@ -34,8 +34,6 @@ The kernel is still WIP so as always, do it at your own risk.
 `Resurrection Remix Oreo/Pie`
 
 `MoKee OS v81.0`
-
-`Lineage OS 15.1`
 ---
 Also tested by: LionSinOfPride, TiaFourté, Черная мамба
 
