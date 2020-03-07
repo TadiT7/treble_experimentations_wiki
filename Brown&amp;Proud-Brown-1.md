@@ -45,6 +45,7 @@ The kernel is still WIP so as always, do it at your own risk.
 'Arrow OS'
 
 'Havoc OS'
+
 ---
 Also tested by: LionSinOfPride, TiaFourté, Черная мамба
 
