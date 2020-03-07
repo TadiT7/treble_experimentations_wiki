@@ -44,6 +44,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
+|[[Brown&Proud brown 1]]|halibut||A|arm64
 |[[Cherry Mobile Flare S8]]|X930|✓|A/B|arm64|
 |[[Cherry Mobile Flare S8 Plus]]|FS8Plus|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Max]]|Flare_S8_Max|√|A/B|arm64|
@@ -173,7 +174,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
-|[[MyPhone Brown 1]]|V4701|X|A|arm64|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
 |[[Nokia 1 Plus]]|ant|✓ (Go)|A|arm|
 |[Nokia 2.1 and 2 V](https://github.com/phhusson/treble_experimentations/wiki/Nokia-2.1-and-V)|e2m and evw|✓ (Go)|A|arm|
