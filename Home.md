@@ -174,6 +174,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
+|[[MyPhone myA11]]|myA11|✓ (Go)|A|arm|
+|[[MyPhone myA12]]|myA12|✓ (Go)|A|arm|
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
 |[[Nokia 1 Plus]]|ant|✓ (Go)|A|arm|
 |[Nokia 2.1 and 2 V](https://github.com/phhusson/treble_experimentations/wiki/Nokia-2.1-and-V)|e2m and evw|✓ (Go)|A|arm|
