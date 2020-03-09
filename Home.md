@@ -212,6 +212,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
 |[[Oukitel K7 Power]]|K7_power|✓|A|arm64|
 |[[Oukitel K8]]|K8|✓|A|arm64|
+|[[Ovvi SK3]]|V4701_I01||A|arm64|
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Realme 1]]|cph1861|✓|A|arm64|
@@ -334,7 +335,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 5A]]|riva||A|arm64|
 |[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
-
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
 |[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
