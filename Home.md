@@ -55,6 +55,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
+|[[Cubot X18 Plus]]|Cubot_X18_Plus||A|arm64|
 |[[Cubot X19]]|x19|✓|A/B|arm64|
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
@@ -271,7 +272,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
-|[[Teclast m30 (MT6797x helio x27)]]|n/a| |A|arm64|
+|[[Teclast M20 4G]]|M20_4G||A|arm64|
+|[Teclast M30 (MT6797x helio x27)(https://github.com/phhusson/treble_experimentations/wiki/Teclast-m30-%28MT6797x-helio-x27%29)]|M30||A|arm64|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
@@ -365,5 +367,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Z18]]|nx606j||A|arm64|
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
-|[[Cubot X18 Plus]]|Cubot_X18_Plus||A|arm64|
 
