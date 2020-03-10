@@ -273,7 +273,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
 |[[Teclast M20 4G]]|M20_4G||A|arm64|
-|[Teclast M30 (MT6797x helio x27)(https://github.com/phhusson/treble_experimentations/wiki/Teclast-m30-%28MT6797x-helio-x27%29)]|M30||A|arm64|
+|[Teclast M30](https://github.com/phhusson/treble_experimentations/wiki/Teclast-m30-%28MT6797x-helio-x27%29)|M30||A|arm64|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
