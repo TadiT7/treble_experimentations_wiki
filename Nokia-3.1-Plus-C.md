@@ -7,8 +7,8 @@
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | ? (Unable to test due to SIM lock.)                       |
-| VoLTE                     | ? (Unable to test due to SIM lock.)                       |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 | NFC                       | √                                                         |
 
@@ -19,8 +19,8 @@
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | ? (Unable to test due to SIM lock.)                       |
-| VoLTE                     | ? (Unable to test due to SIM lock.)                       |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 | NFC                       | √                                                         |
 
@@ -38,5 +38,7 @@ When flashing, please ensure the vbmeta from RHD stock firmware need to be flash
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 07/11/2019
 
 AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 3.1 Plus C 00N0_1_26C @ 07/11/2019
+
+Mobile Data part: 10/03/2020
 
 Template created by @zguithues
