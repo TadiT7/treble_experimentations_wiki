@@ -50,7 +50,8 @@ If anyone could help me making touchscreen works, I think this could be flashed 
 ---
 
 ## GSI AOSP 10
+
 GSI AOSP 10 Rom stucks on initial boot after following the same instruction of AOSP 9 GSI
 
 
-Tested By: bahamut657 - Cubot-Quest(IT), Firmware Version AOSP 9 GSI- Date tested - Template created by @zguithues and @hackintosh5
+Tested By: bahamut657 - Cubot-Quest(IT), Firmware Version AOSP 9 GSI- Date tested 2020/03/12 - Template created by @zguithues and @hackintosh5
