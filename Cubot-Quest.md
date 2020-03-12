@@ -1,8 +1,9 @@
 # Cubot QUEST
 
 ## GSI AOSP 9
-GSI AOSP 9 Rom works very well and smooth (all version).
-The only real issue is with TWRP, touchscreen doesn't work at all
+GSI AOSP 9 Rom works very well and smooth (all version),except for Mobile Internet. It works for 30 minutes than it stops. Rebooting will restart Mobile Internet for other 30 minutes.
+
+Issues in TWRP, touchscreen doesn't work at all
 
 ### Steps to install
 
@@ -41,7 +42,7 @@ If anyone could help me making touchscreen works, I think this could be flashed 
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | N/A                                                       |
 | WiFi                      | OK                                                        |
-| SIM / Mobile Data / Voice | OK                                                        |
+| SIM / Mobile Data / Voice | Call Ok, but Mobile Internet works for 30 minutes         |
 | VoLTE                     | N/A                                                       |
 | Fingerprint               | OK                                                        |
 | NFC                       | N/A                                                       |
