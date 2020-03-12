@@ -1,7 +1,7 @@
 # Cubot QUEST
 
 ## GSI AOSP 9
-GSI AOSP 9 Rom works very well and smooth (all version),except for Mobile Internet. It works for 30 minutes than it stops. Rebooting will restart Mobile Internet for other 30 minutes.
+GSI AOSP 9 Rom works very well and smooth (all version)
 
 Issues in TWRP, touchscreen doesn't work at all
 
@@ -49,6 +49,9 @@ If anyone could help me making touchscreen works, I think this could be flashed 
 | Offline Charging          | OK                                                        |
 | Extra button              | Not working at all                                        |
 ---
+
+## Havoc 2.9, based on AOSP 9 GSI
+ Mobile Internet. It works for 30 minutes than it stops. Rebooting will restart Mobile Internet for other 30 minutes.
 
 ## GSI AOSP 10
 
