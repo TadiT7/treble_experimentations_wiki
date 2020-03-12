@@ -42,7 +42,7 @@ If anyone could help me making touchscreen works, I think this could be flashed 
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | N/A                                                       |
 | WiFi                      | OK                                                        |
-| SIM / Mobile Data / Voice | Call Ok, but Mobile Internet works for 30 minutes         |
+| SIM / Mobile Data / Voice | OK                                                        |
 | VoLTE                     | N/A                                                       |
 | Fingerprint               | OK                                                        |
 | NFC                       | N/A                                                       |
