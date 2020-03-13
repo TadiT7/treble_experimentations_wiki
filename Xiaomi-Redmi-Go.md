@@ -32,8 +32,11 @@ Hardware Support
 
 *  Note some expert please add the decryption fix here. as this method does not work.
 * `fastboot flash system _your_gsi_path_`
-* `fastboot format userdata `
-* `fastboot reboot`
+* `fastboot reboot `
+* The system will ask for decryption password.
+* Just type any random phrase as password. It will say, wrong password - do you like to reset device encryption
+* Say yes.
+* Phone will reboot. All good.
 
 ### flash it via twrp as system image
 
