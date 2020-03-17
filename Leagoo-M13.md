@@ -1,4 +1,4 @@
-# Device
+# Leagoo M13
 
 Summary of what works and doesn't
 
@@ -32,6 +32,6 @@ Summary of what works and doesn't
 | Other feature             | Status                                                    |
 ---
 
-Tested By: username - Model-Number(region), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
+Tested By: amrhelmy2004 - Model-Number(region), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
 
 **!!!IF YOU'RE EDITING THIS TEMPLATE TO ADD YOUR DEVICE, CREATE ITS PAGE AND EDIT THERE, OTHERWISE YOU'LL DELETE THE TEMPLATE ITSELF!!!**
