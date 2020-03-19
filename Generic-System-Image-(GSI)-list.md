@@ -10,8 +10,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 
 
 ## Android 11 Developer Preview
-_Note: Android R is in preview and may not work on all devices._
-_Second Note: These are Google provided GSIs and not created by phhusson._
+_**Note:** Android R is in preview and may not work on all devices._
+_**Second Note:** These are Google provided GSIs and not created by phhusson._
 |Download|Partition Style|Architecture|
 |:-:|:-:|:-:|
 |[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|A/B|arm64 - x86|
