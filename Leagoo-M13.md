@@ -20,7 +20,7 @@ Summary of what works and doesn't
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working (Single Back Camera                                                    |
+| Camera                    | Working (Single Back Camera)                                                    |
 | Speaker / Mic             | Working                                                    |
 | Bluetooth                 | Working                                                    |
 | WiFi                      | Working                                                    |
