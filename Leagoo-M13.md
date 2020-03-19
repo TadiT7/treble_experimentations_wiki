@@ -20,18 +20,16 @@ Summary of what works and doesn't
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Status                                                    |
-| Speaker / Mic             | Status                                                    |
-| Bluetooth                 | Status                                                    |
-| WiFi                      | Status                                                    |
-| SIM / Mobile Data / Voice | Status                                                    |
+| Camera                    | Working (Single Back Camera                                                    |
+| Speaker / Mic             | Working                                                    |
+| Bluetooth                 | Working                                                    |
+| WiFi                      | Working                                                    |
+| SIM / Mobile Data / Voice | Working Both SIMS                                                    |
 | VoLTE                     | Status                                                    |
-| Fingerprint               | Status                                                    |
+| Fingerprint               | Working                                                    |
 | NFC                       | Status                                                    |
-| Offline Charging          | Status                                                    |
+| Offline Charging          | Not Working                                                    |
 | Other feature             | Status                                                    |
 ---
 
 Tested By: amrhelmy2004 - Model-Number(region), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
-
-**!!!IF YOU'RE EDITING THIS TEMPLATE TO ADD YOUR DEVICE, CREATE ITS PAGE AND EDIT THERE, OTHERWISE YOU'LL DELETE THE TEMPLATE ITSELF!!!**
