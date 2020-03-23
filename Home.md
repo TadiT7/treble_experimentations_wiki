@@ -1,4 +1,4 @@
-![Android GSI](https://i.imgur.com/NQDA9R5.png)
+![android GSI](https://i.imgur.com/cJJ0zxQ.png)
 ### What is Project Treble, GSI, etc?
 Here's [[Frequently Asked Questions (FAQ)]].
 
