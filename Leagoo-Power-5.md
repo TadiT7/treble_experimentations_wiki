@@ -12,7 +12,7 @@ Requirements::
 
 BUGS:
 
-1. The device might show as not certified, so you won't be able to use any Google services until you register your device. Guide from [Androidsage](https://www.androidsage.com/2018/03/29/fix-device-is-not-certified-by-google-error-on-play-store/)to help doing that;
+1. The device might show as not certified, so you won't be able to use any Google services until you register your device. Guide from [Androidsage](https://www.androidsage.com/2018/03/29/fix-device-is-not-certified-by-google-error-on-play-store/) to help doing that;
 2. Brightness seems to be at 50% when set at a maximum. This issue might be due to the Vendor Overlays (not a 100% sure though), I am investigating this, but I am using the device as it is and it is fine for me, until we find a solution for it.
 
 Quick Guide:
