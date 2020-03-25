@@ -96,7 +96,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 8]]|frd|✓|A|arm64|
 |[[Huawei Honor 8 Lite]]|pra|✓|A|arm64|
 |[[Huawei Honor 8 Pro]]|duk|✓|A|arm64|
-|[[Huawei Honor X Max]]|ARE-AL00|✓|A|arm64|(A/B when updated to EMUI 9)|arm64|
+|[[Huawei Honor X Max]]|ARE-AL00|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
