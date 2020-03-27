@@ -36,7 +36,7 @@ Quick Guide:
 | Bluetooth                 | OK |                                                 
 | WiFi                      | OK |                                                  
 | SIM / Mobile Data / Voice | OK |                                                  
-| VoLTE                     | Not verified|                                                 
+| VoLTE                     | OK |                                                 
 | Fingerprint               | OK |                                                                                         
 | Fast Charging             | OK |                                                  
 | GPS                       | OK |    
