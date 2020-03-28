@@ -8,6 +8,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
+|Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A -A/B| arm64 - x86|
 
 ## Android 11 Developer Preview
 _**Note:** Android R is in preview and may not work on all devices._
