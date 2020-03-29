@@ -1,4 +1,4 @@
-**Device:**Pixel 4 XL
+**Device:** Pixel 4 XL
 
 **Summary:** I tested the quack vanilla versions until v213. Almost everything works (wlan, mobile connection, camera etc) and the rom is very stable on this phone. Nevertheless the wlan connection isn't so stable even with full signal strength. 
 I can't say anything about bugs in the gapps version for this phone because i refuse to use Builds with Gapps.
