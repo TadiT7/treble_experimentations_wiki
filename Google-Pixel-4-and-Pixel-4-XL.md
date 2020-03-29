@@ -40,9 +40,9 @@ I can't say anything about bugs in the gapps version for this phone because i re
 * Bluetooth: Not working
 * WiFi: Works (but not completly stable)
 * SIM / Mobile Data / Voice: Works
-* VolTE: Not tested 
-* Fingerprint 	              Not tested
-* NFC 	                      Not working
-* Offline Charging 	      Not tested
-* NFC                           Not working
-* Storage connection to PC      Works
+* VoLTE: Not tested 
+* Fingerprint: Not tested
+* NFC: Not working
+* Offline Charging: Not tested
+* NFC: Not working
+* Storage connection to PC: Works
