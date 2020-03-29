@@ -1,6 +1,6 @@
 **Device:** Pixel 4 XL
 
-**Summary:** I tested the quack vanilla versions until v213. Almost everything works (wlan, mobile connection, camera etc) and the rom is very stable on this phone. Nevertheless the wlan connection isn't so stable even with full signal strength. 
+**Summary:** I tested the quack vanilla versions until v213. Mostly everything works (wlan, mobile connection, camera etc) and the rom is very stable on this phone. Nevertheless the wlan connection isn't so stable even with full signal strength. NFC and Bluetooth are broken.
 I can't say anything about bugs in the gapps version for this phone because i refuse to use Builds with Gapps.
 
 
@@ -37,12 +37,12 @@ I can't say anything about bugs in the gapps version for this phone because i re
 
 * Camera: Works
 * Speaker / Mic: Works
-Bluetooth 	              Not working
-WiFi 	                      Works (but completly stable)
-SIM / Mobile Data / Voice     Works
-VoLTE 	                      Not tested 
-Fingerprint 	              Not tested
-NFC 	                      Not working
-Offline Charging 	      Not tested
-NFC                           Not working
-Storage connection to PC      Works
+* Bluetooth: Not working
+* WiFi: Works (but not completly stable)
+* SIM / Mobile Data / Voice: Works
+* VolTE: Not tested 
+* Fingerprint 	              Not tested
+* NFC 	                      Not working
+* Offline Charging 	      Not tested
+* NFC                           Not working
+* Storage connection to PC      Works
