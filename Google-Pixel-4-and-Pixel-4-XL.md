@@ -29,10 +29,6 @@ I can't say anything about bugs in the gapps version for this phone because i re
            Command: fastboot reboot
 
 
-
-    flash this image with the fastboot utility:
-
-
 **Hardware support:**
 
 * Camera: Works
