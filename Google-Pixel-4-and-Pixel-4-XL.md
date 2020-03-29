@@ -14,19 +14,19 @@ I can't say anything about bugs in the gapps version for this phone because i re
            _Command:_ `flash vbmeta vbmeta.img`
 
    Step 4: Boot into fastbootd mode.
-            Command: fastboot reboot fastboot
+           _Command:_ `fastboot reboot fastboot`
 
    Step 5: Erase the current system.
-            Command: fastboot erase system
+           _Command:_ `fastboot erase system`
 
    Step 6: Flash the build of phh quack.
-            Command: flash system "Name of the build".img
+           _Command:_ `flash system "Name of the build".img`
 
    Step 7: Erase userdata.
-           Command: fastboot -w
+           _Command:_ `fastboot -w`
 
    Step 8: Reboot the phone
-           Command: fastboot reboot
+          _ Command:_ `fastboot reboot`
 
 
 **Hardware support:**
