@@ -34,9 +34,9 @@ I can't say anything about bugs in the gapps version for this phone because i re
 
 
 **Hardware support:**
-Component 	              Comment
-Camera 	                      Works
-Speaker / Mic 	              Works
+
+* Camera 	              Works
+2. Speaker / Mic 	      Works
 Bluetooth 	              Not working
 WiFi 	                      Works (but completly stable)
 SIM / Mobile Data / Voice     Works
