@@ -11,7 +11,8 @@ I can't say anything about bugs in the gapps version for this phone because i re
    Step 2: Boot the phone into fastboot mode (over hardware buttons or adb)
     
    Step 3: Flash the vbmeta.img. 
-           Command: `flash vbmeta vbmeta.img`
+           
+Command: `flash vbmeta vbmeta.img`
 
    Step 4: Boot into fastbootd mode.
             Command: fastboot reboot fastboot
