@@ -26,7 +26,7 @@ I can't say anything about bugs in the gapps version for this phone because i re
            _Command:_ `fastboot -w`
 
    Step 8: Reboot the phone
-          _ Command:_ `fastboot reboot`
+          _Command:_ `fastboot reboot`
 
 
 **Hardware support:**
