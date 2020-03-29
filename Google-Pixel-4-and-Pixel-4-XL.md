@@ -6,20 +6,20 @@ I can't say anything about bugs in the gapps version for this phone because i re
 
 **Steps to install:**
 
-    Step 1: Download the quack vanilla build and the vbmeta from phh
+   Step 1: Download the quack vanilla build and the vbmeta from phh
 
-    Step 2: Boot the phone into fastboot mode (over hardware buttons or adb)
+   Step 2: Boot the phone into fastboot mode (over hardware buttons or adb)
     
-    Step 3: Flash the vbmeta.img. 
+   Step 3: Flash the vbmeta.img. 
             Command: flash vbmeta vbmeta.img
 
-    Step 4: Boot into fastbootd mode.
+   Step 4: Boot into fastbootd mode.
             Command: fastboot reboot fastboot
 
-    Step 5: Erase the current system.
+   Step 5: Erase the current system.
             Command: fastboot erase system
 
-    Step 6: Flash the build of phh quack.
+   Step 6: Flash the build of phh quack.
             Command: flash system "Name of the build".img
 
    Step 7: Erase userdata.
