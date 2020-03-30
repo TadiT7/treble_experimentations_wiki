@@ -68,6 +68,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Doogee X5 Pro]]|X5pro|✓|A|arm|
 |[[Doogee X50]]|X50|✓|A|arm|
 |[[Doogee Y8]]|Y8|✓|A/B|arm64|
+|[[Duoqin Qin 2 Pro]]|n/a|✓|A/B|arm64|
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
@@ -126,6 +127,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Y9 (2018)]]|fla|✓|A|arm64|
 |[[Infinix Hot 8]]|x650|✓|A/B|arm_binder64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
+|[[Infinix Note 6]]|x610|✓|A/B|arm64|
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
 |[[Itel A32F]]|f8007|✓ (Go)|A|arm|
@@ -233,6 +235,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A30]]|a30dd|✓|A/B|arm64|
 |[Samsung Galaxy A40](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-A40-(Exynos))|a40dd|✓|A/B|arm64|
 |[[Samsung Galaxy A50]]|a50dd|✓|A/B|arm64|
+|[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70dd|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
@@ -258,6 +261,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[Samsung Galaxy S10e (Exynos)](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-S10e)|beyond0lte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Snapdragon)]]|beyond0qlte|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
+|[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[Samsung Galaxy Tab S4 10.5](https://github.com/phhusson/treble_experimentations/wiki/Samsung-Galaxy-Tab-S4-(SM-T83X))|gts4lwifi and gts4llte|✓|A|arm64|
 |[[Sharp Aquos P6 / V1]]|hd1|✓|A/B|arm64|
