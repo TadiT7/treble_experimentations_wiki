@@ -11,7 +11,7 @@
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
-| NFC                       | ?                                                         |
+| NFC                       | ×                                                         |
 
 ## Hardware Support (AOSP 10)
 
@@ -29,10 +29,7 @@
 ***
 ## Additional Notes
 
-The particular device is a TA-1196 without NFC hardware, so NFC functionality cannot be tested.
-
 On AOSP 9, Camera crashes every time, and third party camera app won't help at all.
-
 
 When flashing, please ensure the vbmeta from Nokia 7.2 stock firmware need to be flashed with both disabling parameters as well.
 
