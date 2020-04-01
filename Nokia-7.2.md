@@ -26,7 +26,6 @@
 | Fingerprint               | √                                                         |
 | NFC                       | ×                                                         |
 
-Screen rotation not working during test.
 
 
 ***
