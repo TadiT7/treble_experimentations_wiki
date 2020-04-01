@@ -17,14 +17,17 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | ?                                                         |
+| Camera                    | √                                                         |
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
-| NFC                       | ?                                                         |
+| NFC                       | ×                                                         |
+
+Screen rotation not working during test.
+
 
 ***
 ## Additional Notes
