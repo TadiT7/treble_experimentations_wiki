@@ -26,6 +26,7 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 |CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |LOSQ|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LOSQ-Project)|A - A/B|arm - arm64 - binder|
+|crDRom|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom-Project)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Trisquel|[Download](https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/)|A|arm64|
 |Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
