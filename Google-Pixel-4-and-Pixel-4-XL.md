@@ -40,5 +40,5 @@ I can't say anything about bugs in the gapps version for this phone because i do
 * Fingerprint: Not tested
 * NFC: Works
 * Offline Charging: Not tested
-* NFC: Not working
+* NFC: Works
 * Storage connection to PC: Works
