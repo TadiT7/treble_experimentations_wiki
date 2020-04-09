@@ -33,6 +33,9 @@ Treble on the A1 is unofficial and was ported by CosmicDan. A tutorial is availa
 
 
 ## Tested By:
+* @fenik on 2020-04-09: sooti's boot.img (2020-01-20) and vendor.img (2020-01-28) (
+  - Android 11 Google GSI (gsi_gms_arm64-exp-RPP2.200227.014-6343719.zip): Stuck at boot animation
+  - Android 10 Google GSI (gsi_gms_arm64-exp-QJR1.191112.001-6004257.zip): Boots, setup can't be completed due to missing screen lock options 
 * Nofan Tasi - 2020-03-05
   - Phh AOSP Android 10/Q (March 2020) fully working
    - sooti 07-11-19 vendor.img
