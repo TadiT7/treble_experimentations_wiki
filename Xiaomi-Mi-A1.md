@@ -23,6 +23,9 @@
 * Fingerprint Reader
 > Working
 
+* FM Radio
+> Not working; Missing userspace application and possibly support by community vendor images
+
 ***
 ## Additional Notes
 
