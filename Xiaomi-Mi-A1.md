@@ -23,6 +23,9 @@
 * Fingerprint Reader
 > Working
 
+* Offline Charging
+> Not working (tested on 2020-04-09 by fenik, see section below) 
+
 * FM Radio
 > Not working; Missing userspace application and possibly support by community vendor images
 
