@@ -194,7 +194,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 4.2]]|panther / pan|✓|A/B|arm64|
 |[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
-|[Nokia 6.1 / 6 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Nokia-6-%282018%29)|pl2|✓|A/B|arm64|
+|[Nokia 6.1 / 6 (2018)](https://github.com/phhusson/treble_experimentations/wiki/Nokia-6-(2018)---Nokia-6.1---%5BPL2%5D)|PL2|✓|A/B|arm64|
 |[[Nokia 6.1 Plus (X6)]]|drg|✓|A/B|arm64|
 |[[Nokia 6.2]]|starlord / sld|✓|A/B|arm64|
 |[[Nokia 7]]|c1n|✓|A/B|arm64|
