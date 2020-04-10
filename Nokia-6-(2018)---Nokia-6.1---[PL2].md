@@ -47,4 +47,6 @@ superium @ Nokia 6.1 @ 2018-06-30
 
 AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 6.1 TA-1050 00WW_4_060 (PL2-4060-0-00WW-B01) @ 05/11/2019
 
+theimpulson@xda-developers
+
 Template created by @zguithues
