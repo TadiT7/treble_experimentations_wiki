@@ -41,4 +41,4 @@ Quick Guide:
 | Fast Charging             | OK |                                                  
 | GPS                       | OK |    
 | Notification Led          | OK |
-| Brightness                | 50% only |
+| Brightness                | Fixed in the AOSPS V 215 (PHH Version) |
