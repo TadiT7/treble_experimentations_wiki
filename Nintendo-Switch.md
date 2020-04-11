@@ -11,7 +11,7 @@ Nintendo Switch isn't an android device but switchroot team ported android for i
 * Step 3 flash this image with the `fastboot` utility:
     ```
     $ fastboot devices
-    $ fastboot flash system system-arm64-abonly-vanilla-nosu.img
+    $ fastboot flash system system-arm64-ab-vanilla-nosu.img
     ```
     
 
