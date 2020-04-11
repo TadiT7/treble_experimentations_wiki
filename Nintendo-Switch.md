@@ -14,6 +14,8 @@ Nintendo Switch isn't an android device but switchroot team ported android for i
     $ fastboot flash system system-arm64-ab-vanilla-nosu.img
     ```
     
+## Known issues
+phh AOSP didn't booted but HavocOS and RR booted. Not all GSIs will boot currently due to early build of android, most of them will bootloop like RR but some of them will boot perfectly like HavocOS.
 
 ## Hardware support
 
