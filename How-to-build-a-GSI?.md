@@ -41,13 +41,13 @@ Then, run this to update your environment. ```source ~/.profile```
 
 ### 2. Install build packages
 
-Several packages are needed to build Android. You can install these using your distribution’s package manager.
+Several packages are needed to build Android and execute the scripts. You can install these using your distribution’s package manager.
 You’ll need:
 
 ```
 bc bison build-essential curl flex g++-multilib gcc-multilib git gnupg gperf imagemagick lib32ncurses5-dev
 lib32z1-dev liblz4-tool libncurses5-dev libsdl1.2-dev libwxgtk3.0-dev
-libxml2 libxml2-utils lunzip lzop pngcrush schedtool squashfs-tools xsltproc zip zlib1g-dev openjdk-8-jdk python perl
+libxml2 libxml2-utils lunzip lzop pngcrush schedtool squashfs-tools xsltproc zip zlib1g-dev openjdk-8-jdk python perl git git-lfs libncurses5 xmlstarlet virtualenv xz-utils rr
 ```
 
 ### 3. Install the repo command
