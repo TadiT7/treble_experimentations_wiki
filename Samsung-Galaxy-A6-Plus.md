@@ -17,7 +17,7 @@ Summary of what works and doesn't
 | SIM / Mobile Data / Voice | Working                                                   |
 | Dual SIM                  | Working                                                   |    
 | VoLTE                     | Not working                                               |
-| Fingerprint               | Not Working                                               |
+| Fingerprint               | Working                                               |
 | NFC                       | Working                                                   |
 | Hotspot / Usb tethering   | Working                                                   |
 | MTP                       | Working                                                   |
