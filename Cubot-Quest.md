@@ -1,7 +1,7 @@
 # Cubot QUEST
 
 ## GSI AOSP 9
-GSI AOSP 9 Rom works very well and smooth (all version). The onli issue is Mobile Internet. 
+GSI AOSP 9 Rom works very well and smooth (all version). The only issue is Mobile Internet. 
 It works for 1 hoour than it stops. Rebooting will restart Mobile Internet for other hour.
 
 Issues in TWRP, touchscreen doesn't work at all
