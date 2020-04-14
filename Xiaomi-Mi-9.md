@@ -95,7 +95,6 @@ Flash vbmeta with
 ```
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 ``` 
-
 Flash system with 
 ```
 fastboot flash system system.img
@@ -103,6 +102,24 @@ fastboot flash system system.img
 Reboot to recovery pressing power up + power
 
 Factory reset, reboot
+
+
+
+## Applying a vendor OTA
+
+This has been applied to update from vendor Pie to vendor Q, using miui_CEPHEUSEEAGlobal_V11.0.8.0.QFAEUXM_39255ef3ce_10.0.zip.
+This requires TWRP to install un-signed updates.
+Remove the zip's `compatibility.zip`, `system.new.dat.br`, `system.patch.dat`, `system.transfer.list`
+Edit META-INF/com/google/android/updater-script and remove:
+`package_extract_file("firmware-update/vbmeta.img", "/dev/block/bootdevice/by-name/vbmeta");`
+and
+```
+ui_print("Patching system image unconditionally...");
+block_image_update("/dev/block/bootdevice/by-name/system", package_extract_file("system.transfer.list"), "system.new.dat.br", "system.patch.dat") ||
+  abort("E2001: Failed to update system image.");
+```
+
+Finally, flash the zip in twrp.
 
 ### Community
 #### Telegram: 
