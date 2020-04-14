@@ -24,10 +24,10 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | Bluetooth                 | Working                    | Working                       |
 | WiFi                      | Working                    | Working                       |
 | SIM / Mobile Data / Voice | Working                    | Working                       |
-| VoLTE                     | Not Tested                 | Not Tested                    |
+| VoLTE                     | Working with [Patch]       | Working with [Patch]          |
 | Offline Charging          | Working                    | Working                       |
 | Root and MAGISK           | Working                    | Working                       |
-| Adoptable Storage         | Not Tested                 | Not Tested                    |
+| Adoptable Storage         | Working                    | Working                       |
 | Other feature             | N/A                        | N/A                           |
 ---
 
@@ -36,6 +36,8 @@ Tested Roms:
 9  * lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
 
 10 * AOSP 10.0 v200.d system-quack-arm32_binder64-ab by phhusson
+
+10 * AOSP 10.0 v214.d system-quack-arm32_binder64-ab by phhusson
 
 10 * Havoc OS
 
@@ -46,6 +48,8 @@ Tested Roms:
 9  * MK90.0-pine-202002191544-NIGHTLY by GuaiYiHu
 
 
-Tested By: Ralph Garcia - Global version -
-
+Tested By: Khushraj Rathod - VoLTE and Adopted Storage - Ralph Garcia - Global version
+           
 Template created by @zguithues and @hackintosh5
+
+[Patch]: https://github.com/KhushrajRathod/VoLTE-Fix
