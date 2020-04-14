@@ -220,6 +220,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
 |[[Oukitel K7 Power]]|K7_power|✓|A|arm64|
 |[[Oukitel K8]]|K8|✓|A|arm64|
+|[[Oukitel K9]]|K9|✓|A/B|arm64|
 |[[Ovvi SK3]]|V4701_I01||A|arm64|
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
