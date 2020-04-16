@@ -1,3 +1,5 @@
+**Samsung Galaxy Tab S4 (SM-T83X)**
+
 # Device
 
 Everything works, except stereo sound and s-pen optimizations.
