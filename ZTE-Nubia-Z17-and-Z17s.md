@@ -11,4 +11,4 @@
 
 ## XDA Thread
 
-https://forum.xda-developers.com/nubia-z17/development/nx595j-t3837433
+https://forum.xda-developers.com/nubia-z17/development/-t3837433/amp/
