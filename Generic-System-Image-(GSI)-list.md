@@ -10,6 +10,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
 |Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A - A/B| arm64 - x86|
+|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64|
 
 ## Android 11 Developer Preview
 _**Note:** Android R is in preview and may not work on all devices._
