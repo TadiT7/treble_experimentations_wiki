@@ -391,6 +391,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
 |[[ZTE Axon 7]]|axon7 / ailsa_ii||A|arm64|
+|[[ZTE Axon 10 Pro]]|n/a|✓|A/B|arm64|
 |[[ZTE Blade A3 (2019)]]|z3051t|✓|A/B|arm_binder64|
 |[[ZTE Blade V9]]|p450f10||A|arm64|
 |[[ZTE Blade V9 Vita]]|p840f03||A|arm64|
