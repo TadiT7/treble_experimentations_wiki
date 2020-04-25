@@ -1,10 +1,10 @@
 ## What works with fixes:
 #### [Overlay + Build.prop](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0):
 - Auto Brightness
-- AOD (Always on display)
-- Notch + Rounded corners
+- AOD (Always on display) availability
+- Notch + Rounded corners + Status bar height
 - Duel SIM
-- Proximity Sensor
+- Proximity Sensor in some apps
 #### [Quantum Kernel for GSI's](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip):
 - MTP (Transferring files over USB)
 
