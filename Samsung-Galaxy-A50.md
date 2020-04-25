@@ -54,7 +54,7 @@
 | Bluetooth calls           | No                                                                  |
 | Wi-Fi                     | Works, both 5GHz & 2.4GHz                                           |
 | SIM / Mobile Data / Voice | Works, both SIM1 & SIM2                                             |
-| Dual SIM                  | Yes                                                                 |
+| Dual SIM                  | Yes (Some models do not include this feature)                       |
 | VoLTE                     | No                                                                  |
 | Fingerprint               | No                                                                  |
 | NFC                       | Yes (Some models do not include this feature)                       |
