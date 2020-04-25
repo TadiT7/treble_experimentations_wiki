@@ -1,25 +1,23 @@
 ## What works with fixes:
-#### [Overlay + Build.prop](https://t.me/a50_offl/142):
+#### [Overlay + Build.prop](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0):
 - Auto Brightness
 - AOD (Always on display)
 - Notch + Rounded corners
 - Duel SIM
 - Proximity Sensor
-- Dual Stereo Speakers (_Added feature isn't available on stock OS_)
-#### [SkyKernal for GSI's](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing):
+#### [Quantum Kernel for GSI's](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip):
 - MTP (Transferring files over USB)
 
 ## Known Bugs:
 - Fingerprint reader
 - VoLTE
 - Bluetooth Calls
-- Rebooting when _**AOD** (Always On Display)_ is turned off
 
 ## Downloads:
 - [ **Odin** ](https://odindownload.com/download/Odin3_v3.14.1.zip)
 - [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE)
-- [ **SkyKernal for GSI's** ](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing)
-- [ **A50.overlay+prop.zip** ](https://t.me/a50_offl/142)
+- [ **Ovarlay + Build.prop** ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0)
+- [ **Quantum Kernal for GSI's** ](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip)
 - [ **G-APPs** ](https://opengapps.org/)
 - [ **PHH-Magisk** ](https://t.me/a50_offl/117)
 
@@ -67,7 +65,7 @@ Created By: [ **RandomAJL** ](https://github.com/RandomAJL) - 26.01.2020
 Overlay + Build.prop by [ **RandomAJL** ](https://github.com/RandomAJL)	
 
 #### Many thanks too:	
-- [ **AlexGeek3** ](https://github.com/AlexGeek3) for SkyKernal for GSI's	
+- [ **prashantp01** ](https://github.com/prashantpaddune) for Quantum Kernal for GSI's	
 - [ **geiti94** ](https://github.com/geiti94) for TWRP	
 - PHH-Magisk patched by [ **ExpressLuke** ](https://github.com/ExpressLuke)	
 - The main man himself [ **Pierre-Hugues HUSSON** ](https://github.com/phhusson)
