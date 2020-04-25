@@ -40,7 +40,7 @@
 11. Flash the [ _**SkyKernal for GSI's**_ ](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing) zip in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
 12. Flash your chosen GSI .img in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE) as system.
 13. Flash the latest available - [ **PHH-Magisk** ](https://t.me/a50_offl/117) in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-14. Flash the [ _**A50.overlay+prop.zip**_ ](https://t.me/a50_offl/54) file in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
+14. Flash the [ _**Overlay + Build.prop**_ ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0) file in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
 15. _If needed_, flash your chosen [_**G-APPs**_](https://opengapps.org/) file now.
 16. Boot into the OS using reboot to recovery. (First Boot may take a while)
 
