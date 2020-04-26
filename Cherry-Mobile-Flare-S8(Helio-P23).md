@@ -25,3 +25,6 @@ Kernel Version:4.4.146(user@1)
 TWRP for October Security Patch:https://drive.google.com/file/d/1-05l9vfdq-jcn3CqjeNOkOyAqnBEJyvU/view?usp=drivesdk
 
 TWRP For December Security Patch:https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk
+
+Official YouTube Channel For This Device:
+https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg
