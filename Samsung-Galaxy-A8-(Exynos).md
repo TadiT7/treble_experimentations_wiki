@@ -28,29 +28,29 @@ https://forum.xda-developers.com/galaxy-a8-2018/samsung-galaxy-a8-2018-roms-kern
 
  ## Hardware Support
  * Camera: 
-Doesn't works 
+Works
 
  * Speaker / Microphone
 Speaker, Microphone works
  * Bluetooth
-works
+Works
  * Wifi
 Works
  * SIM / Mobile Data / ingoing voice calls / outgoing voice calls
-works ( But no Network Bars )
+Works 
  * VoLTE
-Doesn't work
+Doesn't work (Samsung's VoLTE implementation is proprietary)
 * All sensors
 works
  * NFC
 works
  * Fingerprint Reader
-Doesn't work
+Works
  * 3.5mm audio jack
  ***
 ## Additional Notes
-* On Pie vendor, GSI boots only after reverting this [commit](https://github.com/phhusson/device_phh_treble/commit/e064c6f3107ad92f8b19891a93104d80e8482935)
-* Camera fc because of unknown reason
+*(This isn't the case on GSI versions from Q) On Pie vendor, GSI boots only after reverting this [commit] (https://github.com/phhusson/device_phh_treble/commit/e064c6f3107ad92f8b19891a93104d80e8482935)
+
 
  ***
 
