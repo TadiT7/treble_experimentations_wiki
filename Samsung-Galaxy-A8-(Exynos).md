@@ -45,7 +45,7 @@ works
  * NFC
 works
  * Fingerprint Reader
-Works
+Works (On Q, the fingerprint workaround needs to be enabled via Treble App in Settings.)
  * 3.5mm audio jack
  ***
 ## Additional Notes
