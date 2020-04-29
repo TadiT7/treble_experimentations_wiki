@@ -40,4 +40,4 @@ This happened to me and it might happen to you. I haven't tested the latest buil
 I haven't found a fix to this problem yet. I'll keep searching.
 
 
-Tested By: os54656 - SM-205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13 Template created by @zguithues and @hackintosh5
+Tested By: os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13 Template created by @zguithues and @hackintosh5
