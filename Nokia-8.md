@@ -4,6 +4,8 @@
 
 First things first: this device does not support Project Treble out of the box. You need to _infect_ your device with [T-Virus](https://github.com/resident-nokia/t-virus). That custom ROM comes with TWRP.
 
+You need to enable the cameras in Settings > Phh Treble Settings > Misc Features > (Expose Aux Cameras (Qualcomm) & Force Enable Camera2API HAL3)
+
 ## Steps to install
 
 * IMPORTANT: Make sure you have an unlock.key in order to unlock your bootloader, nowadays HMD servers got down for getting this key.
