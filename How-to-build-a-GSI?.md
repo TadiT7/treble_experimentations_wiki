@@ -102,17 +102,15 @@ You can configure the maximum amount of disk space you want the cache to use by 
 
 We can't deny that @phhusson has made amazing works and countless contributions to Project Treble ROMs development apart from his [experimentations](https://github.com/phhusson/treble_experimentations/) is a build script which make build a GSI super simple job.
 
-By default, it supports building LineageOS - RR - Carbon.
 
 1- Open your terminal and run:
 
 ```git clone https://github.com/phhusson/treble_experimentations```
 
-2- To clone and build enter the following command and replace "romname" with `lineage|rr|carbon`
-
+2- To clone and build enter the following command:
 ```
-mkdir romname; cd romname
-bash ../treble_experimentations/build-rom.sh android-8.1 romname
+mkdir AOSP10; cd AOSP10
+bash ../treble_experimentations/build-rom.sh android-10.0
 ```
 
 3- The script will automatically initialize the repository, sync the source, apply patches and start building.
