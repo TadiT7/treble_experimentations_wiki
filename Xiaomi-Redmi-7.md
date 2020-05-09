@@ -75,6 +75,9 @@ In Recovery, resize the Data and System filesystems.
 Flashing OpenGApps with official TWRP [`twrp-3.3.1-1-onclite`](https://eu.dl.twrp.me/onclite/twrp-3.3.1-1-onclite.img) doesn't work, it fails with [error 64](https://github.com/TeamWin/Team-Win-Recovery-Project/issues/1070).
 Unofficial version [`TWRP-Redmi7-LRTeam.img`](https://miui.blog/redmi-7/twrp-flasher-tool-redmi-7/) works ([mirror](https://androidfilehost.com/?fid=1395089523397956270), md5 `51237373ab26b3057124b3d03bc93f7a`, sha256 `5cabff51556b2c141b894c8612c347ac7a83be476ad0e77dbbe93d2a943e98b0`). 
 
+#### 8. Video recording fix
+To make video recording work, add `media.camera.ts.monotonic=0` to `/vendor/build.prop`
+
 Enjoy!
 
 ## Hardware support
