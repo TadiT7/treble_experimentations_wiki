@@ -11,7 +11,7 @@ works ( But no Bluetooth calls )
  * Wifi
 Works
  * SIM / Mobile Data / in-going voice calls / outgoing voice calls
-works ( But no Network Bars )
+works ( no Network Bars in Q )
  * VoLTE
 Doesn't work
 * All sensors
@@ -30,4 +30,4 @@ works
  ***
 
  ## Tested By:
-* @Yumi0314 - 12/01/2019 (MM/DD/YYYY) (Chinese)
+* @bien2004official - 10/05/2020
