@@ -3,7 +3,7 @@
 - Auto Brightness
 - AOD (Always on display) availability
 - Notch + Rounded corners + Status bar height
-- Duel SIM
+- Dual SIM
 - Proximity Sensor in some apps
 #### [Quantum Kernel for GSI's](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip):
 - MTP (Transferring files over USB)
