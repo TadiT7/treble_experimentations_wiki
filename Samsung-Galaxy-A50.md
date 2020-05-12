@@ -9,9 +9,9 @@
 - MTP (Transferring files over USB)
 
 ## Known Bugs:
-- Fingerprint reader
+- FOD
 - VoLTE
-- Bluetooth Calls
+- Bluetooth calls
 
 ## Downloads:
 - [ **Odin** ](https://odindownload.com/download/Odin3_v3.14.1.zip)
@@ -65,7 +65,7 @@ Created By: [ **RandomAJL** ](https://github.com/RandomAJL) - 26.01.2020
 Overlay + Build.prop by [ **RandomAJL** ](https://github.com/RandomAJL)	
 
 #### Many thanks too:	
-- [ **prashantp01** ](https://github.com/prashantpaddune) for Quantum Kernal for GSI's	
+- [ **prashantp01** ](https://github.com/prashantpaddune) for Quantum Kernel for GSI's	
 - [ **geiti94** ](https://github.com/geiti94) for TWRP	
 - PHH-Magisk patched by [ **ExpressLuke** ](https://github.com/ExpressLuke)	
 - The main man himself [ **Pierre-Hugues HUSSON** ](https://github.com/phhusson)
