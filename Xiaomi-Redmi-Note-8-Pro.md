@@ -13,7 +13,7 @@
 | Bluetooth | Working |
 | WiFi | Working |
 | RIL | Working on AOSP 10, Not working on AOSP 9 ([#1051](https://github.com/phhusson/treble_experimentations/issues/1051)) |
-| Double SIM | *Untested* |
+| Double SIM | AOSP 10 - Working |
 | Fingerprint | Working |
 | Offline Charging | Working, but boots into recovery after plug-in. |
 | NFC | Working |
@@ -33,7 +33,7 @@ Also apps that works with multi cameras: Open Camera (from Google Play), HedgeCa
 | Nightlight | See fix below. |
 | Mirrorcast | Not working. |
 | VoLTE | *Untested* |
-| Notch and rounded corners detection | *Untested* |
+| Notch and rounded corners detection | Working |
 
 Please, edit page and add other major features, if I have missed any.
 
@@ -62,6 +62,8 @@ debug.stagefright.omx_default_rank=0
 - To fix basicIntegrity remove folder /data/su. To prevent creation of this folder each reboot remove file (mount partition r/w): /etc/init/su.rc
 - To fix ctsProfile, flash this module with Magisk Manager: [module.zip](https://drive.google.com/open?id=1mlAWmNJdJnN77rZN0AvGddURxh65RXxU) and reboot.
 - Also you want to uninstall vanilla SU apk: me.phh.superuser to stop getting notification about update of binary file.
+**Solution #2:**
+See installation option #2
 
 ## Installation:
 Your **warranty** will be **void** if not already. **Proceed on your own risk.** I'm (tvardero) not responsible for any damage made to your phones.
@@ -77,6 +79,14 @@ Use only **ARM64 A/B** GSIs. Use of sGSI is not recommended, they weren't tested
 5. If you wish, you can root with Magisk. Go to TWRP Advanced -> Root device. Then you can update your Magisk binary later with Magisk Manager.
 6. Boot into system.
 7. Apply some fixes, like brightness slider fix and others. DONE.
+
+**Option #2:**
+- Fastboot flash stock rom
+- Fastboot flash Phh gsi
+- `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`
+- Boot gsi, do not setup, go to Phh Settings -> securize, wait for reboot, see bootloop
+- Go to stock recovery and factory reset (wipe)
+- Setup, device should be encrypted, non-rooted, passing Safetynet
 
 ## Uninstall: 
 Before anything, wipe system partition and "format data -> yes".
@@ -106,5 +116,11 @@ Before anything, wipe system partition and "format data -> yes".
    - MIUI Vendor: MIUI Global Stable 11
    - GSI: phh's AOSP 10 ARM64 A/B v212
    - GSI: AndyYan's LOS v17.1-20200227 
+
+3. Username: timbortnik
+   - Model: Redmi Note 8 Pro (begonia) Global ver.
+   - Region: Ukraine
+   - MIUI Vendor: MIUI Global Stable 11 (Pie vendor)
+   - GSI: phh's AOSP 10 ARM64 A/B v216
 
 More testers needed.
