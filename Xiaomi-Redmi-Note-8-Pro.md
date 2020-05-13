@@ -62,6 +62,7 @@ debug.stagefright.omx_default_rank=0
 - To fix basicIntegrity remove folder /data/su. To prevent creation of this folder each reboot remove file (mount partition r/w): /etc/init/su.rc
 - To fix ctsProfile, flash this module with Magisk Manager: [module.zip](https://drive.google.com/open?id=1mlAWmNJdJnN77rZN0AvGddURxh65RXxU) and reboot.
 - Also you want to uninstall vanilla SU apk: me.phh.superuser to stop getting notification about update of binary file.
+
 **Solution #2:**
 See installation option #2
 
