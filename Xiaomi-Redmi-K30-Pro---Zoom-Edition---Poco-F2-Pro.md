@@ -5,12 +5,12 @@
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √× (Cameras work, but front camera does not popup at all, please read note 1); Stock camera apk only support main camera |
-| Audio                     | √× Speaker and Headphone Jack is working, USB Type C DAC is untested. |
-| Bluetooth                 | √× Bluetooth Speaker works fine, In-call is untested. |
+| Audio                     | √? Speaker and Headphone Jack is working, USB Type C DAC is untested. |
+| Bluetooth                 | √? Bluetooth Speaker works fine, In-call is untested. |
 | Display                   | √ |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | √ |
+| SIM / Mobile Data / Voice | √? Internet Data works, call is untested.|
 | VoLTE                     | ? (Untested) |
 | Fingerprint               | √× (Recognition a little slower maybe due to system setting; Unlocking from off/AOD state not supported, need press power button first) |
 | NFC                       | √? (Support card info reading via NXP.TagInfo, need more tests like card writing / simulation) |
