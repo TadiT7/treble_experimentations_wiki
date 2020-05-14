@@ -27,7 +27,9 @@ Retract: `xiaomi-motor takeback 1`
 ---
 
 This wiki page is referred from Xiaomi Redmi K20 Pro (raphael) page as this device have almost everything in common with it.
+
 Redmi K30 Pro Tested By: Akito Mizukito (RealAkito) @ Redmi K30 Pro V11.0.6.0.QJKEUXM / V11.0.16.0.QJKCNXM / 20.5.14 Beta 
+
 Redmi K20 Pro Tested By: AndyYan (AndyCGYan), kumoilain @ Redmi K20 Pro V10.3.6.0.PFKCNXM @ 2019/06
 
 Template created by @zguithues and @hackintosh5
