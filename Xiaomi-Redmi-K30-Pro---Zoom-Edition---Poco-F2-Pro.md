@@ -12,6 +12,7 @@
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | √? Internet Data works, call is untested.|
 | VoLTE                     | ? (Untested) |
+| LED                       | √× | There're 2 LEDs in the system, only one is working. |
 | Fingerprint               | √× (Recognition a little slower maybe due to system setting; Unlocking from off/AOD state not supported, need press power button first) |
 | NFC                       | √? (Support card info reading via NXP.TagInfo, need more tests like card writing / simulation) |
 | Offline Charging          | × |
