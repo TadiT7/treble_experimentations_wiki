@@ -4,10 +4,10 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× (Cameras work, but front camera pops up on first boot and won't retract, requiring manual control via terminal command - see [#539](https://github.com/phhusson/treble_experimentations/issues/539) and below note 1); Stock camera apk only support main camera as 12MP |
-| Audio                     | √× (No Type-C audio - see [#542](https://github.com/phhusson/treble_experimentations/issues/542); Background noise with armature earphone at low sound level - see below note 2) |
-| Bluetooth                 | √× (In-call audio doesn't work) |
-| Display                   | √× (Auto-brightness doesn't work yet - waiting on [the overlay](https://github.com/phhusson/vendor_hardware_overlay/pull/110) to be merged; Corners look slightly pixelated due to lack of corresponding overlay item) |
+| Camera                    | √× (Cameras work, but front camera does not popup at all, please read note 1); Stock camera apk only support main camera |
+| Audio                     | √× Speaker and Headphone Jack is working, USB Type C DAC is untested. |
+| Bluetooth                 | √× Bluetooth Speaker works fine, In-call is untested. |
+| Display                   | √ |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | √ |
