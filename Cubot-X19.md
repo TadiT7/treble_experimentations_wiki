@@ -4,7 +4,7 @@
 
 
 All features work with no bugs at all.
-After installation you need to edit your apn settings if mobile data does not work, but otherwise all features are working exclusive of VoLte
+After installation you need to edit your apn settings if mobile data does not work, but otherwise all features are working exclusive of VoLte and Fingerprint
 
 ## Steps to install
 
@@ -33,7 +33,7 @@ After installation you need to edit your apn settings if mobile data does not wo
 | WiFi                      | OK                                                    |
 | SIM / Mobile Data / Voice | OK                                                    |
 | VoLTE                     | N/A                                                    |
-| Fingerprint               | OK                                                    |
+| Fingerprint               | Bugs                                                    |
 | NFC                       | N/A                                                    |
 | Offline Charging          | N/A                                                    |
 | Other feature             | OK                                                    |
