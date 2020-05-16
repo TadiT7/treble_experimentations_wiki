@@ -35,7 +35,7 @@ After installation you need to edit your apn settings if mobile data does not wo
 | VoLTE                     | N/A                                                    |
 | Fingerprint               | Bugs                                                    |
 | NFC                       | N/A                                                    |
-| Offline Charging          | N/A                                                    |
+| Offline Charging          | OK                                                   |
 | Other feature             | OK                                                    |
 ---
 
