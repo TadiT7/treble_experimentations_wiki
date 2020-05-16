@@ -3,7 +3,7 @@
  use the option with pico gapps included- works fine.
 
 
-All features work with no bugs at all.
+All features work with minor bugs(volte and fingerprint dont work.)
 After installation you need to edit your apn settings if mobile data does not work, but otherwise all features are working exclusive of VoLte and Fingerprint
 
 ## Steps to install
