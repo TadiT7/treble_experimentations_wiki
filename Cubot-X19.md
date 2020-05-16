@@ -13,13 +13,15 @@ After installation you need to edit your apn settings if mobile data does not wo
 * flash this image with the `fastboot` utility:
     ```
     $ fastboot devices
+    $ fastboot flashing unlock
+    press volume up to allow unlocking
     $ fastboot flash system system-arm64-aonly-gapps-nosu.img
-     $ fastboot reboot
+    $ fastboot reboot
 
     ```
     Flash userdata  from the original rom to format the data partition using Sp Flash tool 
 
-    As an alternative you can flash via TWRP as "System Image" and format data.This will work if your twrp
+    As an alternative you can flash via TWRP as "System Image" and format data.This will work if your twrp works but you need an external card to store the image files.
 
 ## Hardware support
 
@@ -37,5 +39,5 @@ After installation you need to edit your apn settings if mobile data does not wo
 | Other feature             | OK                                                    |
 ---
 
-Tested By: vincentchege12 -CUBOT_X19_9021C_1_V12_20191219(EA),  - 16/05/2020 - Template created by @zguithues and @hackintosh5
+Tested By: vincentchege12 -CUBOT_X19_9021C_1_V12_20191219(Global),  - 16/05/2020 - Template created by @zguithues and @hackintosh5
 
