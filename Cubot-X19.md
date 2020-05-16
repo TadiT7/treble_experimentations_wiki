@@ -14,8 +14,10 @@ After installation you need to edit your apn settings if mobile data does not wo
     ```
     $ fastboot devices
     $ fastboot flash system system-arm64-aonly-gapps-nosu.img
+     $ fastboot reboot
+
     ```
-    Some more info
+    Flash userdata  from the original rom to format the data partition using Sp Flash tool 
 
     As an alternative you can flash via TWRP as "System Image" and format data.This will work if your twrp
 
