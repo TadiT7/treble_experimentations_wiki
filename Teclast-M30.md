@@ -5,7 +5,11 @@ Stock maybe flashed via fasboot and SP Flash Tool: [thread about SPFT on russian
 
 Device version M4P7 [official stock v3 link](https://mega.nz/#!1FY1BA4Q!aLM899AghOQHnnDdR5f_6L0IqADZxUieKJqqYwhi2rI)
 
+Device version M5P3 [official stock vV1.02 link](https://mega.nz/file/3wAQDIrA#44HoXZxLt19mPo1XbzRbMPSCuZ9kZKIRWTWPvUJJhdY)
+
 Device version M6P4 [official rom v1 link](https://yadi.sk/d/-2QpFnbGK95v8A)
+
+
 
 At future possible ( [asuvoro](https://github.com/asuvoro) ) will change rom-links to torrents.
 If you have stock firmware, tell me.
