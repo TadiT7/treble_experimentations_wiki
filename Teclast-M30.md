@@ -3,11 +3,11 @@ No special flash settings for the GSI are required (not known for me). Process i
 As an alternative you can flash via TWRP as "System Image" and format data.
 Stock maybe flashed via fasboot and SP Flash Tool: [thread about SPFT on russian 4pda](https://4pda.ru/forum/index.php?showtopic=469340)
 
-Device version M4P7 [official stock v3 link](https://mega.nz/#!1FY1BA4Q!aLM899AghOQHnnDdR5f_6L0IqADZxUieKJqqYwhi2rI)
+Device version **M4P7** [official stock v3 link](https://mega.nz/#!1FY1BA4Q!aLM899AghOQHnnDdR5f_6L0IqADZxUieKJqqYwhi2rI)
 
-Device version M5P3 [official stock vV1.02 link](https://mega.nz/file/3wAQDIrA#44HoXZxLt19mPo1XbzRbMPSCuZ9kZKIRWTWPvUJJhdY)
+Device version **M5P3** [official stock v1.02 link (no google play services)](https://mega.nz/file/3wAQDIrA#44HoXZxLt19mPo1XbzRbMPSCuZ9kZKIRWTWPvUJJhdY)
 
-Device version M6P4 [official rom v1 link](https://yadi.sk/d/-2QpFnbGK95v8A)
+Device version **M6P4** [official rom v1 link](https://yadi.sk/d/-2QpFnbGK95v8A)
 
 
 
