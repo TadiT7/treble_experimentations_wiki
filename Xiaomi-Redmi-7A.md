@@ -42,7 +42,7 @@ Tested Roms:
 - [9] MK90.0-pine-202002191544-NIGHTLY by GuaiYiHu
 - [9] lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
 
-Tested By: Khushraj Rathod - VoLTE, Adopted Storage, Camera - Ralph Garcia - Global version
+Tested By: @KhushrajRathod - VoLTE, Adopted Storage, Camera - Ralph Garcia - Global version
            
 Template created by @zguithues and @hackintosh5
 
