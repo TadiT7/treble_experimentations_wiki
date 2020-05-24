@@ -13,7 +13,7 @@ Tested by Sooti
 | RIL | Working |
 | Double SIM | Working |
 | Fingerprint | Working |
-| Offline Charging | Working, but boots into recovery after plug-in. |
+| Offline Charging | ? |
 | IR blaster | ? |
 | ExFat Support | Broken |
 | VoLTE | Need apk? |
