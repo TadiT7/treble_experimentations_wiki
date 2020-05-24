@@ -4,9 +4,9 @@ Tested by Sooti
 | Component | Status |
 |-|-|
 | Camera 48MP | Works only in 12MP mode, even on Google Camera Port. |
-| Camera Macro | Use listed below camera apps. |
-| Camera Ultrawide | Use listed below camera apps. |
-| Camera Depth Sensor | Works as simple 2MP camera. |
+| Camera Macro | Works in GCAM |
+| Camera Ultrawide | Works in GCAM |
+| Camera Depth Sensor | Works in GCAM as simple 2MP camera. |
 | Speaker / Mic | Working |
 | Bluetooth | Broken |
 | WiFi | Working |
