@@ -5,7 +5,7 @@ Device configuration for General Mobile GM 9 Pro
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 2.2 GHz Kryo 260 + Quad-core 1.8 GHz Kryo 260
-CHIPSET | Qualcomm Snapdragon 435 MSM8976 Plus
+CHIPSET | Qualcomm Snapdragon 660 SDM660
 GPU     | Adreno 512
 Memory  | 4 GB
 Shipped Android Version | 8.1
