@@ -1,4 +1,4 @@
-![GM 9 Pro](https://assets.generalmobile.com/images/gm9-pro/kamera-lens-edit.png "GM 9 Pro")
+![GM 9 Pro](https://i.hizliresim.com/jvlQNz.jpg "GM 9 Pro")
 
 Device configuration for General Mobile GM 9 Pro
 ============================================================
