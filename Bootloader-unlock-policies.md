@@ -32,7 +32,9 @@ However, the developer app isn't usually available day one, and the service isn'
 
 You need to register on Moto's website, give your device's S/N, and it'll send you back a fastboot unlock code.
 
-## Huawei 0/5
+## Huawei 0.1/5
+
+Some devices have exploits available.
 
 ## Samsung 4/5
 
