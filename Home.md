@@ -268,8 +268,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy M30s]]|m30slte|✓|A/B|arm64|
 |[[Samsung Galaxy Note 8 (Exynos)]]|greatlte||A|arm64|
 |[[Samsung Galaxy Note 8 (Snapdragon)]]|greatqlte|✓|A|arm64|
-|[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A|arm64|
-|[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A|arm64|
+|[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
+|[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note 10 and 10 Plus (Exynos)]]|d1 and d2|✓|A/B|arm64|
 |[[Samsung Galaxy Note 10 and 10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
