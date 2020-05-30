@@ -69,6 +69,7 @@ This wiki page is referred from Xiaomi Redmi K20 Pro (raphael) page as this devi
 
 Redmi K30 Pro Tested By: 
 Akito Mizukito (RealAkito) @ Redmi K30 Pro V11.0.6.0.QJKEUXM / V11.0.16.0.QJKCNXM / 20.5.14 Beta 
+
 lulujyc @ 20.5.21 Beta
 
 Origin Redmi K20 Pro Wiki is made by AndyYan (AndyCGYan)
