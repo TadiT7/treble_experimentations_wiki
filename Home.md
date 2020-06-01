@@ -199,14 +199,13 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 1]]|frt|✓ (Go)|A|arm|
 |[[Nokia 1 Plus]]|ant|✓ (Go)|A|arm|
 |[[Nokia 2.1 and 2 V]]|e2m and evw|✓ (Go)|A|arm|
-|[[Nokia 3.1]]|es2|✓|A/B|arm64|
+|[[Nokia 3.1 and 5.1]]|es2 and co2|✓|A/B|arm64|
 |[[Nokia 3.1 A and C]]|eag|✓|A/B|arm64|
 |[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
 |[[Nokia 3.1 Plus C]]|rhd|✓|A/B|arm64|
 |[[Nokia 3.2]]|deadpool / dpl|✓|A/B|arm64|
 |[[Nokia 3.2 V]]|deadpool_vzw|✓|A|arm64|
 |[[Nokia 4.2]]|panther / pan|✓|A/B|arm64|
-|[[Nokia 5.1]]|co2|✓|A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
 |[[Nokia 6.1 Plus (X6)]]|drg|✓|A/B|arm64|
