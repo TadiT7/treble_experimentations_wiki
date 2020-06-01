@@ -1,4 +1,6 @@
-# [Nokia 5.1] - [co2]
+# [Nokia 3.1 and 5.1] - [es2 and co2]
+
+Nokia 3.1 and 5.1 shares the same source code and can be cross flashed between each other, therefore the report shown here can be applied on both Nokia 3.1 and Nokia 5.1.
 
 ## Hardware Support (AOSP 9)
 
