@@ -7,7 +7,7 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 
 ×AndyYan's LineageOS 17.1 20200511 (Doesn't Boot)
 
-## Flashing instructions (Credits phhusson and Akito)
+## Flashing instructions (Credits phhusson and Akito, make sure to have the latest platform-tools installed)
 
 Reboot to bootloader:
 ```
@@ -42,8 +42,8 @@ fastboot reboot
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× (Cameras work, but front camera does not popup at all, please read note 1); Stock camera apk only support main camera |
-| Audio                     | √? Speaker and Headphone Jack is working, USB Type C DAC is working. |
+| Camera                    | √× (Cameras work, but front camera does not popup at all, please read note 1); Stock camera apk supports main and front camera |
+| Audio                     | √? Speaker and microphone is working, USB Type C DAC is working, 3.5mm audio jack is not working. |
 | Bluetooth                 | √? Bluetooth Speaker works fine, In-call is untested. |
 | Display                   | √ |
 | WiFi / Hotspot            | √ |
