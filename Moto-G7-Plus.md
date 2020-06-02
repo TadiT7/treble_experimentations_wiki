@@ -1,6 +1,14 @@
 # Moto G7 Plus
 
-some GSI ARM64 android 10 are starting, others are in bootloop.
+# Android 10 Q
+
+  Some GSI ARM64 android 10 are starting, others are in bootloop.
+
+# Android 11 R
+
+ Android 11 R DP2 is bootloop. Android 11 R DP1 is untested.
+
+---
 
 ## Steps to install with twrp
 
@@ -49,6 +57,7 @@ some GSI ARM64 android 10 are starting, others are in bootloop.
 | VoLTE                     | Not Work                                                  |
 | Fingerprint               | Work                                                      |
 | NFC                       | Work                                                      |
+| FM Radio                  | Untested                                                  |
 ---
 
 Tested By: Sirherobrine23 - XT1965-3 (Lake, RETBR), QPWS30.61-21-9 - 01/06/2020 - Template created by @zguithues and @hackintosh5
