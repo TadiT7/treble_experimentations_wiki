@@ -36,7 +36,7 @@ If you have an AB device, then you must flash it with an AB GSI. Note that if an
 
 ### What is the difference between FLOSS, GAPPS, GO and Vanilla?
 
-GAPPS versions include the proprietary Google apps from [Open GApps](http://opengapps.org) nano package (see [Package Comparison](https://github.com/opengapps/opengapps/wiki/Package-Comparison)) and the following additional packages:
+GAPPS versions include the proprietary Google apps equivalent to [Open GApps](http://opengapps.org) nano package (see [Package Comparison](https://github.com/opengapps/opengapps/wiki/Package-Comparison)) and the following additional packages:
 * [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) because we need a browser
 * [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) because it implements RCS
 * [Google Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer) because smartphones still need to be phones
