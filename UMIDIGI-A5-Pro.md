@@ -43,4 +43,4 @@ You can install Magisk if wanted https://forum.xda-developers.com/apps/magisk/of
 | Hotspot / Tethering       | Wifi / Bluetooth|
 ---
 
-Tested By: @Hadenix - A5 Pro (EU), PHH AOSP 9.0 v119, Havoc-OS-v2.8-20190811-phhgsi_arm64_ab-Official, RR-190406-arm64-ab-vanilla-nosu
+Tested By: @Hadenix - A5 Pro (EU), PHH AOSP 9.0 v119, Havoc-OS-v2.8-20190811-phhgsi_arm64_ab-Official, RR-190406-arm64-ab-vanilla-nosu, AOSP 10.0 v218
