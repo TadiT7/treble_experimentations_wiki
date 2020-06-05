@@ -41,7 +41,7 @@
 
 * Push Decryption to /tmp 
   ```
-  adb push Disable_Dm-Verity_ForceEncrypt_03.04.2020.zip /tmp/dm_verity_ForceEncrypt_quota.zip
+  adb push Disable_Dm-Verity_ForceEncrypt_03.04.2020.zip /tmp/ForceEncrypt_quota.zip
   ```
 * On twrp install > /tmp/ > dm_verity_ForceEncrypt_quota.zip > Swipe to confirm Flash 
 
