@@ -9,7 +9,7 @@
 * Bluetooth
 > Working
 
-* Wifi
+* WiFi
 > Working
 
 * SIM / Mobile Data / Voice
