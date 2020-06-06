@@ -2,7 +2,6 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
-
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -19,7 +18,6 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |:-:|:-:|:-:|
 |[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|A/B|arm64 - x86|
 
-
 ## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -33,7 +31,6 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
 |Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 |Firmware Collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
-
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -51,11 +48,10 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |Paranoid Android|joshuous|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3886750/) / [Download](https://androidfilehost.com/?w=files&flid=288192&sort_by=date&sort_dir=DESC)|A|arm64|
 |ProjectTitanium|XTutorials|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3944646/) / [Download](https://sourceforge.net/projects/projecttitanium/files/GSI-Beta/)|A - A/B|arm64|
 |RainOS|yey59|[Download](https://sites.google.com/view/nitros-rom/devices/gsi)|A - A/B|arm64|
-|ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=gsi)|A - A/B|arm - arm64 - binder|
+|ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=pie/gsi)|A - A/B|arm - arm64 - binder|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 |ZirconiumAosp|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
 |UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
-
 
 ## Unofficial Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -92,7 +88,6 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |SyberiaOS|NFound|[Download](https://androidfilehost.com/?w=files&flid=289418&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |Treble-ized 0s|noobstyle1337|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835092/) / [Download](https://mega.nz/#F!rBsUyYYC!QlOfpjv7lnhrrgYssjLivA)|A - A/B|arm64|
 |ZirconiumAosp|NFound|[Download](https://androidfilehost.com/?w=files&flid=291634&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
-
 
 ## OEM Android 9 Pie Ports:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
