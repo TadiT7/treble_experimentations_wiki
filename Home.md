@@ -149,7 +149,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LeEco Le Max 2]]|x2||A|arm64|
 |[[LeEco Le Pro 3]]|zl1||A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
-|[[Lenovo K6 / K6 Power]]|karate||A|arm64|
+|[[Lenovo K6 / K6 Power]]|karate||A/B|arm64|
+|[[Lenovo K6 Note / K6 Plus]]|karatep||A/B|arm64|
 |[[Lenovo K8 Note]]|manning||A|arm64|
 |[[Lenovo P2]]|kuntao||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
@@ -406,4 +407,3 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Z18]]|nx606j||A|arm64|
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
-
