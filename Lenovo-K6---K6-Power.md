@@ -1,7 +1,7 @@
 # Lenovo K6 / K6 Power
 
 * Camera:
-> Working with Google Camera (AOSP Camera broken for now.)
+> Working
 
 * Speaker / Microphone
 > Working
@@ -9,11 +9,11 @@
 * Bluetooth
 > Working
 
-* Wifi
+* WiFi
 > Working
 
 * SIM / Mobile Data / Voice
-> Working, VoLTE broken for now.
+> Working
 
 * Fingerprint Reader
 > Working
