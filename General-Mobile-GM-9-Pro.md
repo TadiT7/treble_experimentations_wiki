@@ -38,4 +38,16 @@ Release Date | Sep 2018
 > Working
 
 * Notification Light 
-> Working (White light only)
+> Working
+
+* Double Tap to Wake (DT2W)
+> Working
+
+* 4K Video Recording
+> Working
+
+* Google Camera  
+> Working (Force to HAL3 on PHH Settings)
+
+* VoLTE/ViLTE/VoWIFI 
+> Not Working
