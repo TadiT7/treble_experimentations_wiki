@@ -2,7 +2,7 @@
 
 # Android 10 Q
 
-  Some GSI ARM64 android 10 are starting, others are in bootloop.
+  Some GSI ARM64 android 10 are starting, others are in bootloop. by any chance the lock screen does not save any mode like: pin, password etc ... after decryption.
 
 # Android 11 R
 
@@ -12,7 +12,6 @@
 
 ## Steps to install with twrp
 
-* Decryption is not required, but it's recommended
 * Download twrp image [twrp 3.3.1-0](https://twrp.me/motorola/motorolamotog7plus.html)
 * boot this image with the `fastboot` utility:
     ```
@@ -31,20 +30,7 @@
   $ fastboot flash system System.img  #For System_a
   $ fastboot flash system_b Other_System.img   #For System_b
   ```
-
-## Steps to Decryption
-
-* On twrp wipe > Format Data > yes
-
-* Download [DM-VERITY, FORCED ENCRYPTION, AND DISC QUOTA DISABLER
-](https://zackptg5.com/android.php#disverfe)
-
-* Push Decryption to /tmp 
-  ```
-  adb push Disable_Dm-Verity_ForceEncrypt_03.04.2020.zip /tmp/ForceEncrypt_quota.zip
-  ```
-* On twrp install > /tmp/ > dm_verity_ForceEncrypt_quota.zip > Swipe to confirm Flash 
-
+---
 ## Hardware support
 
 | Component                 |      Comment                                              |
