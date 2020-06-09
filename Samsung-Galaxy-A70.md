@@ -5,7 +5,6 @@ Summary of what works and doesn't
 - Dual Sim
 - Notch + Rounded corners + Status bar height ( Required extra work )
 ## What's not working ( May not include all )
-- Bluetooth
 - VoLTE
 - Camera only show 8mpx
 - Fingerprint
@@ -15,16 +14,16 @@ Summary of what works and doesn't
 * Step 1:
   Download and install TWRP using guide from here https://forum.xda-developers.com/galaxy-a70/development/recovery-twrp-galaxy-a70-t3955984
 * Step 2
-  Download dm-verity disabler, Magisk 20.4, any GSI that you wanted, LOS 17.1 for it's vendor image from here: https://github.com/Grarak/android_device_samsung_a70q/releases, OpenGAPPS ( Optional )
+  Download dm-verity disabler, any GSI that you wanted, OpenGAPPS ( Optional )
 * Step 3
-  Flash LOS 17.1 then Magisk then dm-verity disabler
+  Flash dm-verity disabler
 * Step 4
   Flash the GSI that you wanted as " System Image " and then flash OpenGAPPS ( Optional )
 * Step 5
   Reboot and enjoy
 
 ## Some more info:
-- You can try using the Stock Vendor but I have no luck with it
+- Some GSI required LOS vendor to work
 
 ### Hardware support
 
@@ -32,7 +31,7 @@ Summary of what works and doesn't
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Not fully supported                                       |
 | Speaker / Mic             | Normal ( Speaker may be abit loud )                       |
-| Bluetooth                 | Not working                                               |
+| Bluetooth                 | Working                                                   |
 | WiFi                      | Working, both 5GHz and 2.4GHz                             |
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Not working                                               |
