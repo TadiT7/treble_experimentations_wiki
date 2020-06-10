@@ -8,6 +8,7 @@ Summary of what works and doesn't
 - VoLTE
 - Camera only show 8mpx
 - Fingerprint
+- SDCard as Portable Storage
 
 ## Steps to install
 
