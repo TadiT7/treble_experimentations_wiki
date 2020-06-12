@@ -252,6 +252,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A30]]|a30dd|✓|A/B|arm64|
 |[[Samsung Galaxy A40]]|a40|✓|A/B|arm64|
 |[[Samsung Galaxy A50]]|a50dd|✓|A/B|arm64|
+|[[Samsung Galaxy A51 5G]]|a51x|✓|A/B|arm64|
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70dd|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
