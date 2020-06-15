@@ -45,7 +45,7 @@ Android 10 ROMs won't boot
 
 ## Installation process for Pie GSIs
 
-Tested ROMs: Phh-Treble, AndyYan LineageOS, Resurrection Remix  
+Tested Pie ROMs: Phh-Treble, AndyYan LineageOS, Resurrection Remix  
 ### Prerequisites:
 
 * Unlocked bootloader
