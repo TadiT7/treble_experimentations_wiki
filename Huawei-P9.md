@@ -14,7 +14,7 @@ Android 10 ROMs won't boot
 > Working perfectly
 
 * Camera
-> Camera is not supported...but a flashable ZIP in XDA Developers can restore EMUI 8.0 camera functionality. Fully functioning photo and video recording when restored. Beauty mode crashes and requires further testing. Camera2 is only partially functional.
+> Camera is not supported...but a flashable ZIP in XDA Developers can restore EMUI 8.0 camera functionality. Fully functioning photo and video recording when restored. Beauty mode works. Camera2 is only partially functional.
 
 * Speakers
 > Working perfectly
