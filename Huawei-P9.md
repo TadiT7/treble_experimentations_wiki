@@ -1,8 +1,12 @@
 Device: EVA-L09  
 ROM: [Phh-Treble AOSP 9.0](https://github.com/phhusson/treble_experimentations/releases/tag/v119)  
 Vendor: EVA-AL10 B540, with baseband patches for international usage (credit: Tecalote & zgfg)  
-EMUI 8.0 vendor, VNDK 26, ARM64 A-only  
-  
+
+## Project Treble Details
+VNDK 26 (Oreo)  
+A-only system partition  
+System-as-root not supported  
+
 ## Software Support
 * Android Support
 >Most Oreo and Pie ROMs work.  
