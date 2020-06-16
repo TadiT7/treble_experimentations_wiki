@@ -1,41 +1,40 @@
-Chipset: HiSilicon Kirin 955 (hi3650), 8-cores HMP 4+4 big.LITTLE  
-
-[Phh-Treble AOSP 9.0](https://github.com/phhusson/treble_experimentations/releases/tag/v119) on Huawei P9 (EVA-L09)  
-Vendor: EVA-AL10 B540, with RIL patches for international usage (credit: Tecalote & zgfg)  
-Dual SIM not tested.  
+Device: EVA-L09  
+ROM: [Phh-Treble AOSP 9.0](https://github.com/phhusson/treble_experimentations/releases/tag/v119)  
+Vendor: EVA-AL10 B540, with baseband patches for international usage (credit: Tecalote & zgfg)  
 EMUI 8.0 vendor, VNDK 26, ARM64 A-only  
   
-**SafetyNet FAIL** (No way found to amend this for now, Magisk Hide is required)  
-A sizable portion of Play Store's apps are missing (reported incompatible) on non-OpenKirin ROMs and I have found no way to fix that either  
-Android 10 ROMs won't boot    
-
+## Software Support
+* Android Support
+>Most Oreo and Pie ROMs work.  
+>**Android 10 ROMs won't boot for now**, they won't get past the boot logo.  
+* SafetyNet
+>SafetyNet fails both checks, no way found to amend this for now. Magisk Hide is required
+* Other quirks
+>A sizable portion of Play Store's apps are missing (reported incompatible) on non-OpenKirin ROMs. No fix for now.  
+>Opening Connections menu crashes Settings  
+>MTP doesn't work.  
+>Offline charging requires a patch  
+>Enabling USB debugging will cause adbd to hog all the CPU, causing severe battery drain  
 ## Hardware Support
-* GPU acceleration and hardware accelerated decoding
+* Decoding and GPU acceleration
 > Working perfectly
-
-* Camera
-> Camera is not supported...but a flashable ZIP in XDA Developers can restore EMUI 8.0 camera functionality. Fully functioning photo and video recording when restored. Beauty mode works. Camera2 is only partially functional.
-
-* Speakers
-> Working perfectly
-
-* Headphone Jack
-> Works, but sound is not routed to the headphones automatically upon connection/disconnection and requires manual intervention. Also audio effects are broken on headphones and Bluetooth audio but EMUI 8.0 vendor drivers seem to be the culprit. Attempting to use bass boost effects will result in a high pitched whine that is annoying. Sound quality on headphones is mediocre and soulless.
-
 * RIL
 > Incoming/outgoing calls, emergency calls, 3G/4G mobile data, SMS send/receive are all working perfectly (Single SIM tested only)
-
 * WiFi
 > Working perfectly
-
 * Hotspot
 > Working perfectly
-
 * Bluetooth
-> Can pair, send, receive and stream audio. Opening the Bluetooth settings from the Settings app crashes it, but can be accessed from quick settings.
-
+> Can pair, send, receive and stream audio. Opening the Bluetooth/NFC settings from the Settings app crashes it, but can be accessed from quick settings.
 * NFC
 > Not working out of the box, requires a Magisk module (NFC4PRA-GSI), even then it seems to not work well. Further testing needed.
+
+* Camera
+> Camera doesn't work...but a flashable ZIP in XDA Developers can restore EMUI 8.0 camera functionality. Fully functioning photo and video recording when restored.
+* Speakers
+> Working perfectly
+* Headphone Jack
+> Works, but sound is not routed to the headphones automatically upon connection/disconnection and requires manual intervention. Also audio effects are broken on headphones and Bluetooth audio but EMUI 8.0 vendor drivers seem to be the culprit. Attempting to use bass boost effects will result in a high pitched whine that is annoying. Sound quality on headphones is mediocre and soulless compared to EMUI 5.
 
 * Fingerprint Reader
 > Working perfectly
@@ -43,15 +42,15 @@ Android 10 ROMs won't boot
 * Face unlock
 > Working perfectly
 
-## Installation process for Pie GSIs
+## Installation process for GSIs
 
-Tested Pie ROMs: Phh-Treble, AndyYan LineageOS, Resurrection Remix  
+Tested ROMs: Phh-Treble, AndyYan LineageOS
 ### Prerequisites:
 
 * Unlocked bootloader
 * For international models, rebrand to Chinese model
 * EMUI 8.0 firmware, B540 revision.
-* Vendor image patches for Face Unlock and international GSM RIL support (IMPORTANT!)
+* Vendor image patches for Face Unlock and international GSM radio support (IMPORTANT!)
 
 ### TWRP and Encryption: important note
 
@@ -70,6 +69,11 @@ If you will wipe data in TWRP without **decrypting your phone**, your custom ROM
 * Install TWRP in fastboot by flashing it to recovery_ramdisk.
 * Reboot to TWRP by executing `fastboot reboot recovery`
 * In TWRP: flash [this ZIP](https://forum.xda-developers.com/p9/themes/p9-camera-treble-gsi-t4006381) to restore your Camera app and libraries.
+
+### Restoring Offline Charging:
+* Install TWRP in fastboot by flashing it to recovery_ramdisk.
+* Reboot to TWRP by executing `fastboot reboot recovery`
+* In TWRP: flash [Offline_charging_fix_for_GSIs-Hi6250.zip](https://forum.xda-developers.com/attachment.php?attachmentid=4771494&d=1559676926) to restore offline charging abilities.
 
 ### Google Apps (GApps):
 * Flash in TWRP an appropriate package from [OpenGApps](https://opengapps.org/), **it MUST be Android 9.0 for ARM64 devices**.
