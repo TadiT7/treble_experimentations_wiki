@@ -400,6 +400,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Blade V9]]|p450f10||A|arm64|
 |[[ZTE Blade V9 Vita]]|p840f03||A|arm64|
 |[[ZTE Blade V10]]|n/a|✓|A/B|arm64|
+|[[ZTE Nubia mini 5G]]|TP1803|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
 |[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
 |[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
