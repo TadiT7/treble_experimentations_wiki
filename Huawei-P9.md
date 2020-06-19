@@ -14,7 +14,7 @@ System-as-root not supported
 * SafetyNet
 >SafetyNet fails both checks, no way found to amend this for now. Magisk Hide is required
 * Other quirks
->A sizable portion of Play Store's apps are missing (reported incompatible) on non-OpenKirin ROMs. No fix for now.  
+>A sizable portion of Play Store's apps are missing (reported incompatible) on non-OpenKirin ROMs. A fix is available in XDA Developers.  
 >Opening Connections menu crashes Settings  
 >MTP doesn't work.  
 >Offline charging requires a patch  
