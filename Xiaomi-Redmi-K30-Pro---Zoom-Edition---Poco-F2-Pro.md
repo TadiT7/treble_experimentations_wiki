@@ -61,13 +61,13 @@ fastboot reboot
 
 ## Additional Note
 
-Terminal command for manually controlling the front camera motor (may require `su` depending on the GSI):
+1. Terminal command for manually controlling the front camera motor (may require `su` depending on the GSI):
 
 Popup: `xiaomi-motor popup 1`
 
 Retract: `xiaomi-motor takeback 1`
 
-Disable "audio effects" in phh treble settings to make audio work normally
+2. Disable "audio effects" in phh treble settings to make audio work normally
 
 ---
 
