@@ -67,6 +67,8 @@ Popup: `xiaomi-motor popup 1`
 
 Retract: `xiaomi-motor takeback 1`
 
+Disable "audio effects" in phh treble settings to make audio work normally
+
 ---
 
 This wiki page is referred from Xiaomi Redmi K20 Pro (raphael) page as this device have a lot of things in common with in.
