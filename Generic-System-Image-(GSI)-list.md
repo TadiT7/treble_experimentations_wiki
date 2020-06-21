@@ -6,7 +6,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
-|bless project|eremitein|[Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project/ |arm-arm64-binder|a/b| |CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
+|CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
 |Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
