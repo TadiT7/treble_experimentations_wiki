@@ -6,7 +6,7 @@ Tested by Sooti
 | Audio | Working |
 | Camera Main | Working|
 | Camera Macro | Working in GCAM with Aux |
-| Camera Ultrawide | Workingin GCAM with Aux |
+| Camera Ultrawide | Working in GCAM with Aux |
 | Camera Depth Sensor | Working in GCAM as simple 2MP camera. |
 | Camera Front Facing | Working
 | Speaker / Mic | Working |
