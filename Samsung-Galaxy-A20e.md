@@ -1,5 +1,4 @@
-**WIP by @milankragujevic, don't touch**
-***
+**WIP**
 
 # Device
 
