@@ -3,6 +3,8 @@
 Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
 ## Tested images
+√AOSP 10.0 v216
+
 √AOSP 10.0 v217
 
 √AOSP 10.0 v220
@@ -55,7 +57,7 @@ fastboot reboot
 | SIM / Mobile Data / Voice | √× Internet Data works, call works, expect messages to be NOT working. |
 | VoLTE                     | ? (Untested) |
 | LED                       | √? Working, unsure about the second LED [Need more testing]. |
-| Fingerprint               | √× (Recognition a little slower maybe due to system setting; Unlocking from off/AOD state not supported, need press power button first, might be not working for some phones) |
+| Fingerprint               | √× (Recognition a little slower maybe due to system setting; Unlocking from off/AOD state not supported, need press power button first, not working since 216+) |
 | NFC                       | √? (Support card info reading via NXP.TagInfo, need more tests like card writing / simulation) |
 | Offline Charging          | × |
 
