@@ -260,10 +260,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
 |[[Samsung Galaxy J4 Plus]]|j4primelte|✓|A|arm|
-|[[Samsung Galaxy J5 (2017)]]|j5y17lte||A|arm_binder64 (arm64)|
-|[[Samsung Galaxy J6]]|j6ltexx|✓|A|arm_binder64|
+|[[Samsung Galaxy J5 (2017)]]|j5y17lte||A/b|arm64|
+|[[Samsung Galaxy J6]]|j6ltexx|✓|A/b|arm64|
 |[[Samsung Galaxy J7 (2016)]]|j7xelte||A|arm64|
-|[[Samsung Galaxy J7 (2017)]]|j7y17lte||A|arm_binder64 (arm64)|
+|[[Samsung Galaxy J7 (2017)]]|j7y17lte||A/b|arm64|
 |[[Samsung Galaxy J7 Neo]]|j7velte||A|arm64|
 |[[Samsung Galaxy J7 Prime]]|on7xelte||A|arm64|
 |[[Samsung Galaxy J8 (2018)]]|j8y18lte||A|arm_binder64|
