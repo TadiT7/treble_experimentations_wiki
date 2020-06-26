@@ -30,7 +30,7 @@ Official YouTube Channel For This Device:
 https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg
 
 Note:Starting in March 5 2020 Security Patch Many GSI is Having Trouble to Boot Up Because of OEM Restricting GSI Image to fully Write in System Partition
-Solution: Downgrade to December 5 2020 Security Patch by Flashing Using SP Flashtool
+Solution: Downgrade to December 5 2019 Security Patch by Flashing Using SP Flashtool
 Note:Before Flashing December Firmware Always Uncheck
 Preloader LK1 and LK2 (For New Flare S8) Batch October 2019
 Theres a Problem where the Screen Go to Black Screen Issue (No Display Issue) Miss Match LCD Drivers in new Batch
