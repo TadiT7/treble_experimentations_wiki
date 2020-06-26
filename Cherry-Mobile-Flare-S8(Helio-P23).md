@@ -26,6 +26,9 @@ TWRP for October Security Patch:https://drive.google.com/file/d/1-05l9vfdq-jcn3C
 
 TWRP For December Security Patch:https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk
 
+TWRP 3.4 For October and December (Also Working in March)
+https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk
+
 Official YouTube Channel For This Device:
 https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg
 
