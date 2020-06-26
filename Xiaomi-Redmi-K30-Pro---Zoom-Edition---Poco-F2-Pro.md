@@ -80,6 +80,8 @@ Akito Mizukito (RealAkito) @ Redmi K30 Pro V11.0.6.0.QJKEUXM / V11.0.16.0.QJKCNX
 
 lulujyc @ 20.5.21 Beta, 12.0.1 Stable (12.0.1 is recommended as it's more stable)
 
+lulujyc @ Android 11 Beta 1: Doesn't boot any GSI including Google's Android 11 sGSI.
+
 Origin Redmi K20 Pro Wiki is made by AndyYan (AndyCGYan)
 
 Template created by @zguithues and @hackintosh5
