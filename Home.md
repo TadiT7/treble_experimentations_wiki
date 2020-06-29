@@ -257,6 +257,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70dd|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
+|[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
 |[[Samsung Galaxy J4 Plus]]|j4primelte|✓|A|arm|
@@ -285,6 +286,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S10 and S10 Plus (Snapdragon)]]|beyond1qlte and beyond2qlte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Exynos)]]|beyond0lte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Snapdragon)]]|beyond0qlte|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Snapdragon)]]|hubble0q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Snapdragon)]]|hubble1q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Snapdragon)]]|hubble2q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Exynos)]]|hubble0|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Exynos)]]|hubble1|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Exynos)]]|hubble2|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
@@ -295,6 +302,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sharp Aquos S3 Mini]]|sg1||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
+|[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
+|[[Sony Xperia 10 mk2]]|seine|✓|A/B|arm64|
 |[[Sony Xperia X]]|suzu||A|arm64|
 |[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10)|arm64|
 |[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
