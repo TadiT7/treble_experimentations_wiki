@@ -194,6 +194,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
+|[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
+|[[Motorola Edge and Edge+]]|racer and burton|✓|A/B|arm64|
 |[[MyPhone myA11]]|myA11|✓ (Go)|A|arm|
 |[[MyPhone myA12]]|myA12|✓ (Go)|A|arm|
 |[[Nintendo Switch]]|icosa||A/B (when using Android 9 build)|arm64|
