@@ -14,13 +14,13 @@
 ## Hardware Support (AOSP 10)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | TBA                                                         |
-| Speaker / Mic             | TBA                                                         |
-| Bluetooth                 | TBA                                                         |
-| WiFi                      | TBA                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | TBA                                                         |
 | VoLTE                     | TBA                                                         |
-| Fingerprint               | TBA                                                         |
+| Fingerprint               | √                                                         |
 
 ***
 ## Additional Notes
