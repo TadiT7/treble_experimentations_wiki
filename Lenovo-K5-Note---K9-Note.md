@@ -18,8 +18,8 @@
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | TBA                                                         |
-| VoLTE                     | TBA                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | ×                                                         |
 
 ***
