@@ -1,4 +1,4 @@
-# [Lenovo K5 Note and K9 Note] - [L38012]
+# [Lenovo K5 Note / K9 Note] - [L38012]
 
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
