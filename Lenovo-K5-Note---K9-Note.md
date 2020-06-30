@@ -27,6 +27,8 @@
 
 Lenovo K5 Note (2018) or Lenovo K9 Note is the device released in 2018 with Snapdragon 450. Not to be confused with the Lenovo LeMeng K5 Note released back in 2016 with MT6755.
 
+For AOSP 10 GSI, you must use stock boot image (Cannot use Magisk patched boot image), otherwise the phone will boot loop.
+
 ***
 
 
