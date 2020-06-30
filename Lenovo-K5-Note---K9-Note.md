@@ -29,6 +29,8 @@ Lenovo K5 Note (2018) or Lenovo K9 Note is the device released in 2018 with Snap
 
 For AOSP 10 GSI, you must use stock boot image (Cannot use Magisk patched boot image), otherwise the phone will boot loop. The fingerprint sensor can be recognized on AOSP 10 but cannot record fingerprints.
 
+LTE need to be enabled in mobile data settings manually.
+
 ***
 
 
