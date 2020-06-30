@@ -148,7 +148,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LeEco Le 2]]|s2||A|arm64|
 |[[LeEco Le Max 2]]|x2||A|arm64|
 |[[LeEco Le Pro 3]]|zl1||A|arm64|
-|[[Lenovo K5 Note and K9 Note]]|L38012|✓|A|arm64|
+|[[Lenovo K5 Note / K9 Note]]|L38012|✓|A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
 |[[Lenovo K6 / K6 Power]]|karate||A/B|arm64|
 |[[Lenovo K6 Note / K6 Plus]]|karatep||A/B|arm64|
