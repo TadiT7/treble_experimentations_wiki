@@ -11,8 +11,6 @@
 | VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 
-Proximity Sensor seems not working 
-
 ## Hardware Support (AOSP 10)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
