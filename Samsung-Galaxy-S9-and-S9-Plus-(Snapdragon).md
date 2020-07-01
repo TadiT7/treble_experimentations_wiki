@@ -4,10 +4,12 @@ There are a lot of things that are not working. I wouldn't rely on it as a daily
 
 ## Steps to install
 
-* Follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-galaxy-s9-snapdragon-t3942302#:~:text=xda-developers%20Samsung%20Galaxy%20S9%20Samsung%20Galaxy%20S9%20Guides%2C,the%20look%20and%20feel%20to%20adding%20new%20functionality.).
+* For unlocked U.S. devices (SM-G960U and SM-G965U,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-s-snapdragon-s9-s9-t4044125).
+* For international devices (SM-G9600 and SM-G965U,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-galaxy-s9-snapdragon-t3942302#:~:text=xda-developers%20Samsung%20Galaxy%20S9%20Samsung%20Galaxy%20S9%20Guides%2C,the%20look%20and%20feel%20to%20adding%20new%20functionality.).
+
 
 ## Hardware support
-### G960U (Galaxy S9)
+### G960U (Galaxy S9, U.S.)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Rear camera functions, but front camera does not          |
@@ -24,7 +26,7 @@ There are a lot of things that are not working. I wouldn't rely on it as a daily
 Tested By: @NoodleFork - SM-G960U(USA), AOSP 9.0 v123 - AOSP 10 v213
 
 ## Additional Information
-### G960U (Galaxy S9)
+### G960U (Galaxy S9, U.S.)
 An earlier version of this page states that:
 >Everything work except brightness that is always at max and fingerprint and lockscreen that cant bee set, if try to set any tipe of lock systemui will crash after reboot
 
