@@ -4,8 +4,8 @@ There are a lot of things that are not working. I wouldn't rely on it as a daily
 
 ## Steps to install
 
-* For unlocked U.S. devices (SM-G960U and SM-G965U,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-s-snapdragon-s9-s9-t4044125).
-* For international devices (SM-G9600 and SM-G965U,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-galaxy-s9-snapdragon-t3942302#:~:text=xda-developers%20Samsung%20Galaxy%20S9%20Samsung%20Galaxy%20S9%20Guides%2C,the%20look%20and%20feel%20to%20adding%20new%20functionality.).
+* For unlocked U.S. devices (SM-G960U and SM-G965U,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-s-snapdragon-s9-s9-t4044125). The method for installing a GSI is quite different than other devices.
+* For international devices (SM-G9600 and SM-G9650,) follow the instructions [here](https://forum.xda-developers.com/galaxy-s9/how-to/guide-install-gsi-galaxy-s9-snapdragon-t3942302#:~:text=xda-developers%20Samsung%20Galaxy%20S9%20Samsung%20Galaxy%20S9%20Guides%2C,the%20look%20and%20feel%20to%20adding%20new%20functionality.). This post includes fixes for various issues mentioned here.
 
 
 ## Hardware support
@@ -23,7 +23,7 @@ There are a lot of things that are not working. I wouldn't rely on it as a daily
 | Offline Charging          | Not working, because boot and recovery partitions are swapped. |
 ---
 
-Tested By: @NoodleFork - SM-G960U(USA), AOSP 9.0 v123 - AOSP 10 v213
+Tested By: @NoodleFork - SM-G960U(USA), AOSP 9.0 v123 - AOSP 10 v213 - 8.0 (Oreo) vendor
 
 ## Additional Information
 ### G960U (Galaxy S9, U.S.)
