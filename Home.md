@@ -169,7 +169,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
 |[[LG V50 ThinQ]]|v500|✓|A/B|arm64|
 |[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
-|[[LG V50 ThinQ]]|v600|✓|A/B|arm64|
+|[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
 |[[Meizu 16s]]|16s||A/B|arm64|
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
