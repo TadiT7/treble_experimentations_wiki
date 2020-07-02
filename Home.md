@@ -165,6 +165,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG G8 ThinQ]]|alphalm|✓|A/B|arm64|
 |[[LG K7]]|m13g||A|arm|
 |[[LG V30 / V30 Plus]]|joan|✓|A|arm64|
+|[[LG V40 ThinQ]]|judypn|✓|A/B|arm64|
+|[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
+|[[LG V50 ThinQ]]|v500|✓|A/B|arm64|
+|[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
+|[[LG V50 ThinQ]]|v600|✓|A/B|arm64|
 |[[Meizu 16s]]|16s||A/B|arm64|
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
