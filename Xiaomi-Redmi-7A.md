@@ -39,11 +39,7 @@ Tested By:
 - Ralph Garcia: Other features
    
 Tested Roms:
-- [10] AOSP 10.0 v214 to v220 system-quack-arm32_binder64-ab by phhusson
-- [10] Havoc OS
-- [9] xiaomi.eu_multi_HM7A_V11.0.2.0.PCMCNXM_v11-9 by ingbrzy
-- [9] MK90.0-pine-202002191544-NIGHTLY by GuaiYiHu
-- [9] lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
+- [10] Phhusson's AOSP 10.0 v220
         
 Template created by @zguithues and @hackintosh5
 
