@@ -22,7 +22,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 
 | Component                 |      Pie                             |              10                |
 |---------------------------|--------------------------------------|--------------------------------|
-| Camera                    | Video recording broken after 24 hours| Working, Video recording can be fixed using treble settings from v217. Automatically fixed from v220 onwards   |
+| Camera                    | Video recording broken after 24 hours| Working from v220 onwards, can be fixed using treble settings from v217 onwards |
 | Speaker / Mic             | Working                              | Working                       |
 | Bluetooth                 | Working                              | Working                       |
 | WiFi                      | Working                              | Working                       |
