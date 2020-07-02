@@ -22,16 +22,16 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 
 | Component                 |      Pie                             |              10                |
 |---------------------------|--------------------------------------|--------------------------------|
-| Camera                    | Video recording broken after 24 hours| Working, Video recording can be fixed using treble settings from v217   |
+| Camera                    | Video recording broken after 24 hours| Working, Video recording can be fixed using treble settings from v217. Automatically fixed from v220 onwards   |
 | Speaker / Mic             | Working                              | Working                       |
 | Bluetooth                 | Working                              | Working                       |
 | WiFi                      | Working                              | Working                       |
 | SIM / Mobile Data / Voice | Working                              | Working                       |
 | VoLTE                     | Working with [Patch]                 | Working with [Patch]          |
 | Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |
-| Root and MAGISK           | Working after [patching boot image](patcher.yaalex.tk) | Working after [patching boot image](patcher.yaalex.tk)                      |
+| Magisk           | Working after [patching boot image](patcher.yaalex.tk) | Working after [patching boot image](patcher.yaalex.tk)                      |
+| Root (phh-su) | Working | Working |
 | Adoptable Storage         | Working                              | Working                       |
-| Other feature             | N/A                                  | N/A                           |
 ---
 
 Tested Roms:
@@ -43,7 +43,7 @@ Tested Roms:
 - [9] lineage-16.0-20190910-UNOFFICIAL-treble_a64_bvN by AndyYan
 
 Tested By: 
-- @KhushrajRathod: VoLTE, Adopted Storage, Camera, Root & Magisk, Offline Charging 
+- @KhushrajRathod: VoLTE, Adopted Storage, Camera, Root, Magisk, Offline Charging 
 - Ralph Garcia: Other features
            
 Template created by @zguithues and @hackintosh5
