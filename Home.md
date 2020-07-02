@@ -169,7 +169,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
 |[[LG V50 ThinQ]]|v500|✓|A/B|arm64|
 |[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
-|[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
+|[[LG V60 ThinQ]]|kona|✓|A/B|arm64|
 |[[Meizu 16s]]|16s||A/B|arm64|
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
@@ -244,6 +244,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Ovvi SK3]]|V4701_I01||A|arm64|
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
+|[[Razer Phone 2]]|cheryl2|✓|A/B|arm64|
 |[[Realme 1]]|cph1861|✓|A|arm64|
 |[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
 |[[Realme 3 Pro]]|rmx1851|✓|A/B|arm64|
