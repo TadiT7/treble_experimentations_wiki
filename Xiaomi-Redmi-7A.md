@@ -29,7 +29,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | SIM / Mobile Data / Voice | Working                              | Working                       |
 | VoLTE                     | Working with [Patch]                 | Working with [Patch]          |
 | Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |
-| Magisk           | Working after [patching boot image](patcher.yaalex.tk) | Working after [patching boot image](patcher.yaalex.tk)                      |
+| Magisk           | Working after [patching boot image](https://patcher.yaalex.tk) | Working after [patching boot image](https://patcher.yaalex.tk)                      |
 | Root (phh-su) | Working | Working |
 | Adoptable Storage         | Working                              | Working                       |
 ---
