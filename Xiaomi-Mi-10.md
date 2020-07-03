@@ -2,6 +2,9 @@
 
 Mi10 (UMI)
 
+# Tested Image
+AOSP 10.0 v220
+
 ## Steps to install
 * Unlock bootloader
 * flash this image with the `fastboot` utility:
