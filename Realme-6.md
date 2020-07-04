@@ -3,7 +3,7 @@
 Summary of what works and doesn't
 
 ## Steps to install
-Noything yet
+Nothing yet
 ## Hardware support
 
 | Component                 |      Comment                                              |
