@@ -20,6 +20,6 @@ Noything yet
 | MTP                       | Working                                                   |
 ---
 
-Tested By: @karmurparth(https://t.me/mekarmur) RMX2001,  Version Havoc Os 3.6                                                        
+Tested By: [karmurparth](https://t.me/mekarmur) RMX2001,  Version:Havoc Os 3.6                                                        
 
 Telegram support group -[Realme6Official](https://t.me/Realme6Official )
