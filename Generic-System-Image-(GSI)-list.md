@@ -24,13 +24,12 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |Firmware collection|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
-|LOSQ|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LOSQ-Project)|A - A/B|arm - arm64 - binder|
-|crDRom|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom-Project)|A - A/B|arm - arm64 - binder|
+|Firmware collection|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://sourceforge.net/projects/treblerom/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Trisquel|[Download](https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/)|A|arm64|
 |Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
+|Firmware collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
 |Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
-|Firmware Collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
