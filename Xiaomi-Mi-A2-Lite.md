@@ -1,0 +1,1 @@
+[XDA](https://forum.xda-developers.com/mi-a2-lite/how-to/guide-flash-gsi-bug-updated-22-07-2019-t3950812)
