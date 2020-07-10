@@ -91,7 +91,7 @@ $ fastboot reboot
 | WiFi                      | OK                                                                                        |
 | SIM / Mobile Data / Voice | OK Voice, Mobile data works, but sometimes stop (it could be resolved rebooting the phone)|
 | VoLTE                     | Not tested yet                                                                            |
-| Fingerprint               | Works untile the first reboot. After that it not works anymore                            |
+| Fingerprint               | Works until the first reboot. After that it not works anymore                            |
 | NFC                       | Not tested yet                                                                            |
 | Offline Charging          | OK                                                                                        |
 | Extra button              | Not working at all                                                                        |
