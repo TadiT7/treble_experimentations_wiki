@@ -71,6 +71,8 @@ $ fastboot flashing unlock
  ```
 
 * Now press Vol+ to confirm unlocking
+
+**Perform the following steps without reboot, otherwise it results in non-booting SYSTEM**
  ```
 $ fastboot -w (will erase all data)
 $ fastboot flash boot <STOCKBOOT.img>
