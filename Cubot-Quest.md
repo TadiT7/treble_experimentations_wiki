@@ -99,4 +99,4 @@ $ fastboot reboot
 
 I have a working HavocOS 3.6 also, based on GSI Android 10 maade by phusson
 
-Tested By: bahamut657 - Cubot-Quest(IT), Firmware Version AOSP 9 GSI- Date tested 2020/03/12 - Template created by @zguithues and @hackintosh5
+Tested By: bahamut657 - Cubot-Quest(IT), Firmware Version AOSP 9 GSI- Date tested 2020/07/09 - Template created by @zguithues and @hackintosh5
