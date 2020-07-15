@@ -1,39 +1,62 @@
-This Phone Pre Installed Google Android 9 Pie as Factory Version From Qiku(OEM)
+# Device Info
 
-Tested GSI Image Boot Up in this Phone and No Bugs
+- Name: Cherry Mobile Flare S8 (X930)  
+- Architecture: arm32_binder64 (a.k.a. a64)
+- System partitions: a-only system partition, but use ab rom
+- System-as-root: Yes
 
+## Steps to install
+Refer to XDA Thread
+https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 
-1.LineageOS 17
-2.LineageOS 17.1
-3.Descendant OS 4.0
-4.HavocOS (9Pie/10-Q)
-5.StagOS(Android 10)
-6.Bootleggers
-7.SyberiaOS (9 Pie)
-8.Ressurrection Remix (9Pie)
-9.CAOSP(Android 10)
-10.SyberiaOS (9 Pie)
+*Some info*
 
-Rom Did Not Work
-MIUI 11/10
-OxygenOS
-OneUI
-Siberia OS (Android 10)
+- This device has a pre-installed Google Android 9 as Factory Version from Qiku [OEM] (No Specific OEM yet)
+- To root, you may have to manually install magisk manager then patch the stock boot image of your device and then, flash it through your PC. You can use the ADB (Android Debug Bridge) Method or the SPFT (SP Flash Tool) Method.
+- ROMs that didn't work are MIUI 10 or 11, OXygen OS, One UI and Siberia OS. (What do you expect? Those are heavily-modified ROMs only for Manufacturers :P)
+- If you are having difficulties modifying your device, don't forget to join our Facebook Groups here [Main Group](https://www.facebook.com/groups/746336425785682) and [Dev Group](https://www.facebook.com/groups/468424323767473)
+- Don't forget to hit the subscribe button and ring the bell in Alfredo's YouTube Channel, [here](https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg)
 
-Vendor Security Patch: Dec 05 2019
-Kernel Version:4.4.146(user@1)
-TWRP for October Security Patch:https://drive.google.com/file/d/1-05l9vfdq-jcn3CqjeNOkOyAqnBEJyvU/view?usp=drivesdk
+*Note*
 
-TWRP For December Security Patch:https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk
+- Starting in the Security Patch (2020-03-05), Many GSI images are having trouble to booting up because of its OEM restricting GSI images to fully write in System Partition. The solution is to downgrade to Security Patch (2019-12-05) by flashing its firmware using SP Flash Tool. Always Un-tick Preloader LK1 and LK2 for the new batch of Flare S8 in October 2019
+- There's also a problem where the screen goes black (No Display Issue), it is because of the LCD Drivers are being mismatched in the new batch,
 
-TWRP 3.4 For October and December (Also Working in March)
-https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk
+## Hardware support
 
-Official YouTube Channel For This Device:
-https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg
+| Component                 |      Pie                             |              10                |
+|---------------------------|--------------------------------------|--------------------------------|
+| Camera                    | Working                              | Working                        |
+| Speaker / Mic             | Working                              | Working                       |
+| Bluetooth                 | Working                              | Working                       |
+| WiFi                      | Working                              | Working                       |
+| SIM / Mobile Data / Voice | Working                              | Working                       |
+| Offline Charging          | Working                              | Working                       |
+| Magisk                    | Working after patching boot image | Working after patching boot image |
+| Root (phh-su) | Working | Working |
+| Adoptable Storage         | Working                              | Working                       |
+---
 
-Note:Starting in March 5 2020 Security Patch Many GSI is Having Trouble to Boot Up Because of OEM Restricting GSI Image to fully Write in System Partition
-Solution: Downgrade to December 5 2019 Security Patch by Flashing Using SP Flashtool
-Note:Before Flashing December Firmware Always Uncheck
-Preloader LK1 and LK2 (For New Flare S8) Batch October 2019
-Theres a Problem where the Screen Go to Black Screen Issue (No Display Issue) Miss Match LCD Drivers in new Batch
+*TWRP Builds (Compiled by Alfredo Cortez)*
+
+- For Oct 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-05l9vfdq-jcn3CqjeNOkOyAqnBEJyvU/view?usp=drivesdk)
+- For Dec 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk)
+- For October and December (Also Working in March 2020): [Download Link](https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk)
+
+Credits 
+- @AljunCortez: The first one who started the development of Flare S8 in the Community
+- @androidist1204: For improving this thread and for supporting the development community
+- DC Salinas Sumcio: For allowing Custom ROM Development in the Community
+  
+Tested Roms:
+- [Android 10] CAOSP
+- [Android 10] Lineage OS 17
+- [Android 10] Lineage OS 17.1
+- [Android 10] Stag OS
+- [Android 9/10] Havoc OS
+- [Android 9] Bootleggers ROM
+- [Android 9] Descendant OS 4.0
+- [Android 9] Resurrection Remix OS
+- [Android 9] Syberia OS
+        
+Template created by @zguithues and @hackintosh5
