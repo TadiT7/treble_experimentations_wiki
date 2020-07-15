@@ -11,7 +11,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 
 *Some info*
 
-- This device has a pre-installed Google Android 9 as Factory Version from Qiku [OEM] (No Specific OEM yet)
+- This device has a pre-installed Google Android 9 as Factory Version from Qiku [OEM]
 - To root, you may have to manually install magisk manager then patch the stock boot image of your device and then, flash it through your PC. You can use the ADB (Android Debug Bridge) Method or the SPFT (SP Flash Tool) Method.
 - ROMs that didn't work are MIUI 10 or 11, Oxygen OS, One UI and Siberia OS. (What do you expect? Those are heavily-modified ROMs only for Manufacturers :P)
 - If you are having difficulties modifying your device, don't forget to join our Facebook Groups here [Main Group](https://www.facebook.com/groups/746336425785682) and [Dev Group](https://www.facebook.com/groups/468424323767473)
