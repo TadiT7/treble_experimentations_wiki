@@ -1,7 +1,7 @@
 # Device Info
 
 - Name: Cherry Mobile Flare S8 (X930)  
-- Architecture: arm32_binder64 (a.k.a. a64)
+- Architecture: arm64_binder64 (a.k.a. a64)
 - System partitions: a-only system partition, but use ab rom
 - System-as-root: Yes
 
