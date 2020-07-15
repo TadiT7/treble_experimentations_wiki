@@ -15,8 +15,9 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - This device has a pre-installed Google Android 9 as Factory Version from Qiku [OEM]
 - In order to root, you may have to manually install magisk manager then patch the stock boot image of your device and then, flash it through your PC. You can use the ADB (Android Debug Bridge)(Required Unlock Bootloader) Method or the SPFT (SP Flash Tool) Method.
 - ROMs that didn't work are MIUI 10 or 11, Oxygen OS, One UI and Siberia OS. (What do you expect? Those are heavily-modified ROMs only for Manufacturers :P)
-- If you are having difficulties modifying your device, don't forget to join our Facebook Groups here [Main Group](https://www.facebook.com/groups/746336425785682) and [Dev Group](https://www.facebook.com/groups/468424323767473)
+- If you are having difficulties modifying your device, don't forget to join our Facebook Groups here [Main Group](https://www.facebook.com/groups/746336425785682) and [Development Group](https://www.facebook.com/groups/468424323767473)
 - Don't forget to hit the subscribe button and ring the bell in Alfredo Cortez' YouTube Channel, [here](https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg)
+- Visit the [XDA Thread](https://forum.xda-developers.com/android/development/guide-cherry-mobile-flare-s8-rooting-t4133827) for more infos regarding on how to unlock the bootloader, rooting the device, etc.
 
 *Note*
 
