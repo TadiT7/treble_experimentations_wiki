@@ -112,10 +112,45 @@ We can't deny that @phhusson has made amazing works and countless contributions 
 mkdir AOSP10; cd AOSP10
 bash ../treble_experimentations/build-rom.sh android-10.0
 ```
-
 3- The script will automatically initialize the repository, sync the source, apply patches and start building.
 
-### 7. Build using @dakkar script
+### 7. Build using phhusson's second script (build.sh)
+
+If you encounter problems with the build-rom.sh script, you might consider using the newer script. Keep in mind that we'll need to modify it a bit, otherwise it will build system images for all possible options (all architectures, all partition options, all gapps choices,etc.).
+
+1- Start by cloning phh's Treble_Experimentations project:
+
+```
+git clone https://github.com/phhusson/treble_experimentations
+```
+
+2. Edit the build.sh file in the treble_experimentations folder by commenting (adding an #) in front of the build variants that you don't need:
+
+```nano treble_experimentations/build.sh```
+
+ Scroll down to this decision instruction and add and hashtag (#) in front of the options that you don't need (this is an example of my choices, you can choose whatever you want from here. The options that have no '#' will be built):
+
+```
+if [ "$1" = "android-10.0" ];then
+        #buildVariant treble_arm64_afS-userdebug quack-arm64-aonly-floss
+        #buildVariant treble_arm64_avS-userdebug quack-arm64-aonly-vanilla
+        #buildVariant treble_arm64_agS-userdebug quack-arm64-aonly-gapps
+        #buildVariant treble_arm64_aoS-userdebug quack-arm64-aonly-go
+        buildVariant treble_arm64_bfS-userdebug quack-arm64-ab-floss
+        #buildVariant treble_arm64_bvS-userdebug quack-arm64-ab-vanilla
+        #buildVariant treble_arm64_bgS-userdebug quack-arm64-ab-gapps
+        #buildVariant treble_arm64_boS-userdebug quack-arm64-ab-go
+```
+
+3. Start the build. We will create a folder named AOSP10, enter it and then call the build script.
+
+```
+mkdir AOSP10; cd AOSP10
+bash ../treble_experimentations/build-rom.sh android-10.0
+```
+The resulting system images will be stored in the release folder.
+
+### 8. Build using @dakkar script
 
 dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/master/build-dakkar.sh#L36") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/9ae752a94f20ba17c8a712429c4db42c20a0511a).
 
@@ -169,7 +204,7 @@ dakkar's script is another treble building script, originally made by @Dakkar an
 
 **Note:** check patches when you use these auto scripts, if some patch is broken you'll have build errors :p
 
-### 8. Build using the manual way
+### 9. Build using the manual way
 
 In simple steps:
 
@@ -236,3 +271,6 @@ That's all ;)
 - @sooti for his simplified instruction on phh-treble telegram.
 - @LineageOS guys for their wiki
 - And me (@yshalsager) for writing this guide :D	
+
+**Edit Notes:**
+- @Dualkem - added the build.sh build guide (point 7).
