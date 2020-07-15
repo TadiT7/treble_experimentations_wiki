@@ -146,7 +146,7 @@ if [ "$1" = "android-10.0" ];then
 
 ```
 mkdir AOSP10; cd AOSP10
-bash ../treble_experimentations/build-rom.sh android-10.0
+bash ../treble_experimentations/build.sh android-10.0
 ```
 The resulting system images will be stored in the release folder.
 
