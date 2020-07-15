@@ -2,7 +2,7 @@
 
 - Name: Cherry Mobile Flare S8 (X930)  
 - Architecture: arm64
-- System partitions: a-only system partition, but use ab rom
+- System partitions: ab system partition
 - System-as-root: Yes
 
 ## Steps to install
