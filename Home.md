@@ -47,12 +47,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Brown&Proud Brown 1]]|V4701_I01||A|arm64_32
-|[[Cherry Mobile Flare S8(Helio P23)]]|X930|✓|A/B|ARM64|
-|[[Cherry Mobile Flare S8 Pro(Helio P22)]]|Flare_S8_Pro|√|A/B|ARM64|
-|[[Cherry Mobile Flare S8 Plus(Helio P70)]]|FS8Plus|√|A/B|arm64|
-|[[Cherry Mobile Flare S8 Max(Helio P23)]]|Flare_S8_Max|√|A/B|arm64|
-|[[Cherry Mobile Flare S8 Prime(Helio P23)]]|Flare_S8_Prime|√|A/B|arm64|
-|[[Cherry Mobile Flare S8 Lite(Helio P23)]]|Flare_S8_Lite|√|A/B|arm64/arm32|
+|[[Cherry Mobile Flare S8]]|X930|✓|A/B|ARM64|
+|[[Cherry Mobile Flare S8 Pro]]|Flare_S8_Pro|√|A/B|ARM64|
+|[[Cherry Mobile Flare S8 Plus]]|FS8Plus|√|A/B|arm64|
+|[[Cherry Mobile Flare S8 Max]]|Flare_S8_Max|√|A/B|arm64|
+|[[Cherry Mobile Flare S8 Prime]]|Flare_S8_Prime|√|A/B|arm64|
+|[[Cherry Mobile Flare S8 Lite]]|Flare_S8_Lite|√|A/B|arm_binder64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
