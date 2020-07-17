@@ -72,6 +72,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Doogee X5 Pro]]|X5pro|✓|A|arm|
 |[[Doogee X50]]|X50|✓|A|arm|
 |[[Doogee Y8]]|Y8|✓|A/B|arm64|
+|[[Duoqin Qin 2]]|sp9832e_1h10_go|✓|A/B (Go)|arm64|
+|[[Duoqin Qin 2 Pro]]|s9863a1h10|✓|A/B|arm64|
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
@@ -380,7 +382,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus||A|arm64|
 |[[Xiaomi Pocophone F1 (Poco F1)]]|beryllium|✓|A|arm64|
-|[[Xiaomi Qin 2 / 2 Pro]]|n/a|✓|A/B (Go)|arm64|
 |[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
