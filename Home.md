@@ -327,6 +327,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
 |[[Teclast M20 4G]]|M20_4G||A|arm64|
 |[[Teclast M30]]|M30||A|arm64|
+|[[Teclast P10HD]]|P10_HD||A/B|arm64|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
