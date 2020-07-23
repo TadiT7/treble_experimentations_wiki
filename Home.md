@@ -24,6 +24,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
 |[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
+|[[Asus ROG Phone III]]|I003D|✓|A/B|arm64|
 |[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[Asus Zenfone 5Z (ZS620KL/ZS621KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-ZenFone-5Z)|Z01R|✓|A/B|arm64|
@@ -170,7 +171,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
 |[[LG V50 ThinQ]]|v500|✓|A/B|arm64|
 |[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
-|[[LG V60 ThinQ]]|kona|✓|A/B|arm64|
+|[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
 |[[Meizu 16s]]|16s||A/B|arm64|
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
@@ -265,7 +266,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A51 5G]]|a51x|✓|A/B|arm64|
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70dd|✓|A/B|arm64|
-|[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
+|[[Samsung Galaxy Z Fold]]|winner|✓|A/B|arm64|
+|[[Samsung Galaxy Z Fold 2]]|winner2|✓|A/B|arm64|
 |[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
@@ -295,12 +297,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S10 and S10 Plus (Snapdragon)]]|beyond1qlte and beyond2qlte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Exynos)]]|beyond0lte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Snapdragon)]]|beyond0qlte|✓|A/B|arm64|
-|[[Samsung Galaxy S20 (Snapdragon)]]|hubble0q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Plus (Snapdragon)]]|hubble1q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Ultra (Snapdragon)]]|hubble2q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 (Exynos)]]|hubble0|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Plus (Exynos)]]|hubble1|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Ultra (Exynos)]]|hubble2|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Snapdragon)]]|hubblex1q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Snapdragon)]]|hubbley2q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Snapdragon)]]|hubblez3q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Exynos)]]|hubblex1|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Exynos)]]|hubbley2|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Exynos)]]|hubblez3|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
