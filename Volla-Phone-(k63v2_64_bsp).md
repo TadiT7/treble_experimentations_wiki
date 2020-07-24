@@ -29,4 +29,3 @@ Seems to work great.
 
 Tested By: lukapanio - Volla Phone, volla-9.0-20200702-nightly-k63v2_64_bsp-signed (AOSP 10.0 v221) - July 24, 2020 - Template created by @zguithues and @hackintosh5
 
-**!!!IF YOU'RE EDITING THIS TEMPLATE TO ADD YOUR DEVICE, CREATE ITS PAGE AND EDIT THERE, OTHERWISE YOU'LL DELETE THE TEMPLATE ITSELF!!!**
