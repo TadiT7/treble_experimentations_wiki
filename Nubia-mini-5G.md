@@ -20,9 +20,9 @@
 
 * Flash an alternative vbmeta (e.g. [Google's](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img))
 * Format /data and flash GSI from TWRP
-* Need to change `persist.radio.multisim.config` from `dsds` to `ssss` in `/vendor/build.prop`
+* Change `persist.radio.multisim.config` from `dsds` to `ssss` in `/vendor/build.prop`
+* Remove `IBootControl` subsection from `/vendor/etc/vintf/manifest.xml` (seems to remedy random bootloop)
 * If stuck in bootanimation on first boot, force reboot via key combo
-* Potential reboot-then-stuck-in-bootanimation bug (still investigating)
 
 ***
 
