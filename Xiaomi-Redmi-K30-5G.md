@@ -3,7 +3,7 @@
 Although this device is A-only, you have to choose GSI for A/B devices because this device is "system-as-root". 
 
 ## Tested images
-√AOSP 10.0 v219
+√AOSP 10.0 v219 
 
 ## Flashing instructions (Credits phhusson and Akito)
 
@@ -66,7 +66,7 @@ fastboot reboot
 
 ## Additional Note
 
-N/A
+Should downgrade if you're on MIUI12, since MIUI12 changes the partition table, system partition becomes super, and flashing AOSP10 directly to super bricks the device by bootloop.
 
 ---
 
@@ -77,3 +77,5 @@ Redmi K30 5G Tested By:
 R-L-T-Y @ picasso_images_V11.1.25.0.QGICNXM_20200511.0000.00_10.0_cn
 
 Template created by @zguithues and @hackintosh5
+
+MIUI12 note by @peter17ji
