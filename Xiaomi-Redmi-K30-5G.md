@@ -7,7 +7,9 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 
 ## Flashing instructions (Credits phhusson and Akito)
 
-- make sure to have the [latest platform-tools](https://developer.android.com/studio/run/win-usb) installed.
+- Make sure to have the [latest platform-tools](https://developer.android.com/studio/run/win-usb) installed.
+
+- Install Xiaomi OEM Android driver(Google's newest ones don't work under fastbootd) at https://developer.android.com/studio/run/oem-usb#Drivers: delete all .cat file, disable Windows driver signature enforcement (since the driver is much too old), right click on the .inf file and click install. Ignore the warning and continue.
 
 - Retrive vbmeta.img and recovery.img from official packages.
 
@@ -38,6 +40,7 @@ and reboot to fix the permission issue. Windows users may need to install driver
 ```
 fastboot flash system gsi-system.img
 ```
+If system partition doesn't exist, go back to "Reboot to fastbootd".
 - Wipe data
 ```
 fastboot -w
@@ -66,7 +69,7 @@ fastboot reboot
 
 ## Additional Note
 
-Should downgrade if you're on MIUI12, since MIUI12 changes the partition table, system partition becomes super, and flashing AOSP10 directly to super bricks the device by bootloop.
+N/A
 
 ---
 
@@ -78,4 +81,4 @@ R-L-T-Y @ picasso_images_V11.1.25.0.QGICNXM_20200511.0000.00_10.0_cn
 
 Template created by @zguithues and @hackintosh5
 
-MIUI12 note by @peter17ji
+Driver instructions by @peter17ji
