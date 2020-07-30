@@ -19,11 +19,7 @@ ARM32, A-only, Pie vendor
 ## Report of Q GSI (v200.D)
 
 ### Hardware issues
-- Everything related to 2D video rendering not working (3D working)
-- MTP broken (only work SD card transfer, Internal memory does not)
-- Sound volume can't be controlled, even with SELinux Permissive
-
-Everything else works
+- None
 
 ## Report of Pie GSI (v119)
 
