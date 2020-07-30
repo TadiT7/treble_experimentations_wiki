@@ -1,6 +1,7 @@
 # Samsung Galaxy S10e 
 
-
+I daily drove havocOS 3.6 gsi for about a month and didn't get any major trouble.
+Autobrightness and mtp don't work tho.
 
 ## Steps to install
 
