@@ -27,7 +27,7 @@ Will work on most MediaTek Devices
 *        $:fastboot flash vbmeta Name_of_Vbmeta_file.img
 *        $:fastboot flash system Name_of_GSI_image.img
 *        $:fastboot -w 
-*        $:fastboot rebbot
+*        $:fastboot reboot
        
      Some more info
 
