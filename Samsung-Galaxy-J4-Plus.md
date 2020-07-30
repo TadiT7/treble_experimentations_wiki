@@ -16,12 +16,12 @@ ARM32, A-only, Pie vendor
 7) Install Magisk and/or Gapps as you wish
 8) Reboot
 
-## Report of Q GSI (v200.D)
+## Report of Q GSI
 
 ### Hardware issues
 - None
 
-## Report of Pie GSI (v119)
+## Report of Pie GSI
 
 ### Hardware issues
 - None
