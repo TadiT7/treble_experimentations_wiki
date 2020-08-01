@@ -5,6 +5,8 @@
 
 Link: ([click here to continue to the download](https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view))
 
+## Added news about the stock firmware (last updated on: August 1, 2020):
+- The latest stock Android 8.1 Oreo v1.0.21 firmware is now out. You can download and get this update once you restore back to the v1.0.9 firmware. The latest stock firmware contains the May 5, 2020 security patch.
 
 # Working & non-working Phh-Treble versions (with added notes):
 
@@ -72,4 +74,4 @@ _If you see an error message, double-check that your tablet has been authorized 
 ## Device wiki notes:
 
 * Created by: izzy84075 (12/3/2018)
-* Last edited by: secretwolf98 (2/3/2020)
+* Last edited by: secretwolf98 (8/1/2020)
