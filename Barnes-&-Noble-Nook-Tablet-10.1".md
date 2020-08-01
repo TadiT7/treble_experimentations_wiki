@@ -3,7 +3,7 @@
 
 ## Stock Android 8.1 Oreo v1.0.9 firmware files (excluding the userdata.img):
 
-Link: ([click here to continue to the download](https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view))
+Link: [click here to continue to the download](https://drive.google.com/file/d/1gLshzM9zYEvR0Cknl4eh6KI32nEZbL5O/view)
 
 ## Added news about the stock firmware (last updated on: August 1, 2020):
 - The latest stock Android 8.1 Oreo v1.0.21 firmware is now out. You can download and get this update once you restore back to the v1.0.9 firmware. The latest stock firmware contains the May 5, 2020 security patch.
