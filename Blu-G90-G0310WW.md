@@ -55,14 +55,14 @@ https://developer.android.com/studio/releases/platform-tools
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Status    Working                                         |
 | Speaker / Mic             | Status    Working                                         |
-| Bluetooth                 | Status                                                    |
+| Bluetooth                 | Status    Working                                         |
 | WiFi                      | Status    Working                                         |
-| SIM / Mobile Data / Voice | Status                                                    |
+| SIM / Mobile Data / Voice | Status    Working                                         |
 | VoLTE                     | Status    Unknown__ Provider / Plan Not include Volte     |
 | Fingerprint               | Status    Working                                         |
-| NFC                       | Status                                                    |
+| NFC                       | Status    UNTESTED                                        |
 | Offline Charging          | Status    Turns Boot Logo ON stays on no charge animation |
-| Other feature             | Status                                                    |
+| Other feature             | Status    Wifi-Hotspot Working                            |
 ---
 
 Tested By: MrmazakBlu - Model-Number(region) G0310WW, Firmware Version  - Date tested 7-31-2020 - Template created by @zguithues and @hackintosh5
