@@ -10,7 +10,7 @@ Link: [click here to continue to the download](https://drive.google.com/file/d/1
 
 # Working & non-working Phh-Treble versions (with added notes):
 
-* Phh-Treble v25 (The boot animation seems not to show up on this build. That can be fixed with this commit: ([click here to continue to the commit](https://github.com/phhusson/device_phh_treble/commit/92db7539d07ddb90f89fb611c6f32f3f72b3f349))
+* Phh-Treble v25 (The boot animation seems not to show up on this build. That can be fixed with this commit: [click here to continue to the commit](https://github.com/phhusson/device_phh_treble/commit/92db7539d07ddb90f89fb611c6f32f3f72b3f349)
 * Phh-Treble v107 (This build seems to have errors with the GPU & the KeyMaster)
 * Phh-Treble v119 (This build seems to boot into the system without an issue. Everything works as expected)
 * Phh-Treble v204 (This build seems to boot into the system without an issue. To use Android 10 on this tablet, you must use the no gapps version. The system partition is too small to be able to handle Android 10 with gapps)
