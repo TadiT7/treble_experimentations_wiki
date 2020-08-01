@@ -5,7 +5,8 @@ Stock system dump w/ vbmeta img and stock recovery
 https://github.com/mrmazakblu/blu_g0310ww_dump
 
            *MUST HAVE WORKING ADB AND FASTBOOT (platform Tools) for this process. I used SDK 30
-            https://developer.android.com/studio/releases/platform-tools
+
+https://developer.android.com/studio/releases/platform-tools
 
 ## Steps to install
 
