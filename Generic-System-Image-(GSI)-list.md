@@ -6,7 +6,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
-|CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
 |Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
@@ -29,7 +28,7 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |Firmware collection|Trisquel|[Download](https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/)|A|arm64|
 |Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
 |Firmware collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
-|Android Q|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+|Firmware collection|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
