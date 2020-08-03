@@ -36,7 +36,7 @@
 8. Reboot into download mode and flash the [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE) recovery **_.tar_** file for your device with [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) in the _**AP field**_.
 9. Next, Hold _**vol up + power button**_ while [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) is flashing until you are in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
 10. Format _**cache, data and system**_ in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-11. Flash the [ _**SkyKernal for GSI's**_ ](https://drive.google.com/file/d/1bhFn7FDPzV9059wJ-dP6CefiPRwp4hDO/view?usp=sharing) zip in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
+11. Flash the [ _**Quantum Kernel for GSI's**_ ](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip) zip in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
 12. Flash your chosen GSI .img in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE) as system.
 13. Flash the latest available - [ **PHH-Magisk** ](https://t.me/a50_offl/117) in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
 14. Flash the [ _**Overlay + Build.prop**_ ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0) file in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
