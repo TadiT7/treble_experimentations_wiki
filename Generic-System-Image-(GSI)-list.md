@@ -47,15 +47,15 @@ _**Second Note:** These are Google provided GSIs and not created by phhusson._
 |ProjectTitanium|XTutorials|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3944646/) / [Download](https://sourceforge.net/projects/projecttitanium/files/GSI-Beta/)|A - A/B|arm64|
 |RainOS|yey59|[Download](https://sites.google.com/view/nitros-rom/devices/gsi)|A - A/B|arm64|
 |ResurrectionRemix|mracar|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3891636/) / [Telegram](https://t.me/rrgsi) / [Download](https://get.resurrectionremix.com/?dir=pie/gsi)|A - A/B|arm - arm64 - binder|
+|UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 |ViperOS|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3895410/) / [Download](https://sourceforge.net/projects/viper-project/files/GSI/)|A - A/B|arm - arm64|
 |ZirconiumAosp|peaktogoo|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3916107/) / [Download](https://sourceforge.net/projects/zirconiumaosp/files/GSI/)|A - A/B|arm - arm64|
-|UltraSuccROM|DanielTheCzlek|[XDA](https://forum.xda-developers.com/android/development/ultraleanrom-lightweight-joke-t3717775/) / [Download](https://androidfilehost.com/?w=files&flid=281786&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
 
 ## Unofficial Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSP [MicroG]|oF2pks|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3878115/) / [Download](https://androidfilehost.com/?w=files&flid=286761&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64 - binder|
 |AOKP|NFound|[Download](https://androidfilehost.com/?w=files&flid=290688&sort_by=date&sort_dir=DESC)|A - A/B|arm64|
+|AOSP [MicroG]|oF2pks|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3878115/) / [Download](https://androidfilehost.com/?w=files&flid=286761&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64 - binder|
 |AospExtended|ashu7073|[Download](https://sourceforge.net/projects/aospextended-gsi/files/)|A/B|arm64|
 |AospExtended|NFound|[Download](https://androidfilehost.com/?w=files&flid=289419&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
 |BeastROMs|NFound|[Download](https://androidfilehost.com/?w=files&flid=289638&sort_by=date&sort_dir=DESC)|A - A/B|arm - arm64|
