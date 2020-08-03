@@ -9,7 +9,6 @@
 - MTP (Transferring files over USB)
 
 ## Known Bugs:
-- FOD
 - VoLTE
 - Bluetooth calls
 
