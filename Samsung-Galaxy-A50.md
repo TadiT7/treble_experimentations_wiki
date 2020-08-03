@@ -55,7 +55,7 @@
 | SIM / Mobile Data / Voice | Works, both SIM1 & SIM2                                             |
 | Dual SIM                  | Yes (Some models do not include this feature)                       |
 | VoLTE                     | No                                                                  |
-| Fingerprint               | No                                                                  |
+| Fingerprint               | Yes                                                                 |
 | NFC                       | Yes (Some models do not include this feature)                       |
 ---	
 
