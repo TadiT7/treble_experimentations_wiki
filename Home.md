@@ -312,6 +312,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S20 Plus (Exynos)]]|hubbley2|✓|A/B|arm64|
 |[[Samsung Galaxy S20 Ultra (Exynos)]]|hubblez3|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
+|[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi|✓|A|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[[Samsung Galaxy Tab S4 10.5]]|gts4lwifi and gts4llte|✓|A|arm64|
