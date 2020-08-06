@@ -295,6 +295,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note 10 and 10 Plus (Exynos)]]|d1 and d2|✓|A/B|arm64|
 |[[Samsung Galaxy Note 10 and 10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
+|[[Samsung Galaxy Note 20 and 20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
+|[[Samsung Galaxy Note 20 and 20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
 |[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
 |[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
 |[[Samsung Galaxy S7 and S7 Edge]]|herolte and hero2lte||A|arm64|
