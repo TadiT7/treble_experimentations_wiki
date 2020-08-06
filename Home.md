@@ -321,6 +321,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Tab S5e]]|gts4lvwifi and gts4lvlte|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S6]]|gts6l and gts6lwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S6 lite]]|gta4xl and gta4xlwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S7]]|gts7l and gts7lwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S7+]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
 |[[Sharp Aquos P6 / V1]]|hd1|✓|A/B|arm64|
 |[[Sharp Aquos S2 / C10]]|ss2 / sat|✓|A/B|arm64|
 |[[Sharp Aquos S3 / D10]]|hh1 / hh6 and sd1|✓|A/B|arm64|
