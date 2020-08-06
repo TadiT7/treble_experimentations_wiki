@@ -20,9 +20,9 @@
 
 * Flash an alternative vbmeta (e.g. [Google's](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img))
 * Format /data and flash GSI from TWRP
-* Change `persist.radio.multisim.config` from `dsds` to `ssss` in `/vendor/build.prop`
-* Remove `IBootControl` subsection from `/vendor/etc/vintf/manifest.xml` (seems to remedy random bootloop)
-* If stuck in bootanimation on first boot, force reboot via key combo
+* Change `persist.radio.multisim.config` from `dsds` to `ssss` in `/vendor/build.prop` (resolves rebooting to RescueParty due to RIL)
+* Remove `IBootControl` subsection from `/vendor/etc/vintf/manifest.xml` (resolves random bootloop)
+* Incidental "loss of tap touch" issue - still being observed
 
 ***
 
