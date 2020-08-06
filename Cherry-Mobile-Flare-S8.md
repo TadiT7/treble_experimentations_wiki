@@ -44,8 +44,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - For Oct 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-05l9vfdq-jcn3CqjeNOkOyAqnBEJyvU/view?usp=drivesdk)
 - For Dec 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk)
 - For October and December (Also Working in March 2020): [Download Link](https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk)
-- For July 5 2020 Security Patch
-https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk
+- For July 5 2020 Security Patch: [Download Link](https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk)
 
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
