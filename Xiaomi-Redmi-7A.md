@@ -1,7 +1,7 @@
 # Device Info
 
 - Name: Xiaomi Redmi 7A  
-- Architecture: arm32_binder64 (a.k.a. a64)
+- Architecture: arm32_binder64 (a.k.a. a64) and arm64 unofficial @ https://web.telegram.org/#/im?p=@PineOfficial
 - System partitions: a-only system partition, but use ab rom
 - System-as-root: Yes
 
