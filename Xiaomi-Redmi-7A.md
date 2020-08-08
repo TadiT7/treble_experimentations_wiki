@@ -17,6 +17,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 - If you see insufficient storage when installing gapps resize the system partition on TWRP using the command `resize2fs /dev/block/mmcblk0p57` then try flashing gapps
 - If a gsi treble rom does not boot either the rom is not arm 32 binder 64 or your vendor implementation is broken. Try reflashing vendor from MIUI Official Fastboot Rom, links can be found [here](https://mirom.ezbox.idv.tw/en/phone/pine/)
 - To root Redmi 7A, patch your boot image using patcher.yaalex.tk and then flash latest magisk.zip. You may have to manually install magisk manager
+- If you want to use 64 bit version try following this telegram link: https://web.telegram.org/#/im?p=@PineOfficial
 
 ## Hardware support
 
