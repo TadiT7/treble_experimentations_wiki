@@ -1,17 +1,21 @@
 # Motorola Moto G7 Power (XT-1955) (ocean)
 
-Tested with Phh Treble v212
+Tested with Phh Treble v222
 
 VERY IMPORTANT
-- To boot the Android 10 GSI, you must first change `ro.control_privapp_permissions=enforcing` to `ro.control_privapp_permissions=log` in `/vendor/build.prop`. Vendor enforcements denies permissions from the GSI and considers them violations. If this property is not changed, the vendor will prevent the device from booting.
+- To boot the Android 10 GSI, you must first change `ro.control_privapp_permissions=enforcing` to `ro.control_privapp_permissions=log` in `/vendor/build.prop`. Vendor enforcements denies permissions from the GSI and considers them violations. If this property is not changed, the vendor will prevent the device from booting (This is seemingly no longer necessary as of v215).
 - To use Magisk on this GSI or any other, you must also remove `init.mmi.hab.sh` from `/vendor/bin/`. This file conflicts with Magisk's rooting permissions, preventing the device from booting when applied.
-- To successfully receive an SMS message over the LTE network, [`android.hardware.telephony.ims.xml`](http://treble.phh.me/android.hardware.telephony.ims.xml) must be applied to `vendor/etc/permissions` with the permission 0644. This solution may easily break, so installing a Magisk module such as Pix3lify, is strongly ill-advised.
+- To successfully receive an SMS message over the LTE network:
+  - 1: [`android.hardware.telephony.ims.xml`](http://treble.phh.me/android.hardware.telephony.ims.xml) must be applied to `vendor/etc/permissions` with the permission 0644.
+  - 2: download and install [the latest ims apk](http://treble.phh.me/stable/ims-q.64.apk) as a user image and restart the system
+  - 3: after restarting, do so again after approximately 6 minutes, and repeat the process 3-5 times
+  - 4: as the VoLTE feature is still a work in progress, disable it in Settings --> Mobile network --> VoLTE. You will now receive 3G-only calls (until January 2021 for the T-Mobile network and shared MVNOs such as Metro), but SMS messaging over LTE will now function properly
 
 ## Wireless
 
 ### Wi-Fi
 
-partially - only if [this patch](https://t.me/G7Power/29274) is flashed in TWRP, modifying the vendor partition, will DHCP (default) connections work, otherwise Wifi connections will only be successful on Static connections 
+partially - Wifi connections will only be successful on Static connections 
 
 ### Mobile Data
 
@@ -19,7 +23,7 @@ works
 
 ### Bluetooth
 
-works - only when the Wifi patch above is not flashed
+works
 
 ### Mobile Hotspot
 
@@ -31,15 +35,15 @@ works
 
 - Outgoing call
 
-partially - (https://github.com/phhusson/treble_experimentations/issues/1138)
+partially - only on 3G, as the VoLTE feature is still a work in progress; microphone works in calls only if Dial pad tones is enabled in Settings --> Sound
 
 - Incoming call
 
-partially - (https://github.com/phhusson/treble_experimentations/issues/1138)
+partially - only on 3G, as the VoLTE feature is still a work in progress; microphone works in calls only if Dial pad tones is enabled in Settings --> Sound
 
 ### VoLTE (calls on the LTE network)
 
-currently not working
+currently not working; calls cannot be made, and after such attempt, the phone cannot be hung up unless a system restart is prompted
 
 ### Messaging
 
@@ -50,7 +54,7 @@ works
 - Receiving (SMS and MMS)
 
 
-partially - only if `android.hardware.telephony.ims.xml` is applied to the system as instructed above
+partially - only if the ims APK is installed, but its VoLTE feature is disabled, as instructed above.
 
 
 ## Hardware
@@ -83,7 +87,7 @@ works
 
 ### Microphone
 
-works - fully functioning only [outside of phone calls](https://github.com/phhusson/treble_experimentations/issues/1138)
+works
 
 ### Headphone Audio
 
@@ -109,10 +113,4 @@ works
 
 - The System UI of the GSI currently conflicts with the Magisk module Pix3lify when the enabling of the Pixel framework is selected
 
-- The navigation bar (the 2 button or 3 button scheme) can no longer be modified with [the Custom Navigation Bar app](https://play.google.com/store/apps/details?id=xyz.paphonb.systemuituner), therefore receiving an incompatibility error when installing from the Google Play Store
-
-- Once decrypting the device, 1) the fingerprint API for the GSI is erased and 2) when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
-
-- The swipe up for recent apps function when the 2-button navigation is selected does not work correctly in landscape mode, neither does the swipe right for previous app function, if in the development settings, the "Smallest width" display value is set to at least 597
-
-https://github.com/phhusson/treble_experimentations/issues/791
+- Once decrypting the device, the fingerprint API for the GSI is erased and when setting a screen lock, it refuses to accept the correct passcode to unlock the device; in other words, any password is the "incorrect password"
