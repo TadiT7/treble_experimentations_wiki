@@ -21,25 +21,23 @@ Installation is as easy as it can get:
     ```
 * After flashing during every boot before showing the "Android" boot logo the string "bad key" is
   shown on the screen. That's expected and a result of the system image not signed by Motorola's keys.
-* Once you flashed the GSI you might want to the hardware overlay for the Motorola Moto G7 Play,
-  which isn't yet included by default:
-  https://github.com/phhusson/vendor_hardware_overlay/pull/182. This adds some device specifc
-  properties to properly support notch, battery and other components.
 
-## Hardware support (Android 10)
+## Hardware support (Android 10 GSI)
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | Works                                                     |
-| Speaker / Mic             | Works, but audio effects are disabled as a workaround for working Bluetooth audio for now                                                     |
-| Bluetooth                 | Works                                                     |
-| WiFi                      | Works                                                     |
-| SIM / Mobile Data / Voice | Works, but microphone in calls requires certain audio settings, see https://github.com/phhusson/treble_experimentations/issues/1138 |
-| VoLTE                     | Unknown, disabled in stock ROM                            |
-| Fingerprint               | Not working, see https://github.com/phhusson/treble_experimentations/issues/1072 |
-| Offline Charging          | Works                                                     |
-| GNSS                      | Works                                                     |
-| Display                   | Works, except for automatic brightness adjustment         |
+| Component                 | coming from stock Android 9 | coming from stock Android 10 |
+|---------------------------|-----------------------------|------------------------------|
+| Camera                    | Works                       | Works                        |
+| Speaker / Mic             | Works                       | Works                        |
+| Bluetooth                 | Works                       | Works                        |
+| A2DP                      | Works                       | Not working, see [#1404](https://github.com/phhusson/treble_experimentations/issues/1404) |
+| WiFi                      | Works                       | Works                        |
+| SIM / Mobile Data / Voice | Works, but microphone in calls requires certain audio settings, see [#1138](https://github.com/phhusson/treble_experimentations/issues/1138) | Works |
+| VoLTE                     | Unknown, disabled in stock ROM | Unknown, disabled in stock ROM |
+| Fingerprint               | Not working, see [#1072](https://github.com/phhusson/treble_experimentations/issues/1072) |  Not working, see [#1072](https://github.com/phhusson/treble_experimentations/issues/1072) |
+| Offline Charging          | Works                       | Works                        |
+| GNSS                      | Works                       | Works                        |
+| Display                   | Works                       | Works                        |
+| Automatic screen brightness | Not Working               | Works                        |
 
 
 ## Stock ROMs
