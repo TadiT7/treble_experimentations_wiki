@@ -47,16 +47,17 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - For October and December (Also Working in March 2020): [Download Link](https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk)
 - For July 5 2020 Security Patch: [Download Link](https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk)
 
-*PBRP Builds (Source-built by @lovelyz)*
+*PBRP Builds (Source-built by @loveleyz)*
 
 - PitchBlack Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/recovery-pbrp-3-0-0-cherry-mobile-flare-t4145107)
 
-*OrangeFox Builds (Source-built by @lovelyz)*
+*OrangeFox Builds (Source-built by @loveleyz)*
 
 - OrangeFox Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
 
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
+- @loveleyz: For building some of the TWRP builds
 - @Hadenix: For compiling some of the TWRP builds
 - @androidist1204: For improving this thread and for supporting the development community
   
