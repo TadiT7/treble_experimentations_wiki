@@ -112,7 +112,7 @@ works
 
 # Other Issues
 
-- The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware, although executing `adb shell wm size 720x1280` (a 16:9 screen ratio) is a good temporary solution. (The `1280` value (screen width) can be changed to the user's preferences)
+- The GSI's "Display Cutout" option in Developer Settings "device default, hide, etc" does not effectively hide the notch, like it does on the device's stock firmware, although executing `adb shell wm size 720x1280` (a 16:9 screen ratio) is a good temporary solution. (The `1280` value (screen width) can be changed to the user's preferences)*
 
 - The System UI of the GSI currently conflicts with the Magisk module Pix3lify when the enabling of the Pixel framework is selected
 
