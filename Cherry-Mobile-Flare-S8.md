@@ -49,11 +49,11 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 
 *PBRP Builds (Source-built by @lovelyz)*
 
-- PitchBlack Recovery: [Download Link](https://forum.xda-developers.com/android/development/recovery-pbrp-3-0-0-cherry-mobile-flare-t4145107)
+- PitchBlack Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/recovery-pbrp-3-0-0-cherry-mobile-flare-t4145107)
 
 *OrangeFox Builds (Source-built by @lovelyz)*
 
-- OrangeFox Recovery: [Download Link](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
+- OrangeFox Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
 
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
