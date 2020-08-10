@@ -18,6 +18,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - If you are having difficulties modifying your device, don't forget to join our Facebook Groups here [Main Group](https://www.facebook.com/groups/746336425785682) and [Development Group](https://www.facebook.com/groups/468424323767473)
 - Don't forget to hit the subscribe button and ring the bell in Alfredo Cortez' YouTube Channel, [here](https://www.youtube.com/channel/UCzpW0hWPTSkPzqzVgZ-5bjg)
 - Visit the [XDA Thread](https://forum.xda-developers.com/android/development/guide-cherry-mobile-flare-s8-rooting-t4133827) for more infos regarding on how to unlock the bootloader, rooting the device, etc.
+- Visit this [XDA Thread](https://forum.xda-developers.com/android/development/recovery-twrp-3-4-0-cherry-mobile-flare-t4145129) for a list of TWRP builds compiled by different developers.
 
 *Note*
 
@@ -45,6 +46,14 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - For Dec 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk)
 - For October and December (Also Working in March 2020): [Download Link](https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk)
 - For July 5 2020 Security Patch: [Download Link](https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk)
+
+*PBRP Builds (Source-built by @lovelyz)*
+
+- PitchBlack Recovery: [Download Link](https://forum.xda-developers.com/android/development/recovery-pbrp-3-0-0-cherry-mobile-flare-t4145107)
+
+*OrangeFox Builds (Source-built by @lovelyz)*
+
+- OrangeFox Recovery: [Download Link](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
 
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
