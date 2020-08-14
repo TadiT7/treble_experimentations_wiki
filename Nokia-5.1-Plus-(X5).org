@@ -20,4 +20,4 @@ Fingerprint	✓
 
 
 
-* Tested by AOSP 10 by Asim Ranjha
+* AOSP 10 tested by Asim Ranjha
