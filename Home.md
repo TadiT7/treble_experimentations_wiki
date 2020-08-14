@@ -22,6 +22,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
+|[[Amazon Kindle Fire HD 10 2019]]|maverick|✓|A|arm_binder64|
 |[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus ROG Phone III]]|I003D|✓|A/B|arm64|
@@ -35,7 +36,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max M2 (ZB633KL)]]|X01AD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
-|[Barnes & Noble Nook Tablet 10.1](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|BNTV650|✓|A|arm64|
+|[Barnes & Noble Nook Tablet 10.1"](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|BNTV650|✓|A|arm64|
+|[[Barnes & Noble Nook Tablet 7" 2018]]|BNTV460|✓ (Go)|A|arm|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
 |[[Blackview A60]]|a60|✓ (Go)|A|arm|
 |[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
