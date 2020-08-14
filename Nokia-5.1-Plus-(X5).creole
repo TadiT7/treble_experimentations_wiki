@@ -1,0 +1,8 @@
+* Hardware Support (AOSP 9)
+Camera	✓
+Speaker / Mic	✓
+Bluetooth	✓
+WiFi	✓
+SIM / Mobile Data / Voice	✓
+VoLTE	✓
+Fingerprint	✓
