@@ -1,8 +1,23 @@
 * Hardware Support (AOSP 9)
+
+
+----
+
 Camera	✓
+
 Speaker / Mic	✓
+
 Bluetooth	✓
+
 WiFi	✓
+
 SIM / Mobile Data / Voice	✓
+
 VoLTE	✓
+
 Fingerprint	✓
+
+
+
+
+Teseted by AOSP 10 by Asim Ranjha
