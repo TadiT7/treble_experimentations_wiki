@@ -1,5 +1,12 @@
 # The world's smallest Snapdragon-powered Treble-enabled phone
 
+## Bootloader Unlocking
+1. Tap "Software version" in Settings menu a few times
+2. Enter *636865625# on the dial pad
+3. Open Developer options and enable OEM unlocking
+4. Reboot to bootloader and run `fastboot flashing unlock` and `fastboot flashing unlock_critical`
+5. (Optional) Install Magisk with [TWRP](https://drive.google.com/drive/folders/15LQok1lNR55gutIScnle6KIp6fdhwhR7?usp=sharing)
+
 ## Before installation
 Rakuten Mini is released with Android 9 but vendor implementation is a bit broken. When you install Android 10 GSI, you have to install [this Magisk Module](https://github.com/AndroPlus-org/magisk-module-c330-gsi/releases) or [modded vendor image](https://drive.google.com/file/d/1_YDpV9-Wbbbvdjd2eGF1ofSGorc8xaq9/view?usp=sharing). Otherwise the phone will bootloop at home screen.
 
@@ -20,4 +27,4 @@ Rakuten Mini is released with Android 9 but vendor implementation is a bit broke
 
 Tested by AndroPlus_org
 - Model: TINNO Rakuten Mini C330
-- Vendor: C330AE_9.0_RMN_JP_72_SS (Modded)
+- Vendor: [C330AE_9.0_RMN_JP_72_SS](https://drive.google.com/drive/folders/1m_IjpigWlYz35E_SJdQrfMLNpMVS_dKc?usp=sharing) (Modded)
