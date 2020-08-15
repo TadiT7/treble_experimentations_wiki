@@ -1,4 +1,5 @@
 # The world's smallest Snapdragon-powered Treble-enabled phone
+<img src="https://network.mobile.rakuten.co.jp/assets/img/product/rakuten-mini/image-04.png" width="600">
 
 ## Bootloader Unlocking
 1. Tap "Software version" in Settings menu a few times
