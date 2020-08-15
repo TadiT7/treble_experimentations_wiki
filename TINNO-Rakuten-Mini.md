@@ -10,7 +10,7 @@
 ## Before installation
 Rakuten Mini is released with Android 9 but vendor implementation is a bit broken. When you install Android 10 GSI, you have to install [this Magisk Module](https://github.com/AndroPlus-org/magisk-module-c330-gsi/releases) or [modded vendor image](https://drive.google.com/file/d/1_YDpV9-Wbbbvdjd2eGF1ofSGorc8xaq9/view?usp=sharing). Otherwise the phone will bootloop at home screen.
 
-## Hardware support:
+## Hardware support
 | Component | Status |
 |-|-|
 | Audio | Working |
