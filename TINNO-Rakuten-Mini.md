@@ -28,4 +28,4 @@ Rakuten Mini is released with Android 9 but vendor implementation is a bit broke
 Tested by AndroPlus_org
 - Model: TINNO Rakuten Mini C330
 - Vendor: [C330AE_9.0_RMN_JP_72_SS](https://drive.google.com/drive/folders/1m_IjpigWlYz35E_SJdQrfMLNpMVS_dKc?usp=sharing) (Modded)
-- GSI: Android 10
+- GSI: Android 10 arm64 A/B
