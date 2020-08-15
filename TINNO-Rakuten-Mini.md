@@ -24,6 +24,7 @@ Rakuten Mini is released with Android 9 but vendor implementation is a bit broke
 | Offline Charging | Working |
 | VoLTE | Working (Need patch) |
 | Auto-brightness | Need patch |
+| FeliCa / Osaifu Keitai | Not working |
 
 Tested by AndroPlus_org
 - Model: TINNO Rakuten Mini C330
