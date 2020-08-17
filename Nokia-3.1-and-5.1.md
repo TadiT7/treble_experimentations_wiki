@@ -12,7 +12,7 @@ Nokia 3.1 and 5.1 shares the same source code and can be cross flashed between e
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
-| Fingerprint               | √ |
+| Fingerprint (5.1 Only)    | √ |
 | NFC                       | ?                                                         |
 
 ## Hardware Support (AOSP 10)
@@ -25,7 +25,7 @@ Nokia 3.1 and 5.1 shares the same source code and can be cross flashed between e
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | √                                                         |
-| Fingerprint               | √|
+| Fingerprint (5.1 Only)    | √|
 | NFC                       | ?                                                         |
 
 ***
