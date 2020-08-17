@@ -230,6 +230,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
+|[[Nokia C3]]|GamoraPlus / gmr|✓|A/B|arm64|
 |[[Nokia X71]]|tas|✓|A/B|arm64|
 |[[Nubia mini 5G]]|TP1803|✓|A/B|arm64|
 |[[Nubia Red Magic]]|nx609j|✓|A|arm64|
