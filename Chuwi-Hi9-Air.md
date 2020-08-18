@@ -1,6 +1,8 @@
 # Chuwi Hi9 Air (Mediatek Helio X20 chipset)
 
-Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** (Oreo) and **9.0** (Pie) Treble GSI.
+Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** (Oreo) and **9.0** (Pie) Treble GSIs.
+
+**CAVEAT: Please note that the standby power drain is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on boot.**
 
 ## Steps to install
 
@@ -28,7 +30,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     ```
     :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32>123)...
      > Alternatively, you could flash via TWRP as "System Image". Refrain from formatting data, as the device will fail to boot then :-1:: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
-* wait patiently for another erase job to finish and initial boot (which now displays android animation instead of CHUWI) to complete: This will take several minutes 
+* wait patiently for another erase job to finish and initial boot (which now displays android animation instead of CHUWI) to complete: This will take several minutes
 
 ## Hardware support
 
@@ -47,7 +49,6 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 | SD Card                   | yes                                                       |
 | Casting                   | no, only via Google Home (as for Chuwi stock ROM)         |
 
-CAVEAT: Please note that the standby power drain is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on boot.
 ---
 
 Tested by bofh2k - phh-treble 8.1 v32 & 9 v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
