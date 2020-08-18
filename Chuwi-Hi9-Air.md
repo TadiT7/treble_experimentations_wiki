@@ -46,6 +46,8 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 | NFC                       | n/a                                                       |
 | SD Card                   | yes                                                       |
 | Casting                   | no, only via Google Home (as for Chuwi stock ROM)         |
+
+CAVEAT: Please note that the standby power drain is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on boot.
 ---
 
 Tested by bofh2k - phh-treble 8.1 v32 & 9 v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
