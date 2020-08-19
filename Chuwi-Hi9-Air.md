@@ -36,14 +36,14 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | yes (both work, front cam orientation upside down)        |
+| Camera                    | yes (both work, front cam orientation may be upside down)        |
 | Speaker / Mic             | yes / yes                                                 |
 | Bluetooth                 | yes (works for 8.1 GSI, with 9 GSI enable the Mediatek workaround under ```phh treble settings > misc features > bluetooth workarounds ```)                       |
-| WiFi                      | yes (but signal seems worse compared to stock ROM)        |
-| SIM / Mobile Data         | partial (SIM1 only, does not reactivate after standby - reboot required)|
+| WiFi                      | yes (but signal reception seems worse compared to stock ROM)        |
+| SIM / Mobile Data         | partial (SIM1 only, does not always reactivate after standby - reboot required)|
 | Voice                     | yes                                                       |
 | SMS                       | yes                                                       |
-| VoLTE                     | no (MTK 6797)                                             |
+| VoLTE                     | no (unresolved issue for MTK 6797)                                             |
 | Fingerprint               | n/a                                                       |
 | NFC                       | n/a                                                       |
 | SD Card                   | yes                                                       |
@@ -51,4 +51,4 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 
 ---
 
-Tested by bofh2k - phh-treble 8.1 v32 & 9 v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
+Tested by bofh2k - phh-treble 8.1 GSI v32 & 9 GSI v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
