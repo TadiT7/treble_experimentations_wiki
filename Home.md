@@ -385,6 +385,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 9 SE]]|grus|✓|A/B|arm64|
 |[[Xiaomi Mi 10]]|umi|✓|A/B|arm64|
 |[[Xiaomi Mi 10 Pro]]|cmi|✓|A/B|arm64|
+|[[Xiaomi Mi 10 Ultra]]|cas|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
