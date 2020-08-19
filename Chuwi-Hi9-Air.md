@@ -2,7 +2,7 @@
 
 Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** (Oreo) and **9.0** (Pie) Treble GSIs.
 
-**CAVEAT: Please note that the standby power drain is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on boot.**
+**CAVEAT: Please note that the standby battery [drain](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682/post82724665#post82724665) is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on [boot](https://github.com/phhusson/treble_experimentations/issues/1305).**
 
 ## Steps to install
 
@@ -22,15 +22,15 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     Confirm OK on screen via 'vol+'.
     > :warning: When relocking the bootloader again via `fastboot oem lock` the device won't boot custom images any longer...
     
-* flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (after uncompressing downloaded xz archive):
+* flash [image](https://github.com/phhusson/treble_experimentations/releases) with the `fastboot` utility (_after_ uncompressing the downloaded xz archive):
     ```
     $ fastboot erase system
     $ fastboot -u flash system system-arm64-aonly-vanilla-nosu.img
     $ fastboot reboot
     ```
     :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32>123)...
-     > Alternatively, you could flash via TWRP as "System Image". Refrain from formatting data, as the device will fail to boot then :-1:: [Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)
-* wait patiently for another erase job to finish and initial boot (which now displays android animation instead of CHUWI) to complete: This will take several minutes
+     > Alternatively, you could flash the img file via TWRP as "System Image". Refrain from formatting data, as the device will _fail to boot_ then :-1: ([Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)) - unless you remove device encryption first: Using TWRP you have to install [remove_encryption_97.zip](https://4pda.ru/forum/index.php?showtopic=907162&st=600) and reboot to recovery before proceeding by reformatting the data partition in TWRP.
+* wait patiently for another erase job to finish and initial boot (which now displays an "Android" animation instead of "CHUWI") to complete: This will take several minutes
 
 ## Hardware support
 
