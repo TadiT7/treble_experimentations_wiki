@@ -29,7 +29,7 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
     $ fastboot reboot
     ```
     :repeat: This step may be repeated for later image releases with fixes and Android security patches (tested successfully for v31>32>123)...
-     > Alternatively, you could flash the img file via TWRP as "System Image". Refrain from formatting data, as the device will _fail to boot_ then :-1: ([Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)) - unless you remove device encryption first: Using TWRP you have to install [remove_encryption_97.zip](https://4pda.ru/forum/index.php?showtopic=907162&st=600) and reboot to recovery before proceeding by reformatting the data partition in TWRP.
+     > Alternatively, you could flash the img file via TWRP as "System Image". Refrain from formatting data, as the device will _fail to boot_ then :-1: ([Link](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/)) - unless you remove device encryption first: Using TWRP you have to install [remove_encryption_97.zip](https://4pda.ru/forum/index.php?showtopic=907162&st=600#entry79417598) and reboot to recovery before proceeding by reformatting the data partition in TWRP.
 * wait patiently for another erase job to finish and initial boot (which now displays an "Android" animation instead of "CHUWI") to complete: This will take several minutes
 
 ## Hardware support
