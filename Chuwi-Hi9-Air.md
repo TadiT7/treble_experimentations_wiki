@@ -2,7 +2,7 @@
 
 Pretty complete [hardware](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682) support and good stability with **8.1** (Oreo) and **9.0** (Pie) Treble GSIs.
 
-**CAVEAT: Please note that the standby battery [drain](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682/post82724665#post82724665) is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on [boot](https://github.com/phhusson/treble_experimentations/issues/1305).**
+**CAVEAT: Please note that the standby battery [drain](https://forum.xda-developers.com/general/device-reviews-and-information/chuwi-hi9-air-64gb-mt6797-x20-deca-core-t3775682/post82724665#post82724665) is way higher for Pie GSIs (compared to Oreo) and Ten GSIs still seem to be stuck on [boot](https://github.com/phhusson/treble_experimentations/issues/1305#issuecomment-674668358).**
 
 ## Steps to install
 
