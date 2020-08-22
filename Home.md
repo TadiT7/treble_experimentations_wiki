@@ -348,7 +348,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Teclast P10HD]]|P10_HD||A/B|arm64|
 |[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
-|[[Tecno A park 4 Lite (Tecno BB4K)]]|tecno_BB4K||A/B|arm32_binder64|
+|[[Tecno Spark 4 Lite (Tecno BB4K)]]|tecno_BB4K||A/B|arm32_binder64|
 |[[TINNO Rakuten Mini]]|C330|✓|A/B|arm64|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Ulefone Armor 6 / 6E]]|armor_6 and armor_6e||A/B|arm64|
