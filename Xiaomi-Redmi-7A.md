@@ -38,7 +38,9 @@ Tested By:
 - Ralph Garcia: Other features
    
 Tested Roms:
-- [10] Phhusson's AOSP 10.0 v220
+- [10] Phhusson's AOSP 10.0 v222
+- [10] Havoc Os 3.8
+- [10] Bliss os
         
 Template created by @zguithues and @hackintosh5
 
