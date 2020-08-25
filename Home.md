@@ -93,7 +93,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 3 and Pixel 3 XL]]|blueline and crosshatch|✓|A/B|arm64|
 |[[Google Pixel 3a and Pixel 3a XL]]|sargo and bonito|✓|A/B|arm64|
 |[[Google Pixel 4 and Pixel 4 XL]]|flame and coral|✓|A/B|arm64|
-|[[Google Pixel 4a]]|sunfish|✓|A/B|arm64|
+|[[Google Pixel 4a (LTE)]]|sunfish|✓|A/B|arm64|
+|[[Google Pixel 4a (5G)]]|redfin|✓|A/B|arm64|
+|[[Google Pixel 5]]|bramble|✓|A/B|arm64|
 |[[HTC U11]]|ocn||A|arm64|
 |[HTC U11 Life](https://github.com/phhusson/treble_experimentations/wiki/HTC-U11-life-(Android-One))|ocl|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
