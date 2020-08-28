@@ -57,3 +57,5 @@ _May be not an issue anymore, started from v19 (2018-06-03), now using v23 (2018
 - On-screen navigation buttons can be hidden by adding `qemu.hw.mainkeys=1` to /system/build.prop
 
 - [Home button behavior](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/huawei-disable-fingerprint-navigation-t3801708) can be set to default (to behave as on EMUI) by replacing /system/phh/huawei/fingerprint.kl content with the following line: `key 174 HOME`
+
+- Also refer to devices of same chipset (Kirin 960): [Huawei P10 & P10 Plus](https://github.com/phhusson/treble_experimentations/wiki/Huawei-P10-and-P10-Plus), [Huawei Mate 9](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Mate-9),[Honor 8 Pro](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Honor-8-Pro), [Huawei Mate 9 Pro]() and [Huawei Nova 2S]()
