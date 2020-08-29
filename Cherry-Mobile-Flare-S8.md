@@ -75,7 +75,12 @@ Tested ROMs:
 - [Android 9] Descendant OS 4.0
 - [Android 9] Resurrection Remix OS
 - [Android 9] Syberia OS
-- [On-Testing] Umidigi A7 Pro
+- [Android 9] DotOS 3.0
+- [Android 9/10] Pixel Experience
+- [Android 9/10] Pixel Experience Plus
+- [Android 10] RevengeOS 3.2
+- [Android 9/10] ArrowOS
+
 
 Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
         
