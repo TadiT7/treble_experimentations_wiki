@@ -4,7 +4,9 @@ All works. Nothing special at this time known.
 
 GSI's not tested maybe or you should fill it in
 ***
-**GSI Installation**
+# **GSI Installation :-**
+
+_**DO NOT JUST COPY & PASTE COMMANDS , SHOULD HAVE KNOWLEDGE PRIOR TO FIDDLING WITH DEVICE.**_
 
 1. adb reboot to bootloader
 2. fastboot devices
