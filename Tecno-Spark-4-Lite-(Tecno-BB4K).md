@@ -42,7 +42,7 @@ Will work on most MediaTek Devices
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Check Pending                                                    |
+| VoLTE                     | Broken                                                 |
 | Fingerprint               | Working                                                    |
 | NFC                       | ------                                                   |
 | Offline Charging          | Working                                                   |
