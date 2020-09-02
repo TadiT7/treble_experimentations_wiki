@@ -29,6 +29,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[Asus Zenfone 5Z (ZS620KL/ZS621KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-ZenFone-5Z)|Z01R|✓|A/B|arm64|
+|[[Asus Zenfone 7/Pro (ZS670KS/ZS671KS)|I002D|✓|A/B|arm64
 |[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
