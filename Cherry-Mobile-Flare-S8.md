@@ -5,6 +5,12 @@
 - System partitions: a/b system partition
 - System-as-root: Yes
 - Stock Android Version: 9
+- SoC: Helio P23
+- SoC Variant: MT6763V (Underclock)
+- SoC Max CPU ClockSpeed: 2Ghz(BigCores) 1.5Ghz(SmallCores)
+- GPU: ARM Mali G71MP2 @700Mhz
+- SoC Vendor: MediaTek
+- Kernel Version: Linux 4.4.146(user@1)
 
 ## Steps to install
 Refer to XDA Thread
