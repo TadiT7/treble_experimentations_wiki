@@ -47,7 +47,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 | Adoptable Storage         | Working                              | Working                       |
 ---
 
-*TWRP Builds (Compiled by Alfredo Cortez and Hadenix)*
+*TWRP Builds (Compiled by Alfredo Cortez)*
 
 - For Oct 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-05l9vfdq-jcn3CqjeNOkOyAqnBEJyvU/view?usp=drivesdk)
 - For Dec 2019 Security Patch: [Download Link](https://drive.google.com/file/d/1-xmMRWiHw_PsFFX0g5z6eGTozuEE44RH/view?usp=drivesdk)
@@ -65,7 +65,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
 - @loveleyz: For building some of the TWRP builds
-- @Hadenix: For compiling some of the TWRP builds
+- @Hadenix: For giving us permission to port one of his builds
 - @androidist1204: For improving this thread and for supporting the development community
   
 Tested ROMs:
