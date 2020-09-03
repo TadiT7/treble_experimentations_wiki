@@ -66,7 +66,7 @@ Credits
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
 - @loveleyz: For building some of the TWRP builds
 - @Hadenix: For giving us permission to port one of his builds
-- @androidist1204: For improving this thread and for supporting the development community
+- @liafourte: For improving this thread and for supporting the development community
   
 Tested ROMs:
 - [Android 10] CAOSP
