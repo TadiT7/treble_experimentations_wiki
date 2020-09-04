@@ -87,7 +87,8 @@ Tested ROMs:
 - [Android 9/10] Pixel Experience Plus
 - [Android 10] RevengeOS 3.2
 - [Android 9/10] ArrowOS
-
+- [Android 10] Ancient Weeaboify 3.9
+- [Android 10] TitaniumOS
 
 Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
         
