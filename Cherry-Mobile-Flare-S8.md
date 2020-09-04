@@ -89,7 +89,9 @@ Tested ROMs:
 - [Android 9/10] ArrowOS
 - [Android 10] Ancient Weeaboify 3.9
 - [Android 10] TitaniumOS
-
+- [Android 10] ZenX OS
+- [Android 10] CRDroid
+- [Android 10] QiDroid
 Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
         
 Template created by @zguithues and @hackintosh5
