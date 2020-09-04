@@ -92,6 +92,8 @@ Tested ROMs:
 - [Android 10] ZenX OS
 - [Android 10] CRDroid
 - [Android 10] QiDroid
+
+
 Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
         
 Template created by @zguithues and @hackintosh5
