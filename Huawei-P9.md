@@ -22,7 +22,7 @@
 | SIM / Mobile Data / Voice | Working         |                                         |
 | VoLTE                     | Unknown         |                                         |
 | Fingerprint               | Working         | Erase fingerprints before factory reset |
-| NFC                       | Working         | Requires flashing                       |
+| NFC                       | Not working     | Under investigation                     |
 | Offline Charging          | Working         | Requires flashing                       |
 ---
 
