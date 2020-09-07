@@ -46,4 +46,15 @@
 | FM Radio                  | Untested                                                  |
 ---
 
-Tested By: Sirherobrine23 - XT1965-3 (Lake, RETBR), QPWS30.61-21-9 - 01/06/2020 - Template created by @zguithues and @hackintosh5
+Tested By:
+1. Username: **@Sirherobrine23**
+   - Model: XT1965-3 (Lake, RETBR)
+   - Vendor: QPWS30.61-21-9
+   - Date: 01/06/2020
+
+2. Username: **@nicomix**
+   - Model: XT1965-2 (Lake, TIGCO)
+   - Vendor: QPWS30.61-21-11
+   - Date: 07/Sep/2020
+
+Template created by @zguithues and @hackintosh5
