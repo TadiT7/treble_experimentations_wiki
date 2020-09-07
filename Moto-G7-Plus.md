@@ -37,7 +37,7 @@
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Work                                                      |
 | Speaker / Mic             | Work                                                      |
-| Bluetooth                 | Untested                                                  |
+| Bluetooth                 | Only phone call works, media not working                                                  |
 | WiFi                      | Work                                                      |
 | SIM / Mobile Data / Voice | Work                                                      |
 | VoLTE                     | Not Work                                                  |
