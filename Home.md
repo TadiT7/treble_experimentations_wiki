@@ -271,8 +271,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte||A|arm64|
-|[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A|arm64|
-|[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A|arm64|
+|[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A + A/B|arm64|
+|[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A + A/B|arm64|
 |[[Samsung Galaxy A10]]|a10dd|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A20]]|a20dd|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30dd|✓|A/B|arm64|
