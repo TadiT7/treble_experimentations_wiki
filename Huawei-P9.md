@@ -8,6 +8,7 @@
 | O compatibility | Yes      |
 | P compatibility | Yes      |
 | Q compatibility | No       |
+---
 
 ## Feature Status
 | Feature                   | Operation state | Comments                                |
@@ -22,7 +23,7 @@
 | SIM / Mobile Data / Voice | Working         |                                         |
 | VoLTE                     | Unknown         |                                         |
 | Fingerprint               | Working         | Erase fingerprints before factory reset |
-| NFC                       | Not working     | Under investigation                     |
+| NFC                       | Working         | Requires flashing                       |
 | Offline Charging          | Working         | Requires flashing                       |
 ---
 
