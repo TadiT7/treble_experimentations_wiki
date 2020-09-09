@@ -15,13 +15,14 @@
 |---------------------------|-----------------|-----------------------------------------|
 | Camera                    | Working         | Requires flashing                       |
 | Speaker / Mic             | Working         |                                         |
+| SD card                   | Working         | Requires flashing for correct behavior  |
 | Headphones                | Working         | Requires flashing                       |
 | Bluetooth                 | Working         | Requires flashing                       |
 | WiFi                      | Working         |                                         |
 | MTP                       | Working         |                                         |
 | Face Unlock               | Working         |                                         |
 | SIM / Mobile Data / Voice | Working         |                                         |
-| VoLTE                     | Unknown         |                                         |
+| VoLTE                     | Unknown         | Could not test                          |
 | Fingerprint               | Working         | Erase fingerprints before factory reset |
 | NFC                       | Working         | Requires flashing                       |
 | Offline Charging          | Working         | Requires flashing                       |
@@ -41,22 +42,15 @@ If you will wipe data in TWRP without **decrypting your phone**, your custom ROM
 
 ### Installation steps:
 * Backup all your internal-storage stuff
-* Perform a factory reset, **remember to use your stock recovery if you HAVEN'T decrypted your device.**
-* Flash your GSI image to /system. This can be done with fastboot or TWRP. **The latter is recommended because it's less prone to errors with ROMs bigger than 450 MB**.
-* Flash this ZIP to your system
+* Perform a factory reset
+* Flash your GSI image to /system
+* Flash the below ZIPs to get correct behavior
 
 ### Restoring Camera:
-* Install TWRP in fastboot by flashing it to recovery_ramdisk.
-* Reboot to TWRP by executing `fastboot reboot recovery`
-* In TWRP: flash [this ZIP](https://forum.xda-developers.com/p9/themes/p9-camera-treble-gsi-t4006381) to restore your Camera app and libraries.
+* Flash [this ZIP](https://forum.xda-developers.com/p9/themes/p9-camera-treble-gsi-t4006381) to restore your Camera app and libraries.
 
-### Restoring Offline Charging:
-* Install TWRP in fastboot by flashing it to recovery_ramdisk.
-* Reboot to TWRP by executing `fastboot reboot recovery`
-* In TWRP: flash [Offline_charging_fix_for_GSIs-Hi6250.zip](https://forum.xda-developers.com/attachment.php?attachmentid=4771494&d=1559676926) to restore offline charging abilities.
+### Restoring essential functions:
+* Flash [this ZIP](). It is highly recommended NOT TO skip this one!
 
 ### Google Apps (GApps):
-* Flash in TWRP an appropriate package from [OpenGApps](https://opengapps.org/), **it MUST be Android 9.0 for ARM64 devices**.
-
-#### Note: OpenGapps for Android 9.0 (Pie) is now working for Pie GSIs.
-
+* Flash in TWRP an appropriate package from [OpenGApps](https://opengapps.org/). Choose the correct Android version package for ARM64.
