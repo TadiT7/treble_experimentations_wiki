@@ -71,6 +71,8 @@ Retract: `xiaomi-motor takeback 1`
 
 2. Disable "audio effects" in phh treble settings to make audio work normally
 
+3. Use the alternative audio strategy in phh treble settings to prevent audio from stopping for a short time randomly.
+
 ---
 
 This wiki page is referred from Xiaomi Redmi K20 Pro (raphael) page as this device have a lot of things in common with in.
@@ -81,6 +83,8 @@ Akito Mizukito (RealAkito) @ Redmi K30 Pro V11.0.6.0.QJKEUXM / V11.0.16.0.QJKCNX
 lulujyc @ 20.5.21 Beta, 12.0.1 Stable (12.0.1 is recommended as it's more stable)
 
 lulujyc @ Android 11 Beta 1: Doesn't boot any GSI including Google's Android 11 sGSI.
+
+EdChdX @ Redmi POCO F2 Pro
 
 Origin Redmi K20 Pro Wiki is made by AndyYan (AndyCGYan)
 
