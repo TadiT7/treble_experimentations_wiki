@@ -1,52 +1,52 @@
 # Moto G5S
 
-Suitable for daily usage.
+Suitable for daily usage, on both Android 9 and 10
 
 ## Steps to install
 
-### Clean flash
-* Flash [this TWRP](https://forum.xda-developers.com/moto-g5s/development/recovery-unofficial-twrp-recovery-moto-t3916370) as "Recovery" in your existing recovery.
+### Clean Install Android 9  (A-Only)
+* Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
 * Reboot again to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
-* Flash [this ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179).
-
-**Optional:**
-* Reboot to TWRP.
-* Format System.
-* Flash a GSI as "System Image". Or alternatively use fastboot to flash the GSI:
-```
-fastboot flash system path/to/gsi.img
-```
+* Flash [this Vendor](https://t.me/MotoXProject/448).
+* Flash a suiting Gsi (Arm64 A-Only)
 * Reboot to system.
 
 ### Dirty flash
 
 **Whole system:**
 * Reboot to TWRP.
-* Flash the latest LineageOS Treble zip.
-* Format system and reinstall your GSI.
+* Flash the latest [Vendor](https://t.me/MotoXProject/448) zip.
+* Flash the updated Gsi (Arm64 A-Only)
 * Reboot to system.
 
 <!--**Vendor & Boot Images only:**
-* Download the latest vendor & boot images [here](https://drive.google.com/folderview?id=1xqfqD4sLJCf6LXsGNFqP-I34qOwPda00).
+* Download the latest vendor & boot images (flashable zip) [here](https://t.me/MotoXProject/448).
 * Reboot to TWRP.
 * Flash the images (Install > Install Image > select partition > select image).
 * Reboot to system.-->
 
-### Android 10
-* Flash [this TWRP](https://forum.xda-developers.com/moto-g5s/development/recovery-unofficial-twrp-recovery-moto-t3916370) as "Recovery" in your existing recovery.
+### Install Android 10 (A/B)
+* Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
 * Reboot again to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
-* Flash [these images](https://github.com/montanadevelopment/releases/releases/tag/Android10Beta5-1), respectively to Boot, System Image and Vendor Image.
+* Flash [Lineage 17.1by JarlPenguin](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495), using TWRP
+* Flash [Disable Force Encrypt](https://androidfilehost.com/?fid=1322778262904004415)
+* Flash an Arm64 A/B Gsi
 * Reboot to system.
+* Enjoy!
 
-[Some more info](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-16-0-project-treble-t3932179)
+### Dirty flash Android 10 (Whole system)
+* Reboot to TWRP.
+* Flash the latest [ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) zip.
+* Flash the updated Gsi (Arm64 A-Only)
+* Reboot to system.
 
 ## Hardware support
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working                                                   |
+| Camera                    | Working (fully on Q, partially on P)                      |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
@@ -55,63 +55,25 @@ fastboot flash system path/to/gsi.img
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| Other feature             | Encryption - Not Working                                  |
-
+| Other feature             | Encryption - Partially working (Android Q)                |
 ## GSI support
 
 <details><summary>Booting:</summary>
 <p>
 
-`Syberia Project`
+`Everything except in the "didnt boot" category`
 
-`Resurrection Remix`
-
-`Android Open Source Illusion Project`
-
-`Pixel Experience`
-
-`ArrowOS`
-
-`BlissROM`
-
-`MIUI`
-
-`Android Open Source Project`
-
-`PixelDust`
-
-`LegionOS`
-
-`LLuviaOS`
-
-`LiquidRemix`
-
-`CarbonROM`
-
-`Evolution X`
-
-`NitrogenOS`
-
-`OxygenOS`
-
-`HydrogenOS`
-
-`ZUI`
-
-`ZenUI`
-
-`Android 10 Beta 5`
 </p>
 </details>
 
 <details><summary>Not Booting:</summary>
 <p>
 
-`OmniROM`
+`Any Dynamic Partition ErfanGSI`
 
-`Havoc-OS`
+`RealmeUI`
 
-`LiquidRemix - Other developer`
+`Moto Stock Q`
 
 `Nubia`
 
@@ -125,8 +87,8 @@ fastboot flash system path/to/gsi.img
 
 ---
 
-Tested By: Leandro Manhaes - XT1792 (Brazil), Firmware Version: Oreo BC12, Date tested: May 22nd, 2019
+Tested By: HowToRush (XT1794) Oreo Latest  1.1.2020-11.09.2020
 
-Also tested by: Tiago, null, The Crimin4l - EmpresaSSH, Anirudh Bhati
+Also tested by: Giv314, Comeb4ck, and several other members of the montana community over at @Montanalabtesters!
 
 Template created by @zguithues and @hackintosh5
