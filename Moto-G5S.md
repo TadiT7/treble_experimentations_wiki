@@ -32,6 +32,7 @@ Suitable for daily usage, on both Android 9 and 10
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Flash [Lineage 17.1by JarlPenguin](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495), using TWRP
 * Flash [Disable Force Encrypt](https://androidfilehost.com/?fid=1322778262904004415)
+* Flash [Permissiver V5](https://androidfilehost.com/?fid=6006931924117940902) for Proper boot.
 * Flash an Arm64 A/B Gsi
 * Reboot to system.
 * Enjoy!
