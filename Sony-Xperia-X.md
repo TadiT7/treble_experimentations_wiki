@@ -45,7 +45,7 @@
 
 ---
 
-Tested By: HowToRush F5121
+Tested By: HowToRush F5121 (2018/2019)
 
 Also tested by: Fellow Members of the community over at Xda
 
