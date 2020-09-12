@@ -31,7 +31,7 @@ Will work on most MediaTek Devices
        
      Some more info
 
-    As an alternative you can flash via TWRP as "System Image" and format data.
+    As an alternative you can download [TWRP](https://androidfilehost.com/?fid=8889791610682912002) and flash image as "System Image" and format data.
 
 ## Hardware support
 
