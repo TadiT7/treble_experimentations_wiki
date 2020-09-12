@@ -1,4 +1,4 @@
-# Moto G5S
+# Xperia X
 
 (Somewhat) Suitable for daily usage
 
