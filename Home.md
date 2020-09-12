@@ -189,7 +189,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
 |[[Moto G5]]|cedric||A|arm64|
 |[[Moto G5 Plus]]|potter||A|arm64|
-|[[Moto G5S]]|montana||A(Pie) A/B(Q)|arm64|
+|[[Moto G5S]]|montana||A (A/B when updated to Lineage OS 17.1 based on Android 10)|arm64|
 |[[Moto G5S Plus]]|sanders||A|arm64|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter|✓|A|arm|
