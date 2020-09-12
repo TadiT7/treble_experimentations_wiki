@@ -163,6 +163,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Lenovo K8 Note]]|manning||A|arm64|
 |[[Lenovo P2]]|kuntao||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
+|[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
 |[[Lenovo Vibe A Plus]]|a1010a20||A|arm|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
@@ -197,6 +198,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G7 Play]]|channel|✓|A/B|arm (arm_binder64)|
 |[[Moto G7 Plus]]|lake|✓|A/B|arm64|
 |[[Moto G7 Power]]|ocean|✓|A/B|arm64|
+|[[Moto G8]]|rav|✓|A/B|arm64|
 |[[Moto G8 Plus]]|doha|✓|A/B|arm64|
 |[[Moto X4]]|payton||A/B|arm64|
 |[[Moto Z]]|griffin||A|arm64|
