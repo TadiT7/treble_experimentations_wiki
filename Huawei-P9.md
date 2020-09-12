@@ -13,20 +13,23 @@
 ## Feature Status
 | Feature                   | Operation state | Comments                                |
 |---------------------------|-----------------|-----------------------------------------|
-| Camera                    | Working         | Requires flashing                       |
-| Speaker / Mic             | Working         |                                         |
-| SD card                   | Working         | Requires flashing for correct behavior  |
-| Headphones                | Working         | Requires flashing                       |
 | Bluetooth                 | Working         | Requires flashing                       |
-| WiFi                      | Working         |                                         |
-| MTP                       | Working         |                                         |
+| Camera                    | Working         | Requires flashing                       |
 | Face Unlock               | Working         |                                         |
-| SIM / Mobile Data / Voice | Working         |                                         |
-| VoLTE                     | Unknown         | Could not test                          |
-| Fingerprint               | Working         | Erase fingerprints before factory reset |
+| Fingerprint Sensor        | Working         | Erase fingerprints before factory reset |
+| GPS                       | Unknown         | Could not test                          |
+| Headphones                | Working         | Requires flashing                       |
+| HWComposer                | Working         | Requires flashing for correct behavior  |
+| MTP                       | Working         |                                         |
 | NFC                       | Working         | Requires flashing                       |
 | Offline Charging          | Working         | Requires flashing                       |
+| SIM / Mobile Data / Voice | Working         |                                         |
+| SD card                   | Working         | Requires flashing for correct behavior  |
+| Speaker / Mic             | Working         |                                         |
+| VoLTE                     | Unknown         | Could not test                          |
+| WiFi                      | Working         |                                         |
 ---
+All the features that say "Requires flashing" can be restored by flashing the ZIPs linked below 
 
 ## Installation process for GSIs
 ### Prerequisites:
@@ -50,7 +53,7 @@ If you will wipe data in TWRP without **decrypting your phone**, your custom ROM
 * Flash [this ZIP](https://forum.xda-developers.com/p9/themes/p9-camera-treble-gsi-t4006381) to restore your Camera app and libraries.
 
 ### Restoring essential functions:
-* Flash [this ZIP](). It is highly recommended NOT TO skip this one!
+* Flash [the latest ZIP](https://drive.google.com/drive/folders/1rpCeajjRfozMrTBgSvKELgtb9GwOeXfh). It is highly recommended NOT TO skip this one!
 
 ### Google Apps (GApps):
 * Flash in TWRP an appropriate package from [OpenGApps](https://opengapps.org/). Choose the correct Android version package for ARM64.
