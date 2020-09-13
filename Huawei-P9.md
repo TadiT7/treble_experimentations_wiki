@@ -15,14 +15,14 @@
 | Feature                   | Operation state | Comments                                |
 |---------------------------|-----------------|-----------------------------------------|
 | Bluetooth                 | Working         | Requires flashing                       |
-| Camera                    | Working         | Requires flashing                       |
+| Camera                    | Working         | Requires flashing, Q under investigation|
 | Face Unlock               | Working         |                                         |
 | Fingerprint Sensor        | Working         | Erase fingerprints before factory reset |
 | GPS                       | Unknown         | Could not test                          |
 | Headphones                | Working         | Requires flashing                       |
 | HWComposer                | Working         | Requires flashing for correct behavior  |
 | MTP                       | Working         |                                         |
-| NFC                       | Working         | Requires flashing                       |
+| NFC                       | Working         | Requires flashing, O/P only             |
 | Offline Charging          | Working         | Requires flashing                       |
 | SIM / Mobile Data / Voice | Working         |                                         |
 | SD card                   | Working         | Requires flashing for correct behavior  |
@@ -36,7 +36,7 @@ All the features that say "Requires flashing" can be restored by flashing the ZI
 ### Prerequisites:
 - Unlocked bootloader
 - Firmware 8.0.0.510 or newer
-- Android 10: No Magisk
+- Android 10: Magisk doesn't work
 
 ### TWRP and Encryption: important note
 If you didn't follow [this guide](https://forum.xda-developers.com/p9/how-to/guide-easy-decryption-guide-gsi-users-t4115033) to _decrypt your internal storage_ DO NOT factory reset user data using TWRP!** This will break your internal storage! If you need to perform factory reset while maintaining encryption- flash stock Recovery using fastboot and wipe data in it.  
