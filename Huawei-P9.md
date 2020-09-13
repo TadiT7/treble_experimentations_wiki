@@ -22,7 +22,7 @@
 | Headphones                | Working         | Requires flashing                       |
 | HWComposer                | Working         | Requires flashing for correct behavior  |
 | MTP                       | Working         |                                         |
-| NFC                       | Working         | Requires flashing, O/P only             |
+| NFC                       | Working         | Requires flashing,Q under investigation |
 | Offline Charging          | Working         | Requires flashing                       |
 | SIM / Mobile Data / Voice | Working         |                                         |
 | SD card                   | Working         | Requires flashing for correct behavior  |
@@ -50,6 +50,7 @@ If you will wipe data in TWRP without **decrypting your phone**, your custom ROM
 * Perform a factory reset
 * Flash your GSI image to /system
 * Flash the below ZIPs to get correct behavior
+* Optionally, flash GApps
 
 ### Restoring Camera:
 * Flash [this ZIP](https://forum.xda-developers.com/p9/themes/p9-camera-treble-gsi-t4006381) to restore your Camera app and libraries.
