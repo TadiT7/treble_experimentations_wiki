@@ -7,7 +7,8 @@
 | Firmware        | EMUI 8.0 |
 | O compatibility | Yes      |
 | P compatibility | Yes      |
-| Q compatibility | No       |
+| Q compatibility | Yes      |
+| R compatibility | Unknown  |
 ---
 
 ## Feature Status
@@ -29,12 +30,13 @@
 | VoLTE                     | Unknown         | Could not test                          |
 | WiFi                      | Working         |                                         |
 ---
-All the features that say "Requires flashing" can be restored by flashing the ZIPs linked below 
+All the features that say "Requires flashing" can be restored by flashing the ZIPs linked below.
 
 ## Installation process for GSIs
 ### Prerequisites:
 - Unlocked bootloader
 - Firmware 8.0.0.510 or newer
+- Android 10: No Magisk
 
 ### TWRP and Encryption: important note
 If you didn't follow [this guide](https://forum.xda-developers.com/p9/how-to/guide-easy-decryption-guide-gsi-users-t4115033) to _decrypt your internal storage_ DO NOT factory reset user data using TWRP!** This will break your internal storage! If you need to perform factory reset while maintaining encryption- flash stock Recovery using fastboot and wipe data in it.  
