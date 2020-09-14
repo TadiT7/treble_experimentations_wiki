@@ -17,6 +17,9 @@ Rear Camera  | 12.0 MP+8.0MP Dual-Flash
 Front Camera | 8.0 MP
 Release Date | Sep 2018
 
+## This device need patches to working smoothly! 
+## Visit https://github.com/erdilS/gm9pro_fixes page **(Turkish repo!)**
+
 ## Hardware Support
 
 * Camera:
@@ -50,4 +53,10 @@ Release Date | Sep 2018
 > Working (Force to HAL3 on PHH Settings)
 
 * VoLTE/ViLTE/VoWIFI 
-> Not Working
+> Working
+
+* Bluetooth Audio
+> Working
+
+* Bluetooth Call
+> Not working!
