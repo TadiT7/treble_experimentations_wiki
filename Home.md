@@ -255,6 +255,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 7 Pro]]|guacamole|✓|A/B|arm64|
 |[[OnePlus 7T]]|hotdogb|✓|A/B|arm64|
 |[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
+|[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
+|[[OnePlus 8 Pro]]|instantnoodlep|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel C10]]|C10|✓|A|arm|
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
