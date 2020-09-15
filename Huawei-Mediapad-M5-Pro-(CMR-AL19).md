@@ -2,7 +2,7 @@
 
 The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v222) works without big troubles (gapps and vanilla)
 
-Notable problems include: Magisk installation (found solution), some images are to big and can´t be flashed (didn´t find a solution yet), other things won´t be noticed till now, will be updated if there´s something new.
+Notable problems include: Magisk installation (found solution), other things won´t be noticed till now, will be updated if there´s something new.
 
 ## Steps to install
 
@@ -11,6 +11,9 @@ Notable problems include: Magisk installation (found solution), some images are 
 * Profit
 
 TWRP support on this device isn´t given, so you´ve to patch recovery_ramdis.img by yourself, if you like to use Magisk, which isn´t a go on, because there´s no Custom Channel for phh Magisk files, or I was to blind at all. I opened an Issue [Magisk Custom Channel Issue #1480](https://github.com/phhusson/treble_experimentations/issues/1480)
+
+I tested also some different GSI Images, including RR, Havoc-OS and some others, because I got lost with Magisk. 
+Some of the images are to big and can´t be flashed (didn´t find a solution yet).
 
 ## Hardware support
 
