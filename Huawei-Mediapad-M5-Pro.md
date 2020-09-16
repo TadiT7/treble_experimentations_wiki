@@ -1,4 +1,4 @@
-# Huaiwei MediaPad M5 Pro
+# Huaiwei MediaPad M5 Pro (CMR-AL19)
 
 The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v222) works without big troubles (gapps and vanilla)
 
