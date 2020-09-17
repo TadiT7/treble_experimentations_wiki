@@ -438,6 +438,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
+|[[Xiaomi Redmi Note 5A / 5A Lite]]|ugg and ugglite| |A/B|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
