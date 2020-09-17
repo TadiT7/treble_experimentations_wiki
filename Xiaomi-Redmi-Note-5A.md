@@ -1,4 +1,4 @@
-# Device ULYSSE
+# Device 
 ![](https://cdn-cf-1.xda-developers.com/devdb/deviceForum/screenshots/7677/20180507T024513.jpg)
 
 
@@ -14,7 +14,9 @@ The Xiaomi Redmi 5A Lite is a 5" phone with a 1280x720p display. The Snapdragon 
 
  [lineage-17.1-20200916-UNOFFICIAL-ulysse.zip](http://seduttelebot.invictusmy.workers.dev/0:/YongTauFuBot//lineage-17.1-20200916-UNOFFICIAL-ulysse.zip)
 
-#Notes : Current kernel is 3.18 Android 10
+* flash gsi arm64 a/b as system image 
+
+#Notes : Current kernel recommanded for stability is 3.18 Android 10
 
 ## Hardware support
 
