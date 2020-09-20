@@ -16,7 +16,7 @@ The Xiaomi Redmi 5A Lite is a 5" phone with a 1280x720p display. The Snapdragon 
 
 * flash gsi arm64 a/b as system image 
 
-#Notes : Current kernel recommanded for stability is 3.18 Android 10
+#Notes : Current kernel recommanded for stabilility is kernel 3.18 android 10 and kernel 4.9 android 11 (better network support,wpa3 unlocked)
 
 ## Hardware support
 
@@ -25,13 +25,13 @@ The Xiaomi Redmi 5A Lite is a 5" phone with a 1280x720p display. The Snapdragon 
 | Camera                    | No working in Selinux Enforced                            |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
-| WiFi                      | No sae support (WPA3)                                     |
+| WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | No Carrier video calling                                  |
 | Dual SIM                  | Working                                                   |  
-| Dual SIM DATA             | Not Working for Mobile Data on Second SIM                 |    
+| Dual SIM DATA             | Working                                                   |    
 | VoLTE                     | ???                                                       |
 | IR                        | Working                                                   |
-| Fingerprint( UGG )        | Not Working                                               |
+| Fingerprint( UGG )        | Working                                                   |
 | Hotspot / Usb tethering   | Working                                                   |
 | MTP                       | Working                                                   |
 ---
