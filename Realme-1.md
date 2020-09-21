@@ -1,10 +1,10 @@
 ## Steps to install
 
-* [Unlock bootloader](https://c.realme.com/in/post-details/1101401810746212352).
-* [Flash TWRP recovery](https://drive.google.com/file/d/15GAzuSXVo45K7OIaPmTsKhS4DMVXzJeh/view?usp=drivesdk).
-* Boot TWRP Recovery, mount vendor, flash [decryption zip](https://drive.google.com/file/d/1--7l9ozoSMGN1C7lADQyNoz3TtQXxoTO/view?usp=drivesdk) (Only required on Android 10 GSIs). 
+* Unlock [bootloader](https://c.realme.com/in/post-details/1101401810746212352).
+* Flash [TWRP recovery](https://github.com/buddi56/dummy_CPH1861_TWRP/releases/download/1.2/TWRP_C49.img).
+* Boot to the TWRP Recovery, mount vendor, flash [Decryption zip](https://t.me/Realme1Community/393605) (Only required on Android 10 GSIs). 
 * Flash any phh based GSI as "System Image".
-* Flash permissiver v5 (Only required on Android 10 GSIs).
+* Flash [permissiver v5](https://t.me/Realme1Community/270720) (Only required on Android 10 GSIs).
 * Format data and reboot.
 
 ## What works and what doesn't
@@ -26,6 +26,9 @@
 | USB Tethering             | Working                                         |
 ---
 
-Tested by: Priyam Kalra, Model-CPH1859(India), Firmware Version - C.46, Date tested - 3 March 2020
+Tested by: Priyam Kalra, CyberJalagam
+Model-CPH1859/CPH1861(India)
+Firmware Version - C.49
+Date tested - 21 September 2020
 
 Template created by @zguithues and @hackintosh5
