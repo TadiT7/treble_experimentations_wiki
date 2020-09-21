@@ -26,9 +26,9 @@
 | USB Tethering             | Working                                         |
 ---
 
-Tested by: Priyam Kalra, CyberJalagam
-Model-CPH1859/CPH1861(India)
-Firmware Version - C.49
+Tested by: Priyam Kalra, CyberJalagam,
+Model-CPH1859/CPH1861(India),
+Firmware Version - C.49,
 Date tested - 21 September 2020
 
 Template created by @zguithues and @hackintosh5
