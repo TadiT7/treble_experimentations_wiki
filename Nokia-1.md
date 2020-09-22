@@ -105,4 +105,5 @@ Known bugs/Workarounds:
 - Android 10 build v200.d w/o Google apps and OpenGapps.
 - Android 10 build v204.d w/o Google apps and OpenGapps.
 
-_**Last update:** 7:10 PM; December 22nd, 2019_
+_**Last update:** 7:29 PM; September 22nd, 2020_
+_**There are tons of changes that I've found and saw them fixed with another Go device I own but please note that I am no longer owning the phone so I can't contribute anything here anymore. But overall, this is a bad phone to use GSI. Maybe it will get better in Android 11. Heck, I didn't even have opportunity to try Android 10 on this phone yet.**_
