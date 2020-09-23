@@ -54,15 +54,6 @@ Suitable for daily usage, on both Android 9 and 10
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
 | Other feature             | Encryption - Working (Android 10)                |
-## GSI support
-
-<details><summary>Booting:</summary>
-<p>
-
-`Everything except in the "didnt boot" category`
-
-</p>
-</details>
 
 ---
 
