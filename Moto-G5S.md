@@ -35,7 +35,7 @@ Suitable for daily usage, on both Android 9 and 10
 
 ### Dirty flash
 * Reboot to TWRP.
-* Flash the latest [vendor] (https://t.me/MotoXProject/448) zip if needed.
+* Flash the latest [vendor](https://t.me/MotoXProject/448) zip if needed.
 * Flash the updated GSI (arm64 A-only)
 * Reboot to system.
 
@@ -44,7 +44,7 @@ Suitable for daily usage, on both Android 9 and 10
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working (fully on Q, partially on P)                      |
+| Camera                    | Working                      |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
