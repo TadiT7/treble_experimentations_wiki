@@ -33,7 +33,7 @@ Suitable for daily usage, on both Android 9 and 10
 * Flash a GSI (arm64 A-only)
 * Reboot to system.
 
-### Dirty flash
+#### Dirty flash
 * Reboot to TWRP.
 * Flash the latest [vendor](https://t.me/MotoXProject/448) zip if needed.
 * Flash the updated GSI (arm64 A-only)
