@@ -4,44 +4,41 @@ Suitable for daily usage, on both Android 9 and 10
 
 ## Steps to install
 
-### Clean Install Android 9  (A-Only)
+### Android 10
+
+#### Clean install
 * Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
-* Reboot again to TWRP.
+* Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
-* Flash [this Vendor](https://t.me/MotoXProject/448).
-* Flash a suiting Gsi (Arm64 A-Only)
+* Reboot to TWRP.
+* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902)
+* Flash a GSI (arm64 A/B)
+* Reboot to system.
+
+#### Dirty flash
+* Reboot to TWRP.
+* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) if needed.
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902)
+* Flash the updated GSI (arm64 A/B)
+* Reboot to system.
+
+### Android 9
+
+#### Clean install
+* Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
+* Reboot to TWRP.
+* Format System, Vendor, Data, Cache and Dalvik/ART Cache.
+* Flash [this vendor](https://t.me/MotoXProject/448).
+* Flash a GSI (arm64 A-only)
 * Reboot to system.
 
 ### Dirty flash
-
-**Whole system:**
 * Reboot to TWRP.
-* Flash the latest [Vendor](https://t.me/MotoXProject/448) zip.
-* Flash the updated Gsi (Arm64 A-Only)
+* Flash the latest [vendor] (https://t.me/MotoXProject/448) zip if needed.
+* Flash the updated GSI (arm64 A-only)
 * Reboot to system.
 
-<!--**Vendor & Boot Images only:**
-* Download the latest vendor & boot images (flashable zip) [here](https://t.me/MotoXProject/448).
-* Reboot to TWRP.
-* Flash the images (Install > Install Image > select partition > select image).
-* Reboot to system.-->
-
-### Install Android 10 (A/B)
-* Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
-* Reboot again to TWRP.
-* Format System, Vendor, Data, Cache and Dalvik/ART Cache.
-* Flash [Lineage 17.1by JarlPenguin](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495), using TWRP
-* Flash [Disable Force Encrypt](https://androidfilehost.com/?fid=1322778262904004415)
-* Flash [Permissiver V5](https://androidfilehost.com/?fid=6006931924117940902) for Proper boot.
-* Flash an Arm64 A/B Gsi
-* Reboot to system.
-* Enjoy!
-
-### Dirty flash Android 10 (Whole system)
-* Reboot to TWRP.
-* Flash the latest [ROM](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) zip.
-* Flash the updated Gsi (Arm64 A-Only)
-* Reboot to system.
 
 ## Hardware support
 
@@ -56,7 +53,7 @@ Suitable for daily usage, on both Android 9 and 10
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| Other feature             | Encryption - Partially working (Android Q)                |
+| Other feature             | Encryption - Working (Android 10)                |
 ## GSI support
 
 <details><summary>Booting:</summary>
@@ -67,29 +64,10 @@ Suitable for daily usage, on both Android 9 and 10
 </p>
 </details>
 
-<details><summary>Not Booting:</summary>
-<p>
-
-`Any Dynamic Partition ErfanGSI`
-
-`RealmeUI`
-
-`Moto Stock Q`
-
-`Nubia`
-
-`RedMagic`
-
-`Xperia`
-
-`One UI - GSI is too big for /system`
-</p>
-</details>
-
 ---
 
-Tested By: HowToRush (XT1794) Oreo Latest  1.1.2020-11.09.2020
+Tested By: HowToRush (XT1794) Oreo Latest  1.1.2020-23.09.2020
 
-Also tested by: Giv314, Comeb4ck, and several other members of the montana community over at @Montanalabtesters!
+Also tested by: Giv314, Comeb4ck, and others
 
 Template created by @zguithues and @hackintosh5
