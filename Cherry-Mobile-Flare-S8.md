@@ -92,8 +92,17 @@ Tested ROMs:
 - [Android 10] ZenX OS
 - [Android 10] CRDroid
 - [Android 10] QiDroid
+- [Android 10] CorvusOS
 
 
 Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
-        
+
+Update:
+For Better Compatibility
+You Need July 5 2020 Security Patch Installed Firmware In your Flare S8
+For Lesser Bugs or Stable GSI Experience
+
+July 5 2020 Firmware Link Will Publish Here Soon...
+
+     
 Template created by @zguithues and @hackintosh5
