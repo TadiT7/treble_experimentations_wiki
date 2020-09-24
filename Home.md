@@ -363,6 +363,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[TINNO Rakuten Mini]]|C330|✓|A/B|arm64|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Ulefone Armor 6 / 6E]]|armor_6 and armor_6e||A/B|arm64|
+|[[Ulefone Armor 6S]]|armor_6S||A/B|arm64|
 |[[Ulefone Armor X]]|armor_x||A|arm64|
 |[[Umidigi A3]]|a3||A|arm64|
 |[[Umidigi A3 Pro]]|a3_pro||A|arm64|
