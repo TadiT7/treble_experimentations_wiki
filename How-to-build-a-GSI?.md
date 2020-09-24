@@ -152,7 +152,7 @@ The resulting system images will be stored in the release folder.
 
 ### 8. Build using @dakkar script
 
-dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/master/build-dakkar.sh#L36") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/9ae752a94f20ba17c8a712429c4db42c20a0511a).
+dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/f2e623fdd5c49d2e2e6c6e45184b36d519d54a72/build-dakkar.sh#L84") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/9ae752a94f20ba17c8a712429c4db42c20a0511a).
 
 1- Open your terminal and run:
 
