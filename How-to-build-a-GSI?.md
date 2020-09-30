@@ -216,9 +216,9 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
 
 2. Add phh repos to your local_manifest
 ```
-git clone https://github.com/phhusson/treble_manifest .repo/local_manifests -b android-9.0
+git clone https://github.com/phhusson/treble_manifest .repo/local_manifests  -b android-9.0
 ```
-After git clone you need to remove replace.xml if you're building any rom expect aosp.
+After git clone you need to remove or delete replace.xml (.repo/local_manifests/replace.xml) if you're building any rom except AOSP GSI.
 
 3. Sync the source
 
