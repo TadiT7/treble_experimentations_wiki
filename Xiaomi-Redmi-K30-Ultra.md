@@ -48,26 +48,19 @@ To reflash stock MIUI use the V12.0.8.0 Recovery/Fastboot ROM [link](https://big
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× Cameras work, but front camera does not popup at all [1] |
-| Audio                     | √? Speaker and microphone is working, USB Type C DAC is working, 3.5mm audio jack is not working. |
-| Bluetooth                 | √? Bluetooth Speaker works fine, In-call is untested. |
+| Camera                    | √× Cameras work, but front camera does not popup at all, even using xiaomi-motor commands |
+| Audio                     | √? Speaker and microphone is working, otherwise untested |
+| Bluetooth                 | ? Bluetooth Speaker works fine, In-call is untested. |
 | Display                   | √ |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | √× Internet Data works, call works, expect messages to be NOT working. |
-| VoLTE                     | ? (Untested) |
-| LED                       | √? Working, unsure about the second LED [Need more testing]. |
-| Fingerprint               | √× (Recognition a little slower maybe due to system setting; Unlocking from off/AOD state not supported, need press power button first, not working since 216+) |
-| NFC                       | √? (Support card info reading via NXP.TagInfo, need more tests like card writing / simulation) |
-| Offline Charging          | × |
-
-## Additional Note
-
-1. Terminal command for manually controlling the front camera motor (may require `su` depending on the GSI):
-
-Popup: `xiaomi-motor popup 1`
-
-Retract: `xiaomi-motor takeback 1`
+| SIM / Mobile Data / Voice | √? at least partly working, will test further |
+| VoLTE                     | ? |
+| LED                       | ? |
+| Fingerprint               | x Not working |
+| NFC                       | ? |
+| Offline Charging          | ? |
+| IR                        | √ IR blaster works |
 
 ---
 
