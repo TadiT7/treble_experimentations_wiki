@@ -26,14 +26,15 @@ AOSP 10.0 v220
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Work                                                      |
 | Speaker / Mic             | Work                                                      |
-| Bluetooth                 | Work(except Bluetooth media audio)                        |
+| Bluetooth                 | Work with some distortion (except Bluetooth media audio)  |
 | WiFi                      | Work                                                      |
 | SIM / Mobile Data / Voice | Work                                                      |
-| VoLTE                     | Didn't test                                               |
+| VoLTE                     | Not work                                                  |
 | Fingerprint               | Not work                                                  |
 | NFC                       | Work                                                      |
 | Offline Charging          | Work                                                      |
 | 90hz screen               | Not work                                                  |
+| Screen brightness         | Doesn't go to 100%                                        |
 | Volume scale              | Not display correctly                                     |
 | 5G                        | Didn't test                                               |
 ---
