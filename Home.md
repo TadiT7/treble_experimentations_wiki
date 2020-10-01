@@ -437,6 +437,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi K30 / Poco X2]]|phoenix|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 5G]]|picasso|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Pro / Zoom Edition / Poco F2 Pro]]|lmi|✓|A/B|arm64|
+|[[Xiaomi Redmi K30 Ultra]]|cezanne|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
