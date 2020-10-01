@@ -53,15 +53,15 @@ To reflash stock MIUI use the V12.0.8.0 Recovery/Fastboot ROM [link](https://big
 | Camera                    | √× Cameras work, but front camera does not popup at all, even using xiaomi-motor commands |
 | Audio                     | √? Speaker and microphone is working, otherwise untested |
 | Bluetooth                 | ? Bluetooth Speaker works fine, In-call is untested. |
-| Display                   | √ |
+| Display                   | √ Can be set to 120Hz in Phh Treble Settings, brightness slider broken |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | √x LTE working, 5G not working [1] |
-| VoLTE                     | ? |
-| LED                       | ? |
+| SIM / Mobile Data / Voice | √x LTE working, SMS working, 5G not working [1] |
+| VoLTE                     | ? untested |
+| LED                       | √? it lights up |
 | Fingerprint               | x Not working |
 | NFC                       | ? |
-| Offline Charging          | ? |
+| Offline Charging          | ?x It didn't show a charging indicator, uncertain if it was charging |
 | IR                        | √ IR blaster works |
 
 ## Notes
