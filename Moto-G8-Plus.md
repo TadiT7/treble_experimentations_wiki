@@ -15,20 +15,21 @@ Usability is to be tested
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | to be tested                                              |
-| Speaker / Mic             | to be tested                                              |
-| Bluetooth                 | to be tested                                              |
-| WiFi                      | to be tested                                              |
-| SIM / Mobile Data / Voice | to be tested                                              |
-| VoLTE                     | to be tested                                              |
-| Fingerprint               | to be tested                                              |
-| NFC                       | to be tested                                              |
-| Offline Charging          | to be tested                                              |
-| Other feature             | to be tested                                              |
+| Camera                    | Working                                              |
+| Speaker / Mic             | Working                                              |
+| Bluetooth                 | Not Working                                              |
+| WiFi                      | Working                                              |
+| SIM / Mobile Data / Voice | Working                                              |
+| VoLTE                     | N/A                                              |
+| Fingerprint               | Working                                              |
+| NFC                       | N/A                                              |
+| Offline Charging          | Not Working                                              |
+| Other feature             | Working                                              |
 | Boot                      | Working                                                   |
 
 ---
 
-Tested By: N/A (doesnt want to be mentioned)
+Tested By: VMick [telegram: @vmick_13]
+Model Tested: XT2019-2. Results may vary on XT2019-1
 
 Template created by @zguithues and @hackintosh5
