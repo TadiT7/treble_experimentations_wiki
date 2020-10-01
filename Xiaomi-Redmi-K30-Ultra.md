@@ -54,13 +54,17 @@ To reflash stock MIUI use the V12.0.8.0 Recovery/Fastboot ROM [link](https://big
 | Display                   | √ |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | √? at least partly working, will test further |
+| SIM / Mobile Data / Voice | √x LTE working, 5G not working [1] |
 | VoLTE                     | ? |
 | LED                       | ? |
 | Fingerprint               | x Not working |
 | NFC                       | ? |
 | Offline Charging          | ? |
 | IR                        | √ IR blaster works |
+
+## Notes
+
+[1] Had to set preferred network type to LTE. While 5G is listed as an option, it doesn't work (`Invalid network mode 26. Ignore.`)
 
 ---
 
