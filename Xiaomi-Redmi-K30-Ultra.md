@@ -13,7 +13,7 @@
 
 ## Flashing instructions (similar to K30 Pro, no working TWRP currently available for this model)
 
-(Unlock through Xiaomi MI Unlock tool first)
+**(Unlock through Xiaomi MI Unlock tool first, takes days :disappointed:)**
 
 Reboot to bootloader:
 ```
