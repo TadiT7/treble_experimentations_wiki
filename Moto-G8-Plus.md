@@ -29,6 +29,27 @@ Usability is to be tested
 
 ---
 
+## GSI support
+
+<details><summary>Booting:</summary>
+<p>
+
+Any Phh Based Gsi (PhhAosp, Havoc, Eremitein's Gsi)
+</p>
+</details>
+
+<details><summary>Not Booting:</summary>
+<p>
+
+Erfan Based Gsi (Permissiver cant be flashed due to no Twrp existing)
+</p>
+</details>
+
+---
+
+
+---
+
 Tested By: VMick [telegram: @vmick_13]
 
 Model Tested: XT2019-2. Results may vary on XT2019-1
