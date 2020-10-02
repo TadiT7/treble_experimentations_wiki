@@ -48,8 +48,6 @@ Erfan Based Gsi (Permissiver cant be flashed due to no Twrp existing)
 ---
 
 
----
-
 Tested By: VMick [telegram: @vmick_13]
 
 Model Tested: XT2019-2. Results may vary on XT2019-1
