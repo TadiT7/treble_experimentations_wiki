@@ -1,6 +1,6 @@
 # Moto G5S
 
-Suitable for daily usage, on both Android 9 and 10
+Suitable for daily usage, on Android 9, 10, and 11
 
 ## Steps to install
 
@@ -54,6 +54,13 @@ Suitable for daily usage, on both Android 9 and 10
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
 | Other feature             | Encryption - Working (Android 10)                |
+
+---
+
+## Android 11 Notes
+The required vendor to be able to boot Android 11 Gsi, and with that also any gsi on SELinux enforcing has not been released publicly yet
+please wait for announcements on XDA and t.me/montanalab 
+after the public announcement these notes will be updated
 
 ---
 
