@@ -2,6 +2,13 @@
 
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
+## Official Android 11
+|Download|Maintainer|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|
+|[Here](https://github.com/phhusson/treble_experimentations/releases)|PhhUsson|A - A/B|arm - arm64 - binder|
+|[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|Google|A/B|arm64 - x86|
+
+
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -11,13 +18,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
 |Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
-
-## Android 11 Developer Preview
-_**Note:** Android R is in preview and may not work on all devices._
-_**Second Note:** These are Google provided GSIs and not created by phhusson._
-|Download|Partition Style|Architecture|
-|:-:|:-:|:-:|
-|[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|A/B|arm64 - x86|
 
 ## Unofficial Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
