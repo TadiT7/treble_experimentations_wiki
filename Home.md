@@ -37,6 +37,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max M2 (ZB633KL)]]|X01AD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD|✓|A|arm64|
+|[Asus Zenfone Max Shot and Max Plus M2](https://github.com/phhusson/treble_experimentations/wiki/ASUS-ZenFone-Max-Shot-and-Max-Plus-M2)|A001D|✓|A|arm64|
 |[Barnes & Noble Nook Tablet 10.1" (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓ (Go)|A|arm|
 |[[Blackview A20]]|a20|✓ (Go)|A|arm|
