@@ -49,7 +49,7 @@ Be patient, the first boot will take a while
 
 | Component                 |      Comment                                                    |
 |---------------------------|-----------------------------------------------------------------|
-| Camera                    | Works (Video recording only with third-party camera applications|
+| Camera                    | Works (Video recording only with third-party camera applications)|
 | Speaker / Mic             | Works                                                           |
 | Bluetooth                 | Works                                                           |
 | Audio of Notifications    | Not Works                                                       |
