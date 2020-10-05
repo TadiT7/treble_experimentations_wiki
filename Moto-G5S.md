@@ -4,6 +4,9 @@ Suitable for daily usage, on Android 9, 10, and 11
 
 ## Steps to install
 
+### Android 11
+* See [steps for Android 10](https://github.com/phhusson/treble_experimentations/wiki/Moto-G5S#android-10)
+
 ### Android 10
 
 #### Clean install
@@ -12,14 +15,14 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
 * Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902)
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) <!--Remove this after October update-->
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
 #### Dirty flash
 * Reboot to TWRP.
 * Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) if needed.
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902)
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) <!--Remove this after October update-->
 * Flash the updated GSI (arm64 A/B)
 * Reboot to system.
 
