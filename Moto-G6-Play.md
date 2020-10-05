@@ -19,7 +19,7 @@ Be patient, the first boot will take a while
     ```
 * As an alternative you can flash via TWRP as **System Image**
 
-## Hardware support (Pie)
+## Hardware Support (Pie)
 
 | Component                 |      Comment                                                    |
 |---------------------------|-----------------------------------------------------------------|
@@ -32,7 +32,7 @@ Be patient, the first boot will take a while
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
 
-## Hardware support (10/Q)
+## Hardware Support (10/Q)
 
 | Component                 |      Comment                                                    |
 |---------------------------|-----------------------------------------------------------------|
@@ -44,6 +44,23 @@ Be patient, the first boot will take a while
 | VoLTE                     | Untested                                                        |
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
+
+## Hardware Support (11/R)
+
+| Component                 |      Comment                                                    |
+|---------------------------|-----------------------------------------------------------------|
+| Camera                    | Works (Video recording only with third-party camera applications|
+| Speaker / Mic             | Works                                                           |
+| Bluetooth                 | Works                                                           |
+| Audio of Notifications    | Not Works                                                       |
+| WiFi                      | Works                                                           |
+| SIM / Mobile Data / Voice | Works                                                           |
+| VoLTE                     | Untested                                                        |
+| Fingerprint               | Works                                                           |
+| Offline Charging          | Works                                                           |
+| GPS                       | Works                                                           |
+| Sensors                   | Works                                                           |
+| Lantern                   | Works                                                           |
 
 ## Stock ROMs
 
@@ -51,7 +68,8 @@ Motorola stock ROMs are available [here for aljeter](https://mirrors.lolinet.com
 
 ---
 
-Pie: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/19 with AOSP v119  
-10/Q: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 12/2/19 with AOSP v204  
+Pie: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/2019 with AOSP v119  
+10/Q: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 12/2/2019 with AOSP v204  
+11/R: tested by @ruben8ap - XT1922-2 (aljeter, EU), Oreo vendor, tested on 05/10/2020 with AOSP v300.f  
 
 Using a wiki template created by @zguithues and @hackintosh5
