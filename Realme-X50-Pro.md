@@ -13,7 +13,7 @@
 | SIM / Mobile Data / Voice | Yes / Yes / Yes                                           |
 | VoLTE                     | Partially working                                         |
 | Fingerprint               | Working, but need to add firmware                         |
-| NFC                       | Working, but need to add firmware                         |
+| NFC                       | Working,                                                  |
 | Offline Charging          | Working                                                   |
 | SUPER VOOC (65w)          | Working                                                   |
 ---
