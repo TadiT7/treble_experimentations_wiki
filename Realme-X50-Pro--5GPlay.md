@@ -1,5 +1,6 @@
 # Realme X50 Pro /5GPlay (RMX2071)
-
+![realme x50 pro play](https://2b.zol-img.com.cn/product/205/961/cep9ZhpKImRMs.jpg)
+![realme x50 pro](https://2e.zol-img.com.cn/product/204/292/cecMDRGdIxZgk.jpg)
 
 ## Hardware support
 
