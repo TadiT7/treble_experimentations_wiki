@@ -1,11 +1,12 @@
 # Motorola Moto G7 Play (XT1952) (channel)
 
-The Motorola Moto G7 Play uses the A/B system image type and requires arm32-binder64 images.
+The Motorola Moto G7 Play uses the A/B system image type and requires arm32-binder64 images if based on stock firmware.
 
-## Steps to install
+## Steps to install 32 Bit
 
 Installation is as easy as it can get:
 
+* Ensure no custom roms are installed
 * Ensure your bootloader is unlocked. If not, head over to Motorola's website to get it unlocked.
 * Get the GSI you want to flash (which could be any A/B arm32-binder64 GSI):
   https://github.com/phhusson/treble_experimentations/releases
@@ -50,3 +51,30 @@ you may run into weird issues.
 ---
 
 Tested By: @Dunedan - XT1952-1 (Europe), AOSP 10 vanilla v212 and newer versions
+
+
+
+
+
+# 64 Bit
+
+## Steps to install 64 Bit
+
+Installation is slightly more difficult:
+
+* Ensure a custom rom is installed (LineageOS recommended)
+* Ensure your bootloader is unlocked. If not, head over to Motorola's website to get it unlocked.
+* Get the GSI you want to flash (which could be any A/B arm364 GSI):
+  https://github.com/phhusson/treble_experimentations/releases
+* Put the phone into `fastboot` mode (switch it off, then press and hold "power" + "volume down"
+  until you're in recovery mode)
+* Perform a factory reset:
+    ```
+    $ fastboot -w
+    ```
+* Flash the GSI image with the `fastboot` utility:
+    ```
+    $ fastboot flash system system-quack-arm364-ab-vanilla.img
+    ```
+* After flashing during every boot before showing the "Android" boot logo the string "bad key" is
+  shown on the screen. That's expected and a result of the system image not signed by Motorola's keys.
