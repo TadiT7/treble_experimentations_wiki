@@ -37,7 +37,7 @@ fastboot reboot
 | Camera                    | √; Stock camera apk supports main and front camera |
 | Audio                     | √? Speaker and microphone is working, USB DAC untested. |
 | Bluetooth                 | √? Bluetooth is recognized. Doesn't have a device to test |
-| Display                   | √× High-res works with bug. Low-res works fine. 120hz works fine. |
+| Display                   | √ |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | ? (Device hardware broken, untested) |
