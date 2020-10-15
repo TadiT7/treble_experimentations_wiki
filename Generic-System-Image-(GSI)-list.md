@@ -5,8 +5,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 11
 |Download|Maintainer|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|
-|[Here](https://github.com/phhusson/treble_experimentations/releases)|PhhUsson|A - A/B|arm - arm64 - binder|
-|[Here](https://developer.android.com/topic/generic-system-image/releases#android-gsi-11)|Google|A/B|arm64 - x86|
+|[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|A - A/B|arm - arm64 - binder|
+|[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|A/B|arm64 - x86|
 
 
 ## Official Android 10:
@@ -16,7 +16,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
 |CAOS|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-aosp-q-mod-caos-t4137289) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
-|Google GSI| Google | [Download](https://developer.android.com/topic/generic-system-image/releases#android-gsi-10)| A - A/B| arm64 - x86|
+|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 10:
