@@ -64,7 +64,7 @@ Installation is slightly more difficult:
 
 * Ensure a custom rom is installed (LineageOS recommended)
 * Ensure your bootloader is unlocked. If not, head over to Motorola's website to get it unlocked.
-* Get the GSI you want to flash (which could be any A/B arm364 GSI):
+* Get the GSI you want to flash (which could be any A/B arm64 GSI):
   https://github.com/phhusson/treble_experimentations/releases
 * Put the phone into `fastboot` mode (switch it off, then press and hold "power" + "volume down"
   until you're in recovery mode)
