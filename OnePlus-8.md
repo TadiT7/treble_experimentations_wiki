@@ -7,6 +7,8 @@ This device uses A/B partition.
 
 ×AndyYan's LineageOS 18.0 20201008 (Doesn't Boot)
 
+√AndyYan's LineageOS 18.0 20201017
+
 ## Flashing instructions (You need to have the latest platform-tools and Android 11 firmware installed)
 
 Reboot to bootloader:
@@ -47,6 +49,6 @@ fastboot reboot
 | Offline Charging          | × |
 
 Device tested by:
-lulujyc @ H2OS R Preview
+lulujyc @ H2OS 11 First Release
 
 Template created by @zguithues and @hackintosh5
