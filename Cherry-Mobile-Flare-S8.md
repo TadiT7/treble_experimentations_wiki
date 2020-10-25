@@ -55,7 +55,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - For July 5 2020 Security Patch: [Download Link](https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk)
 
 - September 5 2020 Security Patch
-[TWRP Backup]
+[Download Link] TWRP/PBRP Backup
 (https://drive.google.com/file/d/1-Kq0qqr2VqgTOEiPbK24a9rq700GNeT0/view?usp=drivesdk)
 
 *PBRP Builds (Source-built by @loveleyz)*
@@ -67,6 +67,7 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - OrangeFox Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
 
 - TWRP 3.3 Specialized Version
+[Download Link]
 (https://drive.google.com/file/d/1-Y-jI4OMIUWNdJ-_AV0NQ1dpbXltkuJK/view?usp=drivesdk)
 
 Credits 
