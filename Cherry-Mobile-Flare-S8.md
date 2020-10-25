@@ -54,6 +54,10 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 - For October and December (Also Working in March 2020): [Download Link](https://drive.google.com/file/d/1-8OxY5HaOECEVhJSpvXMZD9AFyLvxsWO/view?usp=drivesdk)
 - For July 5 2020 Security Patch: [Download Link](https://drive.google.com/file/d/1-CcQM4s_7UloUbA5HJN8bru7kw_jSaTG/view?usp=drivesdk)
 
+- September 5 2020 Security Patch
+[TWRP Backup]
+(https://drive.google.com/file/d/1-Kq0qqr2VqgTOEiPbK24a9rq700GNeT0/view?usp=drivesdk)
+
 *PBRP Builds (Source-built by @loveleyz)*
 
 - PitchBlack Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/recovery-pbrp-3-0-0-cherry-mobile-flare-t4145107)
@@ -61,6 +65,9 @@ https://www.xda-developers.com/flash-generic-system-image-project-treble-device/
 *OrangeFox Builds (Source-built by @loveleyz)*
 
 - OrangeFox Recovery: [XDA Thread](https://forum.xda-developers.com/android/development/experimental-orangefox-recovery-project-t4145125)
+
+- TWRP 3.3 Specialized Version
+(https://drive.google.com/file/d/1-Y-jI4OMIUWNdJ-_AV0NQ1dpbXltkuJK/view?usp=drivesdk)
 
 Credits 
 - @AljunCortez: The first one who started the development of Flare S8 in the Community
@@ -91,18 +98,12 @@ Tested ROMs:
 - [Android 10] TitaniumOS
 - [Android 10] ZenX OS
 - [Android 10] CRDroid
-- [Android 10] QiDroid
+- [Android 10] BootleggersQiDroid
 - [Android 10] CorvusOS
+- [Android 11] PHH-AOSP11
+- [Android 11] ColtOS V7.0
+- [Android 11] AOSiP
+- [Android 11] Bliss 14.0
 
-
-Notice: GSI images are now working in the 2020-03-05 (March 2020) Security Patch.
-
-Update:
-For Better Compatibility
-You Need July 5 2020 Security Patch Installed Firmware In your Flare S8
-For Lesser Bugs or Stable GSI Experience
-
-July 5 2020 Firmware Link Will Publish Here Soon...
-
-     
+    
 Template created by @zguithues and @hackintosh5
