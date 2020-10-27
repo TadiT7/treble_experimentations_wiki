@@ -56,6 +56,7 @@ Be patient, the first boot will take a while
 | WiFi                      | Works                                                           |
 | SIM / Mobile Data / Voice | Works                                                           |
 | VoLTE                     | Untested                                                        |
+| Hotspot                   | Works                                                           |
 | Fingerprint               | Works                                                           |
 | Offline Charging          | Works                                                           |
 | GPS                       | Works                                                           |
@@ -70,6 +71,6 @@ Motorola stock ROMs are available [here for aljeter](https://mirrors.lolinet.com
 
 Pie: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 10/9/2019 with AOSP v119  
 10/Q: tested by @ry755 - XT1922-7 (jeter, US), Pie vendor, tested on 12/2/2019 with AOSP v204  
-11/R: tested by @ruben8ap - XT1922-2 (aljeter, EU), Oreo vendor, tested on 05/10/2020 with AOSP v300.f  
+11/R: tested by @ruben8ap - XT1922-2 (aljeter, EU), Oreo vendor, tested on 27/10/2020 with AOSP v300.g  
 
 Using a wiki template created by @zguithues and @hackintosh5
