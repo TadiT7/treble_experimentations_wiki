@@ -34,6 +34,12 @@ fastboot flash system path/to/gsi.img
 
 [Some more info](https://t.me/g5treble)
 
+### Android 11
+* Follow the clean flashing steps. Reboot to system and let LineageOS boot.
+* Reboot to TWRP Recovery
+* Flash GSI img as system
+* Reboot system
+
 ## Hardware support
 
 | Component                 |      Comment                                              |
@@ -48,12 +54,28 @@ fastboot flash system path/to/gsi.img
 | Offline Charging          | Working                                                   |
 | Other feature             | -                                                         |
 
+## Hardware support on Android 11 ARM64
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Not working (lack of drivers, maybe?)                     |
+| Speaker / Mic             | Working                                                   |
+| Bluetooth                 | Working                                                   |
+| WiFi                      | Working                                                   |
+| SIM / Mobile Data / Voice | Unknown                                                   |
+| VoLTE                     | Unknown                                                   |
+| Fingerprint               | Working                                                   |
+| Offline Charging          | Working                                                   |
+| Other feature             | -                                                         |
+
+
 ## GSI support
 
 <details><summary>Booting:</summary>
 <p>
 
-TBD
+[AOSP 11.0 v300.g](https://github.com/phhusson/treble_experimentations/releases/tag/v300.g)
+
 </p>
 </details>
 
@@ -69,5 +91,7 @@ TBD
 Tested By: Brickador - XT1672 (Brazil), Firmware Version: Oreo B831, Date tested: TBD
 
 Also tested by: ludke (SludkeSP)
+
+Android 11 tested by: xatornet - XT1676
 
 Template created by @zguithues and @hackintosh5
