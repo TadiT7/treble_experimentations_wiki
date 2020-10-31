@@ -18,8 +18,8 @@ SM-G9700 (HongKong)
 | Bluetooth                 | Untested|
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working|
-| VoLTE                     | Untested|
-| Fingerprint               | Working|
+| VoLTE                     | Not Working (General issue on samsung devices, even on device especific ROMs)|
+| Fingerprint               | Kinda Working |
 | NFC                       | Untested|
 | Offline Charging          | Working|
 | Wireless Charging         | Untested|
@@ -27,4 +27,4 @@ SM-G9700 (HongKong)
 | MTP            | Not Working ([general issue on samsung devices ](https://github.com/phhusson/treble_experimentations/issues/1121))|
 ---
 
-Tested By: Laikar- SM-G9700(TGY/HongKong) TE9 Stock firmware, HavocOS 3.6 gsi 
+Tested By: Laikar- SM-G9700(TGY/HongKong) TE9 Stock firmware,  [LineageOS 17.1](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/gsi-lineageos-17-0-gsi-archs-t4004673)(Latest version tested was built on 12/10/2020)
