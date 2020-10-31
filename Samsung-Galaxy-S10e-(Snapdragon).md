@@ -1,7 +1,6 @@
 # Samsung Galaxy S10e 
 
-I daily drove havocOS 3.6 gsi for about a month and didn't get any major trouble.
-Autobrightness and mtp don't work tho.
+I've been driving Andre Yang's lineageOS for about 4 months, and had no major trouble, autobrightness doesn't work, neither does mtp, but everything else seems to work just fine.
 
 ## Steps to install
 
