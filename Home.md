@@ -123,6 +123,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei MediaPad M5 Lite]]|BAH2||A|arm64|
 |[[Huawei MediaPad M5 Pro]]|Cameron Pro / CMR-AL19|?|A/B|arm64|
+|[[Huawei MediaPad M5 Wifi]]|SHT-W09|✓|A/B|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
 |[[Huawei P Smart (2019)]]|pot|✓|A|arm64|
 |[[Huawei P Smart Z]]|stk|✓|A|arm64|
