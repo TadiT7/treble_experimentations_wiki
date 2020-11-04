@@ -258,6 +258,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 7T]]|hotdogb|✓|A/B|arm64|
 |[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
+|[[OnePlus 8T]]|kebab|✓|A/B|arm64|
 |[[OnePlus 8 Pro]]|instantnoodlep|✓|A/B|arm64|
 |[[OnePlus Nord N10 5G]]|billie|✓|A/B|arm64|
 |[[OnePlus Nord N100]]|clover|✓||arm64|
