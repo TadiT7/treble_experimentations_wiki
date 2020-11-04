@@ -1,6 +1,6 @@
 # Huawei MediaPad M5  (SHT-W09)
 
-The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v222) works ( i tested the gapps version v222)
+The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v222) works (i tested the gapps version v222)
 
 I don't test Magisk for now, when i do i'll update this page.
 
@@ -10,8 +10,8 @@ I don't test Magisk for now, when i do i'll update this page.
 * Download an arm64 / ab variant of phh's AOSP 10 GSI.
 * Download [the vbmeta.img file](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img).
 * Flash the AOSP 10 GSI using [the method introduced here as "flashing a GSI without TWRP"](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/) with the command: 
-`./fastboot flash system your_extracted_flavour.img`.
-* Launch: `./fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`.
+`fastboot flash system your_extracted_flavour.img`.
+* Launch: `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`.
 * wipe devik/cache/data with the standard Huawei recovery.
 
 
