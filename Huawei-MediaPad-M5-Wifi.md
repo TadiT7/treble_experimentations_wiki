@@ -7,7 +7,7 @@ I don't test Magisk for now, when i do i'll update this page.
 ## Steps to install
 
 * Setup your system.
-* Download a arm64 / ab variant of phh's AOSP 10 GSI.
+* Download an arm64 / ab variant of phh's AOSP 10 GSI.
 * Download [the vbmeta.img file](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img).
 * Flash the AOSP 10 GSI using [the method introduced here as "flashing a GSI without TWRP"](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/) with the command: 
 `./fastboot flash system your_extracted_flavour.img`.
