@@ -171,6 +171,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
 |[[Lenovo Z5s]]|jd2019|✓|A/B|arm64|
+|[[Lenovo Z6]]|L78121|✓|A/B|arm64|
 |[[Lenovo Z6 Pro]]|zippo|✓|A/B|arm64|
 |[[Lenovo Z6 Youth Edition]]|kunlun2|✓|A/B|arm64|
 |[[LG G7 ThinQ]]|judyln|✓|A/B|arm64|
