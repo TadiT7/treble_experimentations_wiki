@@ -29,8 +29,8 @@ I don't test Magisk for now, when i do i'll update this page.
 | SIM / Mobile Data / Voice | not available                                             |
 | VoLTE                     | not available                                             |
 | Fingerprint               | working                                                   |
-| Offline Charging          | not tested yet                                            |
-
+| Offline Charging          | not working                                               |
+| Fast Charging             | working                                                   |
 
 ## Power save Google play service without magisk
 I think to have enabled battery saver for GMS. I simply edited the file google.xml stored in /System/product/etc/sysconfig. I commented these 2 string adding `<!--    -->`, so:
