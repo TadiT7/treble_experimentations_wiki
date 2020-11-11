@@ -15,14 +15,14 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
 * Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) <!--Remove this after October update-->
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
 #### Dirty flash
 * Reboot to TWRP.
 * Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) if needed.
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) <!--Remove this after October update-->
+* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
 * Flash the updated GSI (arm64 A/B)
 * Reboot to system.
 
@@ -61,14 +61,12 @@ Suitable for daily usage, on Android 9, 10, and 11
 ---
 
 ## Android 11 Notes
-The required vendor to be able to boot Android 11 Gsi, and with that also any gsi on SELinux enforcing has not been released publicly yet
-please wait for announcements on XDA and t.me/montanalab 
-after the public announcement these notes will be updated
+To boot android 11, you HAVE to use at least the october update, also known as 1.8 to be able to boot, **_any Gsi from firmware collections will need permissiver to boot_** (see above), Phh's Roar Gsi and Google's own Android 11 Gsi **_dont need permissiver_**
 
 ---
 
 Tested By: HowToRush (XT1794) Oreo Latest  1.1.2020-23.09.2020
 
-Also tested by: Giv314, Comeb4ck, and others
+Also tested by: Giv314, Comeb4ck, and other users from the [G5S Telegram](https://t.me/motog5schat)
 
 Template created by @zguithues and @hackintosh5
