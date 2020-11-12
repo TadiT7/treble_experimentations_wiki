@@ -37,7 +37,7 @@ Flash the entire phone to factory settings:
     and look for **(bootloader) current-slot** text it should have an '**a**' or a '**b**' as the slot.
 * Replace the **@** symbol below with the proper letter for the slot you are on and run the command below to disable verified boot
 ```
-sudo fastboot --disable-verity --disable-verification flash vbmeta_@ vbmeta.img'
+sudo fastboot --disable-verity --disable-verification flash vbmeta_@ vbmeta.img
 ```
 * Cross your fingers, and tell the phone to reboot! It should boot into AOSP Android 11
     ```
