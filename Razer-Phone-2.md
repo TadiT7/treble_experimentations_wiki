@@ -11,8 +11,8 @@ So here's the things that are not working for me:
     Download [Phone 2 firmware Android Pie MR3 v3141](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)\
     Download [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)
 * Step 2:
-Turn phone on in fastboot mode by holding volume down while powering on
-Connect to computer
+Turn phone on in fastboot mode by holding volume down while powering on\
+    Connect to computer
 * Step 3:
 Flash the entire phone to factory settings:
     ```
@@ -49,8 +49,8 @@ Flash the entire phone to factory settings:
     Download [Phone 2 firmware Android Pie MR3 v3141](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)\
     Download [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)
 * Step 2:
-Turn phone on in fastboot mode by holding volume down while powering on
-Connect to computer
+Turn phone on in fastboot mode by holding volume down while powering on\
+    Connect to computer
 * Step 3:
 Flash the entire phone to factory settings:
     ```
