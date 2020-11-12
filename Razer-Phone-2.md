@@ -5,6 +5,9 @@ So here's the things that are not working for me:
 * Bluetooth (moving or deleting BluetoothResCommon.apk from /vendor/overlay fixes Bluetooth immediately for audio (couldn't test phone calls since they don't work for me)
 * Compass
 
+### Unlock the bootloader
+[Follow Razer's Instructions here](https://developer.razer.com/razer-phone-dev-tools/general-instructions/?_ga=2.262586380.1842452119.1605102124-783954625.1600236093?_ga=2.262586380.1842452119.1605102124-783954625.1600236093)
+
 ## Steps to Install (Windows)
 
 * Step 1\
