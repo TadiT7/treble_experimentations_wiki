@@ -8,6 +8,10 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|A - A/B|arm - arm64 - binder|
 |[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|A/B|arm64 - x86|
 
+## Unofficial Android 11:
+|LeOS|harvey186|(https://community.e.foundation/t/leos-the-new-ungoogled-os-updated-version-nov-11-now-with-seedvault/22305) / [Download](https://reuthernet.at/GSI)|A - A/B|arm64|
+
+
 
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
