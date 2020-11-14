@@ -40,7 +40,7 @@ fastboot reboot
 | Audio                     | √? Speaker and microphone is working, USB DAC untested. |
 | Bluetooth                 | √? Bluetooth is recognized. Doesn't have a device to test |
 | Display                   | √ |
-| WiFi / Hotspot            | √ |
+| WiFi / Hotspot            | √? Hotspot not sure |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | ? (Device hardware broken, untested) |
 | VoLTE                     | ? (Untested) |
