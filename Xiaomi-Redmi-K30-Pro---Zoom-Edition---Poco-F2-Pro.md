@@ -49,7 +49,7 @@ fastboot reboot
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √× (Cameras work, but front camera does not popup at all, please read note 1); Stock camera apk supports main and front camera |
-| Audio                     | √? Speaker and microphone is working, USB Type C DAC is working, 3.5mm audio jack is not working. |
+| Audio                     | √ Speaker and microphone is working, USB Type C DAC is working, 3.5mm audio jack is working. |
 | Bluetooth                 | √? Bluetooth Speaker works fine, In-call is untested. |
 | Display                   | √ |
 | WiFi / Hotspot            | √ |
