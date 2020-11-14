@@ -38,7 +38,7 @@ fastboot reboot
 | Audio                     | √? Speaker and microphone is working, USB DAC untested. |
 | Bluetooth                 | √? Bluetooth is recognized. Doesn't have a device to test |
 | Display                   | √× High-res works with bug. Low-res works fine. 120hz works fine. |
-| WiFi / Hotspot            | √ |
+| WiFi / Hotspot            | √? Hotspot not sure |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | ? (Device hardware broken, untested) |
 | VoLTE                     | ? (Untested) |
