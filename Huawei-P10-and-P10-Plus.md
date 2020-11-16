@@ -6,6 +6,14 @@ No issues comparing stock Huawei ROM
 
 ## Known issues
 
+On Oreo vendor:
+- Q roms do not boot. (Tested with 8.0.0.386)
+- Oreo rom (8.1) did not boot for Snuupy.
+- P roms work great and I think it could be used as daily drivers.
+
+On Pie vendor:
+- Q roms boot, but do not have a functioning speaker/audio playback. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
+
 * Camera:
 > Ugly LineageOS stock camera app, OpenCamera is good but with slow autofocus.
 
@@ -63,5 +71,3 @@ Why MindTheGapps??? Because [OpenGApps](https://opengapps.org/) is not working. 
 
 #### Note: OpenGapps for Android 9.0 (Pie) is now working for Pie GSIs.
 
-On Oreo vendor: Q roms do not boot. (Tested with 8.0.0.386) P roms work great and can be used as daily drivers. Oreo rom (8.1) did not boot for Snuupy.
-On Pie vendor: Q roms boot, but do not have a functioning speaker/audio playback. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
