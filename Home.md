@@ -220,30 +220,30 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[MyPhone myA11]]|myA11|✓ (Go)|A|arm|
 |[[MyPhone myA12]]|myA12|✓ (Go)|A|arm|
 |[[Nintendo Switch]]|icosa||A/B (when using Android 9 build)|arm64|
-|[[Nokia 1]]|frt|✓ (Go)|A|arm|
-|[[Nokia 1 Plus]]|ant|✓ (Go)|A|arm|
-|[[Nokia 2.1 and 2 V]]|e2m and evw|✓ (Go)|A|arm|
-|[[Nokia 3.1 and 5.1]]|es2 and co2|✓|A/B|arm64|
-|[[Nokia 3.1 A and C]]|eag|✓|A/B|arm64|
-|[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
-|[[Nokia 3.1 Plus C]]|rhd|✓|A/B|arm64|
-|[[Nokia 3.2]]|deadpool / dpl|✓|A/B|arm64|
-|[[Nokia 3.4]]|doctorstrange / drs|✓|A/B|arm64|
-|[[Nokia 4.2]]|panther / pan|✓|A/B|arm64|
-|[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
+|[[Nokia 1]]|FRT|✓ (Go)|A|arm|
+|[[Nokia 1 Plus]]|ANT|✓ (Go)|A|arm|
+|[[Nokia 2.1 and 2 V]]|E2M and EVW|✓ (Go)|A|arm|
+|[[Nokia 3.1 and 5.1]]|ES2 and CO2|✓|A/B|arm64|
+|[[Nokia 3.1 A and C]]|EAG|✓|A/B|arm64|
+|[[Nokia 3.1 Plus]]|ROO|✓|A/B|arm64|
+|[[Nokia 3.1 Plus C]]|RHD|✓|A/B|arm64|
+|[[Nokia 3.2]]|deadpool / DPL|✓|A/B|arm64|
+|[[Nokia 3.4]]|doctorstrange / DRS|✓|A/B|arm64|
+|[[Nokia 4.2]]|panther / PAN|✓|A/B|arm64|
+|[[Nokia 5.1 Plus (X5)]]|PDA|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
-|[[Nokia 6.1 Plus (X6)]]|drg|✓|A/B|arm64|
-|[[Nokia 6.2]]|starlord / sld|✓|A/B|arm64|
-|[[Nokia 7]]|c1n|✓|A/B|arm64|
-|[[Nokia 7 Plus]]|b2n|✓|A/B|arm64|
-|[[Nokia 7.1]]|ctl|✓|A/B|arm64|
-|[[Nokia 7.2]]|daredevil / ddv|✓|A/B|arm64|
-|[[Nokia 8]]|nb1||A/B|arm64|
-|[[Nokia 8 Sirocco]]|a1n|✓|A/B|arm64|
-|[[Nokia 8.1 (X7)]]|pnx|✓|A/B|arm64|
-|[[Nokia 9 PureView]]|aop|✓|A/B|arm64|
-|[[Nokia C3]]|GamoraPlus / gmr|✓|A/B|arm64|
-|[[Nokia X71]]|tas|✓|A/B|arm64|
+|[[Nokia 6.1 Plus (X6)]]|DRG|✓|A/B|arm64|
+|[[Nokia 6.2]]|starlord / SLD|✓|A/B|arm64|
+|[[Nokia 7]]|C1N|✓|A/B|arm64|
+|[[Nokia 7 Plus]]|B2N|✓|A/B|arm64|
+|[[Nokia 7.1]]|CTL|✓|A/B|arm64|
+|[[Nokia 7.2]]|daredevil / DDV|✓|A/B|arm64|
+|[[Nokia 8]]|NB1||A/B|arm64|
+|[[Nokia 8 Sirocco]]|A1N|✓|A/B|arm64|
+|[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
+|[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
+|[[Nokia C3]]|GamoraPlus / GMR|✓|A/B|arm64|
+|[[Nokia X71]]|TAS|✓|A/B|arm64|
 |[[Nubia mini 5G]]|TP1803|✓|A/B|arm64|
 |[[Nubia Red Magic]]|nx609j|✓|A|arm64|
 |[[Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
@@ -343,10 +343,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Tab S6 lite]]|gta4xl and gta4xlwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S7]]|gts7l and gts7lwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S7+]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
-|[[Sharp Aquos P6 / V1]]|hd1|✓|A/B|arm64|
-|[[Sharp Aquos S2 / C10]]|ss2 / sat|✓|A/B|arm64|
-|[[Sharp Aquos S3 / D10]]|hh1 / hh6 and sd1|✓|A/B|arm64|
-|[[Sharp Aquos S3 Mini]]|sg1||A/B|arm64|
+|[[Sharp Aquos P6 / V1]]|HD1|✓|A/B|arm64|
+|[[Sharp Aquos S2 / C10]]|SS2 / SAT|✓|A/B|arm64|
+|[[Sharp Aquos S3 / D10]]|HH1 / HH6 and SD1|✓|A/B|arm64|
+|[[Sharp Aquos S3 Mini]]|SG1||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia 5]]|bahamut|✓|A/B|arm64
