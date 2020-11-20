@@ -228,6 +228,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 3.1 Plus]]|roo|✓|A/B|arm64|
 |[[Nokia 3.1 Plus C]]|rhd|✓|A/B|arm64|
 |[[Nokia 3.2]]|deadpool / dpl|✓|A/B|arm64|
+|[[Nokia 3.4]]|doctorstrange / drs|✓|A/B|arm64|
 |[[Nokia 4.2]]|panther / pan|✓|A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|pda|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
