@@ -18,6 +18,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|[[Alcatel 1 5033D]]|n/a||A|arm64|
 |[[Alcatel 5V 5060D]]|n/a||A|arm64|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
