@@ -41,7 +41,7 @@ Then, run this to update your environment. ```source ~/.profile```
 
 ### 2. Install build packages
 
-Several packages are needed to build Android and execute the scripts. You can install these using your distribution’s package manager.
+Several packages are needed to build Android and execute the scripts. You can install these using your distribution’s package manager. Use libwxgtk3.0-dev in place of libwxgtk3.0-gtk3-dev for earlier versions of Ubuntu (before 20.04) 
 You’ll need:
 
 ```
