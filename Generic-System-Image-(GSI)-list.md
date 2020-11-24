@@ -11,7 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|LeOS|harvey186|[Info](https://community.e.foundation/t/leos-the-new-ungoogled-os-updated-version-nov-11-now-with-seedvault/22305) / [Download](https://reuthernet.at/)|A - A/B|arm64|
+|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://reuthernet.at/)|A - A/B|arm64|
 
 
 
