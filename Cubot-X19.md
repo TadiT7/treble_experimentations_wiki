@@ -15,7 +15,7 @@ After installation, you need to edit your apn settings if mobile data does not w
     $ fastboot devices
     $ fastboot flashing unlock
     press volume up to allow unlocking
-    $ fastboot flash system system-arm64-aonly-gapps-nosu.img
+    $ fastboot flash system system-arm64-ab.img
     $ fastboot reboot
 
     ```
