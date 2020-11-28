@@ -11,7 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://www.leos-gsi.org/downloads/)|A - A/B|arm64|
+|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://www.leos-gsi.org/download/)|A - A/B|arm64|
 
 
 
