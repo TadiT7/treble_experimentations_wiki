@@ -15,6 +15,7 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to system.
 
 
+
 ### Android 10
 
 #### Clean install
@@ -70,6 +71,10 @@ Suitable for daily usage, on Android 9, 10, and 11
 
 ## Android 11 Notes
 To boot android 11, you HAVE to use at least the october update, also known as 1.8 to be able to boot, **_any Gsi from firmware collections will need permissiver to boot_** (see above), Phh's Roar Gsi and Google's own Android 11 Gsi **_dont need permissiver_**
+
+If booting Android 11 fails, contact me over at [my chat](t.me/motoxchat) and ping HowToRush (me on Telegram) and i will try helping you boot Android 11, 
+
+**Nusantara's official Gsi _NEEDS_ Magisk to boot for some reason**
 
 ---
 
