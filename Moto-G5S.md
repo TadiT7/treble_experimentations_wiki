@@ -9,7 +9,7 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache. (FORMAT DATA, NOT WIPE)
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
+* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still)
 * Flash [this Zip file](https://zackptg5.com/android.php#disverfe) (latest Phh based Gsi have broken boot without this zip)
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
@@ -23,14 +23,14 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
+* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still)
 * Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
 #### Dirty flash
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495) if needed.
+* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still) if needed.
 * Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
 * Flash the updated GSI (arm64 A/B)
 * Reboot to system.
