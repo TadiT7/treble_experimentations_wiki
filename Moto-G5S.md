@@ -9,7 +9,7 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/montanalab) (XDA post is down ATM)
+* Flash [LineageOS 17.1](https://t.me/motog5s) (XDA post is down ATM)
 * Flash [this zip](https://zackptg5.com/android.php#disverfe).
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
@@ -23,13 +23,13 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/motog5s) (XDA post is down ATM)
+* Flash [LineageOS 17.1](https://t.me/motog5s) (XDA post is down ATM)
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
 #### Dirty flash
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/motog5s) (XDA post is down ATM) if needed.
+* Flash [LineageOS 17.1](https://t.me/motog5s) (XDA post is down ATM) if needed.
 * Flash the updated GSI (arm64 A/B)
 * Reboot to system.
 
