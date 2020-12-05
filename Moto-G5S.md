@@ -5,7 +5,15 @@ Suitable for daily usage, on Android 9, 10, and 11
 ## Steps to install
 
 ### Android 11
-* See [steps for Android 10](https://github.com/phhusson/treble_experimentations/wiki/Moto-G5S#android-10)
+* Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
+* Reboot to TWRP.
+* Format System, Vendor, Data, Cache and Dalvik/ART Cache. (FORMAT DATA, NOT WIPE)
+* Reboot to TWRP.
+* Flash [LineageOS 17.1](https://forum.xda-developers.com/moto-g5s/development/rom-lineageos-17-1-t4160495)
+* Flash [this Zip file](https://zackptg5.com/android.php#disverfe) (latest Phh based Gsi have broken boot without this zip)
+* Flash a GSI (arm64 A/B)
+* Reboot to system.
+
 
 ### Android 10
 
