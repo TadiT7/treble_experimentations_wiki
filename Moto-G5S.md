@@ -64,7 +64,7 @@ Suitable for daily usage, on Android 9, 10, and 11
 | Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| Other feature             | Encryption - Working (Android 10)                |
+| Other feature             | Encryption - Working (Android 10+, 11 Phh broken)                |
 
 ---
 
