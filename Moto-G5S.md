@@ -7,10 +7,10 @@ Suitable for daily usage, on Android 9, 10, and 11
 ### Android 11
 * Flash [this TWRP](https://twrp.me/motorola/motorolamotog5s.html) as "Recovery" in your existing recovery.
 * Reboot to TWRP.
-* Format System, Vendor, Data, Cache and Dalvik/ART Cache. (FORMAT DATA, NOT WIPE)
+* Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still)
-* Flash [this Zip file](https://zackptg5.com/android.php#disverfe) (latest Phh based Gsi have broken boot without this zip)
+* Flash [LineageOS 17.1](t.me/montanalab) (XDA post is down ARM)
+* Flash [this zip](https://zackptg5.com/android.php#disverfe).
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
@@ -23,15 +23,13 @@ Suitable for daily usage, on Android 9, 10, and 11
 * Reboot to TWRP.
 * Format System, Vendor, Data, Cache and Dalvik/ART Cache.
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still)
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
+* Flash [LineageOS 17.1](t.me/motog5s) (XDA post is down ATM)
 * Flash a GSI (arm64 A/B)
 * Reboot to system.
 
 #### Dirty flash
 * Reboot to TWRP.
-* Flash [LineageOS 17.1](t.me/montanalab) (XDA post might be down still) if needed.
-* Flash [permissiver](https://androidfilehost.com/?fid=6006931924117940902) (no longer needed for Phh based gsi since october update)
+* Flash [LineageOS 17.1](t.me/motog5s) (XDA post is down ATM) if needed.
 * Flash the updated GSI (arm64 A/B)
 * Reboot to system.
 
@@ -70,11 +68,11 @@ Suitable for daily usage, on Android 9, 10, and 11
 ---
 
 ## Android 11 Notes
-To boot android 11, you HAVE to use at least the october update, also known as 1.8 to be able to boot, **_any Gsi from firmware collections will need permissiver to boot_** (see above), Phh's Roar Gsi and Google's own Android 11 Gsi **_dont need permissiver_**
+Any GSI from firmware collections will need permissiver to boot, Phh's Roar GSI and Google's own Android 11 GSI don't need it.
 
-If booting Android 11 fails, contact me over at [my chat](t.me/motoxchat) and ping HowToRush (me on Telegram) and i will try helping you boot Android 11, 
+If Android 11 still doesn't boot, contact HowToRush over at [his chat](t.me/motoxchat) and ping @HowToRush and he will try to help you boot Android 11. 
 
-**Nusantara's official Gsi _NEEDS_ Magisk to boot for some reason**
+Nusantara's official GSI _needs_ Magisk to boot.
 
 ---
 
