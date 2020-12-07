@@ -90,7 +90,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[General Mobile GM 5 Plus]]|shamrock / GM5PlUS_sprout||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 Go]]|GM8_go_sprout|✓ (Go)|A|arm|
+|[[General Mobile GM 9 Plus]]|v7101o|✓|A/B|arm64|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
+|[[General Mobile GM 10]]|G300|✓|A/B|arm64|
+|[[General Mobile GM 20]]|G301|✓|A/B|arm64|
+|[[General Mobile GM 20 Pro]]|G501|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
 |[[Google Pixel and Pixel XL]]|sailfish and marlin|✓|A/B|arm64|
 |[[Google Pixel 2 and Pixel 2 XL]]|walleye and taimen|✓|A/B|arm64|
