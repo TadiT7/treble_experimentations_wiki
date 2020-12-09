@@ -1,5 +1,7 @@
 # Huawei MediaPad M5  (SHT-W09)
 
+UPDATE 09/12/20: flashed Roar AB, arm64, gapps version v300.j and it boots
+
 The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v222) works (i tested the gapps version v222)
 
 I don't test Magisk for now, when i do i'll update this page.
