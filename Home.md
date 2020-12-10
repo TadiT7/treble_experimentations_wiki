@@ -285,6 +285,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Realme X]]|rmx1901|✓|A/B|arm64|
 |[[Realme XT]]|rmx1921|✓|A/B|arm64|
 |[[Realme 6]]|rmx2001|✓|A/B(Dynamic Partitions)|arm64|
+|[[Realme Q2 Pro]]|RMX2175|✓|A/B(Dynamic Partitions)|arm64|
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte||A|arm64|
