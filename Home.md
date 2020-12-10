@@ -52,7 +52,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Bluboo D6]]|D6|✓|A|arm|
 |[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
-|[[Brown&Proud Bulok 1]]|V4701_I01||A|arm64_32
+|[[Brown&Proud Brown 1]]|V4701_I01||A|arm64_32
 |[[Cherry Mobile Flare S8 Pro]]|Flare_S8_Pro|√|A/B|ARM64|
 |[[Cherry Mobile Flare S8 Plus]]|FS8Plus|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Max]]|Flare_S8_Max|√|A/B|arm64|
