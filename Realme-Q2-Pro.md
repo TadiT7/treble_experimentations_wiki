@@ -1,6 +1,6 @@
 # Realme Q2 Pro
 
-Summary of what works and doesn't
+
 You need to download arm64 and ab gsi image
 
 ## Steps to install
