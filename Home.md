@@ -432,7 +432,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus||A|arm64|
 |[[Xiaomi Pocophone F1 (Poco F1)]]|beryllium|✓|A|arm64|
-|[[Xiaomi Poco X3/NFC]]|surya (global) and karna (India)|✓|A/B|arm64|
+|[[Xiaomi Poco X3/NFC]]|surya (global, Poco X3 NFC) and karna (India, Poco X3 non-NFC)|✓|A/B|arm64|
 |[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
