@@ -1,4 +1,4 @@
-# BV9900
+# Blackview BV9900
 
 Overall it is usable.
 Have some issues with the display that is flickering, even with option 
