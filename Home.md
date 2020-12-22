@@ -48,6 +48,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9500 Plus]]|s62v71c2k_jk_eea|✓|A/B|arm64|
 |[[Blackview BV9500 Pro]]|s32v63c2k_jk_pro|✓|A|arm64|
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
+|[[Blackview BV9900]]|n/a|✓|A/B|arm64|
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
 |[[Bluboo D6]]|D6|✓|A|arm|
 |[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
