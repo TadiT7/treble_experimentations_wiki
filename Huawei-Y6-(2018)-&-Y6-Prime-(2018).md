@@ -1,5 +1,6 @@
 # [Huawei Y6 (2018)/Y6 Prime (2018)](https://www.gsmarena.com/huawei_y6_(2018)-9162.php)
 ![Huawei Y6 (2018)](https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg)
+Updating pkease wait for my new changelogs
 
 Device supported.
 
