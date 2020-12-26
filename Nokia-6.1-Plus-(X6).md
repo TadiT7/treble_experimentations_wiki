@@ -1,5 +1,5 @@
 # Nokia 6.1 Plus(Nokia X6)
-## Code name - DRG_Sprout | Variant - Indian(TA-1083) | 4/64 Model
+## Code name - DRG_sprout | Variant - Indian(TA-1083) | 4/64 Model
 
 ### Hardware support
 ----------------------------------------------------------------------------------------------------------------------------
@@ -19,12 +19,12 @@ Component      | Support
 **Notch**          | Some tweaking required. When many notifications come through, they go into the area of the notch.   |
 **Fingerprint**    | Yes                                                                                            |
 **Vibrator**       | Yes                                                                                            |
-**Fast Charging**  | Yes.                                                       |
+**Fast Charging**  | Yes                                                     |
 **Headphone Jack/3.5MM Jack** | Yes |
 ---------------------------------------------------------------------------------------------------------------------------
->System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
+>System does not reset battery stats automatically after the phone charges 80% or more. You will have to do it manually.
 
->Magisk's safetynet manager will report ```Basic Intergrity:True``` and ```CTS:False```. You can use the MagiskHideProps module to pass the CTS test. Enable advanced hiding and change the fingerprint to Nokia 7 plus's(B2N). (Theoretically you can use any Fingerprint but i've never tested any other than Nokia 7 plus's.
+>Magisk's safetynet manager will report ```Basic Intergrity:True``` and ```CTS Profile:False```. You can use the MagiskHideProps module to pass the CTS test. Enable advanced hiding and change the fingerprint to Nokia 6.1 Plus's fingerprint. (Theoretically you can use any Fingerprint but I've never tested any other phone's fingerprint other than Nokia 7 plus's and Nokia 6.1 Plus's fingerprints.
 ---------------------------------------------------------------------------------------------------------------------------
 Tested by CarbonGTR
 
