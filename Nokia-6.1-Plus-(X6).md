@@ -6,7 +6,7 @@
 
 Component      | Support
 :---------------|:--------------------------------------------------------------------------------------------: |
-**Camera**         | Yes, Works on 3rd party apps too(Snapchat, Instagram).                                         |
+**Camera**         | Yes, works on 3rd party apps too(Snapchat, Instagram).                                         |
 **WiFi**           | Yes                                                                                            |
 **Mobile Data**    | Yes                                                                                            |
 **Telephony - calls etc** | Yes            |
@@ -16,10 +16,10 @@ Component      | Support
 **VoLTE**          | No                                                                                |
 **Compass**        | Yes                                                                                            |
 **NFC**            | No compatiable hardware available.                                                             |
-**Notch**          | Mostly yes. Sometimes when many notifications come through, They go in to area of the notch.   |
+**Notch**          | Some tweaking required. When many notifications come through, they go into the area of the notch.   |
 **Fingerprint**    | Yes                                                                                            |
 **Vibrator**       | Yes                                                                                            |
-**Fast Charging**  | Yes. Consistent speeds with the stock ROM                                                      |
+**Fast Charging**  | Yes.                                                       |
 **Headphone Jack/3.5MM Jack** | Yes |
 ---------------------------------------------------------------------------------------------------------------------------
 >System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
