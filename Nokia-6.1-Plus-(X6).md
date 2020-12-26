@@ -20,11 +20,7 @@ Component      | Support
 **Fast Charging**  | Yes. Consistent speeds with the stock ROM                                                      |
 **Headphone Jack/3.5MM Jack** | Yes |
 ---------------------------------------------------------------------------------------------------------------------------
->The phone runs cooler than stock ROM and also is cooler during fast charging. Battery is better than the stock ROM. Performance is sufficient for a user's daily needs(Social Media, Light gaming and calls) although there are lags when the device is pushed.
-
 >Move the Google app to /root/system-priv/ directory to enable Google Assistant
-
->Viper4Android(I used the magisk module, Material Edition) needs the option **Attach Audio Effects** to process sound effects properly.
 
 >System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
 
