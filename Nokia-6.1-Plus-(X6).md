@@ -10,6 +10,7 @@ Component      | Support
 **WiFi**           | Yes                                                                                            |
 **Mobile Data**    | Yes                                                                                            |
 **Bluetooth**      | Yes                                                                                |
+**Bluetooth Audio**|  No                                          |
 **GPS**            | Yes                                        |
 **VoLTE**          | No                                                                                |
 **Compass**        | Yes                                                                                            |
@@ -20,8 +21,6 @@ Component      | Support
 **Fast Charging**  | Yes. Consistent speeds with the stock ROM                                                      |
 **Headphone Jack/3.5MM Jack** | Yes |
 ---------------------------------------------------------------------------------------------------------------------------
->Move the Google app to /root/system-priv/ directory to enable Google Assistant
-
 >System does not reset battery stats automatically after the phone charge 80> or more. You will have to do it manually.
 
 >Magisk's safetynet manager will report ```Basic Intergrity:True``` and ```CTS:False```. You can use the MagiskHideProps module to pass the CTS test. Enable advanced hiding and change the fingerprint to Nokia 7 plus's(B2N). (Theoretically you can use any Fingerprint but i've never tested any other than Nokia 7 plus's.
