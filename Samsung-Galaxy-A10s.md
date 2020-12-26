@@ -7,6 +7,7 @@ MTP (kernel-related problem)
 VoLTE, video calling (settings is disabled in *#*#4636#*#*)
 
 GSI Build Tested : AOSP 10 v222 A/B arm32_binder64 gapps
+
 Baseband version : A107FXXU7BTI8 (Android 10 vendor, Binary 7)
 
 Installation Guide : 
