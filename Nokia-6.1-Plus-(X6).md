@@ -9,6 +9,7 @@ Component      | Support
 **Camera**         | Yes, Works on 3rd party apps too(Snapchat, Instagram).                                         |
 **WiFi**           | Yes                                                                                            |
 **Mobile Data**    | Yes                                                                                            |
+**Telephony - calls etc** | Yes            |
 **Bluetooth**      | Yes                                                                                |
 **Bluetooth Audio**|  No                                          |
 **GPS**            | Yes                                        |
