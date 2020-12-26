@@ -293,6 +293,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A + A/B|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A + A/B|arm64|
 |[[Samsung Galaxy A10]]|a10dd|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A10s]]|a10sxx|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A20]]|a20dd|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30dd|✓|A/B|arm64|
 |[[Samsung Galaxy A40]]|a40|✓|A/B|arm64|
