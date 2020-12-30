@@ -8,16 +8,16 @@ General bugs:
 ## Steps to install
 1. Download a PIE GSI from [[here|Generic-System-Image-(GSI)-list]], use ARM64, A only
 2. Put GSI in internal storage
-3. Flash treble-convert zip from [here](https://mega.nz/#!LowzWQaL!1FPz7HgKGCvZjNHkaTVaAUiKQ0Sj5JmcBCFGwEIikbc)
+3. Flash treble-convert zip from [here](https://mega.nz/folder/K0JkBSra#ydAt2sFZ2HVC9unrhB8Jhg)
 4. Reboot to recovery
 5. Flash any downloaded GSI as image-system image
-6. Flash treble-pie-vendor zip from [here](https://mega.nz/#!T1plkYSZ!7XXrsIxArEc83uHrczJSePRqeIj7gt2k_3YzhN9bcyc)
+6. Flash treble-pie-vendor zip from [here](https://mega.nz/folder/K0JkBSra#ydAt2sFZ2HVC9unrhB8Jhg)
 7. Optional flash Magisk > 19.3
 
 ## Steps to revert
 
 1) Reboot to recovery
-2) Flash treble-revert zip from [here](https://mega.nz/#!L1hjnCIb!QnCkXV2z3Jdwl-15yi9xd7U-NMRyMvZOsRRmW0bew-8)
+2) Flash treble-revert zip from [here](https://mega.nz/folder/K0JkBSra#ydAt2sFZ2HVC9unrhB8Jhg)
 3) Reboot recovery
 4) Wipe CACHE in twrp wipe menu
 5) Flash any non treble rom or restore your previous twrp backup
