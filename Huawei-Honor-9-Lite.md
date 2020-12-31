@@ -7,7 +7,7 @@ Note: As an alternative of the following process, you can flash via TWRP as "Sys
 
 1. Download the right image for your device: aonly- if you are on EMUI 8.x, ab- if you have updated to EMUI 9.x.
 2. Make sure your bootloader is unlocked before proceeding. More info for doing that can be found on the [XDA forum](https://forum.xda-developers.com/f/honor-9-lite-guides-news-discussion.7288/).
-3. Reboot to fastboot following these steps:
+3. Reboot to fastboot mode following these steps:
 * Power off the phone completely.
 * Press and hold the Volume Down button, and while doing that, connect your phone to the PC using the USB cable.
 * Release the button when you see the fastboot screen: a white colored screen with some text and the Android bot.
