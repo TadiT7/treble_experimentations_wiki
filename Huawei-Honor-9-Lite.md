@@ -1,34 +1,54 @@
 # Huawei Honor 9 Lite
 
-Most stuff works fine except every 5 seconds there are some green lines on the camera and offline charging is broken until https://github.com/phhusson/device_phh_treble/pull/77 gets merged.
+Everything device-related works fine.
 
 ## Steps to install
+Note: As an alternative of the following process, you can flash via TWRP as "System Image" and format data.
 
-* [unlock your bootloader](https://forum.xda-developers.com/9-lite/how-to/unlock-bootloader-code-t3859685) ;
-* reboot to fastboot (it should confirm you that the bootloader and FRP are both unlocked) ;
-* flash this image (aonly arm64) with the `fastboot` utility:
+1. Download the right image for your device: aonly- if you are on EMUI 8.x, ab- if you have updated to EMUI 9.x.
+2. Make sure your bootloader is unlocked before proceeding. More info for doing that can be found on the [XDA forum](https://forum.xda-developers.com/f/honor-9-lite-guides-news-discussion.7288/).
+3. Reboot to fastboot following these steps:
+* Power off the phone completely.
+* Press and hold the Volume Down button, and while doing that, connect your phone to the PC using the USB cable.
+* Release the button when you see the fastboot screen: a white colored screen with some text and the Android bot.
+4. Make sure that both the bootloader and FRP are unlocked. If not, you should not proceed with the next step.
+5. Flash the image file with the `fastboot` utility and wait until the process is complete:
     ```
     $ fastboot -w
     $ fastboot flash system system-arm64-aonly-type-type.img
     ```
-    The device will bootloop 3 times. This is FINE! After the third boot the recovery tells you that the data partition has to be low level formatted. Click on okay and after that the device will boot just fine! :)
+   The device might bootloop a couple of times, this is OK. It might also tell you that the data partition has to be low level formatted. Click on OK and after that the device will boot just fine!
 
-    As an alternative you can flash via TWRP as "System Image" and format data.
+6. If the device did not reboot automatically, reboot using the following command and then unplug your phone:
+   ```
+    $ fastboot reboot
+   ```
+7. Enjoy your new ROM!
 
 ## Hardware support
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Issue: every ~5 seconds there are minor green lines.      |
 | Camera                    | OK                                                        |
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | OK                                                        |
 | WiFi                      | OK                                                        |
 | SIM / Mobile Data / Voice | OK                                                        |
+| Hotspot                   | OK                                                        |
 | VoLTE                     | Broken, of course                                         |
 | Fingerprint               | OK                                                        |
 | NFC                       | OK                                                        |
-| Offline Charging          | Pending merge                                             |
+| Offline Charging          | OK                                                        |
 ---
 
-Tested By: kaiomatico - LLD-L31(C432, so a German Device), Firmware 8.0.0.128 - 05/03/2018 and hackintosh5 - LLD-L31C432, firmware 8.0.0.132 - 27/01/2019 - Template created by @zguithues
+## Tested
+
+| User                 |      Device Model  |  Firmware  |  Date      |
+|----------------------|--------------------|------------|------------|
+| tetris4              |      LLD-L31C432   |  9.1.0.168 | 29/12/2020 |
+| hackintosh5          |      LLD-L31C432   |  8.0.0.132 | 27/01/2019 |
+| kaiomatico           |      LLD-L31C432   |  8.0.0.128 | 05/03/2018 |
+
+
+
+Template created by @zguithues
