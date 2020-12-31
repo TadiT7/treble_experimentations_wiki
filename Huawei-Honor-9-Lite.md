@@ -15,7 +15,7 @@ Note: As an alternative of the following process, you can flash via TWRP as "Sys
 5. Flash the image file with the `fastboot` utility and wait until the process is complete:
     ```
     $ fastboot -w
-    $ fastboot flash system system-arm64-aonly-type-type.img
+    $ fastboot flash system system-arm64-type-type-type.img
     ```
    The device might bootloop a couple of times, this is OK. It might also tell you that the data partition has to be low level formatted. Click on OK and after that the device will boot just fine!
 
