@@ -40,6 +40,6 @@ Depending on your vendor you must use twrp either from https://forum.xda-develop
 | WiFi                      | Status|   Works                                                 |
 | SIM / Mobile Data / Voice | Status|   Works                                                 |
 | VoLTE                     | Status|   Works                                                 |
-| Fingerprint,lockscreen    | Status|   Needs fingerprint sensor patch for working            |
+| Fingerprint,lockscreen    | Status|   Needs flashing the lockscreen and fingerprint sensor patch for working            |
 | Offline Charging          | Status|  On android 10 vendor - fine, on android 9 vendor gets  stuck on charge logo        |                                           
 ---
