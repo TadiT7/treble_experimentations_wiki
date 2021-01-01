@@ -33,7 +33,7 @@ Depending on your vendor you must use twrp either from https://forum.xda-develop
 
 | Component                 |      Comment                                                   |
 |---------------------------|----------------------------------------------------------------|
-| Camera                    | Status                                                         |
+| Camera                    | Status   Works                                                      |
 | Speaker / Mic             | Status   Works                                                 |
 | Bluetooth                 | Status   Works                                                 |
 | WiFi                      | Status   Works                                                 |
