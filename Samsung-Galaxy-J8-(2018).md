@@ -26,8 +26,8 @@ Depending on your vendor you must use twrp either from https://forum.xda-develop
 6. Dowloand the gsi you picked and reboot into twrp
 7. Make an advanced wipe in twrp of   “Dalvik / ART Cache”, “System”, “Data”, and “cache”
 8. In the install menu in twrp select install image - and select the gsi image that you  downloaded , set as system image and install
-9. Flash AnyKernel3-j8y18lte-goldfish07.zip, Disable-Force-Encryption-Treble.zip
-10. Optionally flash tryfix_j8_lockscreen.zip
+9. Flash AnyKernel3-j8y18lte-goldfish07.zip, Disable-Force-Encryption-Treble.zip(https://t.me/galaxyj8/12863)
+10. Optionally flash tryfix_j8_lockscreen.zip(https://t.me/j8_devlopment_group/1589)
 
 
 ## Hardware support
