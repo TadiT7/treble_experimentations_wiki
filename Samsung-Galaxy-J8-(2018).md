@@ -7,7 +7,7 @@ Camera(Only 1 of them though , secondary for live focus thing on stock is disabl
 Speaker / Mic,Bluetooth,WiFi , SIM / Mobile Data / Voice ,VoLTE,Offline Charging work (on android 10 vendor , on android 9 vendor offline charging works but you gotta reboot phone with holding down all keys for it to not be stuck on charge logo )
 
 Works after installing patches
-Lockscreen and fingerprint sensor
+Lockscreen security(pin,password,graphic key) and fingerprint sensor
 
 DOES NOT WORK
 MTP
