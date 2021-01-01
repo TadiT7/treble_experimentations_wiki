@@ -315,6 +315,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J7 Neo]]|j7velte||A|arm64|
 |[[Samsung Galaxy J7 Prime]]|on7xelte||A|arm64|
 |[[Samsung Galaxy J8 (2018)]]|j8y18lte||A(Once You update to One ui 2.0 it becomes A/B)|arm_binder64|
+|[[Samsung Galaxy M01]]|m01lte|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
 |[[Samsung Galaxy M30s]]|m30slte|✓|A/B|arm64|
 |[[Samsung Galaxy Note 8 (Exynos)]]|greatlte||A|arm64|
