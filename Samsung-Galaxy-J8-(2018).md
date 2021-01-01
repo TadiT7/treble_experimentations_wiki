@@ -1,6 +1,7 @@
 # Samsung Galaxy J8
 
 Summary of what works and doesn't
+
 Works by default
 Camera(Only 1 of them though , secondary for live focus thing on stock is disabled)
 Speaker / Mic,Bluetooth,WiFi , SIM / Mobile Data / Voice ,VoLTE,Offline Charging work (on android 10 vendor , on android 9 vendor offline charging works but you gotta reboot phone with holding down all keys for it to not be stuck on charge logo )
