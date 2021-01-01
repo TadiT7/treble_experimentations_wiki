@@ -32,9 +32,9 @@ Depending on your vendor you must use twrp either from https://forum.xda-develop
 
 ## Hardware support
 
-| Component                 |      Comment                                                   |
-|---------------------------|----------------------------------------------------------------|
-| Camera                    | Status|   Works                                                      |
+| Component                 |       | Comment                                                   |
+|---------------------------|-------|--------------------------------------------------------|
+| Camera                    | Status|  Works                                                      |
 | Speaker / Mic             | Status|   Works                                                 |
 | Bluetooth                 | Status|   Works                                                 |
 | WiFi                      | Status|   Works                                                 |
