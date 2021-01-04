@@ -12,13 +12,7 @@
 * Sensors
 
 # Not Working
-
-**Android 9/10**
 * Nothing
-
-**Android 11**
-* Screenrecorder
-
 
 # NOTES
 * There is a device compostition workaround by enabling "Blurry UI workaround" from Treble app in Huawei features in menu section
