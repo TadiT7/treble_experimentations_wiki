@@ -12,7 +12,7 @@
 * Sensors
 
 # Not Working
-* Nothing
+* Adb on Android 11
 
 # NOTES
 * There is a device compostition workaround by enabling "Blurry UI workaround" from Treble app in Huawei features in menu section
