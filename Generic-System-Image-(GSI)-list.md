@@ -7,7 +7,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|
 |[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|A - A/B|arm - arm64 - binder|
 |[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|A/B|arm64 - x86|
-|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)||CAOS|eremitein|A - A/B|arm - arm64 - binder|
+|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
 |[Here](https://downloads.descendant.me/)|Descendant XI|Dil3mm4|A - A/B|arm64|
 
 
