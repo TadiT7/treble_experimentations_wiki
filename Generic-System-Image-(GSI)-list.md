@@ -22,7 +22,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
-
 |Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
 
