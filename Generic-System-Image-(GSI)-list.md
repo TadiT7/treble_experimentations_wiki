@@ -3,12 +3,12 @@
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Official Android 11
-|Download|Maintainer|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|
-|[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|A - A/B|arm - arm64 - binder|
-|[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|A/B|arm64 - x86|
-|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|A - A/B|arm - arm64 - binder|CAOS|
-|[Here](https://downloads.descendant.me/)|Dil3mm4|A - A/B|arm64|Descendant XI|
+|Download|Maintainer|ROM|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|
+|[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|AOSP|A - A/B|arm - arm64 - binder|
+|[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|Google GSI|A/B|arm64 - x86|
+|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
+|[Here](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
 
 
 ## Unofficial Android 11:
