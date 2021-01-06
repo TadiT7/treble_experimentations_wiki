@@ -7,6 +7,9 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|
 |[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|A - A/B|arm - arm64 - binder|
 |[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|A/B|arm64 - x86|
+|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)||CAOS|eremitein|A - A/B|arm - arm64 - binder|
+|[Here](https://downloads.descendant.me/)|Descendant XI|Dil3mm4|A - A/B|arm64|
+
 
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -14,14 +17,12 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://www.leos-gsi.org/download/)|A - A/B|arm64|
 
 
-
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
-|CAOS|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/official-aosp-q-mod-caos-t4137289) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
-|Descendant X|Dil3mm4|[Download](https://downloads.descendant.me/) |A - A/B|arm64|
+
 |Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
 
