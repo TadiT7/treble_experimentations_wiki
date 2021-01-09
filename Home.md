@@ -281,13 +281,17 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Razer Phone 2]]|cheryl2|✓|A/B|arm64|
-|[[Realme 1]]|cph1861|✓|A|arm64|
-|[[Realme 2 Pro]]|rmx1801|✓|A|arm64|
-|[[Realme 3 Pro]]|rmx1851|✓|A/B|arm64|
-|[[Realme X]]|rmx1901|✓|A/B|arm64|
-|[[Realme XT]]|rmx1921|✓|A/B|arm64|
-|[[Realme 6]]|rmx2001|✓|A/B(Dynamic Partitions)|arm64|
-|[[Realme Q2 Pro]]|RMX2175|✓|A/B(Dynamic Partitions)|arm64|
+|[[realme 1]]|cph1861|✓|A|arm64|
+|[[realme 2 Pro]]|rmx1801|✓|A|arm64|
+|[[realme 3 Pro]]|rmx1851|✓|A/B|arm64|
+|[[realme X]]|rmx1901|✓|A/B|arm64|
+|[[realme XT]]|rmx1921|✓|A/B|arm64|
+|[[realme 6]]|rmx2001|✓|A/B(Dynamic Partitions)|arm64|
+|[[realme C1]]|rmx1811|✓|A/B|arm64|
+|[[realme C3]]|rmx2027|✓|A/B|arm64|
+|[[realme Narzo 10]]|rmx2040|✓|A/B|arm64|
+|[[realme Narzo 10A]]|rmx2020|✓|A/B|arm64|
+|[[realme Q2 Pro]]|RMX2175|✓|A/B(Dynamic Partitions)|arm64|
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte||A|arm64|
