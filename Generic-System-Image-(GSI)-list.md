@@ -16,6 +16,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm64|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
+|Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -35,13 +36,9 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
 |Firmware collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
 |Firmware collection|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
+|Firmware collection|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
-|Pixel Experience Plus|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/PixelExperiencePlus/)|A - A/B|arm64 - Arm - Binder|
-|ZenX OS 1.10|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ZenX_OS/)|A - A/B|arm64 (possibly other releases later)|
-|Shapeshift OS 1.2.1|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ShapeShiftOS/)|A - A/B|arm64 - arm - binder|
-|ResurrectionRemixOS|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ResurrectionRemixOS/)|A - A/B|arm64 - arm - binder|
-|Havoc 3.11|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/Havoc/)|A - A/B|arm64 - arm - binder|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
