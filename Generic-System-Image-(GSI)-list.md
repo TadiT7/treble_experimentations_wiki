@@ -40,6 +40,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Pixel Experience Plus|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/PixelExperiencePlus/)|A - A/B|arm64 - Arm - Binder|
 |ZenX OS 1.10|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ZenX_OS/)|A - A/B|arm64 (possibly other releases later)|
 |Shapeshift OS 1.2.1|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ShapeShiftOS/)|A - A/B|arm64 - arm - binder|
+|ResurrectionRemixOS|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/ResurrectionRemixOS/)|A - A/B|arm64 - arm - binder|
+|Havoc 3.11|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/Havoc/)|A - A/B|arm64 - arm - binder|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
