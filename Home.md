@@ -154,6 +154,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Itel A32F]]|f8007|✓ (Go)|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
 |[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
+|[[Kyocera Basio 4]]|KYV47_jp_kdi|✓|A/B|arm64|
 |[[Lava Z50]]|z50|✓ (Go)|A|arm|
 |[[Leagoo M8 Pro]]|M8_Pro|✓|A|arm|
 |[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm (arm_binder64)|
