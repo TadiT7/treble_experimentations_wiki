@@ -16,6 +16,8 @@
 
 This phone is carrier locked to au Mobile, so telephony function cannot be tested.
 
+Flashing GSI into Japanese exclusive phones can be dangerous, it may have risk of the phone becoming into irrecoverable brick.
+
 ## Tested By:
 
 AOSP 11: * Calyx Hikari (HikariCalyx) @ Kyocera Basio 4 KYV47 1.070HA.0126.a @ 14/1/2021
