@@ -45,7 +45,7 @@ Will work on most MediaTek Devices
 | VoLTE                     | Broken                                                 |
 | Fingerprint               | Working                                                    |
 | NFC                       | ------                                                   |
-| Offline Charging          | Working                                                   |
+| Offline Charging          | Broken                                                   |
 | Other feature             | Adaptive brightness is broken (Every thing else is working)                                                    |
 ---
 
