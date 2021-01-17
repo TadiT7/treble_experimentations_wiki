@@ -1,7 +1,7 @@
 # How to build a Project Treble GSI ROM from source?
 
 In this guide I'll try to simplify building Treble GSI process.
-As you read this guide now I'll assume you already have a previous knowledge about How to build android from source, so I won't cover some points with too many basic details. (Some contents of this tutorial is outdated, if you has any problems go to [the builders' group](https://t.me/phhtreblebuilders).)
+As you read this guide now I'll assume you already have a previous knowledge about How to build android from source, so I won't cover some points with too many basic details. **(Some contents of this tutorial is outdated, if you has any problems go to [the builders' group](https://t.me/phhtreblebuilders).)**
 So, let's start:
 
 **What you’ll need:**
