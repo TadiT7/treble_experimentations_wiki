@@ -16,15 +16,16 @@ Tecno Spark 6 Go is a phone that was launched on 22nd December 2020. The phone c
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Status                                                    |
-| Speaker / Mic             | Status                                                    |
-| Bluetooth                 | Status                                                    |
-| WiFi                      | Y                                                    |
-| SIM / Mobile Data / Voice | Y                                                    |
-| VoLTE                     | Y                                                    |
-| Fingerprint               | Status                                                    |
+| Camera                    | Y                                                         |
+| Speaker / Mic             | Y                                                         |
+| Bluetooth                 | Y                                                         |
+| WiFi                      | Y                                                         |
+| SIM / Mobile Data / Voice | Y                                                         |
+| VoLTE                     | Y                                                         |
+| Fingerprint               | Y                                                         |
+| Flashlight                | Y                                                         |
 | NFC                       | Status                                                    |
 | Offline Charging          | Status                                                    |
 ---
 
-Tested By: surya580 - Firmware: 94 - 18/01/2021
+Tested By: surya580 on firmware 94 with system-roar-arm64-ab-gapps.img.xz (300.l) on 18th January 2021
