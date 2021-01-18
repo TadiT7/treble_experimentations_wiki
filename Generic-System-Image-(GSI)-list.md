@@ -3,12 +3,13 @@
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Official Android 11
-|Download|Maintainer|ROM|Partition Style|Architecture|
+|Thread/Download|Maintainer|ROM|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[Here](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|AOSP|A - A/B|arm - arm64 - binder|
-|[Here](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|Google GSI|A/B|arm64 - x86|
-|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Here](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
-|[Here](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
+|[Download](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|AOSP|A - A/B|arm - arm64 - binder|
+|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|Google GSI|A/B|arm64 - x86|
+|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
+|[Download](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
+|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|TipzTeam1|Corvus OS|A - A/B|arm64|
 
 
 ## Unofficial Android 11:
@@ -16,7 +17,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm64|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
-|Corvus OS|Tipz Team|[Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A/B|arm64|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 
 ## Official Android 10:
