@@ -68,6 +68,7 @@
 
 ##
 Tested By: @asrieldashie ; January 20 2021
+##
 Unofficial TWRP and stock system image can be found [here](https://m.gamer.com.tw/forum/C.php?bsn=60559&snA=50050)(Trad. Chinese)
 ##
 Template created by @zguithues and @hackintosh5
