@@ -1,4 +1,4 @@
-# [Nokia 8.3 5G] - [BGT]
+# [Nokia 8.3 5G] - [BabyGroot / BGT]
 
 ## Hardware Support (Android 11)
 
