@@ -10,7 +10,7 @@
 | WiFi                      | √                                                         |
 | NFC                       | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | √                                                         |
+| VoLTE                     | ×                                                         |
 | Fingerprint               | √                                                         |
 | 5G                        | ?                                                         |
 
