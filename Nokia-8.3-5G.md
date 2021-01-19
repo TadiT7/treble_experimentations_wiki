@@ -12,7 +12,7 @@
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | ×                                                         |
 | Fingerprint               | √                                                         |
-| 5G                        | ?                                                         |
+| 5G                        | √                                                         |
 
 
 ## Additional Notes
