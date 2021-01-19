@@ -66,6 +66,30 @@
 * Clear data and cache before reboot into system
 * Done !
 
+# Tested GSIs
+
+## Boots
+
+* [phh aosp Q](https://github.com/phhusson/treble_experimentations/releases/tag/v222)
+* [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)
+* [HavocOS](https://sourceforge.net/projects/havoc-os/files/arm64-aonly/)
+* [BlessRoms](https://sourceforge.net/projects/treblerom/files/BLESS)
+* [All Diust's GSI except RR](https://sourceforge.net/projects/androidgsi/files/)
+* [All eremitein's GSI except CAOS Q and crDroid builds](https://sourceforge.net/projects/treblerom/files/)
+* [Descendant X (A10 Builds are removed)](https://downloads.descendant.me/)
+
+## Not booting
+
+* All Android 11 GSI
+* All non phh-based GSI
+* [Diust's RR 8.6.5](https://sourceforge.net/projects/androidgsi/files/ResurrectionRemixOS/RRQ_8.6.5/Resurrection_Remix_8.6.5_arm64-a_vanilla.img.xz/download)
+
+## Untested
+
+* All [Pie](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#official-android-9-pie) and Oreo GSI
+* [CAOS Q](https://sourceforge.net/projects/treblerom/files/CAOS/2020.10.29/caos-v224-201029-arm64-agN.img.xz/download)
+* [crDroid](https://sourceforge.net/projects/treblerom/files/crDRom/2020.10.19/crdrom-v224-201019-arm64-agN.img.xz/download)
+
 ##
 Tested By: @asrieldashie ; January 20 2021
 ##
