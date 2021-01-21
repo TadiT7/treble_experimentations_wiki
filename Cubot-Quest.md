@@ -20,7 +20,8 @@ $ fastboot flashing unlock
 
 * Now press Vol+ to confirm unlocking
  ```
-$ fastboot -w (will erase all data)
+$ fastboot -w (will erase all execpt userdata)
+$ fastboot -w (will erase all including userdata - first execution will not)
 $ fastboot flash system GSIimagefile.img
 $ fastboot reboot
  ```
@@ -74,7 +75,8 @@ $ fastboot flashing unlock
 
 **Perform the following steps without reboot, otherwise it results in non-booting SYSTEM**
  ```
-$ fastboot -w (will erase all data)
+$ fastboot -w (will erase all execpt userdata)
+$ fastboot -w (will erase all including userdata - first execution will not)
 $ fastboot flash boot <STOCKBOOT.img>
 $ fastboot flash system GSIimagefile.img
 $ fastboot --disable-verity --disable-verification flash vbmeta <VBMETA.img>
