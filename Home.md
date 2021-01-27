@@ -425,6 +425,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 10 Ultra]]|cas|✓|A/B|arm64|
 |[[Xiaomi Mi 10T / 10T Pro and Redmi K30s Ultra]]|apollo|✓|A/B|arm64|
 |[[Xiaomi Mi 10T Lite and Redmi Note 9 Pro]]|gauguin and gauguinpro|✓|A/B|arm64|
+[[Xiaomi Mi 10 Lite 5G]]|monet|✓|A|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
