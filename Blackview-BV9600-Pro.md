@@ -26,7 +26,7 @@ Tested phh's *AOSP 10 v208* (gapps&vanilla flavours)<br>
 * [BV9600 4PDA thread (ru)](https://4pda.ru/forum/index.php?showtopic=917008) with lot of infos / files (stock ROM, TWRP)
 * [SP Flash Tool Thread (ru)](https://4pda.ru/forum/index.php?showtopic=469340&st=26020)
 * [Magisk Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-* [My BV9600Pro's Overlay repo](https://github.com/Mel-kior/vendor_hardware_overlay/tree/master/Blackview/BV9600Pro/) (Help welcomed!)
+* [BV9600Pro's Overlay test repo](https://github.com/Mel-kior/vendor_hardware_overlay/tree/master/Blackview/BV9600Pro/) (Help welcomed!)
 * [Treble Info](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)
  
 ## Steps to install
@@ -70,8 +70,7 @@ You can probably flash the system with fastboot or SP Flash Tool directly but I 
 
 ## Hardware support
 
-| Component                 | Comment (tested by [@Mel-kior](https://github.com/Mel-kior)) |
-Comment (tested by [@AreYouLoco?](https://github.com/AreYouLoco)) | [Github Issues] |
+| Component                 | Comment (tested by [@Mel-kior](https://github.com/Mel-kior)) | Comment (tested by [@AreYouLoco?](https://github.com/AreYouLoco)) | [Github Issues] |
 |---------------------------|:---------------------------------------------------------:|:---------------------------------------------------------:|:------:|
 | Camera                    | Back: At least 1 Ok / Front: Ok                         | Back: Not working / Front: Ok                         |        |
 | Speaker / Microphone             | Main Speaker: Not working / "Call" Speaker: Ok / Mic: Ok     | Main Speaker: Not working / "Call" Speaker: Not tested / Mic: Ok     | [Link] |
