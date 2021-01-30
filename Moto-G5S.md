@@ -70,7 +70,7 @@ Suitable for daily usage, on Android 9, 10, and 11
 ## Android 11 Notes
 Any GSI from firmware collections will need [permissiver](https://androidfilehost.com/?fid=6006931924117940902) to boot, Phh's Roar GSI and Google's own Android 11 GSI don't need it.
 
-If Android 11 still doesn't boot, contact HowToRush over at [his chat](t.me/motoxchat) and ping @HowToRush and he will try to help you boot Android 11. 
+If Android 11 still doesn't boot, contact @HowToRush over in [his telegram](t.me/howtorush), he will try to help you boot Android 11. 
 
 Nusantara's official GSI _needs_ Magisk to boot.
 
