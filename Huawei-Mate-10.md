@@ -48,17 +48,17 @@ EMUI9 base with v222 system-quack-arm64-ab-vanilla.img
 | NFC                       | Works                                                    |
 | Offline Charging          | Unknown                                                    |
 
-EMUI9 base with v300.i system-roar-arm64-ab-vanilla.img
+EMUI9 base with v300.l system-roar-arm64-ab-vanilla.img
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Not working        |
+| Camera                    | Works        |
 | Speaker / Mic             | Works                                                    |
 | Bluetooth                 | Works                                                    |
-| WiFi                      | Not working                                                    |
+| WiFi                      | Works (Cannot connect to Wifi with WPA3-SAE enabled)                                                   |
 | SIM / Mobile Data / Voice | Works                                                    |
 | VoLTE                     | Unknown                                                    |
 | Fingerprint               | Works                                                    |
-| NFC                       | Not working                                                    |
+| NFC                       | Works                                                    |
 | Offline Charging          | Unknown                                                    |
 ---
 
