@@ -2,29 +2,28 @@
 
 ## Functions
 
-Camera                    : Work (Only center lens)
+Camera : Work (Only center lens)
 
-Speaker / Mic             : Work
+Speaker / Mic : Work(Need to enable 'Use alternate audio policy' and 'Disable audio effects' in Settings -> 'Phh Treble Settings')
 
-Bluetooth                 : Work
+Bluetooth : Work
 
-WiFi                      : Work
+WiFi : Work
 
-SIM                       : Work*
+SIM : Work(May need fix for some certain carriers such as ChinaUnicom and ChinaTelecom to solve SMS/MMS problems. I recommend to just flash [this](https://github.com/KhushrajRathod/VoLTE-Fix))
 
-VoLTE                     : Work
+VoLTE : Work
 
-Fingerprint               : Work
+Fingerprint : Work
 
-NFC                       : Work
+NFC : Work
 
-Offline Charging          : Not tested
+Offline Charging : Not tested
 
-5G                        : Not tested
+5G : Not tested
 
-
-
-*May need fix for some certain carriers such as ChinaUnicom and ChinaTelecom to solve SMS/MMS problems. I recommend to just flash [this](https://github.com/KhushrajRathod/VoLTE-Fix).
+***
 
 Tested By Sosueyakiko
+
 Based on MIUI China 12.0.5(Stable)
