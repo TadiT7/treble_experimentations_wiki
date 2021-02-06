@@ -4,40 +4,38 @@
 ## Steps to install
 **NOTE: If you want to install Magisk follow the steps below before proceeding with the installation of these GSI's
 * With Android Debugging (ADB) enabled reboot to recovery via PC.
-     `$ adb reboot recovery`
-* Wipe Data/ Factory reset in stock recovery.
-* Reboot to bootloader (fastboot).
+     `$ adb reboot bootloader`
 * Check if device is connected via PC:
     `$ fastboot devices`
 * If device is connected:
+    `$ fastboot erase userdata`
     `$ fastboot erase system`
 * flash this image with the `fastboot` utility:
     `$ fastboot flash system system.img`
 
 ## Hardware support
 
-| Component                 | LineageOS 17.1 20200111   | AOSP 10.0 v209                 | LineageOS 17.1 20200920   |
-|---------------------------|---------------------------|--------------------------------|---------------------------
-| Wireless Charging/Charging| Working                   | Working                        | Working                   |
-| GPS                       | Working                   | Not tested                     | Working                   |
-| Camera                    | Working, not second camera| Working, Front Cam Decent      | Working, not second camera|
-| Speaker / Mic             | Working                   | Working                        | Working                   |
-| Bluetooth                 | Working                   | Working                        | Working                   |
-| WiFi                      | Working                   | Working                        | Working                   |
-| SIM / Mobile Data / Voice | Working, tested SIM1 only | Not Tested                     | Working, tested SIM1 only |
-| Fingerprint               | Working                   | Not Working                    | Working                   |
-| Micro SD Card             | Working, tested with 128GB A2| Not working                 | Working, tested with 128GB A2 |
-| GApps                     | Working                   | Not tested                     | Not working (Installation Fails) |
-| microG                    | Not tested                | Not tested                     | Working                   |
-| Magisk                    | Working                   | Working                        | Working                   |
+| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300I (FOSS)         |
+|---------------------------|---------------------------|--------------------------------|
+| Wireless Charging/Charging| Working                   | Working                        |
+| GPS                       | Working                   | Working                    |
+| Camera                    | Working, not second camera| Working, Front Cam Decent      |
+| Speaker / Mic             | Working                   | Working                        |
+| Bluetooth                 | Working                   | Working                        |
+| WiFi                      | Working                   | Working                        |
+| SIM / Mobile Data / Voice | Working, tested SIM1 only | Working                        |
+| Fingerprint               | Working                   | Working                        |
+| Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2  |
+| GApps                     | Not working                  | Not tested                     |
+| microG                    | Not working                | Included, working              |
+| Magisk                    | Not working                   | phh-su, no magisk              |
 ---
 
 ## Additional Information
   * This device is A/B with VNDK version 28.0, choose arm64-ab when downloading an image.
-  * Install Latest version of magisk by patching boot image.
-  * Boot image for lineage 17.1 is in 
+  * Magisk not working. phh-su working.
   * Flashed image via fastboot. Could not get TWRP working
-### Magisk Installation (via patched boot.img)
+### Magisk Installation (via patched boot.img) (Android 10.1/LineageOS 17.1 only)
   * Enable Android Debugging (ADB) and get into device via Terminal/Console.
      `$ adb shell`
   * Run the below command to extract the boot image:
@@ -47,7 +45,7 @@
      `$ fastboot flash boot patched_boot.img`
 ### GApps
   * Installed GApps onto Unofficial Lineage OS GSI 20200111 by copying play services and play store apk's to `system/priv-app/`
-### microG
+### microG (Android 10.1/LineageOS 17.1 only)
   * To get microG working properly (Must have Magisk  completely installed and android debugging (ADB) enabled with rooted debugging enabled.
   * Installed microG onto Unofficial Lineage OS GSI 20200920. Follow official microG installation instructions from their page plus minor changes listed below.
   * Connect phone to PC and open a console/terminal and run:
@@ -58,8 +56,10 @@
      `# pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE`
   * Reboot.
 ## Test Results
+  *  LineageOS 18.1 20210111, Boots - Results above.
+  *  AOSP 11.0 v300I (FOSS), Boots - Results above.
   *  Lineage 17.1 20200111, Boots - Results above.
-  *  AOSP10v209  Boots (Goes into bootloop if Factory resent is done via AOSP) - Results above.
-  *  Lineage 17.1 20200920, Boots - Results above.
+## Notes
+  *  Signature spoofing not working on LineageOS 18.1/ Cannot manually patch either.
 
-Tested By: nobody666 - BV9500 Plus, 2020.02.20 - Template created by @zguithues and @hackintosh5
+Tested By: nobody666 - BV9500 Plus, 2021.02.05
