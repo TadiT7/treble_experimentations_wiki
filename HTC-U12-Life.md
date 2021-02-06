@@ -76,14 +76,17 @@
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)
 * [HavocOS](https://sourceforge.net/projects/havoc-os/files/arm64-aonly/)
 * [BlessRoms](https://sourceforge.net/projects/treblerom/files/BLESS)
-* [All Diust's GSI except RR](https://sourceforge.net/projects/androidgsi/files/)
-* [All eremitein's GSI except CAOS Q and crDroid builds](https://sourceforge.net/projects/treblerom/files/)
+* [Diust's GSI](https://sourceforge.net/projects/androidgsi/files/)
+* [eremitein's GSI](https://sourceforge.net/projects/treblerom/files/)
 
 ## Not booting
 
 * All non phh-based GSI
 * Non vndk-lite
 
+## Untested
+
+* [CAOS R](https://sourceforge.net/projects/treblerom/files/CAOS/)
 
 ##
 Tested By: @asrieldashie ; Feb 7 2021
