@@ -15,7 +15,7 @@
 
 ## Hardware support
 
-| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300I (FOSS)         |
+| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300.m (FOSS)         |
 |---------------------------|---------------------------|--------------------------------|
 | Wireless Charging/Charging| Working                   | Working                        |
 | GPS                       | Working                   | Working                    |
@@ -57,7 +57,7 @@
   * Reboot.
 ## Test Results
   *  LineageOS 18.1 20210111, Boots - Results above.
-  *  AOSP 11.0 v300I (FOSS), Boots - Results above.
+  *  AOSP 11.0 v300.m (FOSS), Boots - Results above.
   *  Lineage 17.1 20200111, Boots - Results above.
 ## Notes
   *  Signature spoofing not working on LineageOS 18.1/ Cannot manually patch either.
