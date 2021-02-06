@@ -70,7 +70,8 @@
 
 ## Boots
 
-* [phh aosp Q](https://github.com/phhusson/treble_experimentations/releases/tag/v222)
+* [phh AOSP R](https://github.com/phhusson/treble_experimentations/releases)
+* [phh AOSP Q](https://github.com/phhusson/treble_experimentations/releases/tag/v222)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)
 * [HavocOS](https://sourceforge.net/projects/havoc-os/files/arm64-aonly/)
 * [BlessRoms](https://sourceforge.net/projects/treblerom/files/BLESS)
@@ -80,7 +81,6 @@
 
 ## Not booting
 
-* All Android 11 GSI
 * All non phh-based GSI
 * [Diust's RR 8.6.5](https://sourceforge.net/projects/androidgsi/files/ResurrectionRemixOS/RRQ_8.6.5/Resurrection_Remix_8.6.5_arm64-a_vanilla.img.xz/download)
 
