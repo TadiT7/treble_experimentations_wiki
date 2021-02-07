@@ -1,3 +1,7 @@
+PLEASE NOTE, all information below is written on May 2020 and is totally outdated!
+
+***
+
 **Tested on:**
 - phh's AOSP v212, both vanilla and gappsed
 - AndyYan's LOS v17.1-20200227 
