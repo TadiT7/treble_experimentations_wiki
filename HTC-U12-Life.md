@@ -31,7 +31,7 @@
 
 * Little chance stucks at lockscreen when trying to unlock
 
-* System UI frozes frequently on some GSI (Try delete `/System/app/NFCsci` through root explorer or TWRP
+* System UI frozes frequently on some GSI (Try delete `/System/app/NfcNci` through root explorer or TWRP
 
 ## Requirements
 
