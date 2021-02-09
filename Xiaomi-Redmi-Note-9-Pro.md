@@ -28,4 +28,6 @@
 
 - Random flickering, flickering when changing the brightness / using Adaptive Brightness. Force alternate backlight scale from `Phh Treble Settings > Misc features`
 
+- Because this is a GSI the notch isn't fully detected. While on default DPI everything looks okay, on higher DPI will cover a little bit of the notification shade
+
 If you find any bugs/fixes feel free to edit this page.
