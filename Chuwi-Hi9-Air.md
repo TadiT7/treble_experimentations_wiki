@@ -54,4 +54,5 @@ Restore Chuwi stock ROM via the MTK [SP Flash](https://forum.xda-developers.com/
 ---
 
 Tested by bofh2k - phh-treble 8.1 GSI v32 & 9 GSI v123 (arm64-aonly-vanilla-nosu) - 2020-02-29
-Tested by santosst3 - phh-treble quack GSI v222 & roar GSI v300.l (arm64-aonly-vanilla) - 2021-02-8
+
+Tested by santosst3 - phh-treble quack GSI v222 & roar GSI v300.l (arm64-aonly-vanilla) - 2021-02-08
