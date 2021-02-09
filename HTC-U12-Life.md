@@ -31,7 +31,9 @@
 
 * Little chance stucks at lockscreen when trying to unlock
 
-* System UI frozes frequently on some GSI (Try delete `/System/app/NfcNci` through root explorer or TWRP
+* System UI freezes frequently on some GSI (Try delete `/System/app/NfcNci` through root explorer or TWRP
+
+* System nearly freezes in ringtone selection window (only on R)
 
 ## Requirements
 
