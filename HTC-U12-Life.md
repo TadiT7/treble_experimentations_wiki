@@ -70,10 +70,10 @@
 
 ## Boots
 
-* [phh AOSP R](https://github.com/phhusson/treble_experimentations/releases)
+* [phh AOSP (both Q & R)](https://github.com/phhusson/treble_experimentations/releases)
+* [CAOS R](https://sourceforge.net/projects/treblerom/files/CAOS/)
 * [Descendant XI (vndklite)](https://downloads.descendant.me/)
-* [phh AOSP Q](https://github.com/phhusson/treble_experimentations/releases/tag/v222)
-* [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)
+* [LineageOS (both 17.1 & 18)](https://sourceforge.net/projects/andyyan-gsi/files)
 * [HavocOS](https://sourceforge.net/projects/havoc-os/files/arm64-aonly/)
 * [BlessRoms](https://sourceforge.net/projects/treblerom/files/BLESS)
 * [Diust's GSI](https://sourceforge.net/projects/androidgsi/files/)
@@ -83,10 +83,11 @@
 
 * All non phh-based GSI
 * Non vndk-lite
+* [AlphaROM](https://alpha.droidstars.com/)
 
 ## Untested
 
-* [CAOS R](https://sourceforge.net/projects/treblerom/files/CAOS/)
+None
 
 ##
 Tested By: @asrieldashie ; Feb 7 2021
