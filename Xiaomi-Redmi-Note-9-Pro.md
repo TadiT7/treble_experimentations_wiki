@@ -16,7 +16,9 @@
 | Offline Charging | Working |
 | IR blaster | Working |
 | ExFat Support | Working|
-| VoLTE | Not Working |
+| VoLTE | Working |
+
+ Working |
 | Notch and rounded corners detection | Partially |
 | Auto-brightness | Working |
 
@@ -29,5 +31,7 @@
 - Random flickering, flickering when changing the brightness / using Adaptive Brightness. Force alternate backlight scale from `Phh Treble Settings > Misc features`
 
 - Because this is a GSI the notch isn't fully detected. While on default DPI everything looks okay, on higher DPI will cover a little bit of the notification shade
+
+- For VoLTE to work install IMS apk from `Phh Treble Settings > IMS features` and check `Force the presence of 4G calling.
 
 If you find any bugs/fixes feel free to edit this page.
