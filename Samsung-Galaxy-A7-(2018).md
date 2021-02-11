@@ -12,7 +12,7 @@ Summary of what works and doesn't
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Not working                                                    |
+| Camera                    | Working                                                |
 | Speaker / Mic             | Working                                                    |
 | Bluetooth                 | Working                                                    |
 | WiFi                      | Working                                                    |
@@ -21,7 +21,7 @@ Summary of what works and doesn't
 | VoLTE                     | Not working                                                    |
 | Fingerprint               | Working                                                    |
 | NFC                       | Working 
-| Hotspot / Usb tethering   | Not Working                                           |
+| Hotspot / Usb tethering   | Working                                           |
 ---
 
 Tested By: ozon - SM-A750FN(DBT), Firmware Version AOSP 9.0 v110 - Template created by @zguithues and @hackintosh5
