@@ -7,6 +7,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|
 |[Download](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|AOSP|A - A/B|arm - arm64 - binder|
 |[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|Google GSI|A/B|arm64 - x86|
+|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) / [Download](https://havoc-os.com/download.html)|xEugW|Havoc|A - A/B|arm - arm64 - binder|
 |[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
 |[Download](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
 |[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|TipzTeam1|Corvus OS|A - A/B|arm64|
