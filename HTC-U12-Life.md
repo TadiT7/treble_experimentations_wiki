@@ -1,4 +1,5 @@
 ## HTC U12 Life
+![](https://s.yimg.com/zp/MerchandiseImages/FBFAD7ACDB-SP-6410389.jpg)
 
 ## Hardware support
 
