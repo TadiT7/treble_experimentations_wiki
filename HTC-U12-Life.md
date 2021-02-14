@@ -1,4 +1,4 @@
-# HTC U12 Life
+## HTC U12 Life
 
 ## Hardware support
 
