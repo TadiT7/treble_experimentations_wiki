@@ -173,6 +173,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Lenovo K8 Note]]|manning||A|arm64|
 |[[Lenovo P2]]|kuntao||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
+|[[Lenovo Smart Tab M8]]|anna_row_call||A/B|arm64|
 |[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
 |[[Lenovo Vibe A Plus]]|a1010a20||A|arm|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
