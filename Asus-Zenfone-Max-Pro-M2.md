@@ -28,12 +28,14 @@
 
 None yet.
 
+##
+_Please tell me if official Q beta works or not, I only tested on official Pie_
+##
+
 ## Requirements
 
 * [TWRP](https://dl.twrp.me/X01BD/) or any other custom recovery
-* Any custom rom that supports treble (In this case I used [LegionOS R](https://legionos.org/) for example.)
-_Please tell me if official Q beta works or not, I only tested on official Pie_
-
+* Any custom rom that supports treble (In this case I used [LegionOS R](https://legionos.org/) for testing.)
 * Arm64 AB Image
 
 ## Installation
