@@ -1,1 +1,0 @@
-### Welcome to phh wiki! We are currently having issues on some pages. Please be patient while we fix!
