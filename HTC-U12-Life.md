@@ -86,7 +86,6 @@
 
 * All non phh-based GSI
 * Non vndk-lite
-* [AlphaROM](https://alpha.droidstars.com/)
 
 ## Untested
 
