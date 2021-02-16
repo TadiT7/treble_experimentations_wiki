@@ -32,8 +32,7 @@ None yet.
 
 * [TWRP](https://dl.twrp.me/X01BD/) or any other custom recovery
 * Any custom rom that supports treble (In this case I used [LegionOS R](https://legionos.org/) for example.)
-
-* _Please tell me if official Q beta works or not, I only tested on official Pie_
+_Please tell me if official Q beta works or not, I only tested on official Pie_
 
 * Arm64 AB Image
 
