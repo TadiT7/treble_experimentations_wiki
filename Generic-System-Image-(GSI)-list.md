@@ -12,7 +12,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |[Download](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
 |[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|TipzTeam1|Corvus OS|A - A/B|arm64|
 
-
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -24,6 +23,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
 |Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
 |Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
