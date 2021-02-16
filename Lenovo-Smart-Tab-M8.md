@@ -29,6 +29,8 @@ Full 64 bit armv8
 
 ### PHH AOSP 11.0 v300.m:
 
+⚠️ Will bootloop if secure boot (enabled by agreeing to it while configuring a protected lockscreen) is not enabled
+
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | MicroSD                   | Working                                                   |
@@ -48,6 +50,7 @@ Full 64 bit armv8
 | Offline Charging          | Broken (freezes on unlocked bootloader warning)           |
 | Root                      | Working (PHH Superuser)                                   |
 | First boot                | < 3 minutes                                               |
+
 ---
 
-Tested By: Ryccardo (@rboninsegna) - TB-8505XS ZA5D0038SE (Swedish model sold in Italy), official firmware TB_8505XS_S300088_201220_BMP - 2021.2.15
+Tested By: Ryccardo (@rboninsegna) - TB-8505XS ZA5D0038SE (Swedish model sold in Italy), official firmware TB_8505XS_S300088_201220_BMP - 2021.2.16
