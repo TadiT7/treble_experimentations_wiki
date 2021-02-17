@@ -27,19 +27,19 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 | WiFi                      | Working                              | Working                       |working|
 | SIM / Mobile Data / Voice | Working                              | Working                       |working|
 | VoLTE                     | Working with [Patch]                 | Working with [Patch]          |not tested, ask on telegram|
-| Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |same as android  and 10|
+| Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |same as android 9 and 10|
 | Magisk           | Working after [patching boot image](https://patcher.yaalex.tk) | Working after [patching boot image](https://patcher.yaalex.tk)                      | not tested, ask on telegram |
 | Root (phh-su) | Working | Working | working |
-| Adoptable Storage         | Working                              | Working                       |
+| Adoptable Storage         | Working                              | Working                       |bot tested|
 ---
 
 additional info:
 - fm radio also working in gsis, using magisk module.
-
+- for good performance, i suggest you to use latest arm64 vendor and cherry kernel
 Tested By: 
 - @KhushrajRathod: VoLTE, Adopted Storage, Camera, Root, Magisk, Offline Charging 
 - Ralph Garcia: Other features
-   
+   - vytska69 and redmi 7a comunity for testing arm64 with cherry kernel
 Tested Roms:
 - [10] Phhusson's AOSP 10.0 v222
 - [10] Havoc Os 3.8
