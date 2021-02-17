@@ -19,19 +19,22 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 
 ## Hardware support
 
-| Component                 |      Pie                             |              10                |
-|---------------------------|--------------------------------------|--------------------------------|
-| Camera                    | Video recording broken after 24 hours| Working from v220 onwards, can be fixed using treble settings from v217 onwards |
-| Speaker / Mic             | Working                              | Working                       |
-| Bluetooth                 | Working                              | Working                       |
-| WiFi                      | Working                              | Working                       |
-| SIM / Mobile Data / Voice | Working                              | Working                       |
-| VoLTE                     | Working with [Patch]                 | Working with [Patch]          |
-| Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |
-| Magisk           | Working after [patching boot image](https://patcher.yaalex.tk) | Working after [patching boot image](https://patcher.yaalex.tk)                      |
-| Root (phh-su) | Working | Working |
+| Component                 |      Pie                             |              10                |11
+|---------------------------|--------------------------------------|--------------------------------|-----------------------
+| Camera                    | Video recording broken after 24 hours| Working from v220 onwards, can be fixed using treble settings from v217 onwards |working|
+| Speaker / Mic             | Working                              | Working                       |working|
+| Bluetooth                 | Working                              | Working                       |working|
+| WiFi                      | Working                              | Working                       |working|
+| SIM / Mobile Data / Voice | Working                              | Working                       |working|
+| VoLTE                     | Working with [Patch]                 | Working with [Patch]          |not tested, ask on telegram|
+| Offline Charging          | Working, hard reboot requried to reach system | Working, hard reboot requried to reach system |same as android  and 10|
+| Magisk           | Working after [patching boot image](https://patcher.yaalex.tk) | Working after [patching boot image](https://patcher.yaalex.tk)                      | not tested, ask on telegram |
+| Root (phh-su) | Working | Working | working |
 | Adoptable Storage         | Working                              | Working                       |
 ---
+
+additional info:
+- fm radio also working in gsis, using magisk module.
 
 Tested By: 
 - @KhushrajRathod: VoLTE, Adopted Storage, Camera, Root, Magisk, Offline Charging 
@@ -41,7 +44,7 @@ Tested Roms:
 - [10] Phhusson's AOSP 10.0 v222
 - [10] Havoc Os 3.8
 - [10] Bliss os
-        
+        -  [11] LineageOs and PHH roar
 Template created by @zguithues and @hackintosh5
 
 [Patch]: https://github.com/KhushrajRathod/VoLTE-Fix
