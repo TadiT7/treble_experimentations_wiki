@@ -1,6 +1,13 @@
 What's working?
 
-Telephony (Phone, SMS), Dual SIM, Wi-Fi, Bluetooth, Fingerprint, Camera, OTG, etc.
+* Telephony (Phone, SMS)
+* Dual SIM
+* Wi-Fi
+* Bluetooth
+* Fingerprint
+* Camera
+* OTG
+* etc.
 
 What's not working?
 * MTP
@@ -10,7 +17,7 @@ GSI Build Tested :
 * AOSP 10 v222 A/B arm32_binder64 gapps
 * AOSP 11 v300.l A/B arm32_binder64 gapps
 * LineageOS 17.1 20210114 A/B arm32_binder64
-* LineageOS 18.1 202101 and 20210212 A/B arm32_binder64 vndklite
+* LineageOS 18.1 20210111 and 20210212 A/B arm32_binder64 vndklite
 
 Baseband version : 
 * A107FXXU7BTI8 (Android 10 vendor, Binary 7, Indonesian firmware)
@@ -34,4 +41,4 @@ How to compress with lz4 and build tar.md5 : [here](https://forum.xda-developers
 (Step 5 - 23)
 
 Update #1
-TWRP for A10s finally available! You just need to flash it via Odin, then flash the GSI with it. More info at our Telegram group t.me/a107X
+TWRP for A10s finally available! You just need to flash it via Odin, then flash the GSI with it. More info at our Telegram group [here](t.me/a107X)
