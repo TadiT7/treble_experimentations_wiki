@@ -41,4 +41,4 @@ How to compress with lz4 and build tar.md5 : [here](https://forum.xda-developers
 (Step 5 - 23)
 
 Update #1
-TWRP for A10s finally available! You just need to flash it via Odin, then flash the GSI with it. More info at our Telegram group [here](t.me/a107X)
+TWRP for A10s finally available! You just need to flash it via Odin, then flash the GSI with it. More info at our Telegram group [here](http://t.me/a107X)
