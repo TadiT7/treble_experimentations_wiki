@@ -44,7 +44,8 @@ Tested Roms:
 - [10] Phhusson's AOSP 10.0 v222
 - [10] Havoc Os 3.8
 - [10] Bliss os
-        -  [11] LineageOs and PHH roar
+        - [11] LineageOs and PHH roar
+
 Template created by @zguithues and @hackintosh5
 
 [Patch]: https://github.com/KhushrajRathod/VoLTE-Fix
