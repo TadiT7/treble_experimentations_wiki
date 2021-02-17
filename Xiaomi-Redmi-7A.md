@@ -42,7 +42,9 @@ additional info:
 Tested By: 
 - @KhushrajRathod: VoLTE, Adopted Storage, Camera, Root, Magisk, Offline Charging 
 - Ralph Garcia: Other features
-   - vytska69 and redmi 7a comunity for testing arm64 with cherry kernel
+- vytska69 and redmi 7a comunity: arm64 with cherry kernel
+---
+
 Tested Roms:
 - [10] Phhusson's AOSP 10.0 v222
 - [10] Havoc Os 3.8
