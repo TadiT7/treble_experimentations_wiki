@@ -1,4 +1,4 @@
-# [Nubia mini 5G] - [TP1803]
+# [Nubia Mini 5G] - [TP1803]
 
 ## Hardware Support (Android 10)
 
