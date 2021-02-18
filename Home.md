@@ -416,7 +416,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 10 Ultra]]|cas|✓|A/B|arm64|
 |[[Xiaomi Mi 10T / 10T Pro and Redmi K30s Ultra]]|apollo|✓|A/B|arm64|
 |[[Xiaomi Mi 10T Lite and Redmi Note 9 Pro]]|gauguin and gauguinpro|✓|A/B|arm64|
-[[Xiaomi Mi 10 Lite 5G]]|monet|✓|A/B|arm64|
+|[[Xiaomi Mi 10 Lite 5G]]|monet|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
@@ -424,17 +424,18 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Max 2]]|oxygen||A|arm64|
 |[[Xiaomi Mi Max 3]]|nitrogen|✓|A|arm64|
 |[[Xiaomi Mi MIX]]|lithium||A|arm64|
-|[[Xiaomi Mi MIX 2]]|chiron||A|arm64|
+|[[Xiaomi Mi MIX 2]]|chiron||A (A/B when updated to Android 11)|arm64|
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Note 10 / CC9 Pro]]|tucana|✓|A/B|arm64|
+|[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus||A|arm64|
 |[[Xiaomi Pocophone F1 (Poco F1)]]|beryllium|✓|A|arm64|
-|[[Xiaomi Poco X3/NFC]]|surya (global, Poco X3 NFC) and karna (India, Poco X3 non-NFC)|✓|A/B|arm64|
+|[[Xiaomi Poco X3 and X3 NFC]]|karna (India, non-NFC) and surya (global, NFC)|✓|A/B|arm64|
 |[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
@@ -445,28 +446,37 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 5A]]|riva||A|arm64|
 |[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
+|[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
 |[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64 arm64|
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
 |[[Xiaomi Redmi 8A]]|olivelite|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 9 / Prime]]|lancelot|✓|A/B|arm64|
+|[[Xiaomi Redmi 9A / 9AT]]|dandelion|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 9C]]|angelica|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 10X / Note 9]]|merlin|✓|A/B|arm64|
+|[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
+|[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi K20 / Mi 9T]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro / Mi 9T Pro]]|raphael|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro Premium]]|raphael|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 / Poco X2]]|phoenix|✓|A/B|arm64|
-|[[Xiaomi Redmi K30 5G]]|picasso|✓|A/B|arm64|
-|[[Xiaomi Redmi K30 Pro / Zoom Edition / Poco F2 Pro]]|lmi|✓|A/B|arm64|
+|[[Xiaomi Redmi K30 5G / K30i 5G]]|picasso|✓|A/B|arm64|
+|[[Xiaomi Redmi K30 Pro / Poco F2 Pro]]|lmi|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Ultra]]|cezanne|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
-|[[Xiaomi Redmi Note 5A]]|ugg and ugglite| |A/B|arm64|
+|[[Xiaomi Redmi Note 5A / Prime and 5A Lite]]|ugg and ugglite| |A/B|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9S]]|curtana|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
