@@ -253,14 +253,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia C3]]|GamoraPlus / GMR|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
-|[[Nubia mini 5G]]|TP1803|✓|A/B|arm64|
-|[[Nubia Red Magic]]|nx609j|✓|A|arm64|
-|[[Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
-|[[Nubia Z9 Max]]|nx512j||A|arm64|
-|[[Nubia Z9 Mini]]|nx511j||A|arm64|
-|[[Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
-|[[Nubia Z18]]|nx606j||A|arm64|
-|[[Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
@@ -481,8 +473,18 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE A530]]|p639t10||A|arm64|
 |[[ZTE Axon 7]]|axon7 / ailsa_ii||A|arm64|
 |[[ZTE Axon 10 Pro]]|n/a|✓|A/B|arm64|
+|[[ZTE Blade 20 Smart]]|n/a|✓|A/B|arm64|
 |[[ZTE Blade A3 (2019)]]|z3051t|✓|A/B|arm_binder64|
+|[[ZTE Blade A7 (2020)]]|n/a|✓|A/B|arm_binder64|
 |[[ZTE Blade V9]]|p450f10||A|arm64|
 |[[ZTE Blade V9 Vita]]|p840f03||A|arm64|
 |[[ZTE Blade V10]]|n/a|✓|A/B|arm64|
+|[[ZTE Nubia Mini 5G]]|tp1803|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
+|[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
+|[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
+|[[ZTE Nubia Z9 Mini]]|nx511j||A|arm64|
+|[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
+|[[ZTE Nubia Z18]]|nx606j||A|arm64|
+|[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
