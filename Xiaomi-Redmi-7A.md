@@ -36,7 +36,7 @@ https://forum.xda-developers.com/redmi-7a/how-to/custom-gsi-firmware-t3965820
 additional info:
 - fm radio also working in gsis, using magisk module.
 
-- for good performance, i suggest you to use latest arm64 vendor and [cherry kernel]
+- for good performance, i suggest you to use latest [arm64 vendor] and [cherry kernel]
 
 ---
 
@@ -57,3 +57,4 @@ Template created by @zguithues and @hackintosh5
 
 [Patch]: https://github.com/KhushrajRathod/VoLTE-Fix
 [cherry kernel]: https://androidfilehost.com/?fid=17248734326145738587
+[arm64 vendor]: https://drive.google.com/uc?id=1C5d4iDzF94LVHmJ0MWNwIpGPgWX10Y6e&export=download
