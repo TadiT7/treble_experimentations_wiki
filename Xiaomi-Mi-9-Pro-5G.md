@@ -4,7 +4,7 @@
 
 Camera : Work (Only center lens)
 
-Speaker / Mic : Work(Need to enable 'Use alternate audio policy' and 'Disable audio effects' in Settings -> 'Phh Treble Settings')
+Speaker / Mic : Work(Need to enable "Use alternate audio policy" and "Disable audio effects" in Settings -> "Phh Treble Settings")
 
 Bluetooth : Work
 
@@ -30,13 +30,13 @@ Offline Charging : Not tested
 
 Camera : Work (Only center lens)
 
-Speaker / Mic : Work(Need to enable 'Use alternate audio policy' and 'Disable audio effects' in Settings -> 'Phh Treble Settings')
+Speaker / Mic : Work(Need to enable "Use alternate audio policy" and "Disable audio effects" in Settings -> "Phh Treble Settings")
 
 Bluetooth : Work
 
 WiFi : Work
 
-SIM : Work(Instead of flashing fix-patch manually, just use'Install IMS APK for Qualcomm vendor' in Settings -> 'Phh Treble Settings' -> 'IMS Features')
+SIM : Work(Instead of flashing fix-patch manually, just use "Install IMS APK for Qualcomm vendor" in Settings -> "Phh Treble Settings" -> "IMS Features")
 
 VoLTE : Not working
 
