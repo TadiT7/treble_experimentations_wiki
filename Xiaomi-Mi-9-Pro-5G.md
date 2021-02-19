@@ -48,7 +48,7 @@ Offline Charging : Not tested
 
 5G : Not tested
 
-*Note: If you do a straight update from Android 10, the system's Package Installer may be broken. Either choose a factory reset after flashing or use SAI from Play Store as an alternative installer.
+*Note: If you do a straight update from Android 10, the system's Package Installer may be broken. Either choose a factory reset after flashing or SAI from Play Store as an alternative installer.
 
 
 ***
