@@ -106,7 +106,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[HTC U11]]|ocn||A|arm64|
 |[HTC U11 Life](https://github.com/phhusson/treble_experimentations/wiki/HTC-U11-life-(Android-One))|ocl|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
-|[[HTC U12 Life]]|imldugl|✓|A|arm64|
+|[[HTC U12 Life]]|iml|✓|A|arm64|
 |[[HTC U12 Plus]]|ime|✓|A/B|arm64|
 |[[Huawei Honor 6X]]|berlin / bln|✓|A|arm64|
 |[[Huawei Honor 7A]]|dua|✓|A|arm64|
