@@ -5,6 +5,7 @@
 
 * Camera
 > Working, but sometimes pictures taken on 3rd-party cam apps are darkened a lot.
+> Not working on some R gsi.
 
 * Fingerprint
 > Working
@@ -34,11 +35,11 @@
 
 * System UI freezes frequently on some GSI (Try delete `/System/app/NfcNci` through root explorer or TWRP
 
-* System nearly freezes in ringtone selection window (only on R)
+* System nearly freezes in ringtone selection window (only on R), fixed in some gsi like CAOS
 
 ## Requirements
 
-* An ARM64 A-Only (vndklite) image
+* An ARM64 A-Only image
 * TWRP ([Unofficial port](https://onedrive.live.com/redir?resid=F9B931D7BD8BE27F!21020&authkey=!AOpIrolXJBtxyw0))
 * [Google's platform tools](https://developer.android.com/studio/releases/platform-tools) extracted on your pc
 ##
