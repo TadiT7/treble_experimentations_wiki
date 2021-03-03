@@ -6,8 +6,8 @@ Works pretty good. Some issues here and there, some missing features, but mostly
 ## Steps to install
 Three possibilities :
 
-### Install using TWRP (Doesn't require unlock) [RECOMMENDED]
-1. [Install TWRP](https://sourceforge.net/projects/umidigi-mt6763-dev/files/TWRP/) into ``recovery`` using SPFT method
+### Install using TWRP or PBRP (Doesn't require unlock) [RECOMMENDED]
+1. [Install TWRP](https://sourceforge.net/projects/umidigi-mt6763-dev/files/TWRP/) or [Install PBRP](https://sourceforge.net/projects/umidigi-mt6763-dev/files/PBRP/) into ``recovery`` using SPFT method
 2. Boot into TWRP : Shut down the phone, press power + vol up. It will bring a menu, you can navigate using vol+ and select using vol-
 3. Use "install image" to install system.img into ``system``
 4. Use [install image](https://androidfilehost.com/?fid=6006931924117944358) to install vendor_treble_encryptable_a5PRO.img into ``vendor``
