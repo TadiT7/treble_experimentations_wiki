@@ -4,12 +4,12 @@
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | ×                                                         |
 
 ## Hardware Support (AOSP 10)
 | Component                 |      Comment                                              |
