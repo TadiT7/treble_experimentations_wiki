@@ -37,6 +37,8 @@
 
 When flashing, please ensure the vbmeta from WSP stock firmware need to be flashed with both disabling parameters as well.
 
+To fix the notch issue, choose Hide in developer options - Display cutout, then the rounded corners diameter in Phh Treble Settings - Misc features need to be configured to 11.
+
 Example:
 `fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/vbmeta.img`
 
