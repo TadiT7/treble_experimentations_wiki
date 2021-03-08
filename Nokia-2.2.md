@@ -12,25 +12,10 @@
 | VoLTE                     | ×                                                         |
 
 ## Hardware Support (AOSP 10)
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
+not done yet
 
 ## Hardware Support (AOSP 11)
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | TBD                                                         |
-| Speaker / Mic             | TBD                                                         |
-| Bluetooth                 | TBD                                                         |
-| WiFi                      | TBD                                                         |
-| SIM / Mobile Data / Voice | TBD                                                         |
-| VoLTE                     | TBD                                                         |
-
+not done yet
 
 ***
 ## Additional Notes
@@ -46,9 +31,5 @@ Example:
 
 ## Tested By:
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 2.2 (TA-1179) 00WW_1_680 (WSP-1680-0-00WW-B01) @ 8/3/2021
-
-AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 2.2 (TA-1179) 00WW_2_400 (WSP-1680-0-00WW-B01) @ 8/3/2021
-
-AOSP 11: * Calyx Hikari (HikariCalyx) @ Nokia 2.2 (TA-1179) 00WW_2_400 (WSP-1680-0-00WW-B01) @ 8/3/2021
 
 Template created by @zguithues
