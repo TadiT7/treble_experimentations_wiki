@@ -3,16 +3,16 @@
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Official Android 11
-|Thread/Download|Maintainer|ROM|Partition Style|Architecture|
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[Download](https://github.com/phhusson/treble_experimentations/releases)|Phhusson|AOSP|A - A/B|arm - arm64 - binder|
-|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|Google|Google GSI|A/B|arm64 - x86|
-|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) / [Telegram](https://t.me/havocgsi) / [Download](https://www.pling.com/p/1376076/#files-panel/)|xEugW|Havoc|A - A/B|arm - arm64 - binder|
-|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|eremitein|BlissROMs|A - A/B|arm - arm64 - binder|
-|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|eremitein|CAOS|A - A/B|arm - arm64 - binder|
-|[Download](https://downloads.descendant.me/)|Dil3mm4|Descendant XI|A - A/B|arm64|
-|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|TipzTeam1|Corvus OS|A - A/B|arm64|
-|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://www.pling.com/p/1486097/)|ankitkene|Ancient OS|A - A/B|arm - arm64|
+|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
+|Havoc|xEugW|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) / [Telegram](https://t.me/havocgsi) / [Download](https://www.pling.com/p/1376076/#files-panel/)|A - A/B|arm - arm64 - binder|
+|BlissROMs|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
+|CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
+|Descedant XI|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
+|Corvous OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
+|Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://www.pling.com/p/1486097/)|A - A/B|arm - arm64|
 
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
