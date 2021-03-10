@@ -1,8 +1,6 @@
-Phone 2 by Razer
-
-So here's the things that are not working for me:
-* SIM Card/VoLTE (on Verizon... others may have more luck on different carriers)
-* Bluetooth (moving or deleting BluetoothResCommon.apk from /vendor/overlay fixes Bluetooth immediately for audio (couldn't test phone calls since they don't work for me)
+Things that may (not) be working:
+* SIM Card/VoLTE (on certain carries such as Verizon)
+* Bluetooth (moving or deleting BluetoothResCommon.apk from /vendor/overlay fixes Bluetooth immediately for audio)
 * Compass
 
 ### Unlock the bootloader
@@ -89,15 +87,19 @@ Flash the entire phone to factory settings:
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✔️                                                     |
 | Speaker / Mic             | ✔️                                                     |
-| Bluetooth                 | ❌                                                     |
-| WiFi                      | ✔️                                                      |
-| SIM / Mobile Data / Voice | ❌ (tested on Verizon, YMMV)                             |
-| VoLTE                     | ❌                                                     |
+| Bluetooth                 | ❌ (fix by removing /vendor/overlayBluetoothResCommon.apk) |
+| WiFi                      | ✔️                                                     |
+| SIM / Mobile Data / Voice | Depends on carrier; ✔️ SmarTone; ❌ Verizon            |
+| VoLTE                     | Depends on carrier                                      |
 | Fingerprint               | ✔️                                                     |
 | NFC                       | ✔️                                                     |
 | Offline Charging          | ❌                                                     |
-| GPS             | ✔️                                                     |
-| Compass    |   ❌ 
+| GPS                       | ✔️                                                     |
+| Compass                   | ✔️ (YMMW)                                              |
 ---
 
-Tested By: translucentfocus- Phone 2 (Global), Android Version: P-SMR5-RC002-RZR-200910.3195 - Date tested: 11/10/2020 - Template created by @zguithues and @hackintosh5
+Tested By:
+* translucentfocus - Phone 2 (Global), Android Version: P-SMR5-RC002-RZR-200910.3195 - Date tested: 11/10/2020
+* haruki-taka8 - Phone 2 (Global), Android Version: P-SMR6-RC001-RZR-201022 - Date tested: 10/3/2021
+
+Template created by @zguithues and @hackintosh5
