@@ -41,6 +41,23 @@ Installation is as easy as it can get:
 | Automatic screen brightness | Not Working               | Works                        |
 
 
+## Hardware support (Android 11 GSI)
+
+| Component                 | coming from stock Android 10 |
+|---------------------------|------------------------------|
+| Camera                    | Works                        |
+| Speaker / Mic             | Works                        |
+| Bluetooth                 | Works                        |
+| A2DP                      | Not working, see [#1404](https://github.com/phhusson/treble_experimentations/issues/1404) |
+| WiFi                      | Works                        |
+| SIM / Mobile Data / Voice | Works                        |
+| VoLTE                     | Unknown, disabled in stock ROM |
+| Fingerprint               | Works                        |
+| Offline Charging          | Works                        |
+| GNSS                      | Works                        |
+| Display                   | Works                        |
+| Automatic screen brightness | Works                      |
+
 ## Stock ROMs
 
 Motorola stock ROMs are available here for the
