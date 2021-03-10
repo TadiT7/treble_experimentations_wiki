@@ -1,93 +1,67 @@
+Razer Phone 2 generally works fine with this Android 11.0.
+
 Things that may (not) be working:
 * SIM Card/VoLTE (on certain carries such as Verizon)
-* Bluetooth (moving or deleting BluetoothResCommon.apk from /vendor/overlay fixes Bluetooth immediately for audio)
+* Bluetooth (moving or deleting BluetoothResCommon.apk from /vendor/overlay fixes it)
 * Compass
 
-### Unlock the bootloader
-[Follow Razer's Instructions here](https://developer.razer.com/razer-phone-dev-tools/general-instructions/?_ga=2.262586380.1842452119.1605102124-783954625.1600236093?_ga=2.262586380.1842452119.1605102124-783954625.1600236093)
+## Steps to Install (Windows & Linux)
+* **Step 1:** Unlock bootloader\
+[Follow Razer's instructions](https://developer.razer.com/razer-phone-dev-tools/general-instructions/?_ga=2.262586380.1842452119.1605102124-783954625.1600236093?_ga=2.262586380.1842452119.1605102124-783954625.1600236093)<br/>
 
-## Steps to Install (Windows)
+* **Step 2:** Download firmwares\
+ [Phone 2 Stock Firmware](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)
+ [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)<br/>
 
-* Step 1\
-    Download [Phone 2 firmware Android Pie MR3 v3141](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)\
-    Download [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)
-* Step 2:
-Turn phone on in fastboot mode by holding volume down while powering on\
-    Connect to computer
-* Step 3:
-Flash the entire phone to factory settings:
-    ```
-    flash_all.bat
-    ```
-    Then login into the phone and get all updates, reboot, get more updates etc.\
-    Once complete, reboot the phone into fastboot again by holding volume down as the phone turns on\
-    Go to recovery and run a factory reset
-* Step 4: Erase the current slot's system partition
-    ```
-    fastboot erase system
-    ```
-* Step 5: Flash the GSI system partition
-    ```
-    fastboot flash system system-roar-arm64-ab-floss.img
-    ```
-* Step 6: Check which slot you're on by running
-    ```
-    fastboot getvar all
-    ```
-    and look for **(bootloader) current-slot** text it should have an '**a**' or a '**b**' as the slot.
-* Step 7: Disable Android Verified Boot using the vbmeta.img from the Original Razer firmware posted above.  Replace the **@** symbol below with the proper letter for the slot you are on and run the command below to disable verified boot
-    ```
-    fastboot --disable-verity --disable-verification flash vbmeta_@ vbmeta.img
-    ```
-* Step 8: Cross your fingers, and tell the phone to reboot! It should boot into AOSP Android 11
-    ```
-    fastboot reboot
-    ```
+* **Step 3:** Enter fastboot\
+    Hold down volume button while powering on\
+    Connect to computer via USB<br/>
 
-## Steps to Install (Linux)
+* **Step 4:** Flash phone to factory settings\
+ Windows: `flash_all.bat`\
+ Linux: `sudo ./flash_all.sh`\
+ Once complete, reboot the phone into fastboot again by holding volume down as the phone turns on.\
+ For the following commands, remove `sudo` if you are using Windows.
 
-* Step 1\
-    Download [Phone 2 firmware Android Pie MR3 v3141](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)\
-    Download [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)
-* Step 2:
-Turn phone on in fastboot mode by holding volume down while powering on\
-    Connect to computer
-* Step 3:
-Flash the entire phone to factory settings:
-    ```
-    sudo ./flash_all.sh
-    ```
-    Then login into the phone and get all updates, reboot, get more updates etc.\
-    Once complete, reboot the phone into fastboot again by holding volume down as the phone turns on\
-    Go to recovery and run a factory reset
-* Step 4: Erase the current slot's system partition
-    ```
-    sudo fastboot erase system
-    ```
-* Step 5: Flash the GSI system partition
-    ```
-    sudo fastboot flash system system-roar-arm64-ab-floss.img
-    ```
-* Step 6: Check which slot you're on by running
-    ```
-    sudo fastboot getvar all
-    ```
-    and look for **(bootloader) current-slot** text it should have an '**a**' or a '**b**' as the slot.
-* Step 7: Disable Android Verified Boot using the vbmeta.img from the Original Razer firmware posted above.  Replace the **@** symbol below with the proper letter for the slot you are on and run the command below to disable verified boot
-    ```
-    sudo fastboot --disable-verity --disable-verification flash vbmeta_@ vbmeta.img
-    ```
-* Step 8: Cross your fingers, and tell the phone to reboot! It should boot into AOSP Android 11
-    ```
-    sudo fastboot reboot
-    ```
-## Hardware support
 
+* **Step 5:** Erase active system partition
+```
+sudo fastboot erase system
+```
+<br/>
+
+
+* **Step 6:** Flash GSI on system partition
+```
+sudo fastboot flash system system-roar-arm64-ab-floss.img
+```
+<br/>
+
+
+* **Step 7:** Check active slot you're running on
+```
+sudo fastboot getvar all
+```
+
+Look for `(bootloader) current-slot` text, it should have an '**a**' or a '**b**' as the slot.<br/><br/>
+
+* **Step 8:** Disable Android Verified Boot using the vbmeta.img from the Original Razer firmware posted above. Replace the **@** symbol below with the proper letter for the slot you are on and run the command below to disable verified boot
+```
+sudo fastboot --disable-verity --disable-verification flash vbmeta_@ vbmeta.img
+```
+<br/>
+
+* **Step 9:** Cross your fingers, and tell the phone to reboot! It should boot into AOSP Android 11. It may take some time for its maiden boot though.
+```
+sudo fastboot reboot
+```
+
+## Hardware Support
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✔️                                                     |
 | Speaker / Mic             | ✔️                                                     |
-| Bluetooth                 | ❌ (fix by removing /vendor/overlayBluetoothResCommon.apk) |
+| Bluetooth                 | ✔️ (fix by removing /vendor/overlayBluetoothResCommon.apk) |
 | WiFi                      | ✔️                                                     |
 | SIM / Mobile Data / Voice | Depends on carrier; ✔️ SmarTone; ❌ Verizon            |
 | VoLTE                     | Depends on carrier                                      |
