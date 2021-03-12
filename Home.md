@@ -493,6 +493,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Mini 5G]]|tp1803|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
 |[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 6]]|nx669j|✓|A/B|arm64|
 |[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
 |[[ZTE Nubia Z9 Mini]]|nx511j||A|arm64|
 |[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
