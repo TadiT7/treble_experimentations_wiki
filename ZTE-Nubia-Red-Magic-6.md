@@ -43,4 +43,4 @@ PWR + VOL- --> Fastboot
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
 ---
 
-Tested By: notsyncing - NX669J(CN), Firmware Version - 2021/03/12 - Template created by @zguithues and @hackintosh5
+Tested By: notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
