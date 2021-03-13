@@ -39,6 +39,7 @@ PWR + VOL- --> Fastboot
 | WiFi                      | Works (may not see 5G wifi at the first time)                                            |
 | SIM / Mobile Data / Voice | Works                                                    |
 | Proximity Sensor          | Works |
+| Accelerometer / Gyroscope | Works |
 | VoLTE                     | Not working (China Telecom)                                                    |
 | Fingerprint               | Not working                                                    |
 | Brightness                | Works without auto brightness (light sensor works) |
