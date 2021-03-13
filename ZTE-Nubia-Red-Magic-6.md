@@ -6,7 +6,7 @@ AOSP boots, WiFi, cellular data works, sound works
 
 PWR + VOL+ --> Recovery
 
-PWR + VOL- --> Fastboot
+PWR + VOL- --> Bootloader
 
 * Unlock bootloader in fastboot mode:
     ```
