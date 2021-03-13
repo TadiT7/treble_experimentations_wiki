@@ -38,6 +38,7 @@ PWR + VOL- --> Bootloader
 | Bluetooth                 | Works                                                     |
 | WiFi                      | Works (may not see 5G wifi at the first time)                                            |
 | SIM / Mobile Data / Voice | Works                                                    |
+| Tethering                 | Not working |
 | Proximity Sensor          | Works |
 | Accelerometer / Gyroscope | Works |
 | VoLTE                     | Not working (China Telecom)                                                    |
