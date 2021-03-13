@@ -12,6 +12,7 @@ PWR + VOL- --> Fastboot
     ```
     $ fastboot flashing unlock
     ```
+    **WARNING: Unlocking will VOID YOUR WARRANTY and make fingerprint UNUSABLE! You may try this to recover fingerprint: https://forum.xda-developers.com/t/guide-for-calibration-finger-print-after-loss-data-calibration.4132961/ WITH STOCK ROM, to see if it worked!**
 * Enable ADB from stock ROM
 * Enter `fastbootd` mode from adb:
     ```
