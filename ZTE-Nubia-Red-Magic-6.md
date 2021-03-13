@@ -48,6 +48,8 @@ PWR + VOL- --> Fastboot
 | Logo LED                  | Not working |
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
+| Shoulder Buttons          | Not working |
+| Side Switch               | Not working |
 ---
 
 Tested By: notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
