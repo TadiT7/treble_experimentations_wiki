@@ -52,6 +52,7 @@ PWR + VOL- --> Bootloader
 | Display Refreshing Rate   | Supports 60/90/120/144/165Hz with "Misc features / Force FPS" |
 | Shoulder Buttons          | Not working |
 | Side Switch               | Not working |
+| Vibration                 | Works |
 
 ## Tweaks
 
