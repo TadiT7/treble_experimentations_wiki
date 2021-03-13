@@ -41,7 +41,7 @@ PWR + VOL- --> Bootloader
 | Tethering                 | Not working |
 | Proximity Sensor          | Works |
 | Accelerometer / Gyroscope | Works |
-| VoLTE                     | Not working (China Telecom)                                                    |
+| VoLTE                     | Not working (China Telecom) (Works with steps in https://github.com/phhusson/treble_experimentations/issues/1681, but not persisted across reboots)                                                    |
 | Fingerprint               | Not working                                                    |
 | Brightness                | Works without auto brightness (light sensor works) |
 | Offline Charging          | Works                                                    |
