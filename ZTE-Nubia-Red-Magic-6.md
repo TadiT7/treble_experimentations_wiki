@@ -31,13 +31,19 @@ PWR + VOL- --> Fastboot
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Works                                                     |
 | Speaker / Mic             | Works with "Qualcomm features / Use alternative audio policy"                                |
-| Headphone                 | Not tested |
+| Headphone                 | Not working |
+| USB DAC                   | Works |
+| Type-C DP Alt mode        | Works |
+| GPS                       | Works |
 | Bluetooth                 | Works                                                     |
 | WiFi                      | Works (may not see 5G wifi at the first time)                                            |
 | SIM / Mobile Data / Voice | Works                                                    |
+| Proximity Sensor          | Works |
 | VoLTE                     | Not working (China Telecom)                                                    |
 | Fingerprint               | Not working                                                    |
+| Brightness                | Works without auto brightness (light sensor works) |
 | Offline Charging          | Works                                                    |
+| Quick Charging            | Not tested |
 | Fan control               | Works with "Nubia features / FAN speed"                                                    |
 | Logo LED                  | Not working |
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
