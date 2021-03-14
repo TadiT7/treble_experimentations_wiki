@@ -265,8 +265,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
 |[[OnePlus 8T]]|kebab|✓|A/B|arm64|
 |[[OnePlus 8 Pro]]|instantnoodlep|✓|A/B|arm64|
-|[[OnePlus Nord N10 5G]]|billie|✓|A/B|arm64|
-|[[OnePlus Nord N100]]|clover|✓||arm64|
+|[[OnePlus Nord N10 5G]]|billie8|✓|A/B|arm64|
+|[[OnePlus Nord N100]]|billie2|✓||arm64|
 |[[Oppo R11 / R11s]]|r11|✓|A|arm64|
 |[[Oukitel C10]]|C10|✓|A|arm|
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
