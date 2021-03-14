@@ -45,7 +45,7 @@ PWR + VOL- --> Bootloader
 | Fingerprint               | Not working                                                    |
 | Brightness                | Works without auto brightness (light sensor works) |
 | Offline Charging          | Works                                                    |
-| Quick Charging            | Not tested |
+| Quick Charging            | Works (~5A charging current with stock charger) |
 | Fan control               | Works with "Nubia features / FAN speed"                                                    |
 | Logo LED                  | Not working |
 | RGB LEDs                  | Works with "Nubia features / REDMAGIC RGB" |
