@@ -10,4 +10,4 @@ Instead, it is played through the phone speakers even when connected to a blueto
 No known solution
 
 ## GPS is slow to start
-Workaround: Install [GPS Test](https://play.google.com/store/apps/details?id=com.chartcross.gpstest&hl=en_US&gl=US) and reset AGPS database. Then launch it a couple of times outdoors and let it connect 4+ satellites. That should restore [A-GPS](https://en.wikipedia.org/wiki/Assisted_GPS) to normal function.
+Workaround: Install [GPS Test](https://play.google.com/store/apps/details?id=com.chartcross.gpstest&hl=en_US&gl=US) and reset A-GPS database. Then launch it a couple of times outdoors and let it connect 4+ satellites. That should restore [A-GPS](https://en.wikipedia.org/wiki/Assisted_GPS) to normal function.
