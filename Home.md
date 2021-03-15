@@ -423,7 +423,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
 |[[Xiaomi Mi A3]]|laurel|✓ (One)|A/B|arm64|
 |[[Xiaomi Mi Max 2]]|oxygen||A|arm64|
-|[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to Android 10)|arm64|
+|[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to MIUI 12)|arm64|
 |[[Xiaomi Mi MIX]]|lithium||A|arm64|
 |[[Xiaomi Mi MIX 2]]|chiron||A (A/B when updated to Android 11)|arm64|
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
