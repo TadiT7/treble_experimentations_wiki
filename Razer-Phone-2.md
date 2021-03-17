@@ -10,8 +10,8 @@ Things that may (not) be working:
 [Follow Razer's instructions](https://developer.razer.com/razer-phone-dev-tools/general-instructions/?_ga=2.262586380.1842452119.1605102124-783954625.1600236093?_ga=2.262586380.1842452119.1605102124-783954625.1600236093)<br/>
 
 * **Step 2:** Download firmwares\
- [Phone 2 Stock Firmware](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip)
- [phusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)<br/>
+ [Phone 2 Stock Firmware](https://s3.amazonaws.com/cheryl-factory-images/aura-p-release-3141-user-full.zip) and
+ [phhusson's AOSP Android 11.0 v300.i](https://github.com/phhusson/treble_experimentations/releases/download/v300.i/system-roar-arm64-ab-floss.img.xz)<br/>
 
 * **Step 3:** Enter fastboot\
     Hold down volume button while powering on\
@@ -57,19 +57,19 @@ sudo fastboot reboot
 ```
 
 ## Hardware Support
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | ✔️                                                     |
-| Speaker / Mic             | ✔️                                                     |
-| Bluetooth                 | ✔️ (fix by removing /vendor/overlayBluetoothResCommon.apk) |
-| WiFi                      | ✔️                                                     |
-| SIM / Mobile Data / Voice | Depends on carrier; ✔️ SmarTone; ❌ Verizon            |
-| VoLTE                     | Depends on carrier                                      |
-| Fingerprint               | ✔️                                                     |
-| NFC                       | ✔️                                                     |
-| Offline Charging          | ❌                                                     |
-| GPS                       | ✔️                                                     |
-| Compass                   | ✔️ (YMMW)                                              |
+| Component                 | Status |      Comment                                         |
+|---------------------------|--------|------------------------------------------------------|
+| Camera                    | ✔️     |                                                      |
+| Speaker / Mic             | ✔️     |                                                      |
+| Bluetooth                 | ⚠️     | Remove /vendor/overlayBluetoothResCommon.apk to make it work |
+| WiFi                      | ✔️     |                                                      |
+| SIM / Mobile Data / Voice | ⚠️     | ✔️ SmarTone; ❌ Verizon                             |
+| VoLTE                     | ⚠️     |                                                      |
+| Fingerprint               | ✔️     |                                                      |
+| NFC                       | ✔️     |                                                      |
+| Offline Charging          | ❌     |                                                      |
+| GPS                       | ✔️     |                                                      |
+| Compass                   | ⚠️     | Might (not) work on some Phone 2's                   |
 ---
 
 Tested By:
