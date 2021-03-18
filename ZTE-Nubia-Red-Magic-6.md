@@ -18,7 +18,10 @@ PWR + VOL- --> Bootloader
     ```
     $ adb reboot fastboot
     ```
-    > This device is unable to enter `fastbootd` mode by `fastboot reboot fastboot`!
+* Or enter `fastbootd` mode from fastboot:
+    ```
+    $ fastboot reboot fastboot
+    ```
 * Flash this image with the `fastboot` utility:
     ```
     $ fastboot flash system system-roar-arm64-ab-vanilla.img
