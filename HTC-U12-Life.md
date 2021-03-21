@@ -27,15 +27,15 @@
 
 ## Bugs
 
-* System frozes when setting up a PIN in setup wizard (only in gapps variant)
-
 * Some UI flickers a lot
 
 * Little chance stucks at lockscreen when trying to unlock
 
-* System UI freezes frequently on some GSI (Try delete `/System/app/NfcNci` through root explorer or TWRP
+* System UI freezes frequently on some GSI (Try delete `/System/app/NfcNci` through any root explorer or TWRP
 
-* System nearly freezes in ringtone selection window (only on R), fixed in some gsi like CAOS
+* Media playback and camera not working on some R gsi, CAOS and Phh v301 fixed this problem
+
+* Magisk will cause R gsi not booting, uninstall it beforehand.
 
 ## Requirements
 
