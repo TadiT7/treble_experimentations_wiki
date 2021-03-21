@@ -22,7 +22,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom-Project)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Igor-s7|[Telegram](https://t.me/Ambergsi) / [Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
-|Firmware collection|braialindo|[download](https://sourceforge.net/projects/braiagsi/files/)|A - A/B|arm64|
+|Firmware collection|braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/)|A - A/B|arm64|
 
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
