@@ -85,8 +85,7 @@
 
 ## Not booting
 
-* All non phh-based GSI
-* Non vndk-lite
+* All semi-gsi
 
 ## Untested
 
