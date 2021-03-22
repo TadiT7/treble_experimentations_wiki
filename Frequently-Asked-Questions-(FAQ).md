@@ -71,7 +71,16 @@ If you need a more detailed guide, read [this article](https://www.xda-developer
 
 
 ### How to bypass certified device after first boot?
+#### APP Method
+Download and install [CPU Info](https://f-droid.org/packages/com.kgurgul.cpuinfo) app
 
+- Go to **ANDROID** tab
+- Long press on **Android ID** to copy value
+- Go to https://www.google.com/android/uncertified/
+- Sign In and paste copied value to it and register
+- Reboot
+
+#### ADB method
 - Reboot to recovery
 
 ```
@@ -79,8 +88,9 @@ adb root
 adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db'
 ```
 
-- Select * from main where name = \"android_id\";"
+- Select * from main where name = \"android_id\";
 - Then register [here](https://www.google.com/android/uncertified/) and reboot
+
 
 ### How to build a GSI?
 
