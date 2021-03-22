@@ -72,10 +72,9 @@ If you need a more detailed guide, read [this article](https://www.xda-developer
 
 ### How to bypass certified device after first boot?
 #### APP Method
-Download and install [CPU Info](https://f-droid.org/packages/com.kgurgul.cpuinfo) app
+Download and install [Get ID](https://f-droid.org/en/packages/makeinfo.com.getid/) app
 
-- Go to **ANDROID** tab
-- Long press on **Android ID** to copy value
+- Open the app and Copy **Google Service Framework Key**
 - Go to https://www.google.com/android/uncertified/
 - Sign In and paste copied value to it and register
 - Reboot
