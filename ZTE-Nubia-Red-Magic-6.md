@@ -8,9 +8,11 @@ PWR + VOL+ --> Recovery
 
 PWR + VOL- --> Bootloader
 
-* Unlock bootloader in fastboot mode:
+* Unlock bootloader in fastboot mode (`vbmeta.img` and `vbmeta_system.img` are taken from the STOCK ROM, or it will bootloop!):
     ```
     $ fastboot flashing unlock
+    $ fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img
+    $ fastboot --disable-verification --disable-verity flash vbmeta_system vbmeta_system.img
     ```
     **WARNING: Unlocking will VOID YOUR WARRANTY and make fingerprint UNUSABLE! You may try this to recover fingerprint: https://forum.xda-developers.com/t/guide-for-calibration-finger-print-after-loss-data-calibration.4132961/ WITH STOCK ROM, to see if it worked!**
 * Enable ADB from stock ROM
@@ -62,6 +64,11 @@ PWR + VOL- --> Bootloader
 | Name | Comment |
 |------|---------|
 |Rounded corners|Set "Misc features / Set rounded corners diameter" to 30~50 and reboot|
+
+## Notes
+
+1. You can re-lock your bootloader with stock ROM to restore your fingerprint. Backup your persist partition.
+2. Nubia is using the test key(external/avb/test/data/testkey_rsa4096.pem) to sign boot, vendor_boot, dtbo and odm partitions. You can create a new `vbmeta.img` with this key from AOSP and keep Magisk with a locked bootloader, also get the working fingerprint.
 ---
 
 Tested By: notsyncing - NX669J(CN), AOSP 11.0 v302 - 2021/03/12 - Template created by @zguithues and @hackintosh5
