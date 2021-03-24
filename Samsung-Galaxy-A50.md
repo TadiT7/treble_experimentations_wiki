@@ -11,10 +11,11 @@
 ## Known Bugs:
 - VoLTE
 - Bluetooth calls
+- In some unlucky devices none of the cameras work. I haven't worked out a solution yet.
 
 ## Downloads:
 - [ **Odin** ](https://odindownload.com/download/Odin3_v3.14.1.zip)
-- [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE)
+- [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE)
 - [ **Ovarlay + Build.prop** ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0)
 - [ **Quantum Kernal for GSI's** ](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip)
 - [ **G-APPs** ](https://opengapps.org/)
@@ -33,13 +34,14 @@
 5. Unlock the bootloader **_(that will wipe your device so be sure you made a backup of your data)_**.
 6. After bootloader unlock boot up the phone and _make sure it's connected to the internet_, or this will trigger an rmm pre normal error.
 7. Set up the phone _without google account_ etc.
-8. Reboot into download mode and flash the [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE) recovery **_.tar_** file for your device with [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) in the _**AP field**_.
-9. Next, Hold _**vol up + power button**_ while [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) is flashing until you are in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-10. Format _**cache, data and system**_ in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-11. Flash the [ _**Quantum Kernel for GSI's**_ ](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip) zip in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-12. Flash your chosen GSI .img in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE) as system.
-13. Flash the latest available - [ **PHH-Magisk** ](https://t.me/a50_offl/117) in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
-14. Flash the [ _**Overlay + Build.prop**_ ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0) file in [ **TWRP** ](http://gofile.me/4xNLJ/Plj8vFfFE).
+8. Reboot into download mode and flash the [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE) recovery **_.tar_** file for your device with [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) in the _**AP field**_.
+9. Next, Hold _**vol up + power button**_ while [ _**Odin**_ ](https://odindownload.com/download/Odin3_v3.14.1.zip) is flashing until you are in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
+10. Format _**cache, data and system**_ in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
+11. Flash the [ _**MultiDisabler-Samsung**_ ](https://github.com/ianmacd/multidisabler-samsung/releases) zip in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
+11. Flash the [ _**Quantum Kernel for GSI's**_ ](https://github.com/prashantpaddune/android_kernel_samsung_a50dd/releases/download/v1.1/Quantum_A505F_GSI_V1.1-Magisk-Patched.zip) zip in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
+12. Flash your chosen GSI .img in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE) as system.
+13. Flash the latest available - [ **PHH-Magisk** ](https://t.me/a50_offl/117) in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
+14. Flash the [ _**Overlay + Build.prop**_ ](https://github.com/RandomAJL/A50-GSI-BugFixes/releases/tag/1.0) file in [ **TWRP** ](https://drive.google.com/drive/folders/1Kn3_2Kjt-lc3553VF230qY5Wwlhs-crE).
 15. _If needed_, flash your chosen [_**G-APPs**_](https://opengapps.org/) file now.
 16. Boot into the OS using reboot to recovery. (First Boot may take a while)
 
@@ -59,12 +61,19 @@
 | NFC                       | Yes (Some models do not include this feature)                       |
 ---	
 
-Created By: [ **RandomAJL** ](https://github.com/RandomAJL) - 26.01.2020	
+Created By: [ **RandomAJL** ](https://github.com/RandomAJL) - 26.01.2020
+
+Edited By:  [ **aaronleetw** ](https://github.com/aaronleetw) - Mar 24, 2021
 
 Overlay + Build.prop by [ **RandomAJL** ](https://github.com/RandomAJL)	
 
 #### Many thanks too:	
 - [ **prashantp01** ](https://github.com/prashantpaddune) for Quantum Kernel for GSI's	
-- [ **geiti94** ](https://github.com/geiti94) for TWRP	
+- [ **redymedan (XDA)** ](https://forum.xda-developers.com/m/redymedan.7915760) for TWRP and Multidisabler	
 - PHH-Magisk patched by [ **ExpressLuke** ](https://github.com/ExpressLuke)	
 - The main man himself [ **Pierre-Hugues HUSSON** ](https://github.com/phhusson)
+
+#### Changelog:
+```
+03.24.2021 | aaronleetw | Change TWRP file (pervious one bricks device), added multidisabler, and added new known bug.
+```
