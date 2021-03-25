@@ -29,7 +29,7 @@
 None yet.
 
 ##
-_Please tell me if official Q beta works or not, I only tested on official Pie_
+_Please tell me if official Q beta works or not, I only checked on official Pie_
 ##
 
 ## Requirements
