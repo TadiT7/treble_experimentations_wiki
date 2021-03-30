@@ -94,7 +94,6 @@ None
 ##
 Tested By: @asrieldashie ; Feb 7 2021
 
-[Telegram Group](https://t.me/HTCU12LifeChat)
 ##
 Unofficial TWRP and stock system image can be found [here](https://m.gamer.com.tw/forum/C.php?bsn=60559&snA=50050)(Trad. Chinese)
 ##
