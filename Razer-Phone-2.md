@@ -74,6 +74,6 @@ sudo fastboot reboot
 
 Tested By:
 * translucentfocus - Phone 2 (Global), Android Version: P-SMR5-RC002-RZR-200910.3195 - Date tested: 11/10/2020
-* haruki-taka8 - Phone 2 (Global), Android Version: P-SMR6-RC001-RZR-201022 - Date tested: 10/3/2021
+* haruki-taka8 - Phone 2 (Global), Android Version: P-SMR6-RC001-RZR-201022 - Date tested: 10/3/2020
 
 Template created by @zguithues and @hackintosh5
