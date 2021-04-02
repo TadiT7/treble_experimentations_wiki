@@ -197,6 +197,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Meizu 16x]]|16x||A|arm64|
 |[[Meizu M2 Mini]]|n/a||A|arm64|
 |[[Meizu Note 9]]|n/a||A|arm64|
+|[[Microsoft Lumia 950 XL]]|cityman||A/B|arm64|
 |[[Microsoft Surface Duo]]|duo|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
