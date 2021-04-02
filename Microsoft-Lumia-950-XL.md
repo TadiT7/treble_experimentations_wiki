@@ -5,7 +5,7 @@ Right now it's still under experimental stage and most of functionalities are un
 
 ## Steps to install
 
-TBD
+TBA
     
 ## Known issues
 Too many issues.
