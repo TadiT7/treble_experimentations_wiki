@@ -28,6 +28,7 @@ Only found `bluetooth: audio 🎵` don't work.
 | Other feature(s)          | ✅ 3.5 headset audio and mic and button jack              |
 |                           | ✅ Magisk root                                            |
 |                           | ✅ GPS                                                    |
+|                           | ✅ Portable storage: SD card                              |
 ---
 
 Tested By: [@edwining01](https://github.com/edwining01) - M2010J19CG(HK) - 20210407 - Template created by @zguithues and @hackintosh5
