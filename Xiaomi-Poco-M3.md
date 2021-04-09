@@ -40,7 +40,7 @@ Tested with image `system-roar-arm64-ab-gapps.img (v303)`. Most features work we
 
 | Target                    | Comment                                                   |
 |---------------------------|-----------------------------------------------------------|
-| System: Multiuser         | ❗️ Make sure to `Set up offline` when using /w GApps ROM, or you will get "This device isn't Play Protect certified" error message. |
+| System: Multiuser         | ❗️ Make sure to `Set up offline` when using /w GApps ROM, or you will get "This device isn't Play Protect certified" error message. Do not add any Google account. And do not connect with internet and switch to user after reboot. |
 | System: Live Wallpaper    | ✅ Lock and Home                                          |
 | Magisk                    | ✅ Root                                                   |
 | Youtube Vanced            | ❗️ Rooted only; Needs reinstall after reboot.             |
