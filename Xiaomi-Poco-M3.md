@@ -24,7 +24,7 @@ Tested with image `system-roar-arm64-ab-gapps.img (v303)`. Most features work we
 | Component                 | Comment                                                   |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✅                                                        |
-| Speaker / Mic             | ✅                                                        |
+| Speaker / Mic             | ❗️ Loud Speaker Used Both Speakers;  ✅ Ear Speaker; ✅ Mic                                              |
 | Bluetooth                 | ✅ Pairing; ✅ File Sharing; ❌ Audio; ❓ Mic              |
 | WiFi                      | ✅                                                        |
 | SIM / Mobile Data / Voice | ✅ (Tested /w 4G)                                         |
@@ -33,14 +33,15 @@ Tested with image `system-roar-arm64-ab-gapps.img (v303)`. Most features work we
 | NFC                       | N/A                                                       |
 | Offline Charging          | ✅                                                        |
 | GPS                       | ✅                                                        |
-| Other feature(s)          | ✅ 3.5 headset audio and mic and button jack              |
+| Other feature(s)          | ✅ 3.5 headset audio and mic and button jack (TRRS)             |
 |                           | ✅ Portable storage: SD card                              |
 
 ## System Features / Apps Compatibilities
 
 | Target                    | Comment                                                   |
 |---------------------------|-----------------------------------------------------------|
-| System: Multiuser         | ❗️ Make sure to `Set up offline` when using /w Gapps ROM, or you will get "This device isn't Play Protect certified ..." error message. |
+| System: Multiuser         | ❗️ Make sure to `Set up offline` when using /w GApps ROM, or you will get "This device isn't Play Protect certified" error message. |
+| System: Live Wallpaper    | ✅ Lock and Home                                          |
 | Magisk                    | ✅ Root                                                   |
 | Youtube Vanced            | ❗️ Rooted only; Needs reinstall after reboot.             |
 | YT Music (Also Vanced)    | ❗️ Rooted only; Needs reinstall after reboot.             |
