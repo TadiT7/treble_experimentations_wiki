@@ -285,7 +285,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[realme XT]]|RMX1921|✓|A/B|arm64|
 |[[realme 6]]|RMX2001|✓|A/B(Dynamic Partitions)|arm64|
 |[[realme C1]]|RMX1811|✓|A/B|arm64|
-|[[realme C3]]|RMX2027|✓|A/B|arm64|
+|[[realme C3/Narzo 10A]]|RMX2027/RMX2020|✓|A/B(Dynamic Partitions)|arm64|
 |[[realme C11/C12/C15 MTK]]|RMX2185/RMX2189/RMX2180|✓|A/B|arm64|
 |[[realme Q2 Pro]]|RMX2175|✓|A/B(Dynamic Partitions)|arm64|
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
