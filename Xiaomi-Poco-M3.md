@@ -2,7 +2,7 @@
 
 Tested with image `system-roar-arm64-ab-gapps.img (v303)`. Most features work well.
 - `Bluetooth: audio 🎵` doesn't work.
-- `Multiuser` and some apps might not fully compatible.
+- `Screen Recording` Lags.
 
 ## Steps to Install
 
