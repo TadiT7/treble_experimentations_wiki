@@ -24,24 +24,26 @@ Tested with image `system-roar-arm64-ab-gapps.img (v303)`. Most features work we
 | Component                 | Comment                                                   |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✅                                                        |
-| Speaker / Mic             | ❗️ Loud Speaker Used Both Speakers;  ✅ Ear Speaker; ✅ Mic                                              |
+| Speaker / Mic             | ✅ Loud Speaker (Stereo);  ✅ Ear Speaker; ✅ Mic          |
 | Bluetooth                 | ✅ Pairing; ✅ File Sharing; ❌ Audio; ❓ Mic              |
 | WiFi                      | ✅                                                        |
-| SIM / Mobile Data / Voice | ✅ (Tested /w 4G)                                         |
+| SIM / Mobile Data / Voice | ✅ (Tested /w 4G); ✅ SMS                                 |
 | VoLTE                     | ❓                                                        |
 | Fingerprint               | ✅                                                        |
 | NFC                       | N/A                                                       |
 | Offline Charging          | ✅                                                        |
 | GPS                       | ✅                                                        |
-| Other feature(s)          | ✅ 3.5 headset audio and mic and button jack (TRRS)             |
+| IR                        | ✅                                                        |
+| Other feature(s)          | ✅ 3.5 headset audio and mic and button jack (TRRS)       |
 |                           | ✅ Portable storage: SD card                              |
 
 ## System Features / Apps Compatibilities
 
 | Target                    | Comment                                                   |
 |---------------------------|-----------------------------------------------------------|
-| System: Multiuser         | ❗️ Make sure to `Set up offline` when using /w GApps ROM, or you will get "This device isn't Play Protect certified" error message. Do not add any Google account. And do not connect with internet and switch to user after reboot. |
+| System: Multiuser         | ✅ See [issue #1794](https://github.com/phhusson/treble_experimentations/issues/1794) for GApps ROM |
 | System: Live Wallpaper    | ✅ Lock and Home                                          |
+| System: Screen Recording  | ❗️ Lags                                                   |
 | Magisk                    | ✅ Root                                                   |
 | Youtube Vanced            | ❗️ Rooted only; Needs reinstall after reboot.             |
 | YT Music (Also Vanced)    | ❗️ Rooted only; Needs reinstall after reboot.             |
