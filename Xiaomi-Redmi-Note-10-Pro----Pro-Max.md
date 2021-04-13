@@ -33,6 +33,7 @@
 - For VoLTE to work install IMS apk from `Phh Treble Settings > IMS features` and check `Force the presence of 4G calling.
 
 - If Headset / Earphones doesn't detect use alternative way to detect option from phh settings > misc features.
+
 If you find any bugs/fixes feel free to edit this page.
 
 Wiki page contributors:
