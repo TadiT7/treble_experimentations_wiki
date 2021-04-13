@@ -480,6 +480,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10 Pro /Pro Max]]|sweet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9S]]|curtana|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
