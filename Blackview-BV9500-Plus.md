@@ -15,7 +15,7 @@
 
 ## Hardware support
 
-| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300.m (FLOSS)         |
+| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v304 (FLOSS)         |
 |---------------------------|---------------------------|--------------------------------|
 | Wireless Charging/Charging| Working                   | Working                        |
 | GPS                       | Working                   | Working                    |
@@ -56,8 +56,9 @@
      `# pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE`
   * Reboot.
 ## Test Results
+  *  AOSP 11.0 v304 (FLOSS), Boots - Results above.
   *  LineageOS 18.1 20210111, Boots - Results above.
-  *  AOSP 11.0 v300.m (FOSS), Boots - Results above.
+  *  AOSP 11.0 v300.m (FLOSS), Boots - Daily driver material.
   *  Lineage 17.1 20200111, Boots - Relatively Daily driver material sans Gapps.
 ## Notes
   *  Signature spoofing not working on LineageOS 18.1/ Cannot manually patch either.
