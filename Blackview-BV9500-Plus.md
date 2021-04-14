@@ -15,7 +15,7 @@
 
 ## Hardware support
 
-| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300.m (FOSS)         |
+| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v300.m (FLOSS)         |
 |---------------------------|---------------------------|--------------------------------|
 | Wireless Charging/Charging| Working                   | Working                        |
 | GPS                       | Working                   | Working                    |
