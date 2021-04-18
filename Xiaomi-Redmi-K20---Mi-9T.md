@@ -37,6 +37,7 @@ Most things work, except device specific hardware:
 ## Pop-up camera 
 
 Front camera pops up at boot.
+
 It can be controlled from command line or ADB with root rights:
 
 | Function | Command |
@@ -56,4 +57,6 @@ It can be controlled from command line or ADB with root rights:
 
 ROM defaults to 3G, it can be set at Settings, Network and Internet, Mobile Network, Preferred network type. I've selected LTE/TDSCDMA/GSM/WCDMA to have LTE, GSM, and WCDMA (3G)
 
-Tested By: Laszlo-Fiat - Mi 9T(Global), V12.0.7.0.QFJMIXM - 2021-04-18 - Template created by @zguithues and @hackintosh5
+Tested By: Laszlo-Fiat - Mi 9T(Global), V12.0.7.0.QFJMIXM - 2021-04-18 
+
+Template created by @zguithues and @hackintosh5
