@@ -36,6 +36,7 @@ Most things work, except device specific hardware:
 
 ## Pop-up camera 
 
+Front camera pops up at boot.
 It can be controlled from command line or ADB with root rights:
 
 | Function | Command |
