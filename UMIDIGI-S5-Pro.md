@@ -42,8 +42,12 @@ Known Issues are:
 > Step 5: Factory reset (recomended for clean GSI install)
 > * 5.0 fastboot -w (!!! Erases userdata and cache !!!)
 
-> Reboot device (Done)
+> Reboot device + Gapps device certification
 > * fastboot reboot
+> * On Error message: "Device not Certified"
+>   * Go To: https://www.google.com/android/uncertified/ and follow the instructions
+    * Longpress on a "Device not Certified" error message
+    * reboot (if it still shows up after reboot longpress the notification and in notification settigs turn of the highlighted option)
 
 ## Hardware support
 
@@ -69,6 +73,7 @@ Known Issues are:
 * Official Umidigi device Roms: https://community.umidigi.com/forum.php?mod=forumdisplay&fid=234
 * XDA Root Guide for S5 Pro: https://forum.xda-developers.com/t/guide-rooting-the-umidigi-s5-pro-magisk.4151183/
 * XDA Universal GSI flash Guide: https://forum.xda-developers.com/t/how-to-flash-gsis-on-devices-with-dynamic-super-partition.4256667/
+* XDA fix "Device not Certified" error: https://www.xda-developers.com/how-to-fix-device-not-certified-by-google-error/
 
 Tested By: @4ctiv - S5 Pro(EU), PHH AOSP 11.0 v305 system-roar-arm64-ab-gapps.img
  - 18/19.Apr.2021 - Template created by @zguithues and @hackintosh5
