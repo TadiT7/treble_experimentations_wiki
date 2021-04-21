@@ -10,7 +10,7 @@ The device uses [dynamic partitioning](https://source.android.com/devices/tech/o
 
 What worked was: booting into system, enabling abd and then using `adb reboot fastboot` to enter "User Mode fastboot (fastbootd)" or `adb reboot bootloader` to enter "Bootloader fastboot".
 
-Because of this, the "order" of flashing vbmeta then system is reversed in the steps below.
+Because of this, the "normal" order of first flashing vbmeta and then flashing system is reversed in the steps below.
 
 ## Steps to install
 
