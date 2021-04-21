@@ -6,14 +6,14 @@ Recovery: no official TWRP, there's a PitchBlackRecovery beta that boots (but la
 
 ## Background info
 
-The device uses dynamic partitioning, you need to enter "User Mode fastboot (fastbootd)" to be able to flash the system partition. On my device, I could not go from "Bootloader fastboot" to "User Mode fastboot" with the command `fastboot boot fastboot`. Instead, I got an error message along the lines "unknown boot target".
+The device uses [dynamic partitioning](https://source.android.com/devices/tech/ota/dynamic_partitions), you need to enter "User Mode fastboot (fastbootd)" to be able to flash the system partition. On my device, I could not go from "Bootloader fastboot" to "User Mode fastboot" with the command `fastboot boot fastboot`. Instead, I got an error message along the lines "unknown boot target".
 
 What worked was: booting into system, enabling abd and then using `adb reboot fastboot` to enter "User Mode fastboot (fastbootd)" or `adb reboot bootloader` to enter "Bootloader fastboot".
 
+Because of this, the "order" of flashing vbmeta then system is reversed in the steps below.
+
 ## Steps to install
 
-Unlock the bootloader of the Redmi 9, e.g. with [XiaoMiTool V2](https://www.xiaomitool.com/V2/) on Linux.
-Proceed only once this is done.
 
 On the phone:
 
@@ -22,6 +22,8 @@ On the phone:
 * Open Settings → Additional settings → Developer options.
   Check that MI Unlock status is set to Unlocked, and
   enable USB debugging.
+* Unlock the bootloader of the Redmi 9, e.g. with [XiaoMiTool V2](https://www.xiaomitool.com/V2/) on Linux. Proceed only once this is done. (I had to register the device to my account and wait 7 days to achieve this milestone).
+
 
 On the PC:
 
