@@ -3,6 +3,7 @@
 Helio G80 (MT6768)
 
 Overall excellent, things are working as expected. There are minor issues tough, but fixed with my overlay.
+
 Tested with Havoc-OS GSI 3.12 (Android 10)
 
 ## Steps to install
