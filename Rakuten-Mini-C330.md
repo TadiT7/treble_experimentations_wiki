@@ -42,7 +42,7 @@ Source (Japanese, by @AndroPlus-org ): https://androplus.org/Entry/14664/
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| NFC (Felica)              | ?                                                         |
+| NFC                       | ?                                                         |
 | FeliCa                    | x                                                         |
 | SIM / Mobile Data / Voice | ?                                                         |
 | VoLTE                     | ?                                                         |
