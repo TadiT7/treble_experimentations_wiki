@@ -1,6 +1,6 @@
 # [Rakuten Mini C330] - [9]
 
-Bootloader Unlock for this device (Japanese, by @AndroPlus_org ): https://androplus.org/Entry/14664/
+Bootloader Unlock for this device (Japanese, by @AndroPlus-org ): https://androplus.org/Entry/14664/
 
 ## Hardware Support (AOSP 9)
 
