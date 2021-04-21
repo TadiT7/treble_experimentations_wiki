@@ -276,7 +276,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel K9]]|K9|✓|A/B|arm64|
 |[[Ovvi SK3]]|V4701_I01||A|arm64|
 |[[Prestigio Muze G5 LTE]]|n/a||A|arm|
-|[[Rakuten Mini C330]]|C330||A/B|arm64|
+|[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Razer Phone 2]]|cheryl2|✓|A/B|arm64|
 |[[realme 1]]|CPH1861|✓|A|arm64|
