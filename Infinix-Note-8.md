@@ -19,9 +19,11 @@ Tested with Havoc-OS GSI 3.12 (Android 10)
     ```
     $ fastboot flash system system-image.img
     ```
+
 Tip: If you're running out of space, you could resize the `product` partition to be smaller by doing this:
     ```
     $ fastboot resize-logical-partition product [SIZE]
+    $ fastboot format:ext4 product
     ```
 
 ## Hardware support
