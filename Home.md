@@ -379,7 +379,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
 |[[Tecno Spark 4 Lite (Tecno BB4K)]]|tecno_BB4K||A/B|arm32_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
-|[[TINNO Rakuten Mini]]|C330|✓|A/B|arm64|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Ulefone Armor 6 / 6E]]|armor_6 and armor_6e||A/B|arm64|
 |[[Ulefone Armor 6S]]|armor_6S||A/B|arm64|
