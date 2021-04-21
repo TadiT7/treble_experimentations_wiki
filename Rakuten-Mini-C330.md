@@ -45,7 +45,8 @@ Bootloader Unlock for this device (Japanese, by @AndroPlus-org ): https://androp
 ```fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img```
 
 * To boot Android 10 GSI or newer, you'll have to replace these files in vendor partition, or the phone will boot loop:
-```/vendor/bin/hw/android.hardware.graphics.composer@2.1-service
+```
+/vendor/bin/hw/android.hardware.graphics.composer@2.1-service
 /vendor/lib64/libsdmcore.so
 /vendor/lib64/hw/android.hardware.graphics.composer@2.1-impl.so
 /vendor/lib64/hw/hwcomposer.msm8937.so
