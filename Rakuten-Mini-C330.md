@@ -1,4 +1,4 @@
-# [Rakuten Mini C330] - [9]
+# [Rakuten Mini C330] - [C330]
 
 Bootloader Unlock for this device (Japanese, by @AndroPlus-org ): https://androplus.org/Entry/14664/
 
