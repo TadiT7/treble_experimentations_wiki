@@ -241,6 +241,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 3.2]]|deadpool / DPL|✓|A/B|arm64|
 |[[Nokia 3.4]]|doctorstrange / DRS|✓|A/B|arm64|
 |[[Nokia 4.2]]|panther / PAN|✓|A/B|arm64|
+|[[Nokia 5 and 6]]|ND1 and D1C / PLE||A (A/B after Android 9)|arm64|
 |[[Nokia 5.1 Plus (X5)]]|PDA|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
 |[[Nokia 6.1 Plus (X6)]]|DRG|✓|A/B|arm64|
