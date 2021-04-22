@@ -63,4 +63,4 @@
 ## Notes
   *  Signature spoofing only working for apps inside /system. Have not tested on methods to get microg working this way.
 
-Tested By: nobody666 - BV9500 Plus, 2021.02.05
+Tested By: nobody666 - BV9500 Plus, 2021.04.22
