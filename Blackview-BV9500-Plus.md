@@ -61,6 +61,6 @@
   *  AOSP 11.0 v300.m (FLOSS), Boots - Daily driver material.
   *  Lineage 17.1 20200111, Boots - Relatively Daily driver material sans Gapps.
 ## Notes
-  *  Signature spoofing not working on LineageOS 18.1/ Cannot manually patch either.
+  *  Signature spoofing only working for apps inside /system. Have not tested on methods to get microg working this way.
 
 Tested By: nobody666 - BV9500 Plus, 2021.02.05
