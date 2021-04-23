@@ -35,7 +35,7 @@ Tested with Havoc-OS GSI 3.12 (Android 10)
 | Speaker / Mic             | OK                                                    |
 | Bluetooth                 | OK                                                    |
 | WiFi                      | OK                                                    |
-| Hotspot/Tethering         | OK                                                    |
+| Hotspot / Tethering         | OK                                                    |
 | SIM / Mobile Data / Voice | OK                                                    |
 | VoLTE                     | OK                                                    |
 | Fingerprint               | OK                                                    |
