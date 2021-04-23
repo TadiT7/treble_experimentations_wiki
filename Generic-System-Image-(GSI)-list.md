@@ -13,7 +13,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Descendant XI|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
 |Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
 |Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://www.pling.com/p/1486097/)|A - A/B|arm - arm64|
-|CherishOS|Braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
+|CherishOS|Braialindo|[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
@@ -23,7 +23,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom-Project)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Igor-s7|[Telegram](https://t.me/Ambergsi) / [Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
-|Firmware collection|braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/)|A - A/B|arm64|
+|Firmware collection|Braialindo|[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/)|A - A/B|arm64|
 
 ## Official Android 10:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
