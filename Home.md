@@ -366,10 +366,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 10 mk2]]|seine|✓|A/B|arm64|
 |[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64
 |[[Sony Xperia X]]|suzu||A|arm64|
-|[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10)|arm64|
+|[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10/11)|arm64|
 |[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
-|[[Sony Xperia XZ]]|kagura||A|arm64|
+|[[Sony Xperia XZ]]|kagura||A (A/B when updated to Android 10/11)arm64|
 |[[Sony Xperia XZ Premium]]|maple||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
