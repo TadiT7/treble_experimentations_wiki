@@ -363,7 +363,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia 5]]|bahamut|✓|A/B|arm64
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
-|[[Sony Xperia 10 mk2]]|seine|✓|A/B|arm64|
+|[[Sony Xperia 10 mk2]]|pdx201|✓|A/B|arm64|
 |[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64
 |[[Sony Xperia X]]|suzu||A(A/B when updated to Android 10/11)|arm64|
 |[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10/11)|arm64|
