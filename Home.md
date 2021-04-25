@@ -372,7 +372,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia XZ]]|kagura||A (A/B when updated to Android 10/11)|arm64|
 |[[Sony Xperia XZ Premium]]|maple||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
-|[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B|arm64|
+|[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B (VNDK Lite)|arm64|
+|[[Sony Xperia XZ2 Premium]]|aurora|✓|A/B (VNDK Lite)|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
 |[[Teclast M20 4G]]|M20_4G||A|arm64|
 |[[Teclast M30]]|M30||A|arm64|
