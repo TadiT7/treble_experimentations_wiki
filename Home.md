@@ -281,7 +281,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Razer Phone 2]]|cheryl2|✓|A/B|arm64|
-|[[realme 1]]|CPH1861|✓|A|arm64|
+|[[realme 1]]|CPH1859/CPH1861|✓|A/B|arm64|
 |[[realme 2 Pro]]|RMX1801|✓|A|arm64|
 |[[realme 3 Pro]]|RMX1851|✓|A/B|arm64|
 |[[realme X]]|RMX1901|✓|A/B|arm64|
