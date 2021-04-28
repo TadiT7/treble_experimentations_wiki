@@ -9,11 +9,11 @@ Tested with Havoc-OS GSI 3.12 (Android 10)
 ## Steps to install
 
 * Grab an ARM64 A/B GSI ROM image [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) or from other source
-* Grab an empty vbmeta image from [here](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img) or generate it yourself
+* Grab an empty vbmeta image from [here](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img)
 * Unlock the bootloader and go into bootloader mode
 * Flash the vbmeta image with the `fastboot` utility:
     ```
-    $ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+    $ fastboot flash vbmeta vbmeta.img
     ```
 * Reboot to fastbootd
 * Flash the system image with the `fastboot` utility:
