@@ -1,6 +1,6 @@
 # Huawei MediaPad M5  (SHT-W09)
 
-UPDATE 26/04/2021: Roar, vanilla, AB, arm64, vndklite boots, it has no offline charging and i cannot set lower brightness. Install DavX from F-droid if you need to sync contacts/cal. events from google and the aurorastore to access to the google store.
+UPDATE 26/04/2021: Roar-306-vanilla-AB-arm64-vndklite boots, it has no offline charging and i cannot set lower brightness. Install DavX from F-droid if you need to sync contacts/cal. events from google and the aurorastore to access to the google store.
 
 UPDATE 09/12/20: flashed Roar AB, arm64, gapps version v300.j and it boots
 
