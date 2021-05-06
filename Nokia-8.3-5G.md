@@ -1,5 +1,7 @@
 # [Nokia 8.3 5G] - [BabyGroot / BGT]
 
+Bootloader Unlock : https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-8-3-5g.4233949/
+
 ## Hardware Support (Android 11)
 
 | Component                 |      Comment                                              |
