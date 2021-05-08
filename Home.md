@@ -374,7 +374,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 5]]|bahamut|✓|A/B|arm64
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
 |[[Sony Xperia 10 mk2]]|pdx201|✓|A/B|arm64|
-|[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64
+|[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64|
+|[[Sony Xperia 1 mk2]]|pdx-215|✓|A/B|arm64|
+|[[Sony Xperia 10 mk3]]|N/A|✓|A/B|arm64|
+|[[Sony Xperia 5 mk3]]|pdx-214|✓|A/B|arm64|
 |[[Sony Xperia X]]|suzu||A(A/B when updated to Android 10/11)|arm64|
 |[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10/11)|arm64|
 |[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
