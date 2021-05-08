@@ -27,10 +27,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
 |[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
 |[[Asus ROG Phone III]]|I003D|✓|A/B|arm64|
+|[[Asus ROG Phone 5/Pro/Ultimate]]|I005D|✓|A/B|arm64|
 |[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[Asus Zenfone 5Z (ZS620KL/ZS621KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-ZenFone-5Z)|Z01R|✓|A/B|arm64|
 |[[Asus Zenfone 7/Pro (ZS670KS/ZS671KS)]]|I002D|✓|A/B|arm64
+|[[Asus Zenfone 8 Mini]]|sake|✓|A/B|arm64
+|[[Asus Zenfone 8/Pro]]|picasso|✓|A/B|arm64
+|[[Asus Zenfone 8 Flip]]|vodka|✓|A/B|arm64
 |[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
@@ -345,6 +349,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S20 (Exynos)]]|hubblex1|✓|A/B|arm64|
 |[[Samsung Galaxy S20 Plus (Exynos)]]|hubbley2|✓|A/B|arm64|
 |[[Samsung Galaxy S20 Ultra (Exynos)]]|hubblez3|✓|A/B|arm64|
+|[[Samsung Galaxy S21 (Snapdragon)]]|unboundm1q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Plus (Snapdragon)]]|unboundn2q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Ultra (Snapdragon)]]|unboundo3q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 (Exynos)]]|unboundm1|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Plus (Exynos)]]|unboundn2|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Ultra (Exynos)]]|unboundo3|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
@@ -423,6 +433,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 10T / 10T Pro and Redmi K30s Ultra]]|apollo|✓|A/B|arm64|
 |[[Xiaomi Mi 10T Lite and Redmi Note 9 Pro]]|gauguin and gauguinpro|✓|A/B|arm64|
 |[[Xiaomi Mi 10 Lite 5G]]|monet|✓|A/B|arm64|
+|[[Xiaomi Mi 11]]|venus|✓|A/B|arm64|
+|[[Xiaomi Mi 11 Pro/Ultra]]|star|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
@@ -441,7 +453,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus||A|arm64|
 |[[Xiaomi Pocophone F1 (Poco F1)]]|beryllium|✓|A|arm64|
-|[[Xiaomi Poco X3 and X3 NFC]]|karna (India, non-NFC) and surya (global, NFC)|✓|A/B|arm64|
+|[[Xiaomi Poco X3/NFC]]|karna (India, non-NFC) and surya (global, NFC)|✓|A/B|arm64|
+|[[Xiaomi Poco X3 Pro]]|vayu|✓|A/B|arm64|
 |[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
@@ -471,6 +484,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi K30 5G / K30i 5G]]|picasso|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Pro / Poco F2 Pro]]|lmi|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Ultra]]|cezanne|✓|A/B|arm64|
+|[[Xiaomi Redmi K40 / Poco F3 / Mi 11X]]|alioth|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
