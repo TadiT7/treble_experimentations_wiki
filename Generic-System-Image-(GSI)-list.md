@@ -15,6 +15,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
 |Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://www.pling.com/p/1486097/)|A - A/B|arm - arm64|
 |CherishOS|Braialindo|[Website](https://cherishos.com/) /[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
+|OctaviOS|Yilliee|[Website](https://octavi-os.com/) /[Telegram](http://t.me/ydevotv) / [Download](https://www.pling.com/p/1519375/)|A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
