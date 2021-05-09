@@ -62,6 +62,45 @@ FLOSS versions include the following open source alternatives to GAPPS:
 
 Vanilla versions do not include any of the above.
 
+### Naming conventions that some GSI builder/maintainer uses
+
+`<ARCH>_xyZ{-lite}`
+
+`<ARCH> can either be arm, a64 or arm64`
+
+`x can either be a or b`
+
+`y can either be v, o, g or f`
+
+`Z can be N, S, or Z`
+
+
+* `b = a/b`
+
+* `a = a-only`
+
+
+* `g = gapps`
+
+* `o = gapps-go`
+
+* `v = vanilla (no gapps included)`
+
+* `f = floss (free & open source apps instead gapps)`
+
+
+* `N = no superuser`
+
+* `S = superuser included`
+
+* `Z = enhanced dynamic superuzer`
+
+
+* `-lite = Android11 for vndklite vendors`
+
+
+So the most common example, "arm64_bvN" is ARM64 A/B vanilla with no superuser.
+
 ### How do I flash a GSI?
 
 First, you must unlock your bootloader (this is a capability your device manufacturer may or may not offer to end-users).
@@ -76,7 +115,7 @@ Download and install [Get ID](https://f-droid.org/en/packages/makeinfo.com.getid
 
 - Open the app and Copy **Google Service Framework Key**
 - Go to https://www.google.com/android/uncertified/
-- Sign In and paste copied value to it and register
+- Sign In and paste the copied value to it and register
 - Reboot
 
 #### ADB method
@@ -95,10 +134,10 @@ adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db'
 
 Follow [this guide](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F)
 
-### Why do latest GSI packages have xz file extension? How to install it?
+### Why do the latest GSI packages have xz file extension? How to install it?
 
 Starting from v19 (2018-06-03), releases are now compressed with xz. Uncompress before flashing.
 
 ***
 
-this page will be updated soon with more....
+this page will be updated soon with more...
