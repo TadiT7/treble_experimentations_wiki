@@ -1,5 +1,7 @@
 # Huaiwei MediaPad M5 lite
 
+**WARNING**: The information below seems to only be correct for the old AOSP 10 - based builds. The AOSP 11 - based builds do not boot on my device.
+
 The [AOSP 10 image by phh](https://github.com/phhusson/treble_experimentations/releases/tag/v208) works mostly, AOSP 9 is stuck at boot.
 
 Notable problems include: The fingerprint sensor seems not to work, device encryption seems unavailable.
