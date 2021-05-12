@@ -51,6 +51,10 @@ Full 64 bit armv8
 | Root                      | Working (PHH Superuser)                                   |
 | First boot                | < 3 minutes                                               |
 
+### PHH AOSP 11.0 v306:
+
+as above
+
 ---
 
-Tested By: Ryccardo (@rboninsegna) - TB-8505XS ZA5D0038SE (Swedish model sold in Italy), official firmware TB_8505XS_S300088_201220_BMP - 2021.2.16
+Tested By: Ryccardo (@rboninsegna) - TB-8505XS ZA5D0038SE (Swedish model sold in Italy), official firmware TB_8505XS_S300088_201220_BMP - 2021.5.12
