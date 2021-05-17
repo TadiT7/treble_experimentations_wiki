@@ -9,6 +9,8 @@ Device version **M5P3** [official stock v1.02 link (no google play services)](ht
 
 Device version **M6P4** [official rom v1 link](https://yadi.sk/d/-2QpFnbGK95v8A)
 
+Device version **M5P4** [official stock v1.02 link](https://onedrive.live.com/?authkey=%21ANwP6Y1f2XiBe6c&cid=A120532B51026BDA&id=A120532B51026BDA%212790&parId=A120532B51026BDA%212077&action=locate)
+
 
 
 At future possible ( [asuvoro](https://github.com/asuvoro) ) will change rom-links to torrents.
