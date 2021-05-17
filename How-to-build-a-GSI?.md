@@ -107,11 +107,11 @@ If you encounter problems with the build-rom.sh script, you might consider using
 git clone https://github.com/phhusson/treble_experimentations
 ```
 
-2. Start the build. We will create a folder named AOSP10, enter it and then call the build script.
+2. Start the build. We will create a folder named AOSP11, enter it and then call the build script.
 
 ```
-mkdir AOSP10; cd AOSP10
-bash ../treble_experimentations/build.sh android-10.0
+mkdir AOSP11; cd AOSP11
+bash ../treble_experimentations/build.sh android-11.0
 ```
 The resulting system images will be stored in the release folder.
 
@@ -122,7 +122,7 @@ In simple steps:
 1. Repo init the rom you want to build GSI for.
 ```
 mkdir ~/rom &&  cd ~/rom
-repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
+repo init -u https://github.com/LineageOS/android.git -b lineage-18.1
 ```
 
 2. Add phh repos to your local_manifest
