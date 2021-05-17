@@ -7,7 +7,7 @@ So, let's start:
 **What you’ll need:**
 
 * A treble enabled device, basically all devices that come with Android 8.1 out of box support it.
-* A relatively recent 64-bit computer (Linux, OS X, or Windows) with a reasonable amount of RAM and about 100 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 8 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
+* A relatively recent 64-bit computer (Linux, OS X, or Windows) with a reasonable amount of RAM and about 100 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 16 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
 * A USB cable compatible with your device
 * A decent internet connection & reliable electricity :)
 * Some familiarity with basic Android operation and terminology. It would help if you’ve installed custom ROMs on other devices and are familiar with recovery. It may also be useful to know some basic command line concepts such as cd for “change directory”, the concept of directory hierarchies, that in Linux they are separated by /. etc.
