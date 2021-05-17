@@ -148,7 +148,7 @@ git clone https://github.com/phhusson/treble_patches -b android-11.0
 Then apply each path in its project
 
 ```
-patch -p1 < patch
+git am patch
 ```
 
 5. Go to the phh device repo and run `bash generate.sh vendor/lineage/config/common_full_phone.mk` - adapting for the rom you wish to build for. 
