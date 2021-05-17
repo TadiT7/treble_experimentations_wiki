@@ -1,7 +1,7 @@
 # How to build a Project Treble GSI ROM from source?
 
 In this guide I'll try to simplify building Treble GSI process.
-As you read this guide now I'll assume you already have a previous knowledge about How to build android from source, so I won't cover some points with too many basic details. **(Some contents of this tutorial is outdated, if you has any problems go to [the builders' group](https://t.me/phhtreblebuilders).)**
+As you read this guide now I'll assume you already have a previous knowledge about How to build android from source, so I won't cover some points with too many basic details. **(Some contents of this tutorial is outdated, if you has any problems go to [the builders' group](https://t.me/phhtreblebuilders).) Do not use dakkar or build-rom anymore!**
 So, let's start:
 
 **What you’ll need:**
@@ -19,9 +19,8 @@ So, let's start:
 * 3. Install the repo command
 * 4. Configure git
 * 5. Turn on caching to speed up build
-* 6. Build using phhusson's script
-* 7. Build using dakkar's script
-* 8. Build using the manual way
+* 6. Build using phhusson's script (AOSP only)
+* 8. Build using the manual way (Custom ROMs and AOSP)
 
 ### 1. Install SDK
 If you haven’t previously installed `adb` and `fastboot`, you can [download them from Google](https://dl.google.com/android/repository/platform-tools-latest-linux.zip).
@@ -98,23 +97,7 @@ And adding these lines to your ~/.bashrc file.
 
 You can configure the maximum amount of disk space you want the cache to use by editing `CCACHE_MAXSIZE` consequently. Anywhere from 25GB-100GB will result in very noticeably increased build speeds (for instance, a typical 1hr build time can be reduced to 20min). If you’re only building for one device, 25GB-50GB is fine. If you plan to build for several devices that do not share the same kernel source, aim for 75GB-100GB. This space will be permanently occupied on your drive, so take this into consideration.
 
-### 6. Build using phhusson's script
-
-We can't deny that @phhusson has made amazing works and countless contributions to Project Treble ROMs development apart from his [experimentations](https://github.com/phhusson/treble_experimentations/) is a build script which make build a GSI super simple job.
-
-
-1- Open your terminal and run:
-
-```git clone https://github.com/phhusson/treble_experimentations```
-
-2- To clone and build enter the following command:
-```
-mkdir AOSP10; cd AOSP10
-bash ../treble_experimentations/build-rom.sh android-10.0
-```
-3- The script will automatically initialize the repository, sync the source, apply patches and start building.
-
-### 7. Build using phhusson's second script (build.sh)
+### 6. Build using phhusson's script - AOSP only (build.sh)
 
 If you encounter problems with the build-rom.sh script, you might consider using the newer script. Keep in mind that we'll need to modify it a bit, otherwise it will build system images for all possible options (all architectures, all partition options, all gapps choices,etc.).
 
@@ -124,25 +107,7 @@ If you encounter problems with the build-rom.sh script, you might consider using
 git clone https://github.com/phhusson/treble_experimentations
 ```
 
-2. Edit the build.sh file in the treble_experimentations folder by commenting (adding an #) in front of the build variants that you don't need:
-
-```nano treble_experimentations/build.sh```
-
- Scroll down to this decision instruction and add and hashtag (#) in front of the options that you don't need (this is an example of my choices, you can choose whatever you want from here. The options that have no '#' will be built):
-
-```
-if [ "$1" = "android-10.0" ];then
-        #buildVariant treble_arm64_afS-userdebug quack-arm64-aonly-floss
-        #buildVariant treble_arm64_avS-userdebug quack-arm64-aonly-vanilla
-        #buildVariant treble_arm64_agS-userdebug quack-arm64-aonly-gapps
-        #buildVariant treble_arm64_aoS-userdebug quack-arm64-aonly-go
-        buildVariant treble_arm64_bfS-userdebug quack-arm64-ab-floss
-        #buildVariant treble_arm64_bvS-userdebug quack-arm64-ab-vanilla
-        #buildVariant treble_arm64_bgS-userdebug quack-arm64-ab-gapps
-        #buildVariant treble_arm64_boS-userdebug quack-arm64-ab-go
-```
-
-3. Start the build. We will create a folder named AOSP10, enter it and then call the build script.
+2. Start the build. We will create a folder named AOSP10, enter it and then call the build script.
 
 ```
 mkdir AOSP10; cd AOSP10
@@ -150,61 +115,7 @@ bash ../treble_experimentations/build.sh android-10.0
 ```
 The resulting system images will be stored in the release folder.
 
-### 8. Build using @dakkar script
-
-dakkar's script is another treble building script, originally made by @Dakkar and improved by contributors on [treble experimentations](https://github.com/phhusson/treble_experimentations/) repo. It's customizable, easy to understand and can build almost all [ROMs](https://github.com/phhusson/treble_experimentations/blob/f2e623fdd5c49d2e2e6c6e45184b36d519d54a72/build-dakkar.sh#L84") with simple [edits](https://github.com/phhusson/treble_experimentations/commit/9ae752a94f20ba17c8a712429c4db42c20a0511a).
-
-1- Open your terminal and run:
-
-```git clone https://github.com/phhusson/treble_experimentations```
-
-2- To start the process:
-
-```bash ../treble_experimentations/build-dakkar.sh romname variant```
-
-
->ROM types:
->  * aex
->  * aicp
->  * aokp
->  * aosmp
->  * aosp80
->  * aosp81
->  * aosp90
->  * aquarios
->  * carbon
->  * crdroid
->  * e-pie
->  * e-oreo
->  * havoc
->  * komodo
->  * lineage151
->  * lineage160
->  * mokee
->  * pixel81
->  * pixel90
->  * potato
->  * rebellion
->  * rr
->  * slim
-
-> Variants are dash-joined combinations of (in order):
-> * processor type
->   * "arm" for ARM 32 bit
->   * "arm64" for ARM 64 bit
-> * A or A/B partition layout ("aonly" or "ab")
-> * GApps selection
->   * "vanilla" to not include GApps
->   * "gapps" to include opengapps
->   * "go" to include gapps go
-> * SU selection ("su" or "nosu")
-> for example:
-> * arm-aonly-vanilla-nosu
-> * arm64-ab-gapps-su
-
-**Note:** check patches when you use these auto scripts, if some patch is broken you'll have build errors :p
-
-### 9. Build using the manual way
+### 7. Build using the manual way
 
 In simple steps:
 
@@ -216,7 +127,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
 
 2. Add phh repos to your local_manifest
 ```
-git clone https://github.com/phhusson/treble_manifest .repo/local_manifests  -b android-9.0
+git clone https://github.com/phhusson/treble_manifest .repo/local_manifests  -b android-11.0
 ```
 After git clone you need to remove or delete replace.xml (.repo/local_manifests/replace.xml) if you're building any rom except AOSP GSI.
 
@@ -228,10 +139,10 @@ repo sync -c -j4 --force-sync --no-tags --no-clone-bundle
 
 4. Modify the source to fix issues in other devices using one of these methods:
 
-- Apply [phh patches](https://github.com/phhusson/treble_patches/tree/android-9.0/patches):
+- Apply [phh patches](https://github.com/phhusson/treble_patches/tree/android-11.0/patches):
 
 ```
-git clone https://github.com/phhusson/treble_patches -b android-9.0
+git clone https://github.com/phhusson/treble_patches -b android-11.0
 ```
 
 Then apply each path in its project
@@ -240,13 +151,7 @@ Then apply each path in its project
 patch -p1 < patch
 ```
 
-- Or cherry-pick changes by phhusson from here, remember to choose the latest branch
-
-[platform_build](https://github.com/phhusson/platform_build/) - [platform_external_selinux](https://github.com/phhusson/platform_external_selinux) - [platform_frameworks_av](https://github.com/phhusson/platform_frameworks_av) - [platform_frameworks_base](https://github.com/phhusson/platform_frameworks_base) - [platform_frameworks_native](https://github.com/phhusson/platform_frameworks_native) - [platform_frameworks_opt_telephony](https://github.com/phhusson/platform_frameworks_opt_telephony) - [platform_system_bt](https://github.com/phhusson/platform_system_bt) - [platform_system_core](https://github.com/phhusson/platform_system_core) - [platform_system_libvintf](https://github.com/phhusson/platform_system_libvintf) - [platform_system_vold](https://github.com/phhusson/platform_system_vold)
-
-```git fetch repo branch && git cherry-pick commit```
-
-5. Go to the phh device repo and edit the .mk for your ROM (example lineage.mk)
+5. Go to the phh device repo and run `bash generate.sh vendor/lineage/config/common_full_phone.mk` - adapting for the rom you wish to build for. 
 
 6. Lunch the [build variant](https://github.com/phhusson/treble_experimentations/blob/master/build.sh#L380) you want (ex. treble_arm64_avN-userdebug) and start the build
 
@@ -259,7 +164,7 @@ WITHOUT_CHECK_API=true make -j8 systemimage
 7. If you want to compress the system image after build finishes, go to out/target/product/phh_*/ folder and run
 
 ```
-xz -c system.img > system.img.xz
+xz -9 -T0 -v -z system.img
 ```
 
 That's all ;)
@@ -274,3 +179,4 @@ That's all ;)
 
 **Edit Notes:**
 - @Dualkem - added the build.sh build guide (point 7).
+- @00p513-dev - Initial changes for 2021
