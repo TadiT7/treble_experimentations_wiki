@@ -68,6 +68,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cosmo Communicator]]|Cosmo||A|arm64|
+|[[Cubot King Kong Mini 2]]|n/a|✓|A/B|arm_binder64|
 |[[Cubot Quest]]|Cubot QUEST|✓|AB|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
 |[[Cubot X18 Plus]]|Cubot_X18_Plus||A|arm64|
