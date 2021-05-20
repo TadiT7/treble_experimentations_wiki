@@ -5,7 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 12
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|Google GSI|Google|[Download](https://dl.google.com/developers/android/sc/images/gsi/aosp_arm64-exp-SPB1.210331.013-7333779-3227774b.zip)|A/B|arm64 - x86|
+|Google GSI|Google|[Download](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)|A/B|arm64 - x86|
 
 ## Official Android 11
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
