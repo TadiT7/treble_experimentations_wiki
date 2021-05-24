@@ -1,4 +1,4 @@
-# Realme Narzo C3/10A
+# realme C3/Narzo 10A
 ## Requirement :
 Since TWRP/PBRP is available but we cant install GSI using custom recovery due to dynamic partitions
 * Unlock bootloader
@@ -39,6 +39,8 @@ Since TWRP/PBRP is available but we cant install GSI using custom recovery due t
 | Auto-Brightness           | Working (But have lower brightness issue)                 |
 ---
 
-Tested By: me and my tested - RMX2020 Firmware version RMX2020_11.A.59 - Date tested April 15, 2021.
+Tested By: me and my tester - RMX2020 Firmware version RMX2020_11.A.59 - Date tested April 15, 2021.
+
+Tested By: [@rjaakash](https://t.me/rjaakash) - RMX2020 Firmware version RMX2020_11.A.61 - Date tested May 23, 2021.
 
 Template created by @zguithues and @hackintosh5
