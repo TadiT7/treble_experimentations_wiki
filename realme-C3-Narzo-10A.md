@@ -39,7 +39,7 @@ Since TWRP/PBRP is available but we cant install GSI using custom recovery due t
 | Auto-Brightness           | Working (But have lower brightness issue)                 |
 ---
 
-Tested By: me and my tester - RMX2020 Firmware version RMX2020_11.A.59 - Date tested April 15, 2021.
+Tested By: [me](https://t.me/sarthakroy2002) and my tester - RMX2020 Firmware version RMX2020_11.A.59 - Date tested April 15, 2021.
 
 Tested By: [@rjaakash](https://t.me/rjaakash) - RMX2020 Firmware version RMX2020_11.A.61 - Date tested May 23, 2021.
 
