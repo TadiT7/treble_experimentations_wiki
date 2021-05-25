@@ -56,13 +56,16 @@ On the PC:
 
 ## Hardware support
 
+- I had a problems with headphones, but this [workaround](https://github.com/phhusson/treble_experimentations/issues/118#issuecomment-449163865) fixed it.
+
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working                                                   |
 | Speaker / Mic             |  Not tested                                                    |
+| Headphones                | Workaround required                                            |
 | Bluetooth                 |  Not tested                                                    |
-| WiFi                      |  Not tested                                                    |
-| SIM / Mobile Data / Voice |  Not tested                                                    |
+| WiFi                      | Working                                                    |
+| SIM / Mobile Data / Voice | Not tested                                                    |
 | VoLTE                     | Not tested                                                |
 | Fingerprint               | Not tested                                                |
 | NFC                       | N/A                                                       |
