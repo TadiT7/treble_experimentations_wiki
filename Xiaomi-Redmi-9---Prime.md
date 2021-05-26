@@ -1,8 +1,6 @@
 # Xiaomi Redmi 9 (lancelot)
 
-Testing is ongoing, booting and taking photos works, the rest is untested so far.
-
-Recovery: no official TWRP, there's a PitchBlackRecovery beta that boots (but lacks fastbootd).
+Recovery ROM: there is no official TWRP, there's a PitchBlackRecovery beta that boots (but lacks fastbootd). As of writing (May 26th 2021, the best option is an official version of Skyhawk Recovery SHRP that can be built from source and has working decryption and fastbootd (see references for links to binaries).
 
 ## Background info
 
@@ -74,6 +72,7 @@ On the PC:
 
 ## References
 
+* Seahawk Recovery https://sourceforge.net/projects/shrp/files/lancelot/SHRP_v3.1_stable-Official_lancelot-1619460079.zip/download
 * PitchBlack Recovery Redmi 9 lancelot (beta) https://github.com/PitchBlackRecoveryProject/android_device_xiaomi_lancelot-pbrp/releases/3.0.0-beta
 
 Tested By: 2021/04/20 sebastianapel - Template created by @zguithues and @hackintosh5
