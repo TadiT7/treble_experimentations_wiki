@@ -57,19 +57,20 @@ On the PC:
 ## Hardware support
 
 - I had a problems with headphones, but this [workaround](https://github.com/phhusson/treble_experimentations/issues/118#issuecomment-449163865) fixed it.
+- Brightness had a problem, that could be fixed by "setprop persist.sys.qcom-brightness 2047" in adb (as root)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working                                                   |
-| Speaker / Mic             |  Not tested                                                    |
+| Speaker / Mic             |  Working                                                 |
 | Headphones                | Workaround required                                            |
-| Bluetooth                 |  Not tested                                                    |
+| Bluetooth                 |  Working                                                    |
 | WiFi                      | Working                                                    |
-| SIM / Mobile Data / Voice | Not tested                                                    |
+| SIM / Mobile Data / Voice | Working                                                    |
 | VoLTE                     | Not tested                                                |
 | Fingerprint               | Not tested                                                |
 | NFC                       | N/A                                                       |
-| Offline Charging          | Not working                                               |
+| Offline Charging          |  Not tested                                                 |
 
 ## References
 
