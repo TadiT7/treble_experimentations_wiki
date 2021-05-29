@@ -260,7 +260,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
 |[[Nokia 8.3 5G]]|BabyGroot / BGT|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
-|[[Nokia C2 Tava/Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
+|[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C3]]|GamoraPlus / GMR|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
