@@ -262,6 +262,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C3]]|GamoraPlus / GMR|✓|A/B|arm64|
+|[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
