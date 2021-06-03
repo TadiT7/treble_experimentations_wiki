@@ -1,3 +1,4 @@
+[The previous user did a very good job at detailing all the bugs,but, has left since he no longer owns this device, this is where I step in, go to the bottom and my description will be below my name ' @Haus3master']
 # [Nokia 1] - [frt]
 
 [OEM's support](#oems-support-vendor-and-kernel)
@@ -111,3 +112,5 @@ Known bugs/Workarounds:
 _**Last update:** 8:34 PM; September 22nd, 2020_
 
 _**There are tons of changes that I've found and saw them fixed with another Go device I own but please note that I am no longer owning the phone so I can't contribute anything here anymore. But overall, this is a bad phone to use GSI. Maybe it will get better in Android 11. Heck, I didn't even have opportunity to try Android 10 on this phone yet.**_
+
+_Haus3master_ :
