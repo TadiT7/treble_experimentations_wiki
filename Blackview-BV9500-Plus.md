@@ -45,8 +45,9 @@
      `$ fastboot flash boot patched_boot.img`
 ### GApps
   * Installed GApps onto Unofficial Lineage OS GSI 20200111 by copying play services and play store apk's to `system/priv-app/`
-### microG (Android 10.1/LineageOS 17.1 only)
-  * To get microG working properly (Must have Magisk  completely installed and android debugging (ADB) enabled with rooted debugging enabled.
+### microG 
+#### Android 10.1/LineageOS 17.1
+  * To get microG working properly (Must have Magisk/Root completely installed and android debugging (ADB) enabled with rooted debugging enabled.
   * Installed microG onto Unofficial Lineage OS GSI 20200920. Follow official microG installation instructions from their page plus minor changes listed below.
   * Connect phone to PC and open a console/terminal and run:
      `$ adb shell`
