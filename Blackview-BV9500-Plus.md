@@ -70,4 +70,4 @@
 ### AOSP 11.0 v300.i+
   *  Now comes with a FLOSS variant from v300i and later.
 
-Tested By: nobody666 - BV9500 Plus | 2021.06.05
+|Tested By: nobody666 - BV9500 Plus | 2021.06.05|
