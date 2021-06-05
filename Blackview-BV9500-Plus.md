@@ -15,20 +15,20 @@
 
 ## Hardware support
 
-| Component                 | LineageOS 18.1 20210111      | AOSP 11.0 v308 (FLOSS)       |
-|---------------------------|------------------------------|------------------------------|
-| Wireless Charging/Charging| Working                      | Working                      |
-| GPS                       | Working                      | Working                      |
-| Camera                    | Working, not second camera   | Working, Front Cam Decent    |
-| Speaker / Mic             | Working                      | Working                      |
-| Bluetooth                 | Working                      | Working                      |
-| WiFi                      | Working                      | Working                      |
-| SIM / Mobile Data / Voice | Working, tested SIM1 only    | Working                      |
-| Fingerprint               | Working                      | Working                      |
-| Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2|
-| GApps                     | Not working                  | Not tested                   |
-| microG                    | Not working                  | Included, working            |
-| Magisk/Root               | Not working                  | phh-su, no magisk            |
+| Component                 | LineageOS 18.1 20210111      | AOSP 11.0 v308 (FLOSS)       | LineageOS R Mod v308         |
+|---------------------------|------------------------------|------------------------------|------------------------------|
+| Wireless Charging/Charging| Working                      | Working                      | Working                      |
+| GPS                       | Working                      | Working                      | Working                      |
+| Camera                    | Working, not secondary one   | Working, not secondary one   | Working, not secondary one   |
+| Speaker / Mic             | Working                      | Working                      | Working                      |
+| Bluetooth                 | Working                      | Working                      | Working                      |
+| WiFi                      | Working                      | Working                      | Working                      |
+| SIM / Mobile Data / Voice | Working, tested SIM1 only    | Working                      | Working                      |
+| Fingerprint               | Working                      | Working                      | Working                      |
+| Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2| Working, tested with 128GB A2|
+| GApps                     | Not working                  | Not tested                   | Not tested, Varient available|
+| microG                    | Not working                  | Included, working            | Working                      |
+| Magisk/Root               | Not working                  | phh-su, no magisk            | Magisk Included              |
 ---
 
 ## Additional Information
@@ -47,7 +47,11 @@
 ### GApps
 #### LineageOS 17.1
   * Installed GApps onto Unofficial LineageOS 17.1 GSI 20200111 by copying play services and play store apk's to `system/priv-app/`
-### microG 
+### microG
+#### LineageOS R Mod v308
+  * In order to get microG working proper we need to enable signature spoofing.
+  * Follow this guide to enable signature spoofing - [LINK](https://forum.xda-developers.com/t/signature-spoofing-on-unsuported-android-11-r-roms.4214143/)
+  * After you get signature spoofing enabled follow the same instructions for Android 10.1/LineageOS 17.1.
 #### Android 10.1/LineageOS 17.1
   * To get microG working properly (Must have Magisk/Root completely installed and android debugging (ADB) enabled with rooted debugging enabled.
   * Installed microG onto Unofficial Lineage OS GSI 20200920. Follow official microG installation instructions from their page plus minor changes listed below.
@@ -58,6 +62,9 @@
   * Grant SU permission to the shell and run this to give permission to the FakeStore/BlackStore:
      `# pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE`
   * Reboot.
+#### LineageOS 18.1
+  * It is mentioned that signature spoofing is enabled in Andy Yan's builds of LineageOS 18.1 however I have not tested this.
+  * If it is the case that signature spoofing is enabled then follow the same instructions for Android 10.1/LineageOS 17.1
 ## Test Results
   *  AOSP 11.0 v304 (FLOSS), Boots - Daily driver material.
   *  AOSP 11.0 v308 (FLOSS), Boots - Results above.
