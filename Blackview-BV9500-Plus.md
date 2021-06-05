@@ -59,10 +59,13 @@
 ## Test Results
   *  AOSP 11.0 v304 (FLOSS), Boots - Daily driver material.
   *  AOSP 11.0 v308 (FLOSS), Boots - Results above.
-  *  Lineage 17.1 20200111, Boots - Relatively Daily driver material sans Gapps.
+  *  LineageOS 17.1 20200111, Boots - Relatively Daily driver material sans Gapps.
   *  LineageOS 18.1 20210111, Boots - Results above.
 
 ## Notes
+### LineageOS 18.1
   *  Signature spoofing only working for apps inside /system. Have not tested on methods to get microg working this way.
+### AOSP 11.0 v300.i+
+  *  Now comes with a FLOSS variant from v300i and later.
 
-Tested By: nobody666 - BV9500 Plus | 2021.04.22
+Tested By: nobody666 - BV9500 Plus | 2021.06.05
