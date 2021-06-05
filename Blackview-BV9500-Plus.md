@@ -27,8 +27,8 @@
 | Fingerprint               | Working                      | Working                      |
 | Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2|
 | GApps                     | Not working                  | Not tested                   |
-| microG                    | Not working                | Included, working              |
-| Magisk                    | Not working               | phh-su, no magisk              |
+| microG                    | Not working                  | Included, working            |
+| Magisk/Root               | Not working                  | phh-su, no magisk            |
 ---
 
 ## Additional Information
