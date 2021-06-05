@@ -2,6 +2,8 @@
 ## Calls, Camera (only primary and front facing), bluetooth, gps, Wireless charging all work.
 
 ## Steps to install
+###Warning!! 
+  *There is no way to restore the phone back to its original state. I couldn't find the official firmware anywhere, and there is only one slot for each partition (not A/B).
 **NOTE: If you want to install Magisk follow the steps below before proceeding with the installation of these GSI's
 * With Android Debugging (ADB) enabled reboot to recovery via PC.
      `$ adb reboot bootloader`
