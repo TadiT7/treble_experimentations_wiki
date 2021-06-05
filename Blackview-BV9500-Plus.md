@@ -15,20 +15,20 @@
 
 ## Hardware support
 
-| Component                 | LineageOS 18.1 20210111   | AOSP 11.0 v304 (FLOSS)         |
-|---------------------------|---------------------------|--------------------------------|
-| Wireless Charging/Charging| Working                   | Working                        |
-| GPS                       | Working                   | Working                    |
-| Camera                    | Working, not second camera| Working, Front Cam Decent      |
-| Speaker / Mic             | Working                   | Working                        |
-| Bluetooth                 | Working                   | Working                        |
-| WiFi                      | Working                   | Working                        |
-| SIM / Mobile Data / Voice | Working, tested SIM1 only | Working                        |
-| Fingerprint               | Working                   | Working                        |
-| Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2  |
-| GApps                     | Not working                  | Not tested                     |
+| Component                 | LineageOS 18.1 20210111      | AOSP 11.0 v308 (FLOSS)       |
+|---------------------------|------------------------------|------------------------------|
+| Wireless Charging/Charging| Working                      | Working                      |
+| GPS                       | Working                      | Working                      |
+| Camera                    | Working, not second camera   | Working, Front Cam Decent    |
+| Speaker / Mic             | Working                      | Working                      |
+| Bluetooth                 | Working                      | Working                      |
+| WiFi                      | Working                      | Working                      |
+| SIM / Mobile Data / Voice | Working, tested SIM1 only    | Working                      |
+| Fingerprint               | Working                      | Working                      |
+| Micro SD Card             | Working, tested with 128GB A2| Working, tested with 128GB A2|
+| GApps                     | Not working                  | Not tested                   |
 | microG                    | Not working                | Included, working              |
-| Magisk                    | Not working                   | phh-su, no magisk              |
+| Magisk                    | Not working               | phh-su, no magisk              |
 ---
 
 ## Additional Information
@@ -57,10 +57,11 @@
      `# pm grant com.android.vending android.permission.FAKE_PACKAGE_SIGNATURE`
   * Reboot.
 ## Test Results
-  *  AOSP 11.0 v304 (FLOSS), Boots - Results above.
-  *  LineageOS 18.1 20210111, Boots - Results above.
-  *  AOSP 11.0 v300.m (FLOSS), Boots - Daily driver material.
+  *  AOSP 11.0 v304 (FLOSS), Boots - Daily driver material.
+  *  AOSP 11.0 v308 (FLOSS), Boots - Results above.
   *  Lineage 17.1 20200111, Boots - Relatively Daily driver material sans Gapps.
+  *  LineageOS 18.1 20210111, Boots - Results above.
+
 ## Notes
   *  Signature spoofing only working for apps inside /system. Have not tested on methods to get microg working this way.
 
