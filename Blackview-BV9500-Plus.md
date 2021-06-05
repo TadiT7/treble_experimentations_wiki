@@ -35,7 +35,8 @@
   * This device is A/B with VNDK version 28.0, choose arm64-ab when downloading an image.
   * Magisk not working. phh-su working.
   * Flashed image via fastboot. Could not get TWRP working
-### Magisk Installation (via patched boot.img) (Android 10.1/LineageOS 17.1 only)
+### Magisk Installation (via patched boot.img)
+#### Android 10.1/LineageOS 17.1
   * Enable Android Debugging (ADB) and get into device via Terminal/Console.
      `$ adb shell`
   * Run the below command to extract the boot image:
