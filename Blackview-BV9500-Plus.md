@@ -44,7 +44,8 @@
   * Via fastboot flash the patched boot.img. Replace "patched_boot" with the name of your patched boot image.
      `$ fastboot flash boot patched_boot.img`
 ### GApps
-  * Installed GApps onto Unofficial Lineage OS GSI 20200111 by copying play services and play store apk's to `system/priv-app/`
+#### LineageOS 17.1
+  * Installed GApps onto Unofficial LineageOS 17.1 GSI 20200111 by copying play services and play store apk's to `system/priv-app/`
 ### microG 
 #### Android 10.1/LineageOS 17.1
   * To get microG working properly (Must have Magisk/Root completely installed and android debugging (ADB) enabled with rooted debugging enabled.
