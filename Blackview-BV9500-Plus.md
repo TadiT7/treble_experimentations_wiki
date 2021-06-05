@@ -76,6 +76,8 @@
 ## Notes
 ### LineageOS 18.1
   *  Signature spoofing only working for apps inside /system. Have not tested on methods to get microg working this way.
+### LineageOS R Mod v308
+  * Vanilla, Gapps and Go Gapps build variants available.
 ### AOSP 11.0 v300.i+
   *  Now comes with a FLOSS variant from v300i and later.
 
