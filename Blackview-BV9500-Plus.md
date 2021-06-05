@@ -66,7 +66,7 @@
   * Reboot.
 #### LineageOS 18.1
   * It is mentioned that signature spoofing is enabled in Andy Yan's builds of LineageOS 18.1 however I have not tested this.
-  * If it is the case that signature spoofing is enabled then follow the same instructions for Android 10.1/LineageOS 17.1
+  * If it is the case that signature spoofing is enabled then follow the same instructions for Android 10.1/LineageOS 17.1 to install microG
 ## Test Results
   *  AOSP 11.0 v304 (FLOSS), Boots - Daily driver material.
   *  AOSP 11.0 v308 (FLOSS), Boots - Results above.
