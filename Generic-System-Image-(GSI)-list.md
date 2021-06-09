@@ -21,6 +21,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://www.pling.com/p/1486097/)|A - A/B|arm - arm64|
 |CherishOS|Braialindo|[Website](https://cherishos.com/) /[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
 |OctaviOS|Yilliee|[Website](https://octavi-os.com/) /[Telegram](http://t.me/octavigsi) / [Download](https://www.pling.com/p/1519375/)|A - A/B|arm - arm64 - binder|
+|DotOS|Community|[Download](https://www.droidontime.com/GSI)|A/B|arm64|
 
 ## Unofficial Android 11:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
