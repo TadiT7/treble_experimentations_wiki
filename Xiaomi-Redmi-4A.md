@@ -1,7 +1,7 @@
 # Xiaomi Redmi 4A & Xiaomi Redmi 5A
 Full Treble enabled by [33bca](https://github.com/33bca)
 
-**REMEMBER** : Redmi 4A and Redmi 5A are arm64 and System A-ONLY
+**REMEMBER** : Redmi 4A and Redmi 5A are arm64 and System A-ONLY, however, if you're using custom ROM based on Android 10 or later, use A/B GSI since your partition is system-as-root, not all A/B GSI will boot, so choose carefully
 
 ## Hardware Support
 
