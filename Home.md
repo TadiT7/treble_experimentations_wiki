@@ -469,7 +469,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5]]|rosy||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
-|[[Xiaomi Redmi 5A]]|riva||A|arm64|
+|[[Xiaomi Redmi 5A]]|riva||A (A/B when updated to Android 10 onwards)|arm64|
 |[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
