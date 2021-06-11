@@ -8,7 +8,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Google GSI|Google|[Download](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)|A/B|arm64 - x86|
 
 ## Official Android 11
-Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
