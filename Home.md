@@ -127,7 +127,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Honor 9 Lite]]|lld|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
 |[[Huawei Honor View 10]]|berkeley / bkl|✓|A|arm64|
-|[[Huawei Mate 9]]|mha|✓|A|arm64|
+|[[Huawei Mate 9]]|mha|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Mate 10]]|alp|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
