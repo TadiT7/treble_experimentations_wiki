@@ -273,62 +273,95 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 7T]]|hotdogb|✓|A/B|arm64|
 |[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
-|[[OnePlus 8T]]|kebab|✓|A/B|arm64|
 |[[OnePlus 8 Pro]]|instantnoodlep|✓|A/B|arm64|
-|[[OnePlus Nord N10 5G]]|billie8|✓|A/B|arm64|
-|[[OnePlus Nord N100]]|billie2|✓||arm64|
-|[[Oppo R11 / R11s]]|r11|✓|A|arm64|
+|[[OnePlus 8T]]|kebab|✓|A/B|arm64|
+|[[OnePlus Nord]]|avicii|✓|A/B|arm64|
+|[[OnePlus Nord N10 5G]]|billie|✓|A/B|arm64|
+|[[Oppo A5 (2020)]]|CPH1931 / CPH1933|✓|A/B|arm64|
+|[[Oppo Find X2]]|n/a|✓|A/B|arm64|
+|[[Oppo Find X2 Pro]]|n/a|✓|A/B|arm64|
+|[[Oppo Find X3]]|n/a|✓|A/B|arm64|
+|[[Oppo Find X3 Pro]]|n/a|✓|A/B|arm64|
+|[[Oppo R11 / R11s]]|CPH1707 and CPH1719|✓|A|arm64|
+|[[Oppo Reno 5 Pro+ / Find X3 Neo]]|n/a|✓|A/B|arm64|
+|[[Oppo Reno 6 Pro+]]|n/a|✓|A/B|arm64|
+|[[Oppo Reno 10x Zoom]]|n/a|✓|A/B|arm64|
+|[[Oppo Reno Ace]]|n/a|✓|A/B|arm64|
+|[[Oppo Reno Ace 2]]|n/a|✓|A/B|arm64|
 |[[Oukitel C10]]|C10|✓|A|arm|
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
+|[[Oukitel C17 Pro]]|C17_pro|✓|A/B|arm64|
 |[[Oukitel K7 Power]]|K7_power|✓|A|arm64|
 |[[Oukitel K8]]|K8|✓|A|arm64|
 |[[Oukitel K9]]|K9|✓|A/B|arm64|
+|[[Oukitel WP6]]|WP6|✓|A/B|arm64|
+|[[Oukitel WP7]]|WP7|✓|A/B|arm64|
+|[[Oukitel WP10 5G]]|WP10_5G|✓|A/B|arm64|
 |[[Ovvi SK3]]|V4701_I01||A|arm64|
-|[[Prestigio Muze G5 LTE]]|n/a||A|arm|
+|[[Prestigio Muze E5 LTE (PSP5545)]]|TL55B3L||A|arm|
+|[[Prestigio Muze G5 LTE (PSP5522)]]|TL52B5L||A|arm|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
-|[[Razer Phone 2]]|cheryl2|✓|A/B|arm64|
-|[[realme 1]]|CPH1859/CPH1861|✓|A/B|arm64|
-|[[realme 2 Pro]]|RMX1801|✓|A|arm64|
-|[[realme 3 Pro]]|RMX1851|✓|A/B|arm64|
-|[[realme X]]|RMX1901|✓|A/B|arm64|
-|[[realme XT]]|RMX1921|✓|A/B|arm64|
-|[[realme 6]]|RMX2001|✓|A/B(Dynamic Partitions)|arm64|
-|[[realme C1]]|RMX1811|✓|A/B|arm64|
-|[[realme C3/Narzo 10A]]|RMX2027/RMX2020|✓|A/B(Dynamic Partitions)|arm64|
-|[[realme C11/C12/C15 MTK]]|RMX2185/RMX2189/RMX2180|✓|A/B|arm64|
-|[[realme Q2 Pro]]|RMX2175|✓|A/B(Dynamic Partitions)|arm64|
-|[[realme narzo 30A]]|RMX3171|✓|A/B(Dynamic Partitions)|arm64|
+|[[Razer Phone 2]]|aura|✓|A/B|arm64|
+|[[Realme 1]]|CPH1859 / CPH1861|✓|A/B|arm64|
+|[[Realme 2 Pro]]|RMX1801|✓|A|arm64|
+|[[Realme 3 Pro]]|RMX1851|✓|A/B|arm64|
+|[[Realme 6]]|RMX2001|✓|A/B|arm64|
+|[[Realme 6 Pro]]|RMX206X|✓|A/B|arm64|
+|[[Realme 6i]]|RMX2040|✓|A/B|arm64|
+|[[Realme C1]]|RMX1811|✓|A/B|arm64|
+|[[Realme C2]]|RMX1941|✓|A/B|arm64|
+|[[Realme C3 / Narzo 10A]]|RMX2020 / RMX2027|✓|A/B|arm64|
+|[[Realme C11]]|RMX2185|✓|A/B|arm64|
+|[[Realme C12]]|RMX2189|✓|A/B|arm64|
+|[[Realme C15]]|RMX2180|✓|A/B|arm64|
+|[[Realme GT]]|n/a|✓|A/B|arm64|
+|[[Realme Narzo 30A]]|RMX3171|✓|A/B|arm64|
+|[[Realme Q2 Pro / X7]]|RMX2175|✓|A/B|arm64|
+|[[Realme X]]|RMX1901|✓|A/B|arm64|
+|[[Realme X2 Pro]]|RMX1931|✓|A/B|arm64|
+|[[Realme XT]]|RMX1921|✓|A/B|arm64|
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
+|[[Samsung Galaxy A3 (2017)]]|a3y17lte||A/B|arm64|
+|[[Samsung Galaxy A6 (2018)]]|a6lte|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
-|[[Samsung Galaxy A7 (2018)]]|a7y18lte||A|arm64|
-|[[Samsung Galaxy A8 (Exynos)]]|jackpotlte||A + A/B|arm64|
-|[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte||A + A/B|arm64|
-|[[Samsung Galaxy A10]]|a10dd|✓|A/B|arm_binder64+ arm64 |
-|[[Samsung Galaxy A10s]]|a10sxx|✓|A/B|arm_binder64|
-|[[Samsung Galaxy A20]]|a20dd|✓|A/B|arm64|
-|[[Samsung Galaxy A30]]|a30dd|✓|A/B|arm64|
+|[[Samsung Galaxy A7 (2018)]]|a7y18lte|✓|A (A/B after updated to One UI 2.0)|arm64|
+|[[Samsung Galaxy A8 (Exynos)]]|jackpotlte|✓|A (A/B)|arm64|
+|[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte|✓|A (A/B)|arm64|
+|[[Samsung Galaxy A02s]]|a02s|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A10]]|a10|✓|A/B|arm_binder64 (arm64)|
+|[[Samsung Galaxy A10s]]|a10s|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A11]]|a11q|✓|A/B|arm_binder64|
+|[[Samsung Galaxy A20]]|a20|✓|A/B|arm64|
+|[[Samsung Galaxy A21s]]|a21s|✓|A/B|arm64|
+|[[Samsung Galaxy A30]]|a30|✓|A/B|arm64|
+|[[Samsung Galaxy A30s]]|a30s|✓|A/B|arm64|
 |[[Samsung Galaxy A40]]|a40|✓|A/B|arm64|
-|[[Samsung Galaxy A50]]|a50dd|✓|A/B|arm64|
+|[[Samsung Galaxy A50]]|a50|✓|A/B|arm64|
+|[[Samsung Galaxy A51]]|a51|✓|A/B|arm64|
 |[[Samsung Galaxy A51 5G]]|a51x|✓|A/B|arm64|
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
-|[[Samsung Galaxy A70]]|a70dd|✓|A/B|arm64|
-|[[Samsung Galaxy Z Fold]]|winner|✓|A/B|arm64|
-|[[Samsung Galaxy Z Fold 2]]|winner2|✓|A/B|arm64|
-|[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
+|[[Samsung Galaxy A70]]|a70q|✓|A/B|arm64|
+|[[Samsung Galaxy A71]]|a71q|✓|A/B|arm64|
+|[[Samsung Galaxy A71 5G]]|a71xq|✓|A/B|arm64|
+|[[Samsung Galaxy A90 5G]]|r3q|✓|A/B|arm64|
+|[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
-|[[Samsung Galaxy J4]]|j4ltejx|✓|A|arm_binder64|
+|[[Samsung Galaxy J4]]|j4lte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4 Plus]]|j4primelte|✓|A|arm|
 |[[Samsung Galaxy J5 (2017)]]|j5y17lte||A/b|arm64|
-|[[Samsung Galaxy J6]]|j6ltexx|✓|A/b|arm64|
-|[[Samsung Galaxy J7 (2016)]]|j7xelte||A|arm64|
+|[[Samsung Galaxy J6]]|j6lte|✓|A/b|arm64|
+|[[Samsung Galaxy J6 Plus]]|j6primelte|✓|A|arm|
+|[[Samsung Galaxy J7 (2016)]]|j7xelte||A (A/B)|arm64|
 |[[Samsung Galaxy J7 (2017)]]|j7y17lte||A/b|arm64|
-|[[Samsung Galaxy J7 Neo]]|j7velte||A|arm64|
-|[[Samsung Galaxy J7 Prime]]|on7xelte||A|arm64|
-|[[Samsung Galaxy J8 (2018)]]|j8y18lte|✓|A(Once You update to One ui 2.0 it becomes A/B)|arm_binder64|
-|[[Samsung Galaxy M01]]|m01qser|✓|A/B|arm_binder64|
+|[[Samsung Galaxy J7 Neo]]|j7velte||A (A/B)|arm64|
+|[[Samsung Galaxy J7 Prime]]|on7xelte||A (A/B)|arm64|
+|[[Samsung Galaxy J8 (2018)]]|j8y18lte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
+|[[Samsung Galaxy M01]]|m01q|✓|A/B|arm_binder64|
+|[[Samsung Galaxy M11]]|m11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
-|[[Samsung Galaxy M30s]]|m30slte|✓|A/B|arm64|
+|[[Samsung Galaxy M30s]]|m30s|✓|A/B|arm64|
+|[[Samsung Galaxy M51]]|m51lte|✓|A/B|arm64|
 |[[Samsung Galaxy Note 8 (Exynos)]]|greatlte||A|arm64|
 |[[Samsung Galaxy Note 8 (Snapdragon)]]|greatqlte|✓|A|arm64|
 |[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
@@ -343,50 +376,64 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S8 and S8 Plus (Exynos)]]|dreamlte and dream2lte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
-|[[Samsung Galaxy S10 and S10 Plus (Exynos)]]|beyond1lte and beyond2lte|✓|A/B|arm64|
-|[[Samsung Galaxy S10 and S10 Plus (Snapdragon)]]|beyond1qlte and beyond2qlte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 (Snapdragon)]]|beyond1qlte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 Lite]]|r5q|✓|A/B|arm64|
+|[[Samsung Galaxy S10 Plus (Exynos)]]|beyond2lte|✓|A/B|arm64|
+|[[Samsung Galaxy S10 Plus (Snapdragon)]]|beyond2qlte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Exynos)]]|beyond0lte|✓|A/B|arm64|
 |[[Samsung Galaxy S10e (Snapdragon)]]|beyond0qlte|✓|A/B|arm64|
-|[[Samsung Galaxy S20 (Snapdragon)]]|hubblex1q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Plus (Snapdragon)]]|hubbley2q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Ultra (Snapdragon)]]|hubblez3q|✓|A/B|arm64|
-|[[Samsung Galaxy S20 (Exynos)]]|hubblex1|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Plus (Exynos)]]|hubbley2|✓|A/B|arm64|
-|[[Samsung Galaxy S20 Ultra (Exynos)]]|hubblez3|✓|A/B|arm64|
-|[[Samsung Galaxy S21 (Snapdragon)]]|unboundm1q|✓|A/B|arm64|
-|[[Samsung Galaxy S21 Plus (Snapdragon)]]|unboundn2q|✓|A/B|arm64|
-|[[Samsung Galaxy S21 Ultra (Snapdragon)]]|unboundo3q|✓|A/B|arm64|
-|[[Samsung Galaxy S21 (Exynos)]]|unboundm1|✓|A/B|arm64|
-|[[Samsung Galaxy S21 Plus (Exynos)]]|unboundn2|✓|A/B|arm64|
-|[[Samsung Galaxy S21 Ultra (Exynos)]]|unboundo3|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Exynos)]]|x1s|✓|A/B|arm64|
+|[[Samsung Galaxy S20 (Snapdragon)]]|x1q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Exynos)]]|y2s|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Plus (Snapdragon)]]|y2q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Exynos)]]|z3s|✓|A/B|arm64|
+|[[Samsung Galaxy S20 Ultra (Snapdragon)]]|z3q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 (Exynos)]]|o1s|✓|A/B|arm64|
+|[[Samsung Galaxy S21 (Snapdragon)]]|o1q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Plus (Exynos)]]|t2s|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Plus (Snapdragon)]]|t2q|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Ultra (Exynos)]]|p3s|✓|A/B|arm64|
+|[[Samsung Galaxy S21 Ultra (Snapdragon)]]|p3q|✓|A/B|arm64|
+|[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi and gto|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
-|[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[[Samsung Galaxy Tab S4 10.5]]|gts4lwifi and gts4llte|✓|A|arm64|
-|[[Samsung Galaxy Tab S5e]]|gts4lvwifi and gts4lvlte|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S5e]]|gts4lv and gts4lvwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S6]]|gts6l and gts6lwifi|✓|A/B|arm64|
-|[[Samsung Galaxy Tab S6 lite]]|gta4xl and gta4xlwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S6 Lite]]|gta4xl and gta4xlwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S7]]|gts7l and gts7lwifi|✓|A/B|arm64|
-|[[Samsung Galaxy Tab S7+]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Tab S7 Plus]]|gts7xl and gts7xlwifi|✓|A/B|arm64|
+|[[Samsung Galaxy Z Flip]]|bloom|✓|A/B|arm64|
+|[[Samsung Galaxy Z Fold 2]]|f2|✓|A/B|arm64|
 |[[Sharp Aquos P6 / V1]]|HD1|✓|A/B|arm64|
 |[[Sharp Aquos S2 / C10]]|SS2 / SAT|✓|A/B|arm64|
 |[[Sharp Aquos S3 / D10]]|HH1 / HH6 and SD1|✓|A/B|arm64|
 |[[Sharp Aquos S3 Mini]]|SG1||A/B|arm64|
+|[[Sharp Aquos R2]]|LYV||A/B|arm64|
+|[[Sharp Aquos R2 Compact]]|n/a||A/B|arm64|
+|[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
+|[[Sharp Aquos Zero]]|n/a||A/B|arm64|
+|[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
+|[[Smartisan Nut Pro 3]]|n/a||A/B|arm64|
+|[[Smartisan Nut R1]]|trident||A/B|arm64|
+|[[Smartisan Nut R2]]|n/a||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
-|[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
-|[[Sony Xperia 5]]|bahamut|✓|A/B|arm64
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
-|[[Sony Xperia 10 mk2]]|pdx201|✓|A/B|arm64|
-|[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64|
 |[[Sony Xperia 1 mk3]]|pdx-215|✓|A/B|arm64|
-|[[Sony Xperia 10 mk3]]|N/A|✓|A/B|arm64|
+|[[Sony Xperia 5]]|bahamut|✓|A/B|arm64
+|[[Sony Xperia 5 mk2]]|pdx-206|✓|A/B|arm64|
 |[[Sony Xperia 5 mk3]]|pdx-214|✓|A/B|arm64|
-|[[Sony Xperia X]]|suzu||A(A/B when updated to Android 10/11)|arm64|
-|[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 10/11)|arm64|
+|[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
+|[[Sony Xperia 10 mk2]]|pdx201|✓|A/B|arm64|
+|[[Sony Xperia 10 mk3]]|n/a|✓|A/B|arm64|
+|[[Sony Xperia X]]|suzu||A (A/B when updated to Android 11)|arm64|
+|[[Sony Xperia X Compact]]|suzu||A/B|arm64|
+|[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 11)|arm64|
 |[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
-|[[Sony Xperia XZ]]|kagura||A (A/B when updated to Android 10/11)|arm64|
+|[[Sony Xperia XZ]]|kagura||A (A/B when updated to Android 10)|arm64|
 |[[Sony Xperia XZ Premium]]|maple||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B (VNDK Lite)|arm64|
@@ -395,29 +442,48 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Teclast M20 4G]]|M20_4G||A|arm64|
 |[[Teclast M30]]|M30||A|arm64|
 |[[Teclast P10HD]]|P10_HD||A/B|arm64|
-|[[Tecno Camon X]]|tecno_ca7|✓|A|arm64|
-|[[Tecno POP 1s Pro (F4 Pro)]]|tecno_f4pro||A|arm|
-|[[Tecno Spark 4 Lite (Tecno BB4K)]]|tecno_BB4K||A/B|arm32_binder64|
+|[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
+|[[Tecno POP 1s Pro (F4 Pro)]]|TECNO-F4Pro||A|arm|
+|[[Tecno Spark 4 Air]]|n/a||A/B|arm_binder64|
+|[[Tecno Spark 4 Lite (BB4K)]]|TECNO-BB4K||A/B|arm_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
-|[[Ulefone Armor 6 / 6E]]|armor_6 and armor_6e||A/B|arm64|
-|[[Ulefone Armor 6S]]|armor_6S||A/B|arm64|
-|[[Ulefone Armor X]]|armor_x||A|arm64|
-|[[Umidigi A3]]|a3||A|arm64|
-|[[Umidigi A3 Pro]]|a3_pro||A|arm64|
-|[[Umidigi A5 Pro]]|a5_pro||A/B|arm64|
-|[[Umidigi F1 / F1 Play]]|f1 and f1_play|✓|A/B|arm64|
-|[[Umidigi One Max]]|one_max||A|arm64|
-|[[Umidigi One Pro]]|one_pro||A|arm64|
-|[[Umidigi Z2]]|z2||A|arm64|
-|[[Vertex Impress Luck]]|impress_luck||A|arm|
-|[[Wiko Lenny5]]|w_k400|✓ (Go)|A|arm|
-|[[Wiko View Max]]|p200|✓|A|arm|
+|[[Ulefone Armor 6 / 6E]]|Armor_6 and Armor_6E||A/B|arm64|
+|[[Ulefone Armor 6S]]|Armor_6S||A/B|arm64|
+|[[Ulefone Armor X]]|Armor_x||A|arm64|
+|[[Ulefone Power 5]]|Power_5||A|arm64|
+|[[Umidigi A1 Pro]]|A1_Pro||A|arm64|
+|[[Umidigi A3]]|A3||A|arm64|
+|[[Umidigi A3 Pro]]|A3_Pro||A|arm64|
+|[[Umidigi A5 Pro]]|A5_Pro||A/B|arm64|
+|[[Umidigi Bison]]|Bison|✓|A/B|arm64|
+|[[Umidigi F1]]|F1||A/B|arm64|
+|[[Umidigi F1 Play]]|F1_Play||A/B|arm64|
+|[[Umidigi F2]]|F2|✓|A/B|arm64|
+|[[Umidigi One Max]]|One||A|arm64|
+|[[Umidigi One Max]]|One_Max||A|arm64|
+|[[Umidigi One Pro]]|One_Pro||A|arm64|
+|[[Umidigi Power]]|Power|✓|A/B|arm64|
+|[[Umidigi Power 3]]|Power_3|✓|A/B|arm64|
+|[[Umidigi Z2]]|Z2||A|arm64|
+|[[Umidigi Z2 Pro]]|Z2_Pro||A/B|arm64|
+|[[Vertex Impress Luck]]|Impress_Luck||A|arm|
+|[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
+|[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
+|[[Wiko Lenny5]]|w_k400|✓|A|arm|
+|[[Wiko View Max]]|w_p200|✓|A|arm|
+|[[Wileyfox Spark / Spark+]]|porridge||A|arm (arm_binder64) (arm64)|
 |[[Wileyfox Swift]]|crackling||A|arm64|
 |[[Wileyfox Swift 2 / 2 Plus / 2 X]]|marmite||A|arm64|
-|[[Xiaomi Black Shark]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark]]|shark|✓|A/B|arm64|
 |[[Xiaomi Black Shark Helo]]|n/a|✓|A/B|arm64|
-|[[Xiaomi Black Shark 2]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 2]]|skywalker|✓|A/B|arm64|
+|[[Xiaomi Black Shark 2 Pro]]|darklighter|✓|A/B|arm64|
+|[[Xiaomi Black Shark 3]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 3 Pro]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 3S]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 4]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Black Shark 4 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Mi 3 / Mi 4]]|cancro||A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
@@ -435,63 +501,78 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 9 Pro 5G]]|сrux|✓|A/B|arm64|
 |[[Xiaomi Mi 9 SE]]|grus|✓|A/B|arm64|
 |[[Xiaomi Mi 10]]|umi|✓|A/B|arm64|
+|[[Xiaomi Mi 10 Lite]]|monet|✓|A/B|arm64|
+|[[Xiaomi Mi 10 Lite Zoom]]|vangogh|✓|A/B|arm64|
 |[[Xiaomi Mi 10 Pro]]|cmi|✓|A/B|arm64|
 |[[Xiaomi Mi 10 Ultra]]|cas|✓|A/B|arm64|
-|[[Xiaomi Mi 10T / 10T Pro and Redmi K30s Ultra]]|apollo|✓|A/B|arm64|
-|[[Xiaomi Mi 10T Lite and Redmi Note 9 Pro]]|gauguin and gauguinpro|✓|A/B|arm64|
-|[[Xiaomi Mi 10 Lite 5G]]|monet|✓|A/B|arm64|
+|[[Xiaomi Mi 10T / 10T Pro]]|apollo|✓|A/B|arm64|
+|[[Xiaomi Mi 10T Lite / 10i]]|gauguin|✓|A/B|arm64|
 |[[Xiaomi Mi 11]]|venus|✓|A/B|arm64|
-|[[Xiaomi Mi 11 Pro/Ultra]]|star|✓|A/B|arm64|
+|[[Xiaomi Mi 11 Lite]]|courbet|✓|A/B|arm64|
+|[[Xiaomi Mi 11 Lite 5G]]|renoir|✓|A/B|arm64|
+|[[Xiaomi Mi 11 Pro / 11 Ultra]]|star|✓|A/B|arm64|
+|[[Xiaomi Mi 11X / Poco F3]]|alioth|✓|A/B|arm64|
+|[[Xiaomi Mi 11X Pro / Mi 11i / Redmi K40 Pro]]|haydn|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
 |[[Xiaomi Mi A3]]|laurel|✓ (One)|A/B|arm64|
+|[[Xiaomi Mi CC9 / 9 Lite]]|pyxis / vela|✓|A/B|arm64|
+|[[Xiaomi Mi CC9 Pro / Note 10 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Max 2]]|oxygen||A|arm64|
-|[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to MIUI 12)|arm64|
+|[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to Android 11)|arm64|
 |[[Xiaomi Mi MIX]]|lithium||A|arm64|
 |[[Xiaomi Mi MIX 2]]|chiron||A (A/B when updated to Android 11)|arm64|
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
+|[[Xiaomi Mi MIX Fold]]|cetus|✓|A/B|arm64|
 |[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
 |[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Note 10 / CC9 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
 |[[Xiaomi Mi Play]]|lotus||A|arm64|
-|[[Xiaomi Pocophone F1 (Poco F1)]]|beryllium|✓|A|arm64|
-|[[Xiaomi Poco X3/NFC]]|karna (India, non-NFC) and surya (global, NFC)|✓|A/B|arm64|
+|[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
+|[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
+|[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
+|[[Xiaomi Poco M3]]|citrus|✓|A/B|arm64|
+|[[Xiaomi Poco X3 / X3 NFC]]|karna (India, non-NFC) and surya (Global, NFC)|✓|A/B|arm64|
 |[[Xiaomi Poco X3 Pro]]|vayu|✓|A/B|arm64|
 |[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
 |[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
 |[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
-|[[Xiaomi Redmi 4A]]|rolex|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10 onwards)|arm64|
+|[[Xiaomi Redmi 4A]]|rolex|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10)|arm64|
 |[[Xiaomi Redmi 4X]]|santoni||A|arm64|
 |[[Xiaomi Redmi 5]]|rosy||A|arm64|
 |[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
-|[[Xiaomi Redmi 5A]]|riva|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10 onwards)|arm64|
+|[[Xiaomi Redmi 5A]]|riva|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10)|arm64|
 |[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
-|[[Xiaomi Redmi 7]]|onc|✓|A/B|arm64|
-|[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64 arm64|
+|[[Xiaomi Redmi 7 / Y3 (India)]]|onclite|✓|A/B|arm64|
+|[[Xiaomi Redmi 7A]]|pine|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
 |[[Xiaomi Redmi 8A]]|olivelite|✓|A/B|arm_binder64|
-|[[Xiaomi Redmi 9 / Prime]]|lancelot|✓|A/B|arm64|
+|[[Xiaomi Redmi 9 / 9 Prime]]|lancelot|✓|A/B|arm64|
 |[[Xiaomi Redmi 9A / 9AT]]|dandelion|✓|A/B|arm_binder64|
-|[[Xiaomi Redmi 9C]]|angelica|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 9C NFC]]|angelican|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 9T / 9 Power]]|lime|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X / Note 9]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
 |[[Xiaomi Redmi K20 / Mi 9T]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro / Mi 9T Pro]]|raphael|✓|A/B|arm64|
-|[[Xiaomi Redmi K20 Pro Premium]]|raphael|✓|A/B|arm64|
+|[[Xiaomi Redmi K20 Pro Premium]]|raphaels|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 / Poco X2]]|phoenix|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 5G / K30i 5G]]|picasso|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Pro / Poco F2 Pro]]|lmi|✓|A/B|arm64|
 |[[Xiaomi Redmi K30 Ultra]]|cezanne|✓|A/B|arm64|
+|[[Xiaomi Redmi K30S Ultra / Mi 10T / Mi 10T Pro]]|apollo|✓|A/B|arm64|
 |[[Xiaomi Redmi K40 / Poco F3 / Mi 11X]]|alioth|✓|A/B|arm64|
+|[[Xiaomi Redmi K40 Gaming / Poco F3 GT]]|ares|✓|A/B|arm64|
+|[[Xiaomi Redmi K40 Pro / Mi 11i / Mi 11X Pro]]|haydn|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
 |[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
 |[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
@@ -502,28 +583,38 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9 / Redmi 10X]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 10 Pro /Pro Max]]|sweet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9S]]|curtana|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9T / 9 5G]]|cannon|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10]]|mojito|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10 5G / Poco M3 Pro]]|camellia|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10 Pro / 10 Pro Max]]|sweet|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
 |[[ZTE Axon 7]]|axon7 / ailsa_ii||A|arm64|
-|[[ZTE Axon 10 Pro]]|n/a|✓|A/B|arm64|
-|[[ZTE Blade 20 Smart]]|n/a|✓|A/B|arm64|
-|[[ZTE Blade A3 (2019)]]|z3051t|✓|A/B|arm_binder64|
-|[[ZTE Blade A7 (2020)]]|n/a|✓|A/B|arm_binder64|
+|[[ZTE Axon 9 Pro]]|p845a01|✓|A/B|arm64|
+|[[ZTE Axon 10 Pro]]|p855a01|✓|A/B|arm64|
+|[[ZTE Blade 20 Smart]]|p671f50|✓|A/B|arm64|
+|[[ZTE Blade A3 (2019)]]|p932f20|✓|A/B|arm_binder64|
+|[[ZTE Blade A7 (2020)]]|p662f02|✓|A/B|arm_binder64|
 |[[ZTE Blade V9]]|p450f10||A|arm64|
 |[[ZTE Blade V9 Vita]]|p840f03||A|arm64|
-|[[ZTE Blade V10]]|n/a|✓|A/B|arm64|
+|[[ZTE Blade V10]]|p671f20|✓|A/B|arm64|
 |[[ZTE Nubia Mini 5G]]|tp1803|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
 |[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 3S]]|n/a|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 5G]]|nx659j|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 5S]]|n/a|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 6]]|nx669j|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 6R]]|n/a|✓|A/B|arm64|
 |[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
 |[[ZTE Nubia Z9 Mini]]|nx511j||A|arm64|
 |[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
 |[[ZTE Nubia Z18]]|nx606j||A|arm64|
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
+|[[ZTE Nubia Z20]]|n/a|✓|A/B|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
