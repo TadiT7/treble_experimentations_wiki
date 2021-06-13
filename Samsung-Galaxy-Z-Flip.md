@@ -1,6 +1,6 @@
 # Device
 
-Seems to work fine with the base AOSP 11 image, vanilla and gapps; others get stuck or bootloop. This is on an SM-F700N - the Korean variant - but it will likely work on other bootloader-unlockable variants as well. I haven't tried this at all with Android 10.
+Seems to work fine with the base AOSP 11 image, vanilla and gapps, and the CrDroid R Mod image with gapps; most others get stuck or bootloop. This is on an SM-F700N - the Korean variant - but it will likely work on other bootloader-unlockable variants as well. I haven't tried this at all with Android 10.
 
 Occasionally a reboot will go silly and just not want to work right; in that case, another reboot usually fixes it.
 
