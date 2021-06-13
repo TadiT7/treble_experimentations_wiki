@@ -7,7 +7,7 @@ Occasionally a reboot will go silly and just not want to work right; in that cas
 ## Steps to install
 
 * Update to the latest current firmware. As I recall, I had the May 2021 security patch when I started this process.
-* Follow the instructions [here](https://forum.xda-developers.com/t/recovery-lineageos-recovery-for-f700f.4192011/) to install a suitable recovery. There is no need to disable encryption - Step 4 on 
+* Follow the instructions [here](https://forum.xda-developers.com/t/recovery-lineageos-recovery-for-f700f.4192011/) to install a suitable recovery. There is no need to disable encryption - Step 4 on there - as it works just fine with it enabled.
 * Boot into the just-installed recovery, switch it into fastbootd mode (Advanced -> Enter Fastboot), and flash the image:
     ```
     $ fastboot erase system
