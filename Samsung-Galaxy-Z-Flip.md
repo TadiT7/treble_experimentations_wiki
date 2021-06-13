@@ -35,3 +35,4 @@ Occasionally a reboot will go silly and just not want to work right; in that cas
 ---
 
 Tested By: Sarah Vandomelen (@irony_delerium on Telegram) - SM-F700N (Korea), firmware F700NKOU2DUD9 - Android 11, OneUI 3.1 - Jun 13, 2021 - Template created by @zguithues and @hackintosh5
+
