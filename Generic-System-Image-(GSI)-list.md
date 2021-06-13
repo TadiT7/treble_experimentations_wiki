@@ -12,6 +12,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |10-June|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |9-June|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
+|9-June|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm64|
 |1-June|Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A - A/B|arm - arm64|
 |30-May|OctaviOS|Yilliee|[Website](https://octavi-os.com/) /[Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|A - A/B|arm - arm64 - binder|
 |29-May|DotOS|Community|[Download](https://www.droidontime.com/GSI)|A/B|arm64|
@@ -26,7 +27,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 11:
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|June|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm64|
 |May|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
 |May|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |May|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|
