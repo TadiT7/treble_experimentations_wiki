@@ -10,7 +10,7 @@ _**Prerequisites**_
 * Latest platform-tools installed `https://developer.android.com/studio/releases/platform-tools`
 * Download This Vbmeta `https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img`
 * Latest Oxygen update `https://www.oneplus.com/support/softwareupgrade/details?code=PM1605857280263`
-* Payloader dumper to extract img files from update `https://github.com/vm03/payload_dumper`**(This will allow you to get the boot.img, modem.img,vbmeta_system.img, and vendor.img)**
+* Payloader dumper to extract img files from update `https://github.com/vm03/payload_dumper`**(This will allow you to get the boot.img, modem.img, vbmeta_system.img, and vendor.img)**
 
 
 _**Steps to Install**_
