@@ -64,9 +64,14 @@ Summary of what works and doesn't
 | Bluetooth calls           | No                                                        |
 ---
 ## Tested GSI's
-AOSP 9/10/11, Lineage OS 16/17/18.1, Pixel Experience 9/10/11, Havoc OS.
+- AOSP 9/10/11
+- Lineage OS 16/17/18.1
+- Pixel Experience 9/10/11
+- Havoc OS
 ## Tested by:
-LittleCherryFox, Iddqd228 and other guys from 4PDA 
+- LittleCherryFox
+- Iddqd228
+- Other guys from 4PDA 
 # Info
 - Model number: A405FM and A405FN
 - Latest firmware version: A405FNXXU3CUD3
