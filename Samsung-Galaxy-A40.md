@@ -70,4 +70,7 @@ LittleCherryFox, Iddqd228 and other guys from 4PDA
 # Info
 - Model number: A405FM and A405FN
 - Latest firmware version: A405FNXXU3CUD3
+
+***
+
 Template created by @zguithues and @hackintosh5 and updated by @ponces
