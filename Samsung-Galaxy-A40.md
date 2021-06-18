@@ -4,15 +4,15 @@ Summary of what works and doesn't
 
 ## Steps to install
 
-* Step 1 - unlock bootloader
-* Step 2 - install latest firmware version
-* Step 3 - flash [TWRP](https://twrp.me/samsung/samsunggalaxya40.html)
-* Step 4 - reboot into TWRP and follow these:
-- Disable encrypt with this [patch](https://4pda.ru/forum/dl/post/17584143/Encrypt.zip)
-- Format Data (you will lose all files)
-- Wipe Davlik, Cache, Data and System
-* Step 5 - choose a GSI image and flash it in System
-* Step 6 - reboot
+1. Unlock bootloader
+2. Install latest firmware version
+3. Flash [TWRP](https://twrp.me/samsung/samsunggalaxya40.html)
+4. Reboot into TWRP and follow these:
+    - Disable file encryption with this [patch](https://4pda.ru/forum/dl/post/17584143/Encrypt.zip)
+    - Format Data (you will lose all files)
+    - Wipe Davlik, Cache, Data and System
+5. Choose a GSI image and flash it in System
+6. Reboot to System
 
 ## Hardware support
 
