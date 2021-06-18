@@ -13,6 +13,8 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 
 ×Google GSI, Havoc, CrDroid, LineageOS (Credits Chaptsand from CoolApk, same w/ Xiaomi Mi 10 umi)
 
+√Google GSI(Official Android 12)
+
 ## Flashing instructions (Credits phhusson and Akito, make sure to have the latest platform-tools installed)
 
 Reboot to bootloader:
