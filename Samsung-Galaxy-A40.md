@@ -71,7 +71,7 @@ Summary of what works and doesn't
 ## Tested by:
 - LittleCherryFox
 - Iddqd228
-- Other guys from 4PDA 
+- Other guys from 4PDA
 # Info
 - Model number: A405FM and A405FN
 - Latest firmware version: A405FNXXU3CUD3
