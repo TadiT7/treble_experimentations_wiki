@@ -148,7 +148,7 @@ Guide to get magisk root working on @phhusson android 11 gsi
 1. install termux
 2. enter su
 3. enter echo $PATH
-4. copy the output path and paste inside init.environ.rc inside #root directory in the format "export PATH <that path>"
+4. copy the output path and paste inside init.environ.rc inside #root directory in the format "export PATH \<that path\>"
 (Use a files manager like Mixplorer or anything which can rw root) (ensure that you've atleast 15 MB free space on /root)
 5. if there's no sbin folder inside root , create one
 6. flash magisk 21.x and reboot
