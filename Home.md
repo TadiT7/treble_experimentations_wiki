@@ -389,6 +389,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S20 Plus (Snapdragon)]]|y2q|✓|A/B|arm64|
 |[[Samsung Galaxy S20 Ultra (Exynos)]]|z3s|✓|A/B|arm64|
 |[[Samsung Galaxy S20 Ultra (Snapdragon)]]|z3q|✓|A/B|arm64|
+|[[Samsung Galaxy S20 FE (Exynos)]]|r8s|✓|A/B|arm64|
+|[[Samsung Galaxy S20 FE (Snapdragon)]]|r8q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 (Exynos)]]|o1s|✓|A/B|arm64|
 |[[Samsung Galaxy S21 (Snapdragon)]]|o1q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Plus (Exynos)]]|t2s|✓|A/B|arm64|
