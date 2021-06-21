@@ -21,7 +21,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |11-May|Descendant XI|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
 |2-May|BlissROMs|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS11-Project)|A - A/B|arm - arm64 - binder|
 |April|CherishOS|Braialindo|[Website](https://cherishos.com/) /[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
-|March|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
+|21-June|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
 |February|Havoc|xEugW|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) / [Telegram](https://t.me/havocgsi) / [Download](https://www.pling.com/p/1376076/#files-panel/)|A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 11:
