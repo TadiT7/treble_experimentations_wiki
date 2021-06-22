@@ -67,7 +67,7 @@ _**Steps to Install**_
 | WiFi / Hotspot            | √|
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | √ |
-| VoLTE                     | ? (Untested) |
+| VoLTE                     | √ To enabled it go into Settings, Phh Treble Settings, IMS features,Install IMS APK for Qualcomm vendor, Reboot the device, Go back to IMS features and request IMS network, and Create IMS APN |
 | Fingerprint               | √ |
 | NFC                       | ? (Untested) |
 | Offline Charging          | √ |
