@@ -58,7 +58,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
 |Resurrection Remix Q|RobotHanzo|[Download](https://sourceforge.net/projects/resurrection-remix-q-gsi/files/old/20210117/)|A - A/B|arm - arm64 - binder|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
-|Firmware collection|Braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/) / [Telegram](https://t.me/stragoOS)|A - A/B|arm64|
+|Firmware collection|Braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/) / [Telegram](https://t.me/stragoOS)|A - A/B|arm - arm64 - binder|
 
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
