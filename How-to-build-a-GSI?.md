@@ -139,11 +139,9 @@ repo sync -c -j4 --force-sync --no-tags --no-clone-bundle
 
 4. Modify the source to fix issues in other devices using one of these methods:
 
-- Apply [phh patches](https://github.com/phhusson/treble_patches/tree/android-11.0/patches):
+- Apply [phh patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches.zip):
 
-```
-git clone https://github.com/phhusson/treble_patches -b android-11.0
-```
+Download [the patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches.zip)
 
 Then apply each path in its project
 
