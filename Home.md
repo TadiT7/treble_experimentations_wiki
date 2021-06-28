@@ -262,7 +262,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 8.3 5G]]|BabyGroot / BGT|✓|A/B|arm64|
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
-|[[Nokia C3]]|GamoraPlus / GMR|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
 |[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
@@ -278,14 +277,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 8T]]|kebab|✓|A/B|arm64|
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
 |[[OnePlus Nord N10 5G]]|billie|✓|A/B|arm64|
-|[[Oppo A5 (2020)]]|CPH1931 / CPH1933|✓|A/B|arm64|
 |[[Oppo Find X2]]|n/a|✓|A/B|arm64|
 |[[Oppo Find X2 Pro]]|n/a|✓|A/B|arm64|
-|[[Oppo Find X3]]|n/a|✓|A/B|arm64|
-|[[Oppo Find X3 Pro]]|n/a|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|CPH1707 and CPH1719|✓|A|arm64|
-|[[Oppo Reno 5 Pro+ / Find X3 Neo]]|n/a|✓|A/B|arm64|
-|[[Oppo Reno 6 Pro+]]|n/a|✓|A/B|arm64|
+|[[Oppo Reno 5 Pro+]]|n/a|✓|A/B|arm64|
 |[[Oppo Reno 10x Zoom]]|n/a|✓|A/B|arm64|
 |[[Oppo Reno Ace]]|n/a|✓|A/B|arm64|
 |[[Oppo Reno Ace 2]]|n/a|✓|A/B|arm64|
@@ -419,9 +414,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
 |[[Sharp Aquos Zero]]|n/a||A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
-|[[Smartisan Nut Pro 3]]|n/a||A/B|arm64|
 |[[Smartisan Nut R1]]|trident||A/B|arm64|
-|[[Smartisan Nut R2]]|n/a||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
 |[[Sony Xperia 1 mk3]]|pdx-215|✓|A/B|arm64|
@@ -485,8 +478,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Black Shark 3]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3S]]|n/a|✓|A/B|arm64|
-|[[Xiaomi Black Shark 4]]|n/a|✓|A/B|arm64|
-|[[Xiaomi Black Shark 4 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Mi 3 / Mi 4]]|cancro||A|arm|
 |[[Xiaomi Mi 5]]|gemini||A|arm64|
 |[[Xiaomi Mi 5s]]|capricorn||A|arm64|
