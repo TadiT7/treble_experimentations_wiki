@@ -16,6 +16,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **Why should I use GSI for A/B devices to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "[system-as-root](https://source.android.com/devices/bootloader/system-as-root)". Before this change, only A/B devices were system-as-root and GSI name was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
 
+
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Alcatel 1 5033D]]|n/a||A|arm64|
@@ -612,5 +613,3 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZTE Nubia Z20]]|n/a|✓|A/B|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
-
-##### Will be regularly updated
