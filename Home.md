@@ -3,7 +3,6 @@
 Here's [[Frequently Asked Questions (FAQ)]].
 
 ### Device List
-
 Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. Wi-Fi, NFC, Bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
 
 **Device testers/maintainers:**  In addition to hardware support information, please record or give a pointer to at least one known-good factory-image/system-image configuration in a device-specific page (i.e. when a system image successfully boots on your device, please let others know what system image you used and what factory image you flashed over top of, and also any special flashing instructions).  There is a device-specific wiki template here:  [[New-Devices-Template-WIP]].
@@ -313,6 +312,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Realme C12]]|RMX2189|✓|A/B|arm64|
 |[[Realme C15]]|RMX2180|✓|A/B|arm64|
 |[[Realme GT]]|n/a|✓|A/B|arm64|
+|[[Realme Narzo 20 (aka Realme 7i EU))]]|RMX2193|✓|A/B|arm64|
 |[[Realme Narzo 30A]]|RMX3171|✓|A/B|arm64|
 |[[Realme Q2 Pro / X7]]|RMX2175|✓|A/B|arm64|
 |[[Realme X]]|RMX1901|✓|A/B|arm64|
