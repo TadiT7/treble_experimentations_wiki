@@ -612,3 +612,5 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZTE Nubia Z20]]|n/a|✓|A/B|arm64|
 |[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
+
+##### Will be regularly updated
