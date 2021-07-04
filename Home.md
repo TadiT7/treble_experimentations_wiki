@@ -54,6 +54,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Blackview BV9600 Pro]]|n/a|✓|A or A/B|arm64|
 |[[Blackview BV9900]]|n/a|✓|A/B|arm64|
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
+|[[BLU G90 Pro]]|G0370WW|✓|A/B|arm64|
 |[[Bluboo D6]]|D6|✓|A|arm|
 |[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
