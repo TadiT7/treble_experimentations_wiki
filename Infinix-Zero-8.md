@@ -5,16 +5,17 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Status                                                    |
-| Speaker / Mic             | Status                                                    |
-| Bluetooth                 | Status                                                    |
-| WiFi                      | Status                                                    |
-| SIM / Mobile Data / Voice | Status                                                    |
-| VoLTE                     | Status                                                    |
-| Fingerprint               | Status                                                    |
-| NFC                       | Status                                                    |
-| Offline Charging          | Status                                                    |
-| Other feature             | Status                                                    |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | problems with some GSIs                                   |
+| VoLTE                     | not tested                                                |
+| Fingerprint               | √                                                         |
+| NFC                       | -                                                         |
+| Offline Charging          | √                                                         |
+| Micro SD                  | works perfectly in most GSIs but few are unable to format |
+|                           |as portable storage                                        |
 ---
 
 Tested By: @kusti420
