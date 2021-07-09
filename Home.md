@@ -159,6 +159,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Infinix Note 7]]|x690b|✓|A/B|arm64|
 |[[Infinix Note 8]]|x692|✓|A/B|arm64|
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
+|[[Infinix Zero 8]]|x687|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
 |[[Itel A32F]]|f8007|✓ (Go)|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
