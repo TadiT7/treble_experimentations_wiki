@@ -3,19 +3,18 @@
 
 ## Hardware support
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | √                                                         |
-| Speaker / Mic             | √                                                         |
-| Bluetooth                 | √                                                         |
-| WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | problems with some GSIs                                   |
-| VoLTE                     | not tested                                                |
-| Fingerprint               | √                                                         |
-| NFC                       | -                                                         |
-| Offline Charging          | √                                                         |
-| Micro SD                  | works perfectly in most GSIs but few are unable to format |
-|                           |as portable storage                                        |
+| Component                 |      Comment                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| Camera                    | √                                                                            |
+| Speaker / Mic             | √                                                                            |
+| Bluetooth                 | √                                                                            |
+| WiFi                      | √                                                                            |
+| SIM / Mobile Data / Voice | problems with some GSIs                                                      |
+| VoLTE                     | not tested                                                                   |
+| Fingerprint               | √                                                                            |
+| NFC                       | -                                                                            |
+| Offline Charging          | √                                                                            |
+| Micro SD                  | works perfectly in most GSIs but few are unable to format as portable storage|
 ---
 
 Tested By: @kusti420
