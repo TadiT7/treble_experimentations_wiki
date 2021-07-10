@@ -11,3 +11,9 @@
 `Possible solutions:`
 
 `1. Enable alternate backlight scale and linear in phh settings`
+
+**3. Wired headphones not getting detected**
+
+`Possible solutions:`
+
+`1. Enable alternative headphones detection in phh settings and reboot`
