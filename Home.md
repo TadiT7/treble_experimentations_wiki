@@ -455,6 +455,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Umidigi A3]]|A3||A|arm64|
 |[[Umidigi A3 Pro]]|A3_Pro||A|arm64|
 |[[Umidigi A5 Pro]]|A5_Pro||A/B|arm64|
+|[[Umidigi A9 Pro]]|A9_Pro||A/B|arm64|
 |[[Umidigi Bison]]|Bison|✓|A/B|arm64|
 |[[Umidigi F1]]|F1||A/B|arm64|
 |[[Umidigi F1 Play]]|F1_Play||A/B|arm64|
