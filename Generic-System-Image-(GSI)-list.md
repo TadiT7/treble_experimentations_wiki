@@ -27,7 +27,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 11:
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|19-June|Pixel Experience|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-11-pixel-experience.4269051/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A - A/B|arm - arm64 - binder|
+|14-July|Pixel Experience|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-11-pixel-experience.4269051/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A - A/B|arm - arm64 - binder|
 |17-June|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
 |26-May|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |21-May|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|
