@@ -40,6 +40,9 @@ I successfully installed and tested the following ROMs, all of them work fine:
 | NFC                       | N/A                                                   |
 | Offline Charging          | OK                                                    |
 
+## Issues
+Call echoing when using a bluetooth headset. (AOSP 11 v309)
+
 ## Direct link to OEM Firmware
 [CUBOT_KINGKONGMINI2_A061C_V07_20201113](https://mega.nz/file/YR9kiCya#iBLECZfQ2JwTVKqm8R4rOjRC8nTg2b6EU45TkeyN-UM)
 
