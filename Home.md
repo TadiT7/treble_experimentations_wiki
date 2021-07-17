@@ -585,7 +585,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 9 / Redmi 10X]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 9S]]|curtana|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9S/ Redmi Note 9 Pro (India)]]|curtana|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9T / 9 5G]]|cannon|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10]]|mojito|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10 5G / Poco M3 Pro]]|camellia|✓|A/B|arm64|
