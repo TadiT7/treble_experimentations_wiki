@@ -8,6 +8,7 @@
 | Speaker / Mic             | √                                                         |
 | Bluetooth                 | √                                                         |
 | Wi-Fi                     | √                                                         |
+| Fingerprint               | √                                                         |
 | NFC                       | √                                                         |
 | FeliCa                    | x                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
