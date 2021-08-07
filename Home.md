@@ -86,6 +86,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Doogee X5 Pro]]|X5pro|✓|A|arm|
 |[[Doogee X50]]|X50|✓|A|arm|
 |[[Doogee Y8]]|Y8|✓|A/B|arm64|
+|[[Doogee S58 Pro]]|n/a|✓|A/B|arm64|
 |[[Duoqin Qin 2]]|sp9832e_1h10_go|✓|A/B (Go)|arm64|
 |[[Duoqin Qin 2 Pro]]|s9863a1h10|✓|A/B|arm64|
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
