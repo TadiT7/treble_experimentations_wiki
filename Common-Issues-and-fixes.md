@@ -16,5 +16,5 @@
 
 `Possible solutions:`
 
-`1. Enable alternative headphones detection in phh settings and reboot`
-`2. adb shell setprop persist.sys.overlay.devinputjack true
+`1. Enable alternative headphones detection in phh settings and reboot`  
+`2. adb shell setprop persist.sys.overlay.devinputjack true`
