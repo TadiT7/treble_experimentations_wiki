@@ -49,5 +49,5 @@ Now in 99% of cases, if you didn't mess up anything, gsi will boot normally, Inc
 |                                                   |
 ---
 
-Tested By: @realkarthiknair - RMX2191/2193(India), A23 vendor - Date tested - 2021
+Tested By: [@realkarthiknair](realkarthiknair.github.io) - RMX2191/2193(India), A23 vendor - Date tested - 2021
 
