@@ -24,3 +24,10 @@
 `Possible solutions:`
 
 `1. adb shell setprop persist.sys.phh.fingerprint.nocleanup true`
+
+**5. High refresh rate not working**
+
+`Possible solutions`
+
+`1. Check force refresh rate option in phh settings`
+`2. adb shell -c service call SurfaceFlinger 1035 i32 0`
