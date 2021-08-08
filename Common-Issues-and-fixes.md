@@ -30,4 +30,6 @@
 `Possible solutions`
 
 `1. Check force refresh rate option in phh settings`  
+
+(Method 2 tested only on some oppo/realme/oneplus, do with caution)
 `2. adb shell -c service call SurfaceFlinger 1035 i32 0`
