@@ -18,3 +18,9 @@
 
 `1. Enable alternative headphones detection in phh settings and reboot`  
 `2. adb shell setprop persist.sys.overlay.devinputjack true`
+
+**4. Fingerprint sensor not getting detected**
+
+`Possible solutions:`
+
+`1. setprop persist.sys.phh.fingerprint.nocleanup true`
