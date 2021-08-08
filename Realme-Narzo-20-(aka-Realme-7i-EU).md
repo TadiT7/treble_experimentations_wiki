@@ -1,4 +1,4 @@
-THIS GUIDE IS INCOMPLETE : PLEASE DONT FOLLOW IT RIGHT NOW !
+
 
 # Instructions to install GSI :
 
