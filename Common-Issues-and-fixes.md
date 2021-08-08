@@ -1,5 +1,7 @@
 > ***This sub-page is highly dependant on user contributions based on their experiences***
 
+> ***This sub page gives many fixes within phh settings which can be located in settings***
+
 **1. can't listen to anything on phone calls**
 
 `Possible solutions:`
@@ -31,5 +33,5 @@
 
 `1. Check force refresh rate option in phh settings`  
 
-(Method 2 tested only on some oppo/realme/oneplus, do with caution)
+(Method 2 tested only on some oppo/realme/oneplus, do with caution)  
 `2. adb shell -c service call SurfaceFlinger 1035 i32 0`
