@@ -23,4 +23,4 @@
 
 `Possible solutions:`
 
-`1. setprop persist.sys.phh.fingerprint.nocleanup true`
+`1. adb shell setprop persist.sys.phh.fingerprint.nocleanup true`
