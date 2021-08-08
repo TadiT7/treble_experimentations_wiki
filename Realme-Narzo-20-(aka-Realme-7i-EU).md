@@ -1,6 +1,6 @@
 
 
-# Instructions to install GSI :
+## Instructions to install GSI on Narzo 20:
 
 ### 1. Unlock Bootloader
 
