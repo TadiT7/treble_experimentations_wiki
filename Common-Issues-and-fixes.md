@@ -29,5 +29,5 @@
 
 `Possible solutions`
 
-`1. Check force refresh rate option in phh settings`
+`1. Check force refresh rate option in phh settings`  
 `2. adb shell -c service call SurfaceFlinger 1035 i32 0`
