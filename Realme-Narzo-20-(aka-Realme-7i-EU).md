@@ -16,7 +16,7 @@ Guide to unlock bootloader : [Get here](https://telegra.ph/How-to-unlock-bootloa
 
 ### 2. After unlocking bootloader and rebooting device, shut it down again and enter fastboot mode by pressing vol minus and power button together
 
-Assuming that you've already installed [Platform tools](https://developer.android.com/studio/releases/platform-tools) and is aware how to start the adb-fastboot shell , open platform tools in terminal/CMD (depending on os) and follow these steps ( Make sure that you've moved the appropriate vbmeta file you downloaded earlier in this guide to platform tools folder. Also move the phh/phh based gsi you've downloaded into platform tools folder and rename it to system.img )
+Assuming that you've already installed [Platform tools](https://developer.android.com/studio/releases/platform-tools) and is aware how to start the adb-fastboot shell , open platform tools in terminal/CMD (depending on os) and follow these steps ( Make sure that you've moved the appropriate vbmeta file you downloaded earlier in this guide to platform tools folder. Also extract the phh/phh based gsi file you've downloaded and move the extracted img file into platform tools folder and rename it to system.img )
 
 `adb reboot bootloader `  
 `fastboot reboot fastboot`  
