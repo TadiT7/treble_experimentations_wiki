@@ -445,6 +445,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Teclast P10HD]]|P10_HD||A/B|arm64|
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Tecno POP 1s Pro (F4 Pro)]]|TECNO-F4Pro||A|arm|
+|[[Tecno POP 2 Power]]|TECNO-B1P||A|arm|
 |[[Tecno Spark 4 Air]]|n/a||A/B|arm_binder64|
 |[[Tecno Spark 4 Lite (BB4K)]]|TECNO-BB4K||A/B|arm_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
