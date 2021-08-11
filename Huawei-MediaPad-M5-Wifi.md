@@ -1,5 +1,7 @@
 # Huawei MediaPad M5  (SHT-W09)
 
+UPDATE 11/08/2021: roar-311-arm64-ab-gapps.img boots fine, most things work, but video doesn't play from within Chrome, due to what looks like problems with hardware video decoding.  This is a long standing issue, and likely to affect all previous builds also.  It's a showstopper for me sadly.
+
 UPDATE 26/04/2021: Roar-306-vanilla-AB-arm64-vndklite boots, it has no offline charging and i cannot set lower brightness. Install DavX from F-droid if you need to sync contacts/cal. events from google and the aurorastore to access to the google store.
 
 UPDATE 09/12/20: flashed Roar AB, arm64, gapps version v300.j and it boots
@@ -35,6 +37,7 @@ I don't test Magisk for now, when i do i'll update this page.
 | Fingerprint               | working                                                   |
 | Offline Charging          | not working                                               |
 | Fast Charging             | working                                                   |
+| Hardware Video Decoding   | not working                                               |
 
 ## Power save Google play service without magisk
 I think to have enabled battery saver for GMS. I simply edited the file google.xml stored in /System/product/etc/sysconfig. I commented these 2 string adding `<!--    -->`, so:
