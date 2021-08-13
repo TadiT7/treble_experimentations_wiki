@@ -16,3 +16,5 @@
 | Adaptive Brightness       | *Untested*                                                |
 
 
+---
+test by @gsuzeda
