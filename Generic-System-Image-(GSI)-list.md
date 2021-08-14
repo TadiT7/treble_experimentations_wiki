@@ -16,7 +16,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |05-Aug|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm - arm64 - binder|
 |21-Jul|CAOS|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|
 |21-Jul|OctaviOS|Yilliee|[Website](https://octavi-os.com/) / [Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|A - A/B|arm - arm64 - binder|
-|20-Jun|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/arm64)|A/B|arm - arm64 - binder|
+|20-Jun|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download AB](https://www.droidontime.com/arm64) / [Download A-Only](https://www.droidontime.com/arm64_a-only)|A - A/B|arm - arm64 - binder|
 |06-Jun|Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A - A/B|arm - arm64 - binder|
 |21-May|Havoc|Braialindo|[Download](https://download.havoc-os.com/)|A - A/B|arm - arm64 - binder|
 |11-May|Descendant 11.5|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
