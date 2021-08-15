@@ -8,7 +8,7 @@ Vendor 9.0 - 10.0 known work.
 | Speaker / Mic             | Works                                                    |
 | Bluetooth                 | Works                                                    |
 | WiFi                      | Works                                                    |
-| SIM / Mobile Data / Voice | Works                                              |
+| SIM / Mobile Data / Voice | Calls work, but can't import or save contacts in SIM                                             |
 | Offline Charging          | Doesn't work on some GSI.                                              |
 | Other feature             | MTP work on custom kernel                                                |
 ---
