@@ -1,5 +1,4 @@
-V111 and V112 works only with  SELinux mode:Permissive;
-Vendor 9.0 stuck on logo
+Vendor 9.0 - 10.0 known work.
 
 ## Hardware support
 
@@ -9,11 +8,9 @@ Vendor 9.0 stuck on logo
 | Speaker / Mic             | Works                                                    |
 | Bluetooth                 | Works                                                    |
 | WiFi                      | Works                                                    |
-| SIM / Mobile Data / Voice | Doesn't work                                              |
-| Offline Charging          | Doesn't work                                              |
+| SIM / Mobile Data / Voice | Works                                              |
+| Offline Charging          | Doesn't work on some GSI.                                              |
 | Other feature             | MTP work on custom kernel                                                |
 ---
-AOSP 9.0 - Boots on Vendor(8.0); 
-RR (7.0) - Boots on Vendor(8.0);
 
-Tested By: KirillMolchanov - 2019-05-05
+Tested By: KirillMolchanov - 2019-05-05; Hendra Manudinata
