@@ -1,6 +1,6 @@
 # Blu G90 Pro
 
-Main rear camera only supports 12MP instead of 48MP.  Additional rear cameras don't work at all.  FM radio does not work.
+Main rear camera only supports 12MP instead of 48MP.  FM radio does not work.
 
 ## Steps to install
 
@@ -22,9 +22,9 @@ Main rear camera only supports 12MP instead of 48MP.  Additional rear cameras do
 |---------------------------|-----------------------------------------------------------|
 | Front Camera              | Working                                                   |
 | Rear Camera (Main)        | Working, but only at 12MP instead of 48MP                 |
-| Wide Angle Camera         | Not working                                               |
-| Macro Camera              | Not working                                               |
-| Depth Camera              | Not working                                               |
+| Wide Angle Camera         | Working*                                                  |
+| Macro Camera              | Working*                                                  |
+| Depth Camera              | Working*                                                  |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
@@ -40,6 +40,7 @@ Main rear camera only supports 12MP instead of 48MP.  Additional rear cameras do
 * Headphone jack works correctly after running `setprop persist.sys.overlay.devinputjack true`
 * Additional back cameras do not show up when running `dumpsys media.camera` on GSI, but do appear when running the same command under stock firmware.  Even under stock firmware, the main back camera is limited to 12MP when not using the stock camera app, so I suspect they are probably using some non-standard APIs.
 * The stock FM radio app runs after copying it over along with the required library, and fixing permissions.  It can tune to stations and display RDS info, but no sound is output over either the speaker or the headphones.
+* Additional cameras can be enabled by setting `ro.odm.camera=1`, either by putting it directly in /system/build.prop, or by setting it with `setprop` and restarting camerahalserver and cameraserver (`setprop ctl.restart camerahalserver; setprop ctl.restart cameraserver`).  On the stock firmware, it appears that it may also be necessary to set `vendor.camprovider.enable_hidden=1`, but this does not appear to be necessary on the GSI.
 ---
 
 Tested By: ArrestedLightning - G0370WW, Firmware Version 10.0.04.03 - Tested 2021-07-04
