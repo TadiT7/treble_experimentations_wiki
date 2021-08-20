@@ -19,6 +19,22 @@ Tested on:
 | IR blaster | Not tested |
 | Offline charging | Broken, stays at OEM logo |
 
+## Installing
+You should have platform-tools and ADB/Fastboot driver installed
+1. Download GSI and unpack it (you should have .img file at the end)
+2. Reboot to fastboot (Power + Vol-)
+3. Reboot to fastbootd: `fastboot reboot fastboot`
+4. Disable vbmeta: `fastboot flash --disable-verification --disable-verity vbmeta (path to stock vbmeta.img)`
+5. Flash GSI: `fastboot flash system (path to your GSI .img file)`
+6. Wipe userdata: `fastboot format:ext4 userdata`
+7. Reboot
+
+## Fixing bugs
+Currently Phh Treble settings cant apply presets for some reason, so you have to do enable these options:  
+Misc features->Use alternative way to detect headsets (fixes headphone jack)  
+Misc features->Force alternative backlight scale (fixes backlight)  
+Misc features->Force-disable A2DP offload (fixes Bluetooth audio)
+
 ## Bugs and glitches
 ### Cant remount system as RW
 For some reason blockdev errors out:
