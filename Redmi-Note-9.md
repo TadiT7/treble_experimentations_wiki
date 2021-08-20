@@ -8,7 +8,7 @@ Tested on:
 | RIL | Working |
 | Bluetooth | Working |
 | NFC | Not tested |
-| Camera | Working, auxillary modules are not tested |
+| Camera | Working, auxiliary modules are not tested |
 
 ## Bugs and glitches
 ### Cant remount system as RW
