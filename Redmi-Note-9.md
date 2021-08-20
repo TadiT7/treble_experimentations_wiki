@@ -12,6 +12,7 @@ Tested on:
 | Fingerprint | Working |
 | Encryption | Working |
 | Speaker / Microphone | Working |
+| USB MTP/PTP/MIDI | Working |
 | Camera | Working, auxiliary modules are not tested |
 | NFC | Not tested |
 | VoLTE | Not tested |
