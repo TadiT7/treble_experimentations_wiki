@@ -13,6 +13,13 @@ Tested on:
 ## Bugs and glitches
 ### Cant remount system as RW
 For some reason blockdev errors out:
+```
+merlinnfc:/ # mount -o rw,remount /
+'/dev/block/dm-0' is read-only
+merlinnfc:/ # blockdev --setrw /dev/block/dm-0
+blockdev: ioctl 125d: Permission denied
+1|merlinnfc:/ #
+```
 
 ### UI lagging
 This problem was
