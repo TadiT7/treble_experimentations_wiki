@@ -22,4 +22,4 @@ blockdev: ioctl 125d: Permission denied
 ```
 
 ### UI lagging
-This problem was
+This problem was fixed by [this commit](https://github.com/notmyst33d/device_phh_treble/commit/81af8dbf47dcb1f20b836f9a9b22addae4d6e19e), however UI is still a bit laggy.
