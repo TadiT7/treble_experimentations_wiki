@@ -7,8 +7,16 @@ Tested on:
 | WiFi (2.4 and 5 GHz) | Working |
 | RIL | Working |
 | Bluetooth | Working |
-| NFC | Not tested |
+| USB tethering | Working |
+| WiFi hotspot (2.4 and 5 GHz) | Working |
+| Fingerprint | Working |
+| Encryption | Working |
+| Speaker / Microphone | Working |
 | Camera | Working, auxiliary modules are not tested |
+| NFC | Not tested |
+| VoLTE | Not tested |
+| IR blaster | Not tested |
+| Offline charging | Broken, stays at OEM logo |
 
 ## Bugs and glitches
 ### Cant remount system as RW
