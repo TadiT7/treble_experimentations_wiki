@@ -34,10 +34,10 @@ You should have platform-tools and ADB/Fastboot driver installed
 1. Download GSI and unpack it (you should have .img file at the end)
 2. Download one of these recoveries: [OrangeFox R11.1](https://dl.uploadgram.me/60fd14cee2959h?dl), [SHRP](https://sourceforge.net/projects/shrp/files/merlin/SHRP_v3.1_stable-Official_merlin-1628943443.img/download), [TWRP 3.5.2_10.0](https://dl.uploadgram.me/611ff5e6e576dg?dl) (be aware that these links might be outdated, to get latest recoveries go to [@HelioG85_Updates](https://t.me/HelioG85_Updates))
 3. Reboot to fastboot (Power + Vol-)
-4. Reboot to fastbootd: `fastboot reboot fastboot`
-5. Disable vbmeta: `fastboot flash --disable-verification --disable-verity vbmeta (path to stock vbmeta.img)`
-6. Flash GSI: `fastboot flash system (path to your GSI .img file)`
-7. Flash recovery: `fastboot flash recovery (path to your recovery .img file)`
+4. Disable vbmeta: `fastboot flash --disable-verification --disable-verity vbmeta (path to stock vbmeta.img)`
+5. Flash recovery: `fastboot flash recovery (path to your recovery .img file)`
+6. Reboot to fastbootd: `fastboot reboot fastboot`
+7. Flash GSI: `fastboot flash system (path to your GSI .img file)`
 8. Reboot to recovery: `fastboot reboot recovery`
 9. Wipe->Format Data
 10. Install Magisk
