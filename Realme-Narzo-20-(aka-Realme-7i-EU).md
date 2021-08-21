@@ -37,17 +37,18 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 
 ## Hardware support
 
-| Component                 | Over Realme UI 1 vendor (Android 10|      Over Realme UI 2 vendor (Android 11)
-|---------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
-| Camera                    | works (for aux cams, enable aux cam expose toggle in phh settings)                                                    |
-| Speaker / Mic             | working                                                   |
-| Bluetooth                 | working                                                 |
-| WiFi                      | working                                                    |
-| SIM / Mobile Data / Voice | working (disable a2dp overload from phh settings else no call voice)                                                 |
-| VoLTE                     | working (enable all three toggles in phh settings/ims)                                                    |
-| Fingerprint               | silead works on Android 10 A23 vendor (et512 doesn't)                                                   |
-| NFC                       | not available                                                   |
-| Offline Charging          | works, but no animation                                                   |
+| Component                 | Over Realme UI 1 vendor (Android 10| Over Realme UI 2 vendor (Android 11)|Footnotes|
+|---------------------------|-----------------------------------------------------------|-------------------------------------------------------------|---|
+| Camera                    | works |works |for aux cams, enable aux cam expose toggle in phh settings|
+| Speaker / Mic             | working|working| sound quality isn't as impressive in GSIs out of the box like in  stock ROM, though it can be improved with tweaks and all|
+| Bluetooth                 | working|broken in some cases including wireless headphones| I'll update this column if the issue(s) are fixed |
+| WiFi                      | working|working- slightly buggy |I'll update this column if the issue(s) are fixed |
+|Hotspot|working|Turns on, but no device can connect to |I'll update this column if the issue(s) are fixed |
+| SIM / Mobile Data / Voice | working |working | If no sound in calls, disable a2dp overload from phh settings |
+| VoLTE                     | working |working |**doesnt work** out-of-box, enable all three toggles in phh settings/ims for VoLTE to work |
+| Fingerprint               | works if silead (only Android 10 A23 vendor) (et512 doesn't)|works if silead on all Android 11 vendors| use [this ](https://www.mediafire.com/file/szpnddw5ltm5gda/A11+EGIS_ET512+fix+for+realme+RMX2193.zip/file) magisk module to fix fp if et512 on android 10 A23 vendor|
+| NFC                       | not NFC Hardware in Narzo 20 |not NFC Hardware in Narzo 20 | -|
+| Offline Charging          | works | works| offline charging works, but no animation showing percentage |                                                   |
 |                                                   |
 ---
 
