@@ -42,6 +42,7 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 | Camera                    | works |works |for aux cams, enable aux cam expose toggle in phh settings|
 | Speaker / Mic             | working|working| sound quality isn't as impressive in GSIs out of the box like in  stock ROM, though it can be improved with tweaks and all|
 | Bluetooth                 | working|broken in some cases including wireless headphones| I'll update this column if the issue(s) are fixed |
+|headphone jack |working|working|incase doesn't work, turn on 'alternate headset detection' from settings/phh settings |
 | WiFi                      | working|working- slightly buggy |I'll update this column if the issue(s) are fixed |
 |Hotspot|working|Turns on, but no device can connect to |I'll update this column if the issue(s) are fixed |
 | SIM / Mobile Data / Voice | working |working | If no sound in calls, disable a2dp overload from phh settings |
