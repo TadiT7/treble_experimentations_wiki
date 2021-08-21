@@ -37,8 +37,8 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 
 ## Hardware support
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
+| Component                 | Over Realme UI 1 vendor (Android 10|      Over Realme UI 2 vendor (Android 11)
+|---------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
 | Camera                    | works (for aux cams, enable aux cam expose toggle in phh settings)                                                    |
 | Speaker / Mic             | working                                                   |
 | Bluetooth                 | working                                                 |
