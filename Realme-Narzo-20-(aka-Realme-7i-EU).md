@@ -52,5 +52,5 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 |                                                   |
 ---
 
-Tested By: [@realkarthiknair](https://realkarthiknair.github.io) - RMX2191/2193(India), A23 vendor - Date tested - 2021
+Tested By: [@realkarthiknair](https://realkarthiknair.github.io) - RMX2191/2193(India), A23 vendor - Date tested - march 2021, C11 vendor - Date teseted - august 2021
 
