@@ -39,7 +39,7 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 
 | Component                 | Over Realme UI 1 vendor (Android 10| Over Realme UI 2 vendor (Android 11)|Footnotes|
 |---------------------------|-----------------------------------------------------------|-------------------------------------------------------------|---|
-| Camera                    | works |works |for aux cams, enable aux cam expose toggle in phh settings|
+| Camera                    | working |working | 1. For aux cam support in third party apps like freedcam or gcam ports, enable aux cam expose toggle in phh settings <br> 2. You won't get fancy effects, 48 MP mode or even aux cam support in stock camera, for aux cam support and some advanced features, uses [this gcam ](https://www.mediafire.com/file/30meevjip83rm0d/narzo20Gcam7.apk/file) and [these ](https://www.mediafire.com/file/bqt78jr6p6kdudv/narzo20configsbyknair.xml/file)configs|
 | Speaker / Mic             | working|working| sound quality isn't as impressive in GSIs out of the box like in  stock ROM, though it can be improved with tweaks and all|
 | Bluetooth                 | working|broken in some cases including wireless headphones| I'll update this column if the issue(s) are fixed |
 |headphone jack |working|working|incase doesn't work, turn on 'alternate headset detection' from settings/phh settings |
