@@ -206,6 +206,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
 |[[Meizu 16x]]|16x||A|arm64|
+|[[Meizu 18]]|meizu_18||A/B|arm64|
 |[[Meizu M2 Mini]]|n/a||A|arm64|
 |[[Meizu Note 9]]|n/a||A|arm64|
 |[[Microsoft Lumia 950 XL]]|cityman||A/B|arm64|
