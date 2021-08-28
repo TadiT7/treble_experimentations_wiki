@@ -231,6 +231,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto Z2 Play]]|albus||A|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Moto Z3]]|messi|✓|A/B|arm64|
+|[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
