@@ -22,4 +22,4 @@ It should be noted that most GSI based on Android 11 can't start up on verder wi
 * Step 5 Select wipe data, then reboot now. Then you will have a new experience.
 
 ---
-It's was tested on CHC version SM-A6060. Read it in Chinese.
+It's was tested on CHC version SM-A6060. Read it in [Chinese](https://github.com/Jason-summer/shuajizhenkuaile/wiki/Samsung-Galaxy-A60).
