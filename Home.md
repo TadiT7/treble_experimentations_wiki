@@ -513,7 +513,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 11 Lite]]|courbet|✓|A/B|arm64|
 |[[Xiaomi Mi 11 Lite 5G]]|renoir|✓|A/B|arm64|
 |[[Xiaomi Mi 11 Pro / 11 Ultra]]|star|✓|A/B|arm64|
-|[[Xiaomi Mi 11X / Poco F3]]|alioth|✓|A/B|arm64|
 |[[Xiaomi Mi 11X Pro / Mi 11i / Redmi K40 Pro]]|haydn|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
