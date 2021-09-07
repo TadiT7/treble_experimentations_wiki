@@ -14,7 +14,7 @@ Tested on:
 | Speaker / Microphone | Working |
 | USB MTP/PTP/MIDI | Working |
 | Camera | Working, auxiliary modules are not tested |
-| NFC | Not tested |
+| NFC | Working |
 | VoLTE | Not tested |
 | IR blaster | Not tested |
 | Offline charging | Broken, stays at OEM logo |
