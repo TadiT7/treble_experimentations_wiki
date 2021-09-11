@@ -9,12 +9,14 @@
 | Speaker / Mic             | √                                                                            |
 | Bluetooth                 | √                                                                            |
 | WiFi                      | √                                                                            |
-| SIM / Mobile Data / Voice | problems with some GSIs                                                      |
+| SIM / Mobile Data / Voice | problems in some GSIs                                                        |
 | VoLTE                     | not tested                                                                   |
 | Fingerprint               | √                                                                            |
 | NFC                       | -                                                                            |
 | Offline Charging          | √                                                                            |
-| Micro SD                  | works perfectly in most GSIs but few are unable to format as portable storage|
+| Micro SD                  | most GSIs only have FAT32 support, only few support ext4,                    |
+|                           | also format as internal isnt working perfectly in all GSIs                   |
+| OTG                       | -                                                                            |
 ---
 
 Tested By: @kusti420
