@@ -15,7 +15,7 @@
 | NFC                       | -                                                                            |
 | Offline Charging          | √                                                                            |
 | Micro SD                  | most GSIs only have FAT32 support, only few support ext4,                    |
-|                           | also format as internal isnt working perfectly in all GSIs                   |
+|                           | also format as internal isnt working perfectly in some GSIs                  |
 | OTG                       | -                                                                            |
 ---
 
