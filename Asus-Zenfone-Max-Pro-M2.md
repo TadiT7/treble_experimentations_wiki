@@ -49,7 +49,6 @@ _Please tell me if official Q beta works or not, I only checked on official Pie_
 
 * [phh AOSP](https://github.com/phhusson/treble_experimentations/releases)
 * [CAOS](https://sourceforge.net/projects/treblerom/files/CAOS/)
-* [AlphaROM](https://alpha.droidstars.com/)
 * [Corvus](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvusos-v13-0-exalted.4212765/)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files)
 
