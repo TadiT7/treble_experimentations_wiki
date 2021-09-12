@@ -44,7 +44,7 @@ You should have platform-tools and ADB/Fastboot driver installed
 11. Reboot
 
 ## Fixing bugs
-Currently Phh Treble settings cant apply presets for some reason, so you have to do enable these options:  
+Currently Phh Treble settings cant apply presets for some reason, so you have to enable these options:  
 Misc features->Use alternative way to detect headsets (fixes headphone jack)  
 Misc features->Force alternative backlight scale (fixes backlight)  
 Misc features->Force-disable A2DP offload (fixes Bluetooth audio)
