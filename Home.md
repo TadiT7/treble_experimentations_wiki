@@ -41,7 +41,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max M2 (ZB632KL)]]|X01AD|✓|A/B|arm64|
 |[[Asus Zenfone Max M2 (ZB633KL)]]|X01AD|✓|A/B|arm64|
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
-|[[Asus Zenfone Max Pro M2]]|X01BD/X01BDA|✓|A(A/B on Android 10+)|arm64|
+|[[Asus Zenfone Max Pro M2]]|X01BD/X01BDA|✓|A (A/B when updated to Android 10)|arm64|
 |[Asus Zenfone Max Shot and Max Plus M2](https://github.com/phhusson/treble_experimentations/wiki/ASUS-ZenFone-Max-Shot-and-Max-Plus-M2)|A001D|✓|A|arm64|
 |[Barnes & Noble Nook Tablet 10.1" (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓ (Go)|A|arm|
@@ -69,6 +69,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
 |[[Coolpad Cool Changer S1]]|c105||A|arm64|
 |[[Cosmo Communicator]]|Cosmo||A|arm64|
+|[[Cubot King Kong 5 Pro]]|n/a|✓|A/B|arm64|
 |[[Cubot King Kong Mini]]|KINGKONG_MINI|✓|A/B|arm_binder64|
 |[[Cubot King Kong Mini 2]]|KINGKONG_MINI2|✓|A/B|arm_binder64|
 |[[Cubot Quest]]|Cubot QUEST|✓|AB|arm64|
@@ -111,6 +112,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 4 and Pixel 4 XL]]|flame and coral|✓|A/B|arm64|
 |[[Google Pixel 4a]]|sunfish (LTE) and bramble (5G)|✓|A/B|arm64|
 |[[Google Pixel 5]]|redfin|✓|A/B|arm64|
+|[[Google Pixel 5a]]|barbet|✓|A/B|arm64|
 |[[HTC U11]]|ocn||A|arm64|
 |[HTC U11 Life](https://github.com/phhusson/treble_experimentations/wiki/HTC-U11-life-(Android-One))|ocl|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
@@ -280,8 +282,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
 |[[OnePlus 8 Pro]]|instantnoodlep|✓|A/B|arm64|
 |[[OnePlus 8T]]|kebab|✓|A/B|arm64|
+|[[OnePlus 9]]|lemonade|✓|A/B|arm64|
+|[[OnePlus 9 Pro]]|lemonadep|✓|A/B|arm64|
+|[[OnePlus 9R]]|lemonades|✓|A/B|arm64|
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
-|[[OnePlus Nord N10 5G]]|billie|✓|A/B|arm64|
+|[[OnePlus Nord CE 5G]]|n/a|✓|A/B|arm64|
+|[[OnePlus Nord N10]]|billie|✓|A/B|arm64|
 |[[Oppo Find X2]]|n/a|✓|A/B|arm64|
 |[[Oppo Find X2 Pro]]|n/a|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|CPH1707 and CPH1719|✓|A|arm64|
@@ -586,12 +592,15 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 / Redmi 10X]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9 Pro 5G / Mi 10i / Mi 10T Lite]]|gauguin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 9S/ Redmi Note 9 Pro (India)]]|curtana|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9S/ 9 Pro (India)]]|curtana|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9T / 9 5G]]|cannon|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10]]|mojito|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10 5G / Poco M3 Pro]]|camellia|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10 Pro / 10 Pro Max]]|sweet|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10 Pro 5G / Poco X3 GT]]|chopin|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10S]]|rosemary|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
 |[[ZTE A530]]|p639t10||A|arm64|
@@ -609,9 +618,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Red Magic 3]]|nx629j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 3S]]|n/a|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 5G]]|nx659j|✓|A/B|arm64|
-|[[ZTE Nubia Red Magic 5S]]|n/a|✓|A/B|arm64|
-|[[ZTE Nubia Red Magic 6]]|nx669j|✓|A/B|arm64|
-|[[ZTE Nubia Red Magic 6R]]|n/a|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 6 / 6 Pro]]|nx669j|✓|A/B|arm64|
 |[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
 |[[ZTE Nubia Z9 Mini]]|nx511j||A|arm64|
 |[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
