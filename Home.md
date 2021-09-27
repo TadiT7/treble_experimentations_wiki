@@ -525,8 +525,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 11 Pro / 11 Ultra]]|star|✓|A/B|arm64|
 |[[Xiaomi Mi 11X Pro / Mi 11i / Redmi K40 Pro]]|haydn|✓|A/B|arm64|
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
-|[[Xiaomi Mi A2]]|jasmine||A/B|arm64|
-|[[Xiaomi Mi A2 Lite]]|daisy||A/B|arm64|
+|[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
+|[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
 |[[Xiaomi Mi A3]]|laurel|✓ (One)|A/B|arm64|
 |[[Xiaomi Mi CC9 / 9 Lite]]|pyxis / vela|✓|A/B|arm64|
 |[[Xiaomi Mi CC9 Pro / Note 10 Pro]]|tucana|✓|A/B|arm64|
