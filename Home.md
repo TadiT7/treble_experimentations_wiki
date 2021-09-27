@@ -64,8 +64,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Cherry Mobile Flare S8 Max]]|X970|√|A/B|arm64|
 |[[Cherry Mobile Omega X]]|X960|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Lite]]|H1250|√|A/B|arm64|
-|[[Cherry Mobile Aqua S9 Max]]Aqua_S9_Max|√|A/B(Dynamic)|arm64
-|[[Cherry Mobile Aqua S9]]|Aqua_S9|√|A/B(Dynamic)|arm64|
+|[[Cherry Mobile Agua S9 Max]]|Aqua_S9_Max|√|A/B|ARM64|
+|[[Cherry Mobile Aqua S9]]|Aqua_S9|√|A/B|arm64|
+|[[Cherry Mobile Aqua S10 Pro]]|S10_Pro|√|A/B|ARM64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
 |[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
 |[[Coolpad Cool Changer 1C]]|c107||A|arm64|
