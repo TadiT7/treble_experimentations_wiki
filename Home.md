@@ -60,6 +60,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Brown&Proud Brown 1]]|V4701_I01||A|arm64_32
 |[[Cherry Mobile Flare S8]]|X930|√|A/B|ARM64|
+|[[Cherry Mobile Omega X]]|X960|√|A/B|ARM64|
 |[[Cherry Mobile Flare S8 Plus]]|FS8 Pro|√|A/B|arm64|
 |[[Cherry Mobile Flare S8 Max]]|X970|√|A/B|arm64|
 |[[Cherry Mobile Omega X]]|X960|√|A/B|arm64|
