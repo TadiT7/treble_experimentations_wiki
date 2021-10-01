@@ -42,15 +42,15 @@ Will work on most MediaTek Devices
 | Bluetooth                 | Working                                                   |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Broken                                                 |
+| VoLTE                     | Working                                                  |
 | Fingerprint               | Working                                                    |
 | NFC                       | ------                                                   |
 | Offline Charging          | Broken                                                   |
-| Other feature             | Adaptive brightness is broken (Every thing else is working)                                                    |
+| Other feature             | (Every thing else is working)                                                    |
 ---
-
+* Every GSI (A64-AB)(LOS, crDROID , AOSP, HAVOC etc) I tried works
 * Tested By: Shahrukh Abrar
 * Model-Number:Tecno Spark 4 Lite (BB4K)
 * Region:Pakistan
 * Firmware Version:BB4K-H6114UVW-PGO-200212V76
-* Date tested:30/7/2020
+* Last Date tested:1/October/2021
