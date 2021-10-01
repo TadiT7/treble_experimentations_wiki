@@ -10,8 +10,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 11
 |Last Updated 2021|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|30-Sep|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |18-Sep|OctaviOS|Yilliee|[Website](https://octavi-os.com/) / [Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|A - A/B|arm - arm64 - binder|
-|18-Sep|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |14-Sep|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
 |12-Sep|Descendant 11.5|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
 |11-Sep|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|
