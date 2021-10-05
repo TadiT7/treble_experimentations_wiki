@@ -4,7 +4,7 @@ Helio G80 (MT6768)
 
 Overall excellent, things are working as expected.
 
-Tested with Havoc-OS GSI 3.12 (Android 10)
+Tested with Havoc-OS GSI 3.12 & CAOS (Both with Android 10)
 
 ## Steps to install
 
@@ -31,16 +31,16 @@ Tested with Havoc-OS GSI 3.12 (Android 10)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | OK                                                    |
-| Speaker / Mic             | OK                                                    |
-| Bluetooth                 | OK                                                    |
-| WiFi                      | OK                                                    |
-| Hotspot / Tethering         | OK                                                    |
-| SIM / Mobile Data / Voice | OK                                                    |
-| VoLTE                     | OK                                                    |
-| Fingerprint               | OK                                                    |
-| NFC                       | Unsupported                                                    |
-| Offline Charging          | OK                                                    |
+| Camera                    | OK                                                        |
+| Speaker / Mic             | OK                                                        |
+| Bluetooth                 | OK                                                        |
+| WiFi                      | OK                                                        |
+| Hotspot / Tethering       | OK                                                        |
+| SIM / Mobile Data / Voice | OK                                                        |
+| VoLTE                     | Not Working                                               |
+| Fingerprint               | OK                                                        |
+| NFC                       | Unsupported                                               |
+| Offline Charging            | OK                                                        |
 ---
 
 ## Additional Notes
