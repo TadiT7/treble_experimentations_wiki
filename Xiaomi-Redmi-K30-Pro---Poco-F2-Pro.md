@@ -9,6 +9,8 @@ Although this device is A-only, you have to choose GSI for A/B devices because t
 
 √AOSP 10.0 v220
 
+√AOSP 11.0 v312
+
 ×AndyYan's LineageOS 17.1 20200511 (Doesn't Boot)
 
 ×Google GSI, Havoc, CrDroid, LineageOS (Credits Chaptsand from CoolApk, same w/ Xiaomi Mi 10 umi)
@@ -87,6 +89,8 @@ lulujyc @ 20.5.21 Beta, 12.0.1 Stable (12.0.1 is recommended as it's more stable
 lulujyc @ Android 11 Beta 1: Doesn't boot any GSI including Google's Android 11 sGSI.
 
 EdChdX @ Redmi POCO F2 Pro
+
+asrieldashie @ 2021.10.04 . With PixelExtended vendor
 
 Origin Redmi K20 Pro Wiki is made by AndyYan (AndyCGYan)
 
