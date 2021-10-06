@@ -32,7 +32,7 @@ When flashing, please ensure the vbmeta from WSP stock firmware need to be flash
 
 To fix the notch issue, choose Hide in developer options - Display cutout, then the rounded corners diameter in Phh Treble Settings - Misc features need to be configured to 11.
 
-Before installing AOSP 11 update to stock android 11 after your bootloader unlock and then wipe system and finally flash the gsi and vbmeta to fix the notch you’re gonna have to manually patch /vendor FOR NOW
+Before installing AOSP 11 update to stock android 11 after your bootloader unlock and then wipe system and finally flash the gsi and vbmeta to fix the notch choose hide in dev options then the rounded corner diameter in phh treble settings or just do the rounded corner diameter itself
 
 Example:
 `fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/vbmeta.img`
