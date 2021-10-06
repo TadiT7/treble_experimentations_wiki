@@ -4,7 +4,7 @@ Helio G80 (MT6768)
 
 Overall excellent, things are working as expected.
 
-Tested with Havoc-OS GSI 3.12 & CAOS (Both with Android 10)
+Tested with Havoc-OS GSI, CAOS, and PixelExperience (Android 10 & 11)
 
 ## Steps to install
 
@@ -37,10 +37,10 @@ Tested with Havoc-OS GSI 3.12 & CAOS (Both with Android 10)
 | WiFi                      | OK                                                        |
 | Hotspot / Tethering       | OK                                                        |
 | SIM / Mobile Data / Voice | OK                                                        |
-| VoLTE                     | Not Working                                               |
+| VoLTE                     | OK (Only works for Android 11)                            |
 | Fingerprint               | OK                                                        |
 | NFC                       | Unsupported                                               |
-| Offline Charging            | OK                                                        |
+| Offline Charging          | OK                                                        |
 ---
 
 ## Additional Notes
