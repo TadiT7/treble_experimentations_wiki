@@ -15,7 +15,15 @@
 not done yet
 
 ## Hardware Support (AOSP 11)
-not done yet
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | need magisk modules for it to work                                                         |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | ×                                                         |
 
 ***
 ## Additional Notes
@@ -23,6 +31,8 @@ not done yet
 When flashing, please ensure the vbmeta from WSP stock firmware need to be flashed with both disabling parameters as well.
 
 To fix the notch issue, choose Hide in developer options - Display cutout, then the rounded corners diameter in Phh Treble Settings - Misc features need to be configured to 11.
+
+Before installing AOSP 11 update to stock android 11 after your bootloader unlock and then wipe system and finally flash the gsi and vbmeta to fix the notch you’re gonna have to manually patch vbmeta FOR NOW
 
 Example:
 `fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/vbmeta.img`
