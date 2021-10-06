@@ -32,7 +32,7 @@ When flashing, please ensure the vbmeta from WSP stock firmware need to be flash
 
 To fix the notch issue, choose Hide in developer options - Display cutout, then the rounded corners diameter in Phh Treble Settings - Misc features need to be configured to 11.
 
-Before installing AOSP 11 update to stock android 11 after your bootloader unlock and then wipe system and finally flash the gsi and vbmeta to fix the notch you’re gonna have to manually patch vbmeta FOR NOW
+Before installing AOSP 11 update to stock android 11 after your bootloader unlock and then wipe system and finally flash the gsi and vbmeta to fix the notch you’re gonna have to manually patch /vendor FOR NOW
 
 Example:
 `fastboot --disable-verity --disable-verification flash vbmeta_a /path/to/vbmeta.img`
@@ -41,5 +41,7 @@ Example:
 
 ## Tested By:
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 2.2 (TA-1179) 00WW_1_680 (WSP-1680-0-00WW-B01) @ 8/3/2021
+
+AOSP 11: * Areallydumbperson on xda @ Nokia 2.2 (TA-1188) 00WW_3_270) (WSP-3270-0-00WW-B01) @ 6/10/2021
 
 Template created by @zguithues
