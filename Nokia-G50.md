@@ -19,6 +19,11 @@ Bootloader Unlock : TBD
 
 ## Additional Notes
 
+You'll need to delete product partition under fastbootd before flashing GSI:
+```
+fastboot delete-logical-partition product
+```
+
 ## Tested By:
 
 @HikariCalyx @ Nokia G50 00WW_1_100 @ 07/10/2021
