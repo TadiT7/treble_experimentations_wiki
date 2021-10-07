@@ -1,20 +1,20 @@
 # [Nokia G50] - [punisher / PHR]
 
-Bootloader Unlock : TBD
+Bootloader Unlock : TBD (following test is performed on prototype unit with retail OS)
 
 ## Hardware Support (Android 11)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | ?                                                         |
-| Speaker / Mic             | ?                                                         |
-| Bluetooth                 | ?                                                         |
-| WiFi                      | ?                                                         |
-| NFC                       | ?                                                         |
-| SIM / Mobile Data / Voice | ?                                                         |
-| VoLTE                     | ?                                                         |
-| Fingerprint               | ?                                                         |
-| 5G                        | ?                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
+| NFC                       | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | ×                                                         |
+| Fingerprint               | √                                                         |
+| 5G                        | √                                                         |
 
 
 ## Additional Notes
