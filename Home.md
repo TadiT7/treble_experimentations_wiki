@@ -208,10 +208,12 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG V50 ThinQ]]|flashlm and flashlmdd|✓|A/B|arm64|
 |[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
 |[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
+|[[MBI S10]]|s10|✓|A|arm64|
 |[[Meizu 16s]]|16s||A/B|arm64|
 |[[Meizu 16T]]|16T||A/B|arm64|
 |[[Meizu 16th]]|16th||A|arm64|
 |[[Meizu 16x]]|16x||A|arm64|
+|[[Meizu 18]]|meizu_18|✓|A/B|arm64|
 |[[Meizu M2 Mini]]|n/a||A|arm64|
 |[[Meizu Note 9]]|n/a||A|arm64|
 |[[Microsoft Lumia 950 XL]]|cityman||A/B|arm64|
@@ -294,6 +296,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
 |[[OnePlus Nord CE 5G]]|n/a|✓|A/B|arm64|
 |[[OnePlus Nord N10]]|billie|✓|A/B|arm64|
+|[[OnePlus Nord N200]]|dre|✓|A/B|arm64|
 |[[Oppo Find X2]]|n/a|✓|A/B|arm64|
 |[[Oppo Find X2 Pro]]|n/a|✓|A/B|arm64|
 |[[Oppo R11 / R11s]]|CPH1707 and CPH1719|✓|A|arm64|
