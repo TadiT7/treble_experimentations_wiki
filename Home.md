@@ -321,12 +321,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Razer Phone 2]]|aura|✓|A/B|arm64|
 |[[Realme 1]]|CPH1859 / CPH1861|✓|A/B|arm64|
 |[[Realme 2]]|RMX1805|✓|A/B|arm64|
-|[[Realme 2 Pro]]|RMX1801|✓|A|arm64|
+|[[Realme 2 / C1]]|RMX1811|✓|A (A/B when updated to Android 9)|arm64|
 |[[Realme 3 Pro]]|RMX1851|✓|A/B|arm64|
 |[[Realme 6]]|RMX2001|✓|A/B|arm64|
 |[[Realme 6 Pro]]|RMX206X|✓|A/B|arm64|
 |[[Realme 6i]]|RMX2040|✓|A/B|arm64|
-|[[Realme C1]]|RMX1811|✓|A (A/B when updated to Android 9)|arm64|
 |[[Realme C2]]|RMX1941|✓|A/B|arm64|
 |[[Realme C3 / Narzo 10A]]|RMX2020 / RMX2027|✓|A/B|arm64|
 |[[Realme C11]]|RMX2185|✓|A/B|arm64|
