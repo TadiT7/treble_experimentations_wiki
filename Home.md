@@ -58,7 +58,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Bluboo D6]]|D6|✓|A|arm|
 |[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
-|[[Brown&Proud Brown 1]]|V4701_I01||A|arm64_32
 |[[Cherry Mobile Flare S8]]|X930|√|A/B|ARM64|
 |[[Cherry Mobile Omega X]]|X960|√|A/B|ARM64|
 |[[Cherry Mobile Flare S8 Plus]]|FS8 Pro|√|A/B|arm64|
@@ -246,8 +245,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge and Edge+]]|racer and burton|✓|A/B|arm64|
-|[[MyPhone myA11]]|myA11|✓ (Go)|A|arm|
-|[[MyPhone myA12]]|myA12|✓ (Go)|A|arm|
 |[[Nintendo Switch]]|icosa||A/B (when using Android 9 build)|arm64|
 |[[Nokia 1]]|FRT|✓ (Go)|A|arm|
 |[[Nokia 1 Plus]]|ANT|✓ (Go)|A|arm|
