@@ -23,7 +23,7 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 
 * Tested [CrDroid v313 by eremitein](https://sourceforge.net/projects/treblerom/files/crDRom11/2021.09.21/)
 * Tested [Bless v306 by eremitein](https://sourceforge.net/projects/treblerom/files/BLESS11/2021.05.02/)
-* prolly every build by eremitein
+* Every [eremitein](https://sourceforge.net/projects/treblerom/files/) builds
 
 ## Hardware support
 
