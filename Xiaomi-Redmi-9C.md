@@ -42,12 +42,12 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 
 ## Fixes
 
-To fix the earphone issue, execute these lines on any Terminal Emulator.
+To fix the earphone issue, execute these lines on any Terminal Emulator then reboot.
 ```
 su
 setprop persist.sys.overlay.devinputjack true
 ```
 
 ### Credits
-* [Redmi 9C | Angelica Indonesia](https://t.me/Redmi9CID) for tools, instructions, methods, etc. Full credits goes to them, as well as some XDA peeps
-* [Brahm Daniel Verano](https://github.com/liafourte) for making english procedures, testing a few GSI images, don't mind him (he's contented with his crdroid lmao)
+* [Redmi 9C | Angelica Indonesia](https://t.me/Redmi9CID) 
+* [Brahm Daniel Verano](https://github.com/liafourte)
