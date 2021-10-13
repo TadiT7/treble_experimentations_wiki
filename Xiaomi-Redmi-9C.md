@@ -30,7 +30,11 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √ |
-| Audio                     | √× (headphone jack doesn't work, but can be fixed with a simple code on termux) |
+| Audio                     | √× (headphone jack doesn't work, but can be fixed with a simple code on termux) 
+```
+su
+setprop persist.sys.overlay.devinputjack true
+```|
 | Bluetooth                 | √ |
 | Display                   | √× (brightness slider doesn't work) |
 | WiFi / Hotspot            | √ |
