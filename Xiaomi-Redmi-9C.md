@@ -4,7 +4,7 @@
 * Stock Recovery
 * [vbmeta.img](https://forum.xda-developers.com/attachments/vbmeta-img.5257631/)
 * PC with ADB/fastboot drivers installed
-* Coffee
+* Coffee :)
 
 ## How to flash a GSI image?
 
