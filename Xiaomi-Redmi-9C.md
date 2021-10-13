@@ -1,4 +1,10 @@
-# Xiaomi Redmi 9C - (angelica)
+# Xiaomi Redmi 9C (angelica)
+
+# Requirements
+Stock Recovery
+[vbmeta.img](https://forum.xda-developers.com/attachments/vbmeta-img.5257631/)
+PC with ADB/fastboot drivers installed
+Coffee
 
 ## How to flash a GSI image?
 
