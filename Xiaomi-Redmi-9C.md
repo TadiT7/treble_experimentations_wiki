@@ -37,13 +37,13 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √ |
-| Audio                     | √× (headphone jack doesn't work, but can be fixed with a simple code on termux) |
+| Audio                     | √×| (headphone jack doesn't work, but can be fixed with a simple code on termux) |
 | Bluetooth                 | √ |
-| Display                   | √ (brightness slider doesn't work) |
+| Display                   | √ |(brightness slider doesn't work) |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | × (RIL dead in GSI Phh of A11 and A12, only in GSI of Eremitein works) |
-| VoLTE                     | ? (Untested) |
+| SIM / Mobile Data / Voice | × |(RIL dead in GSI Phh of A11 and A12, only in GSI of Eremitein works) |
+| VoLTE                     | ? |(Untested) |
 | Fingerprint               | √ |
 | Offline Charging          | × |
 
