@@ -3,12 +3,12 @@
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Official Android 12
-|Last Updated 2021|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |September|Google GSI|Google|[Download](https://developer.android.com/about/versions/12/gsi-release-notes#downloads)|A/B|arm64 - x86|
 
 ## Official Android 11
-|Last Updated 2021|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |12-Oct|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |10-Oct|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|
