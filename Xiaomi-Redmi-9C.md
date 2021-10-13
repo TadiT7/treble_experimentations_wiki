@@ -32,13 +32,21 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 | Camera                    | √ |
 | Audio                     | √× (headphone jack doesn't work, but can be fixed with a simple code on termux) |
 | Bluetooth                 | √ |
-| Display                   | √× (brightness slider doesn't work) |
+| Display                   | √ (brightness slider doesn't work) |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | √ |
 | VoLTE                     | ? (Untested) |
 | Fingerprint               | √ |
 | Offline Charging          | × |
+
+## Fixes
+
+To fix the earphone issue, execute these lines on any Terminal Emulator.
+```
+su
+setprop persist.sys.overlay.devinputjack true
+```
 
 ### Credits
 * [Redmi 9C | Angelica Indonesia](https://t.me/Redmi9CID) for tools, instructions, methods, etc. Full credits goes to them, as well as some XDA peeps
