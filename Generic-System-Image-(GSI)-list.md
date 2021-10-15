@@ -26,7 +26,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |February|Havoc|xEugW|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) /Discontinued|A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 11:
-|Last Updated 2021|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |12-Oct|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |11-Oct|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
