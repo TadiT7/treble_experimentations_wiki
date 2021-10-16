@@ -461,7 +461,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Tecno Spark 4 Air]]|n/a||A/B|arm_binder64|
 |[[Tecno Spark 4 Lite (BB4K)]]|TECNO-BB4K||A/B|arm_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
-|[[Timovi Insignia Delta 3]]|n/a|?|A|arm|
+|[[Timovi Insignia Delta 3]]|n/a|? (Go)|A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Ulefone Armor 6 / 6E]]|Armor_6 and Armor_6E||A/B|arm64|
 |[[Ulefone Armor 6S]]|Armor_6S||A/B|arm64|
