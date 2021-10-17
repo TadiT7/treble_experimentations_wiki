@@ -2,11 +2,11 @@
 
 Tested AOSP 10 v207 and AOSP 11 v30x
 * What's working on AOSP v207:
-WiFi, Bluetooth (for some reason if you try to send an APK file to the target device it will give an error "Unsupported content"), Calls (both sending calls and receiving), SMS (both sending and receiving), brightness, camera, etc.
+WiFi, Bluetooth (for some reason if you try to send an APK file to the target device it will give an error "Unsupported content"), Calls (both sending calls and receiving are working), SMS (both sending and receiving are working too), brightness, camera, etc.
 * What's not working:
 Hotspot, screen rotation is messed up (only in AOSP 11) and camera is flipped 90° (also only on AOSP 11), etc.
 
-**Also, for some reason in AOSP 11 v309+, SystemUI will stop working even in first boot.**
+**Warning: for some reason in AOSP 11 v309+, SystemUI will stop working even in first boot.**
 
 ## Steps to install
 
