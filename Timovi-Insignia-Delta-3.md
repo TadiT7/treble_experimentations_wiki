@@ -6,7 +6,7 @@ WiFi, Bluetooth (for some reason if you try to send an APK file to the target de
 * What's not working:
 Hotspot, screen rotation is messed up (only in AOSP 11) and camera is flipped 90° (also only on AOSP 11), etc.
 
-**Warning: for some reason in AOSP 11 v309+, SystemUI will stop working even in first boot.**
+**Warning: for some reason in AOSP 11 v309+, SystemUI will no longer work on this device.**
 
 ## Steps to install
 
