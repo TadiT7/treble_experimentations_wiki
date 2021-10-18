@@ -29,7 +29,7 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 
 * Tested [CrDroid v313 by eremitein](https://sourceforge.net/projects/treblerom/files/crDRom11/2021.09.21/)
 * Tested [Bless v306 by eremitein](https://sourceforge.net/projects/treblerom/files/BLESS11/2021.05.02/)
-* Tested [Pixel Experience 10 by ExpressLuke](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/ARM64/AB/)
+* Tested [Pixel Experience 10 by ExpressLuke](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/A64/AB/)
 * Every [eremitein](https://sourceforge.net/projects/treblerom/files/) builds
 
 ## Hardware support
@@ -39,7 +39,7 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 | Camera                    | √ |
 | Audio                     | √/×| (headphone jack doesn't work, but can be fixed with a simple code on termux) |
 | Bluetooth                 | √ |
-| Display                   | √ |(brightness slider doesn't work) |
+| Display                   | √ |(brightness slider doesn't work / can also be fixed via termux) |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
 | SIM / Mobile Data / Voice | × |(RIL dead in GSI Phh of A11 and A12, only in GSI of Eremitein works) |
@@ -49,7 +49,7 @@ Voila! You have successfully managed to flash a GSI ROM to your Redmi 9C device!
 
 ## Fixes
 
-To fix the earphone issue, execute these lines on any Terminal Emulator then reboot.
+To fix the earphone issue, execute these lines on any Terminal Emulator (preferably Termux) then reboot.
 ```
 su
 setprop persist.sys.overlay.devinputjack true
