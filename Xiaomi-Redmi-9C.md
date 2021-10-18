@@ -55,6 +55,12 @@ su
 setprop persist.sys.overlay.devinputjack true
 ```
 
+For brightness, please also execute these lines on any Terminal Emulator. 
+
+```
+setprop persist.sys.qcom-brightness $(cat /sys/class/leds/lcd-backlight/max_brightness)
+```
+
 ### Credits
 * [Redmi 9C | Angelica Indonesia](https://t.me/Redmi9CID) 
 * [Brahm Daniel Verano](https://github.com/liafourte)
