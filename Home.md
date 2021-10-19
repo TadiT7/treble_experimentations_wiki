@@ -70,7 +70,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Cubot King Kong Mini 2]]|KINGKONG_MINI2|✓|A/B|arm_binder64|
 |[[Cubot Quest]]|Cubot QUEST|✓|AB|arm64|
 |[[Cubot P20]]|p20|✓|A|arm64|
-|[[Cubot X18 Plus]]|Cubot_X18_Plus||A|arm64|
 |[[Cubot X19]]|x19|✓|A/B|arm64|
 |[[DEXP A140]]|a140|✓|A|arm|
 |[[DEXP A240]]|a240|✓|A|arm|
@@ -92,7 +91,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
-|[[General Mobile GM 8 Go]]|GM8_go_sprout|✓ (Go)|A|arm|
+|[[General Mobile GM 8 Go]]|GM8_go_sprout|✓|A|arm|
 |[[General Mobile GM 9 Plus]]|v7101o|✓|A/B|arm64|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
 |[[General Mobile GM 10]]|G300|✓|A/B|arm64|
@@ -268,7 +267,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel WP6]]|WP6|✓|A/B|arm64|
 |[[Oukitel WP7]]|WP7|✓|A/B|arm64|
 |[[Oukitel WP10 5G]]|WP10_5G|✓|A/B|arm64|
-|[[Ovvi SK3]]|V4701_I01||A|arm64|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Razer Phone 2]]|aura|✓|A/B|arm64|
@@ -356,7 +354,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy S21 Ultra (Exynos)]]|p3s|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Ultra (Snapdragon)]]|p3q|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi and gto|✓|A (A/B after updated to One UI 2.1)|arm64|
-|[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
 |[[Samsung Galaxy Tab S4 10.5]]|gts4lwifi and gts4llte|✓|A|arm64|
 |[[Samsung Galaxy Tab S5e]]|gts4lv and gts4lvwifi|✓|A/B|arm64|
@@ -370,7 +367,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sharp Aquos S2 / C10]]|SS2 / SAT|✓|A/B|arm64|
 |[[Sharp Aquos S3 / D10]]|HH1 / HH6 and SD1|✓|A/B|arm64|
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
-|[[Sharp Aquos Zero]]|n/a||A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
@@ -427,7 +423,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi 11 Lite 5G]]|renoir|✓|A/B|arm64|
 |[[Xiaomi Mi 11 Pro / 11 Ultra]]|star|✓|A/B|arm64|
 |[[Xiaomi Mi 11X Pro / Mi 11i / Redmi K40 Pro]]|haydn|✓|A/B|arm64|
-|[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
 |[[Xiaomi Mi A3]]|laurel|✓|A/B|arm64|
