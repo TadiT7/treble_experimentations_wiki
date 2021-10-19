@@ -11,7 +11,7 @@ Hotspot, screen rotation is messed up (only in AOSP 11) and camera is flipped 90
 ## Steps to install
 
 * Step 1: `fastboot OEM unlock` / `fastboot flashing unlock`
-* Step 2: disable force encryption (data encryption have been not tested yet!) in `/vendor/fstab.mt6580`
+* Step 2: disable force encryption (data encryption are not tested yet! Ignore this step under your own risk!) in `/vendor/fstab.mt6580`
 * Step 3: factory reset with stock Recovery
 * flash this image with the `fastboot` utility:
     ```
