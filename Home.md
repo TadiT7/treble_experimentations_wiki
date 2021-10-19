@@ -17,8 +17,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Alcatel 1 5033D]]|n/a||A|arm64|
-|[[Alcatel 5V 5060D]]|n/a||A|arm64|
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
@@ -34,7 +32,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone 8 Mini]]|sake|✓|A/B|arm64
 |[[Asus Zenfone 8/Pro]]|picasso|✓|A/B|arm64
 |[[Asus Zenfone 8 Flip]]|vodka|✓|A/B|arm64
-|[[Asus Zenfone Go]]|Z00VD|✓ (Go)|A|arm|
+|[[Asus Zenfone Go]]|Z00VD|✓|A|arm|
 |[[Asus Zenfone Max M1 (ZB555KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M1 (ZB556KL)]]|X00PD|✓|A/B|arm64|
 |[[Asus Zenfone Max M2 (ZB632KL)]]|X01AD|✓|A/B|arm64|
@@ -43,9 +41,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Asus Zenfone Max Pro M2]]|X01BD/X01BDA|✓|A (A/B when updated to Android 10)|arm64|
 |[Asus Zenfone Max Shot and Max Plus M2](https://github.com/phhusson/treble_experimentations/wiki/ASUS-ZenFone-Max-Shot-and-Max-Plus-M2)|A001D|✓|A|arm64|
 |[Barnes & Noble Nook Tablet 10.1" (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
-|[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓ (Go)|A|arm|
-|[[Blackview A20]]|a20|✓ (Go)|A|arm|
-|[[Blackview A60]]|a60|✓ (Go)|A|arm|
+|[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓|A|arm|
+|[[Blackview A20]]|a20|✓|A|arm|
+|[[Blackview A60]]|a60|✓|A|arm|
 |[[Blackview A60 Pro]]|a60_pro|✓|A/B|arm64|
 |[[Blackview BV9500]]|s32v63c2k_jk|✓|A|arm64|
 |[[Blackview BV9500 Plus]]|s62v71c2k_jk_eea|✓|A/B|arm64|
@@ -55,7 +53,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[BLU Vivo XL4]]|V0350WW|✓|A|arm64|
 |[[BLU G90 Pro]]|G0370WW|✓|A/B|arm64|
 |[[Bluboo D6]]|D6|✓|A|arm|
-|[[BQ-mobile S-5020 Strike]]|n/a||A|arm|
 |[[BQ Aquaris C]]|jeice|✓|A|arm|
 |[[Cherry Mobile Flare S8]]|X930|√|A/B|ARM64|
 |[[Cherry Mobile Omega X]]|X960|√|A/B|ARM64|
@@ -67,10 +64,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Cherry Mobile Aqua S9]]|Aqua_S9|√|A/B|arm64|
 |[[Cherry Mobile Aqua S10 Pro]]|S10_Pro|√|A/B|ARM64|
 |[[Chuwi Hi9 Air]]|Hi9Air|✓|A|arm64|
-|[[Coolpad C558]]|k39tv1|✓ (Go)|A|arm|
-|[[Coolpad Cool Changer 1C]]|c107||A|arm64|
-|[[Coolpad Cool Changer S1]]|c105||A|arm64|
-|[[Cosmo Communicator]]|Cosmo||A|arm64|
+|[[Coolpad C558]]|k39tv1|✓|A|arm|
 |[[Cubot King Kong 5 Pro]]|n/a|✓|A/B|arm64|
 |[[Cubot King Kong Mini]]|KINGKONG_MINI|✓|A/B|arm_binder64|
 |[[Cubot King Kong Mini 2]]|KINGKONG_MINI2|✓|A/B|arm_binder64|
@@ -82,7 +76,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[DEXP A240]]|a240|✓|A|arm|
 |[[DEXP B260]]|b260|✓|A|arm|
 |[[DEXP BL250]]|bl250|✓|A|arm|
-|[[DIGMA VOX V40 3G]]|VT4055MG|✓|A (Go)|arm|
+|[[DIGMA VOX V40 3G]]|VT4055MG|✓|A|arm|
 |[[Doogee X5]]|X5|✓|A|arm|
 |[[Doogee X5 Max]]|X5max|✓|A|arm|
 |[[Doogee X5 Max Pro]]|X5max_PRO|✓|A|arm|
@@ -90,15 +84,13 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Doogee X50]]|X50|✓|A|arm|
 |[[Doogee Y8]]|Y8|✓|A/B|arm64|
 |[[Doogee S58 Pro]]|n/a|✓|A/B|arm64|
-|[[Duoqin Qin 2]]|sp9832e_1h10_go|✓|A/B (Go)|arm64|
+|[[Duoqin Qin 2]]|sp9832e_1h10_go|✓|A/B|arm64|
 |[[Duoqin Qin 2 Pro]]|s9863a1h10|✓|A/B|arm64|
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
-|[[General Mobile GM 5]]|GM5_sprout||A|arm64|
-|[[General Mobile GM 5 Plus]]|shamrock / GM5PlUS_sprout||A|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
 |[[General Mobile GM 8 Go]]|GM8_go_sprout|✓ (Go)|A|arm|
 |[[General Mobile GM 9 Plus]]|v7101o|✓|A/B|arm64|
@@ -115,7 +107,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Google Pixel 4a]]|sunfish (LTE) and bramble (5G)|✓|A/B|arm64|
 |[[Google Pixel 5]]|redfin|✓|A/B|arm64|
 |[[Google Pixel 5a]]|barbet|✓|A/B|arm64|
-|[[HTC U11]]|ocn||A|arm64|
 |[HTC U11 Life](https://github.com/phhusson/treble_experimentations/wiki/HTC-U11-life-(Android-One))|ocl|✓|A/B|arm64|
 |[[HTC U11 Plus]]|ocm|✓|A|arm64|
 |[[HTC U12 Life]]|iml|✓|A|arm64|
@@ -139,8 +130,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
-|[[Huawei MediaPad M5 Lite]]|BAH2||A|arm64|
-|[[Huawei MediaPad M5 Pro]]|Cameron Pro / CMR-AL19|?|A/B|arm64|
 |[[Huawei MediaPad M5 Wifi]]|SHT-W09|✓|A/B|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
 |[[Huawei P Smart (2019)]]|pot|✓|A|arm64|
@@ -167,30 +156,20 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
 |[[Infinix Zero 8]]|x687|✓|A/B|arm64|
 |[[INOI 2 Lite]]|n/a|✓|A|arm|
-|[[Itel A32F]]|f8007|✓ (Go)|A|arm|
+|[[Itel A32F]]|f8007|✓|A|arm|
 |[[Jinga Start LTE]]|ji50ag1_169hp|✓|A|arm|
-|[[Koolnee Rainbow]]|rainbow|✓ (Go)|A|arm|
+|[[Koolnee Rainbow]]|rainbow|✓|A|arm|
 |[[Kyocera Basio 4]]|KYV47|✓|A/B|arm64|
-|[[Lava Z50]]|z50|✓ (Go)|A|arm|
+|[[Lava Z50]]|z50|✓|A|arm|
 |[[Leagoo M8 Pro]]|M8_Pro|✓|A|arm|
-|[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm (arm_binder64)|
-|[[Leagoo M13]]|M13||A/B|arm64|
+|[[Leagoo M9 Pro]]|M9_Pro|✓|A|arm|
 |[[Leagoo Power 2]]|Power_2|✓|A|arm|
 |[[Leagoo Power 5]]|Power_5|✓|A|arm64|
 |[[Leagoo T8s]]|T8s|✓|A|arm64|
-|[[LeEco Le 2]]|s2||A|arm64|
-|[[LeEco Le Max 2]]|x2||A|arm64|
-|[[LeEco Le Pro 3]]|zl1||A|arm64|
 |[[Lenovo K5 Note / K9 Note]]|L38012|✓|A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
-|[[Lenovo K6 / K6 Power]]|karate||A/B|arm64|
-|[[Lenovo K6 Note / K6 Plus]]|karatep||A/B|arm64|
-|[[Lenovo K8 Note]]|manning||A|arm64|
-|[[Lenovo P2]]|kuntao||A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
-|[[Lenovo Smart Tab M8]]|anna_row_call||A/B|arm64|
 |[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
-|[[Lenovo Vibe A Plus]]|a1010a20||A|arm|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
 |[[Lenovo Z5s]]|jd2019|✓|A/B|arm64|
@@ -199,7 +178,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Lenovo Z6 Youth Edition]]|kunlun2|✓|A/B|arm64|
 |[[LG G7 ThinQ]]|judyln|✓|A/B|arm64|
 |[[LG G8 ThinQ]]|alphalm|✓|A/B|arm64|
-|[[LG K7]]|m13g||A|arm|
 |[[LG V30 / V30 Plus]]|joan|✓|A|arm64|
 |[[LG V40 ThinQ]]|judypn|✓|A/B|arm64|
 |[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
@@ -207,21 +185,10 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
 |[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
 |[[MBI S10]]|s10|✓|A|arm64|
-|[[Meizu 16s]]|16s||A/B|arm64|
-|[[Meizu 16T]]|16T||A/B|arm64|
-|[[Meizu 16th]]|16th||A|arm64|
-|[[Meizu 16x]]|16x||A|arm64|
 |[[Meizu 18]]|meizu_18|✓|A/B|arm64|
-|[[Meizu M2 Mini]]|n/a||A|arm64|
-|[[Meizu Note 9]]|n/a||A|arm64|
-|[[Microsoft Lumia 950 XL]]|cityman||A/B|arm64|
 |[[Microsoft Surface Duo]]|duo|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
-|[[Moto G5]]|cedric||A|arm64|
-|[[Moto G5 Plus]]|potter||A|arm64|
-|[[Moto G5S]]|montana||A/B|arm64|
-|[[Moto G5S Plus]]|sanders||A|arm64|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter/jeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
@@ -230,11 +197,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Moto G7 Power]]|ocean|✓|A/B|arm64|
 |[[Moto G8]]|rav|✓|A/B|arm64|
 |[[Moto G8 Plus]]|doha|✓|A/B|arm64|
-|[[Moto X4]]|payton||A/B|arm64|
-|[[Moto Z]]|griffin||A|arm64|
-|[[Moto Z Play]]|addison||A|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
-|[[Moto Z2 Play]]|albus||A|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Moto Z3]]|messi|✓|A/B|arm64|
 |[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
@@ -244,10 +207,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge and Edge+]]|racer and burton|✓|A/B|arm64|
-|[[Nintendo Switch]]|icosa||A/B (when using Android 9 build)|arm64|
-|[[Nokia 1]]|FRT|✓ (Go)|A|arm|
-|[[Nokia 1 Plus]]|ANT|✓ (Go)|A|arm|
-|[[Nokia 2.1 and 2 V]]|E2M and EVW|✓ (Go)|A|arm|
+|[[Nokia 1]]|FRT|✓|A|arm|
+|[[Nokia 1 Plus]]|ANT|✓|A|arm|
+|[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
 |[[Nokia 2.2]]|wasp / WSP|✓|A/B|arm64|
 |[[Nokia 3.1 and 5.1]]|ES2 and CO2|✓|A/B|arm64|
 |[[Nokia 3.1 A and C]]|EAG|✓|A/B|arm64|
@@ -256,7 +218,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 3.2]]|deadpool / DPL|✓|A/B|arm64|
 |[[Nokia 3.4]]|doctorstrange / DRS|✓|A/B|arm64|
 |[[Nokia 4.2]]|panther / PAN|✓|A/B|arm64|
-|[[Nokia 5 and 6]]|ND1 and D1C / PLE||A (A/B on Android 9+)|arm64|
 |[[Nokia 5.1 Plus (X5)]]|PDA|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
 |[[Nokia 6.1 Plus (X6)]]|DRG|✓|A/B|arm64|
@@ -265,7 +226,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 7 Plus]]|B2N|✓|A/B|arm64|
 |[[Nokia 7.1]]|CTL|✓|A/B|arm64|
 |[[Nokia 7.2]]|daredevil / DDV|✓|A/B|arm64|
-|[[Nokia 8]]|NB1||A/B|arm64|
 |[[Nokia 8 Sirocco]]|A1N|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
 |[[Nokia 8.3 5G]]|BabyGroot / BGT|✓|A/B|arm64|
@@ -275,7 +235,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
-|[[OnePlus 3 and 3T]]|oneplus3||A (Support for A/B added since 26.08.2019)|arm64|
 |[[OnePlus 5 and 5T]]|cheeseburger and dumpling|✓|A|arm64|
 |[[OnePlus 6]]|enchilada|✓|A/B|arm64|
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
@@ -310,8 +269,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Oukitel WP7]]|WP7|✓|A/B|arm64|
 |[[Oukitel WP10 5G]]|WP10_5G|✓|A/B|arm64|
 |[[Ovvi SK3]]|V4701_I01||A|arm64|
-|[[Prestigio Muze E5 LTE (PSP5545)]]|TL55B3L||A|arm|
-|[[Prestigio Muze G5 LTE (PSP5522)]]|TL52B5L||A|arm|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
 |[[Razer Phone 2]]|aura|✓|A/B|arm64|
@@ -334,7 +291,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Realme X2 Pro]]|RMX1931|✓|A/B|arm64|
 |[[Realme XT]]|RMX1921|✓|A/B|arm64|
 |[[RED Hydrogen One]]|HydrogenONE|✓|A/B|arm64|
-|[[Samsung Galaxy A3 (2017)]]|a3y17lte||A/B|arm64|
 |[[Samsung Galaxy A6 (2018)]]|a6lte|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A6 Plus (2018)]]|a6plte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte|✓|A (A/B after updated to One UI 2.0)|arm64|
@@ -361,20 +317,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy J2 Core]]|j2corelte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4]]|j4lte|✓|A|arm_binder64|
 |[[Samsung Galaxy J4 Plus]]|j4primelte|✓|A|arm|
-|[[Samsung Galaxy J5 (2017)]]|j5y17lte||A/b|arm64|
 |[[Samsung Galaxy J6]]|j6lte|✓|A/b|arm64|
 |[[Samsung Galaxy J6 Plus]]|j6primelte|✓|A|arm|
-|[[Samsung Galaxy J7 (2016)]]|j7xelte||A (A/B)|arm64|
-|[[Samsung Galaxy J7 (2017)]]|j7y17lte||A/b|arm64|
-|[[Samsung Galaxy J7 Neo]]|j7velte||A (A/B)|arm64|
-|[[Samsung Galaxy J7 Prime]]|on7xelte||A (A/B)|arm64|
 |[[Samsung Galaxy J8 (2018)]]|j8y18lte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
 |[[Samsung Galaxy M01]]|m01q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M11]]|m11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
 |[[Samsung Galaxy M30s]]|m30s|✓|A/B|arm64|
 |[[Samsung Galaxy M51]]|m51lte|✓|A/B|arm64|
-|[[Samsung Galaxy Note 8 (Exynos)]]|greatlte||A|arm64|
 |[[Samsung Galaxy Note 8 (Snapdragon)]]|greatqlte|✓|A|arm64|
 |[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
@@ -382,10 +332,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Note 10 and 10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
 |[[Samsung Galaxy Note 20 and 20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
 |[[Samsung Galaxy Note 20 and 20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
-|[[Samsung Galaxy S3 Neo]]|s3ve3g||A|arm|
-|[[Samsung Galaxy S6 and S6 Edge]]|zeroflte and zerolte||A|arm64|
-|[[Samsung Galaxy S7 and S7 Edge]]|herolte and hero2lte||A|arm64|
-|[[Samsung Galaxy S8 and S8 Plus (Exynos)]]|dreamlte and dream2lte||A|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
@@ -412,7 +358,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi and gto|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1]]|gtaxlwifi and gtaxllte||A|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
-|[[Samsung Galaxy Tab S3 9.3]]|gts3lwifi and gts3llte||A|arm64|
 |[[Samsung Galaxy Tab S4 10.5]]|gts4lwifi and gts4llte|✓|A|arm64|
 |[[Samsung Galaxy Tab S5e]]|gts4lv and gts4lvwifi|✓|A/B|arm64|
 |[[Samsung Galaxy Tab S6]]|gts6l and gts6lwifi|✓|A/B|arm64|
@@ -424,13 +369,9 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sharp Aquos P6 / V1]]|HD1|✓|A/B|arm64|
 |[[Sharp Aquos S2 / C10]]|SS2 / SAT|✓|A/B|arm64|
 |[[Sharp Aquos S3 / D10]]|HH1 / HH6 and SD1|✓|A/B|arm64|
-|[[Sharp Aquos S3 Mini]]|SG1||A/B|arm64|
-|[[Sharp Aquos R2]]|LYV||A/B|arm64|
-|[[Sharp Aquos R2 Compact]]|n/a||A/B|arm64|
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
 |[[Sharp Aquos Zero]]|n/a||A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
-|[[Smartisan Nut R1]]|trident||A/B|arm64|
 |[[Sony Xperia 1]]|kumano|✓|A/B|arm64|
 |[[Sony Xperia 1 mk2]]|pdx-203|✓|A/B|arm64|
 |[[Sony Xperia 1 mk3]]|pdx-215|✓|A/B|arm64|
@@ -440,56 +381,23 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Sony Xperia 10 and 10 Plus]]|kirin and mermaid|✓|A/B|arm64|
 |[[Sony Xperia 10 mk2]]|pdx201|✓|A/B|arm64|
 |[[Sony Xperia 10 mk3]]|n/a|✓|A/B|arm64|
-|[[Sony Xperia X]]|suzu||A (A/B when updated to Android 11)|arm64|
-|[[Sony Xperia X Compact]]|suzu||A/B|arm64|
-|[[Sony Xperia X Performance]]|dora||A (A/B when updated to Android 11)|arm64|
 |[[Sony Xperia XA1, XA1 Plus and XA1 Ultra]]|n/a|✓|A|arm64|
 |[[Sony Xperia XA2, XA2 Plus and XA2 Ultra]]|pioneer, voyager and discovery|✓|A/B|arm64|
-|[[Sony Xperia XZ]]|kagura||A (A/B when updated to Android 10)|arm64|
-|[[Sony Xperia XZ Premium]]|maple||A|arm64|
 |[[Sony Xperia XZ1 and XZ1 Compact]]|poplar and lilac|✓|A|arm64|
 |[[Sony Xperia XZ2 and XZ2 Compact]]|akari and apollo|✓|A/B (VNDK Lite)|arm64|
 |[[Sony Xperia XZ2 Premium]]|aurora|✓|A/B (VNDK Lite)|arm64|
 |[[Sony Xperia XZ3]]|akatsuki|✓|A/B|arm64|
-|[[Teclast M20 4G]]|M20_4G||A|arm64|
-|[[Teclast M30]]|M30||A|arm64|
-|[[Teclast P10HD]]|P10_HD||A/B|arm64|
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
-|[[Tecno POP 1s Pro (F4 Pro)]]|TECNO-F4Pro||A|arm|
-|[[Tecno POP 2 Power]]|TECNO-B1P||A|arm|
-|[[Tecno Spark 4 Air]]|n/a||A/B|arm_binder64|
-|[[Tecno Spark 4 Lite (BB4K)]]|TECNO-BB4K||A/B|arm_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
-|[[TP-LINK Neffos C9A]]|n/a||A|arm64|
-|[[Ulefone Armor 6 / 6E]]|Armor_6 and Armor_6E||A/B|arm64|
-|[[Ulefone Armor 6S]]|Armor_6S||A/B|arm64|
-|[[Ulefone Armor X]]|Armor_x||A|arm64|
-|[[Ulefone Power 5]]|Power_5||A|arm64|
-|[[Umidigi A1 Pro]]|A1_Pro||A|arm64|
-|[[Umidigi A3]]|A3||A|arm64|
-|[[Umidigi A3 Pro]]|A3_Pro||A|arm64|
-|[[Umidigi A5 Pro]]|A5_Pro||A/B|arm64|
-|[[Umidigi A9 Pro]]|A9_Pro||A/B|arm64|
 |[[Umidigi Bison]]|Bison|✓|A/B|arm64|
-|[[Umidigi F1]]|F1||A/B|arm64|
-|[[Umidigi F1 Play]]|F1_Play||A/B|arm64|
 |[[Umidigi F2]]|F2|✓|A/B|arm64|
-|[[Umidigi One Max]]|One||A|arm64|
-|[[Umidigi One Max]]|One_Max||A|arm64|
-|[[Umidigi One Pro]]|One_Pro||A|arm64|
 |[[Umidigi Power]]|Power|✓|A/B|arm64|
 |[[Umidigi Power 3]]|Power_3|✓|A/B|arm64|
-|[[Umidigi Z2]]|Z2||A|arm64|
-|[[Umidigi Z2 Pro]]|Z2_Pro||A/B|arm64|
-|[[Vertex Impress Luck]]|Impress_Luck||A|arm|
 |[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
 |[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓|A|arm|
 |[[Wiko View Max]]|w_p200|✓|A|arm|
-|[[Wileyfox Spark / Spark+]]|porridge||A|arm (arm_binder64) (arm64)|
-|[[Wileyfox Swift]]|crackling||A|arm64|
-|[[Wileyfox Swift 2 / 2 Plus / 2 X]]|marmite||A|arm64|
 |[[Xiaomi Black Shark]]|shark|✓|A/B|arm64|
 |[[Xiaomi Black Shark Helo]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 2]]|skywalker|✓|A/B|arm64|
@@ -497,12 +405,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Black Shark 3]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3S]]|n/a|✓|A/B|arm64|
-|[[Xiaomi Mi 3 / Mi 4]]|cancro||A|arm|
-|[[Xiaomi Mi 5]]|gemini||A|arm64|
-|[[Xiaomi Mi 5s]]|capricorn||A|arm64|
-|[[Xiaomi Mi 5s Plus]]|natrium||A|arm64|
-|[[Xiaomi Mi 5X]]|tiffany||A|arm64|
-|[[Xiaomi Mi 6]]|sagit||A|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A（A/B when using MoKee)|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
 |[[Xiaomi Mi 8 EE]]|ursa|✓|A|arm64|
@@ -528,37 +430,23 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi A1]]|tissot||A/B|arm64|
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
-|[[Xiaomi Mi A3]]|laurel|✓ (One)|A/B|arm64|
+|[[Xiaomi Mi A3]]|laurel|✓|A/B|arm64|
 |[[Xiaomi Mi CC9 / 9 Lite]]|pyxis / vela|✓|A/B|arm64|
 |[[Xiaomi Mi CC9 Pro / Note 10 Pro]]|tucana|✓|A/B|arm64|
-|[[Xiaomi Mi Max 2]]|oxygen||A|arm64|
 |[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to Android 11)|arm64|
-|[[Xiaomi Mi MIX]]|lithium||A|arm64|
-|[[Xiaomi Mi MIX 2]]|chiron||A (A/B when updated to Android 11)|arm64|
 |[[Xiaomi Mi MIX 2s]]|polaris|✓|A|arm64|
 |[[Xiaomi Mi MIX 3]]|perseus|✓|A/B|arm64|
 |[[Xiaomi Mi MIX 3 5G]]|andromeda|✓|A/B|arm64|
 |[[Xiaomi Mi MIX Fold]]|cetus|✓|A/B|arm64|
-|[[Xiaomi Mi Note 2]]|scorpio||A|arm64|
-|[[Xiaomi Mi Note 3]]|jason||A|arm64|
 |[[Xiaomi Mi Note 10 / CC9 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
-|[[Xiaomi Mi Play]]|lotus||A|arm64|
 |[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
 |[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
 |[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
 |[[Xiaomi Poco M3]]|citrus|✓|A/B|arm64|
 |[[Xiaomi Poco X3 / X3 NFC]]|karna (India, non-NFC) and surya (Global, NFC)|✓|A/B|arm64|
 |[[Xiaomi Poco X3 Pro]]|vayu|✓|A/B|arm64|
-|[[Xiaomi Redmi 3 / 3 Pro]]|ido||A|arm64|
-|[[Xiaomi Redmi 3S / Prime / 3X]]|land||A|arm64|
-|[[Xiaomi Redmi 4 Pro / Prime]]|markw||A|arm64|
-|[[Xiaomi Redmi 4A]]|rolex|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10)|arm64|
-|[[Xiaomi Redmi 4X]]|santoni||A|arm64|
-|[[Xiaomi Redmi 5]]|rosy||A|arm64|
-|[[Xiaomi Redmi 5 Plus / Note 5 (India)]]|vince||A|arm64|
-|[[Xiaomi Redmi 5A]]|riva|(Use Go variant when using Android 11 GSI)|A (A/B when updated to Android 10)|arm64|
 |[[Xiaomi Redmi 6]]|cereus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
 |[[Xiaomi Redmi 6 Pro]]|sakura|✓|A|arm64|
 |[[Xiaomi Redmi 6A]]|cactus|✓|A (A/B when updated to Android 9)|arm (arm_binder64)|
@@ -574,7 +462,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi 10X / Note 9]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
-|[[Xiaomi Redmi Go]]|tiare|✓ (Go)|A|arm|
+|[[Xiaomi Redmi Go]]|tiare|✓|A|arm|
 |[[Xiaomi Redmi K20 / Mi 9T]]|davinci|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro / Mi 9T Pro]]|raphael|✓|A/B|arm64|
 |[[Xiaomi Redmi K20 Pro Premium]]|raphaels|✓|A/B|arm64|
@@ -586,10 +474,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi K40 / Poco F3 / Mi 11X]]|alioth|✓|A/B|arm64|
 |[[Xiaomi Redmi K40 Gaming / Poco F3 GT]]|ares|✓|A/B|arm64|
 |[[Xiaomi Redmi K40 Pro / Mi 11i / Mi 11X Pro]]|haydn|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 3 (Snapdragon)]]|kenzo||A|arm64|
-|[[Xiaomi Redmi Note 4 (Snapdragon)]]|mido||A|arm64|
-|[[Xiaomi Redmi Note 5 / Note 5 Pro (India)]]|whyred|✓|A|arm64|
-|[[Xiaomi Redmi Note 5A / Prime and 5A Lite]]|ugg and ugglite| |A/B|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
@@ -609,15 +493,11 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Redmi Note 10S]]|rosemary|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
-|[[ZTE A530]]|p639t10||A|arm64|
-|[[ZTE Axon 7]]|axon7 / ailsa_ii||A|arm64|
 |[[ZTE Axon 9 Pro]]|p845a01|✓|A/B|arm64|
 |[[ZTE Axon 10 Pro]]|p855a01|✓|A/B|arm64|
 |[[ZTE Blade 20 Smart]]|p671f50|✓|A/B|arm64|
 |[[ZTE Blade A3 (2019)]]|p932f20|✓|A/B|arm_binder64|
 |[[ZTE Blade A7 (2020)]]|p662f02|✓|A/B|arm_binder64|
-|[[ZTE Blade V9]]|p450f10||A|arm64|
-|[[ZTE Blade V9 Vita]]|p840f03||A|arm64|
 |[[ZTE Blade V10]]|p671f20|✓|A/B|arm64|
 |[[ZTE Nubia Mini 5G]]|tp1803|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic]]|nx609j|✓|A|arm64|
@@ -625,10 +505,4 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[ZTE Nubia Red Magic 3S]]|n/a|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 5G]]|nx659j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 6 / 6 Pro]]|nx669j|✓|A/B|arm64|
-|[[ZTE Nubia Z9 Max]]|nx512j||A|arm64|
-|[[ZTE Nubia Z9 Mini]]|nx511j||A|arm64|
-|[[ZTE Nubia Z17 and Z17s]]|nx563j and nx595j||A|arm64|
-|[[ZTE Nubia Z18]]|nx606j||A|arm64|
-|[[ZTE Nubia Z18 Mini]]|nx611j||A|arm64|
 |[[ZTE Nubia Z20]]|n/a|✓|A/B|arm64|
-|[[ZUK Z2 Plus and Z2 Pro]]|z2_plus and z2_row||A|arm64|
