@@ -1,6 +1,6 @@
 ![android GSI](https://i.imgur.com/cJJ0zxQ.png)
 ### What is Project Treble, GSI, etc?
-Here's [[Frequently Asked Questions (FAQ)]].
+Here's [[Frequently Asked Questions (FAQ)]]
 
 ### Device List
 Devices where someone has claimed to have successfully booted a version of phh's generic system image are recorded here.  The level of hardware support (e.g. Wi-Fi, NFC, Bluetooth...) may vary; please refer to the device-specific page for comments on hardware support.
@@ -13,8 +13,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **How to create a device overlay?** : Check this guide here [[How to create an overlay?]]
 
-**Why should I use GSI for A/B devices to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "[system-as-root](https://source.android.com/devices/bootloader/partitions/system-as-root)". Before this change, only A/B devices were system-as-root and GSI name was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+..
-
+**Why should I use GSI for A/B devices to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "[system-as-root](https://source.android.com/devices/bootloader/partitions/system-as-root)". Before this change, only A/B devices were system-as-root and GSI name was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
@@ -461,7 +460,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Tecno Spark 4 Air]]|n/a||A/B|arm_binder64|
 |[[Tecno Spark 4 Lite (BB4K)]]|TECNO-BB4K||A/B|arm_binder64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
-|[[Timovi Insignia Delta 3]]|n/a|✓ (Legacy Treble version) (Go)|A|arm|
+|[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
 |[[TP-LINK Neffos C9A]]|n/a||A|arm64|
 |[[Ulefone Armor 6 / 6E]]|Armor_6 and Armor_6E||A/B|arm64|
 |[[Ulefone Armor 6S]]|Armor_6S||A/B|arm64|
