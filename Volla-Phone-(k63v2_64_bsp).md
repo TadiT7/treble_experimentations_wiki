@@ -7,7 +7,7 @@ Seems to work great.
 * Unlock bootloader type `fastboot flashing unlock` in terminal.
 * flash this image with the `fastboot` utility:
     ```
-    $ fastboot flash system imagename.img
+    $ fastboot flash system system-roar-arm64-ab.img
     ```
     As an alternative you can flash via TWRP as "System Image" and format data.
 
