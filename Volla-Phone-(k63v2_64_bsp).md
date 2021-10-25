@@ -16,12 +16,12 @@ Seems to work great.
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Works, both front and rear                                |
-| Speaker / Mic             | Workes                                                    |
-| Bluetooth                 | Workes (untested with audio devices)                      |
-| WiFi                      | Workes                                                    |
-| SIM / Mobile Data / Voice | Workes                                                    |
+| Speaker / Mic             | Works                                                    |
+| Bluetooth                 | Works (untested with audio devices)                      |
+| WiFi                      | Works                                                    |
+| SIM / Mobile Data / Voice | Works                                                    |
 | VoLTE                     | Untested                                                  |
-| Fingerprint               | Workes                                                    |
+| Fingerprint               | Works                                                    |
 | NFC                       | Untested                                                  |
 | Offline Charging          | Untested                                                  |
 | Other feature             |                                                           |
