@@ -25,6 +25,8 @@ Has been tested on:
 5. Erase the data partition: `fastboot -w`
 6. Boot the phone
 
+As of today (Android 11 GSI and up, on Android 10 vendor), booting GSI requires disabling dm-verity. To do so, edit factory image's boot.img and replace `buildvariant=user` with `buildvariant=eng`
+
 ## Notes
 - SIM is not detrecting on latest Pie furmwares
 - but all other majors functionalities seems to work: camera, flash, wifi, bluetooth, sounds.
