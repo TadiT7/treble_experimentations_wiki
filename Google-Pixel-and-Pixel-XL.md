@@ -3,6 +3,7 @@
 ## Testers
 
 * [Jim-Bar](https://github.com/Jim-Bar)
+- phh
 
 ## Hardware
 
@@ -18,14 +19,15 @@ Has been tested on:
 
 **Warning:** this has an [issue](https://github.com/phhusson/treble_experimentations/issues/55) which prevents the phone from booting more than three time. The workaround is in the linked issue.
 
-1. Download latest Google image available [here](https://developers.google.com/android/images#sailfish). For me it was 8.1.0 (OPM2.171019.029, Apr 2018).
+1. Download latest Google image available [here](https://developers.google.com/android/images#sailfish). For me it was 10.0.0 (QP1A.191005.007.A3, Dec 2019)
 2. `./flash-all.sh`
-3. Reboot to fastboot, then erase the system partition: `fastboot erase system`
-4. Flash the system image: `fastboot flash system system-arm64-ab-vanilla-nosu.img` (phh v18 2018-05-14, sha256: `302d2dc6dc55bce68f1ac1216fc05dd49eba3bab29bc3fef4d591bffd050dbcb`) or `fastboot flash system system-arm64-ab.img` (LineageOS v4 2018-05-19, sha256: `3f67636ba164d1c0f7b750070b6db16349e761e1e4dea2ee193b176477152b91`)
+3. Extract boot.img `unzip image-sailfish-qp1a.191005.007.a3.zip boot.img `
+4. Edit boot.img to disable dm-verity: `sed -i -e 's/buildvariant=user/buildvariant=eng /g' boot.img`
+5. Flash the system image: `fastboot flash system system-roar-arm64-ab-vndklite-floss.img.xz`
 5. Erase the data partition: `fastboot -w`
 6. Boot the phone
 
-As of today (Android 11 GSI and up, on Android 10 vendor), booting GSI requires disabling dm-verity. To do so, edit factory image's boot.img and replace `buildvariant=user` with `buildvariant=eng`
+This will most likely not work as-is because system partition is too small, I(phh)'m actually using paralloid to boot from /data for bigger system image
 
 ## Notes
 - SIM is not detrecting on latest Pie furmwares
