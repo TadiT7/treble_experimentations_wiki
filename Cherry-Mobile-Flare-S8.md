@@ -44,4 +44,12 @@ PBRP for X930/X960
 
 Download Link: https://mega.nz/file/IYkggRIa#FKyIa6cs9gSBiia48ZLsTIXYoMHdaDcjdYbolGvGkUY
 
+Modded Vendor (Fix Battery Capacity and Correct Notch Parameter)
+
+https://drive.google.com/file/d/15La7qORak0hxSxDFdddYW5mKiOLMQwMy/view
+
+Our YT Channel:
+https://youtube.com/channel/UCz7_Ymq3-iij8-1hj_GDTMw
+
+
 Admin: Aljun Cortez(@RIO-S5501)
