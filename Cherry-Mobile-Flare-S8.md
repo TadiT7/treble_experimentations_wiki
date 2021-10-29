@@ -35,7 +35,13 @@ LineageOS 18
 Cherish OS (Still Under Observation for Bugs)
 MSM Extended 11
 
-This List Will be Updated Soon
-And TWRP 3.5 Will be Up Soon
+[Android 12]
+Phh Android 12 Alpha1/2
+Phh Android 12 Alpha 3 (Read Only Problem)
 
-Admin: Aljun Cortez(The Father of AfterMarket Mods for Flare S8)
+This List Will be Updated Soon
+PBRP for X930/X960
+
+Download Link: https://mega.nz/file/IYkggRIa#FKyIa6cs9gSBiia48ZLsTIXYoMHdaDcjdYbolGvGkUY
+
+Admin: Aljun Cortez(@RIO-S5501)
