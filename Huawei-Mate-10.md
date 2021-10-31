@@ -54,12 +54,25 @@ EMUI9 base with v300.l system-roar-arm64-ab-vanilla.img
 | Camera                    | Works        |
 | Speaker / Mic             | Works                                                    |
 | Bluetooth                 | Works                                                    |
-| WiFi                      | Works (Cannot connect to Wifi with WPA3-SAE enabled)                                                   |
+| WiFi                      | Works|
 | SIM / Mobile Data / Voice | Works                                                    |
 | VoLTE                     | Unknown                                                    |
 | Fingerprint               | Works                                                    |
 | NFC                       | Works                                                    |
 | Offline Charging          | Unknown                                                    |
+
+EMUI9 base with Android 12 v400.a system-squeak-arm64-ab-vndklite-floss.img
+|Component | Comment|
+|---|---|
+|Camera | **Not Working**|
+|Speaker / Mic | Works |
+|WiFi | Works|
+| SIM / Mobile Data / Voice | Works|
+|VoLTE | Unknown|
+|Fingerprint | Works|
+|NFC|Works|
+|Offline Charging|Works|
+
 ---
 
 Tested By: @mingyech - ALP-L29, EMUI8 Base: ALP-L29C636B143 (8.0.0.143) v218575, EMUI9 base: ALP-L29C636E2R1P12B159 (9.0.0.159) - Dec 03 2020 - Template created by @zguithues and @hackintosh5
