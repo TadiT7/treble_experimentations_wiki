@@ -64,10 +64,11 @@ EMUI9 base with v300.l system-roar-arm64-ab-vanilla.img
 EMUI9 base with Android 12 v400.a system-squeak-arm64-ab-vndklite-floss.img
 |Component | Comment|
 |---|---|
-|Camera | **Not Working**|
+|Camera | Not Working|
 |Speaker / Mic | Works |
 |WiFi | Works|
-| SIM / Mobile Data / Voice | Works|
+| SIM / Voice | Works|
+|Mobile Data | Not Working|
 |VoLTE | Unknown|
 |Fingerprint | Works|
 |NFC|Works|
