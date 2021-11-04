@@ -294,6 +294,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A7 (2018)]]|a7y18lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy A8 (Exynos)]]|jackpotlte|✓|A (A/B)|arm64|
 |[[Samsung Galaxy A8 Plus (Exynos)]]|jackpot2lte|✓|A (A/B)|arm64|
+|[[Samsung Galaxy A9 (2018)]]|a9y18lte|✓|A/B|arm64|
 |[[Samsung Galaxy A02s]]|a02s|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A10]]|a10|✓|A/B|arm_binder64 (arm64)|
 |[[Samsung Galaxy A10s]]|a10s|✓|A/B|arm_binder64|
