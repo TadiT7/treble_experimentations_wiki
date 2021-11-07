@@ -8,6 +8,11 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |November|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
 |October|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
 
+## Unofficial Android 12
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|November|LineageOS|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
+
 ## Official Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
