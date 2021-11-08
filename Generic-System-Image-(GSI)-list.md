@@ -12,6 +12,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |November|LineageOS|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
+|November|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
+|November|Pixel Experience|Ponces|[Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 
 ## Official Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
