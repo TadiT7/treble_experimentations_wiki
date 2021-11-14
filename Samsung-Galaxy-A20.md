@@ -32,21 +32,16 @@ Some of this was taken from [this page.](https://forum.xda-developers.com/galaxy
 | Fingerprint               | Yes                                                       |
 | NFC                       | It's there, Doesn't function though.                      |
 | Offline Charging          | Yes                                                       |
-| MTP & PTP                 | After patching, it works occasionally, Go to [iii]        |
+| MTP & PTP                 | Yes, if ADB is disabled with a custom Kernel installed    |
 ---
 ## If you have problems
 * 1. Launcher keeps crashing.
 This happened to me and it might happen to you. I haven't tested the latest build but I will later. What you need to do is download gapps and flash it This will put the navigation bar gestures back and you can use the pixel launcher.
 * 2. Settings app keeps crashing.
 I haven't found a fix to this problem yet. I'll keep searching.
-* 3. MTP and PTP crashing your phone or dysfunctional in general.
-Try flashing a custom kernel that supports the version you're using such as Android S then use Custom Kernel with support with Android S/12. If it's still not working you can attempt to patch it by creating a file in /Vendor/etc/init/ called "mmtp.rc" with permissions 644, and owner root and group root. Copy this code into mmtp.rc file. **And Reboot!** [Can occasionally work doesn't always has something to do with "/Vendor/etc/init/init.exynos788*.usb.rc"]
-```
-on boot
-   symlink /dev/usb_mtp_gadget /dev/mtp_usb
-   chmod 0660 /dev/mtp_usb
-   chown system mtp /dev/mtp_usb
-```
+* 3. MTP and PTP crashing your phone or dysfunctional.
+Try installing a custom kernel that's compatible with your phone and the Android version you're running! Make completely sure ADB Debugging is disabled. This will be the fix until a better one is found.
+
 ## Problems without a fix at the moment
 * 1. Corners haven't been fixed to the display panel's size, or just not round enough. (Attempted using Set corner size within PH Trebles settings but it hasn't done a single thing could be related to the device not having it's own overlay file in /system/product/overlays/)
 * 2. NFC's unresponsive behaviour that leads to confusion in whether or not it's functioning correctly. Yet to test payments with it but it's known that scanning or writing nfc tags through apps like 'NFC Tools Pro' is dysfunctional.
