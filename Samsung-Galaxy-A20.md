@@ -32,7 +32,7 @@ Some of this was taken from [this page.](https://forum.xda-developers.com/galaxy
 | Fingerprint               | Yes                                                       |
 | NFC                       | It's there, Doesn't function though.                      |
 | Offline Charging          | Yes                                                       |
-| MTP & PTP                 | After Patching, Go to [iii]                               |
+| MTP & PTP                 | After patching, it works occasionally, Go to [iii]        |
 ---
 ## If you have problems
 * 1. Launcher keeps crashing.
@@ -40,7 +40,7 @@ This happened to me and it might happen to you. I haven't tested the latest buil
 * 2. Settings app keeps crashing.
 I haven't found a fix to this problem yet. I'll keep searching.
 * 3. MTP and PTP crashing your phone or dysfunctional in general.
-Try flashing a custom kernel that supports the version you're using such as Android S then use Custom Kernel with support with Android S/12. If it's still not working you can attempt to patch it by creating a file in /Vendor/etc/init/ called "mmtp.rc" with permissions 644, and owner root and group root. Copy this code into mmtp.rc file. **And Reboot!**
+Try flashing a custom kernel that supports the version you're using such as Android S then use Custom Kernel with support with Android S/12. If it's still not working you can attempt to patch it by creating a file in /Vendor/etc/init/ called "mmtp.rc" with permissions 644, and owner root and group root. Copy this code into mmtp.rc file. **And Reboot!** [Can occasionally work doesn't always has something to do with "/Vendor/etc/init/init.exynos788*.usb.rc"]
 ```
 on boot
    symlink /dev/usb_mtp_gadget /dev/mtp_usb
@@ -53,4 +53,4 @@ on boot
 
 Tested By: os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13 Template created by @zguithues and @hackintosh5
 
-Secondary Modified by tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiements - Been daily driving since 10/11/2021, Template ever so slightly modified from the previous test.
+Modified after second test, by tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiements - Been daily driving since 10/11/2021, Template ever so slightly modified from the previous test.
