@@ -11,11 +11,11 @@ Nokia 3.4 and 5.4 shares the same motherboard design and Snapdragon 460 and 662 
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | √                                                         |
+| VoLTE                     | ×                                                         |
 | Fingerprint               | √ |
-| NFC                       | ?                                                         |
+| NFC                       | ×                                                         |
 
-## Hardware Support (AOSP 10)
+## Hardware Support (AOSP 12)
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
@@ -24,22 +24,22 @@ Nokia 3.4 and 5.4 shares the same motherboard design and Snapdragon 460 and 662 
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | √                                                         |
+| VoLTE                     | ×                                                         |
 | Fingerprint               | √ |
-| NFC                       | ?                                                         |
+| NFC                       | ×                                                         |
 
 ***
 ## Additional Notes
 
 You must flash GSI under Fastbootd and the vbmeta need to be processed as well.
 
-> fastboot delete-logical-partition product_a
-> fastboot delete-logical-partition product_b
-> fastboot flash system /path/to/system-[codename]-arm64-ab-[flavor].img
-> fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
-> fastboot reboot-bootloader
-> fastboot -w reboot
-
+```fastboot delete-logical-partition product_a
+fastboot delete-logical-partition product_b
+fastboot flash system /path/to/system-[codename]-arm64-ab-[flavor].img
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+fastboot reboot-bootloader
+fastboot -w reboot
+```
 ***
 
 
