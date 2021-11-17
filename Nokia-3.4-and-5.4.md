@@ -11,7 +11,7 @@ Nokia 3.4 and 5.4 shares the same motherboard design and Snapdragon 460 and 662 
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | ×                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √ |
 | NFC                       | ×                                                         |
 
@@ -24,7 +24,7 @@ Nokia 3.4 and 5.4 shares the same motherboard design and Snapdragon 460 and 662 
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | ×                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √ |
 | NFC                       | ×                                                         |
 
@@ -42,6 +42,7 @@ fastboot -w reboot
 ```
 ***
 
+LTE mode need to be configured locally
 
 ## Tested By:
 
