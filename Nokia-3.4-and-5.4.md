@@ -42,7 +42,7 @@ fastboot -w reboot
 ```
 ***
 
-LTE mode need to be configured locally
+LTE mode need to be configured manually.
 
 ## Tested By:
 
