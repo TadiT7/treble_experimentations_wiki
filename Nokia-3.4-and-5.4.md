@@ -33,7 +33,8 @@ Nokia 3.4 and 5.4 shares the same motherboard design and Snapdragon 460 and 662 
 
 You must flash GSI under Fastbootd and the vbmeta need to be processed as well.
 
-```fastboot delete-logical-partition product_a
+```
+fastboot delete-logical-partition product_a
 fastboot delete-logical-partition product_b
 fastboot flash system /path/to/system-[codename]-arm64-ab-[flavor].img
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
