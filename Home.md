@@ -211,6 +211,8 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
 |[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
 |[[Nokia 2.2]]|wasp / WSP|✓|A/B|arm64|
+|[[Nokia 2.3]]|ironman / IRM|✓|A/B|arm64|
+|[[Nokia 2.4]]|wolverine / WVR|✓|A/B|arm64|
 |[[Nokia 3.1 and 5.1]]|ES2 and CO2|✓|A/B|arm64|
 |[[Nokia 3.1 A and C]]|EAG|✓|A/B|arm64|
 |[[Nokia 3.1 Plus]]|ROO|✓|A/B|arm64|
