@@ -186,6 +186,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
 |[[MBI S10]]|s10|✓|A|arm64|
 |[[Meizu 18]]|meizu_18|✓|A/B|arm64|
+|[[Micromax In 1]]|E6746|✓|A/B|arm64|
 |[[Microsoft Surface Duo]]|duo|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
