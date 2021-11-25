@@ -1,51 +1,61 @@
 # Samsung Galaxy A20
-
-Some of this was taken from [this page.](https://forum.xda-developers.com/galaxy-a20/how-to/gsi-galaxy-a20-t3964546) Please thank [physwizz](https://forum.xda-developers.com/member.php?u=5440376) and not me!
+|Custom Rom                 |Daily Drive-able|
+|---------------------------|:--------------:|
+|Pixel Experience Plus (11) |✅              |
+|phh_treble_experiments (12)|👎              |
+ 
 ## Steps to install
-* Step 0 - Make a backup if what you have on your device is important!
-* Step 1 - Make sure you wipe both caches, system and data.
-* Step 2 - Unzip the .IMG file and somehow copy it to your device. (Recommended to download the VNDKLITE variant as it allows system to be mounted as RW in TWRP or any other recovery.)
-* Step 3 - Install the .IMG file as a "System Image"
-* Step 4 - Reboot to recovery (remember to do this!)
-* Step 5 - [Install Modded Magisk by ianmacd](https://forum.xda-developers.com/attachment.php?attachmentid=4850993&d=1571653427) [opt]
-* Step 6 - [Install Disable_Dm-Verity_ForceEncrypt](https://forum.xda-developers.com/attachment.php?attachmentid=4850995&d=1571653427) [recommended]
-* Step 7 - [Install Permissiver_v5](https://forum.xda-developers.com/attachment.php?attachmentid=4850997&d=1571653427) [opt]
-* Step 8 - If you have gapps installed already, skip the next few steps and reboot now.
-* Step 9 - Resize the system partition by doing
-- Wipe then advanced wipe
-- Select the system partition and hit repair or change file system
-- Hit resize file system
-- If it erorrs out, do it again and it should work.
-- Flash gapps and clear the caches and reboot!
-
+1. Make a backup (Usually of everything except recovery, its important for if you do something wrong!)
+2. Wipe Data, Cache and if you've had encryption on you'll have to "Format Data" (This wipes Internal Storage too)
+3. Download the system image or Phh_treble supported system image. Preferably VNDKlite (taking note of the treble support [A/B, A-Only])
+4. Make sure your file is an ".img" if its a zip, tar or xz (whatever) it probably needs to be extracted.
+5. Move system image to your phone. And Flash system image to the "System Partition"
+6. Reboot to recovery after flashing to System Partition
+7. Flash Disable_DM_Verity which can be obtained [here](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) sometimes it's included in the system image but not always so it's best to just flash it.
+8. Permissiver_v5 should be flashed if your kernel's SELinux Status is Permissive.
+9. If GApps or (GCore) aren't included and you would like them. Firstly resize the system partition through (Wipe>Resize or Format Partition>System>Resize)[if it says failed press repair then resize]. After doing all that you can now flash a GApps zip that's compatible with your android version. (You can find it easily yourself) 
+10. You're now ready to boot into the system. Reboot. (It might take a while 'approx 1-6 mins' as it's setting up it's environment for the first time.)
+11. Set up the device how you would like it.
+12. If you would like to install Magisk, Open settings > Phh_settings > misc settings and press securize, this should remove SuperSU if installed, Reboot into recovery and flash Magisk.
+13. You're Done (Hopefully!)
 
 ## Hardware support
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | Yes, but not the 2nd camera (A205YN - Both no AUX though) |
-| Speaker / Mic             | Yes                                                       |
-| Bluetooth                 | Yes                                                       | 
-| WiFi                      | Yes                                                       |
-| SIM / Mobile Data / Voice | Yes                                                       |
-| VoLTE                     | Not with me                                               |
-| Fingerprint               | Yes                                                       |
-| NFC                       | It's there, Doesn't function though.                      |
-| Offline Charging          | Yes                                                       |
-| MTP & PTP                 | Yes, if ADB is disabled with a custom Kernel installed    |
+| Component                 |      Comment                                                                             |
+|---------------------------|------------------------------------------------------------------------------------------|
+| Camera                    | Possible (For both enable access to all cameras and use "Camera FV-5")                   |
+| Speaker / Mic             | Yes                                                                                      |
+| Bluetooth                 | Yes                                                                                      | 
+| WiFi                      | Yes                                                                                      |
+| SIM / Mobile Data / Voice | Yes                                                                                      |
+| VoLTE                     | Possible\* (enable "Request IMS network" and "Force the presence of 4G Calling service") |
+| Fingerprint               | Yes                                                                                      |
+| NFC                       | Possible\*\*                                                                             |
+| Offline Charging          | Unsure still testing                                                                     |
+| MTP & PTP                 | Yes\*\*\*                                                                                |
+
+[\*] Unsure whether or not it actually uses VoLTE but it displays as its enable. (TESTING)
+
+[\*\*] NFC seems to be really slow and sometimes even unresponsive.
+
+[\*\*\*] Previous tests showed that having usb debugging enable will crash the device, however it's unknown whether that is still the case. (Installing a custom kernel might help, not in my case however...)
+
+## Fixed Issues
+* Launcher keeps crashing: This happened to me and it might happen to you. I haven't tested the latest build but I will later. What you need to do is download gapps and flash it This will put the navigation bar gestures back and you can use the pixel launcher. ~ [os54656]
+* Overlay issues such as UI going off the Display: Installing a vendor_hardware_overlay will fix this. Device fingerprint must contain the device's details to activate the overlay which will be placed in /system/product/overlay. My overlay patch isn't currently available but soon it'll be placed on github along with the source code feel free to help once it's available.
+* General issues: vendor_hardware_overlay should be tried if that doesn't work create an issue on github that includes a description, device log and model name.
+
+## Present Problems (More like to-do list)
+- [ ] Custom Kernel support for SM-A205YN? if it's just this model? (To further test for issues and maybe solve a few)
+- [ ] Solve the gpsd fatal crash (hasn't really affected me but looking to fix)
+- [ ] Hyper-HAL's constant nagging of "Couldn't Open Sysfs -- /sys/power/cpufreq_min_limit" and "Couldn't Open Sysfs - /sys/power/cstate_control" (Most likely due to not having that custom kernel)
+- [ ] Upload vendor_hardware_overlay to github and push to source.
+
 ---
-## If you have problems
-* 1. Launcher keeps crashing.
-This happened to me and it might happen to you. I haven't tested the latest build but I will later. What you need to do is download gapps and flash it This will put the navigation bar gestures back and you can use the pixel launcher.
-* 2. Settings app keeps crashing.
-I haven't found a fix to this problem yet. I'll keep searching.
-* 3. MTP and PTP crashing your phone or dysfunctional.
-Try installing a custom kernel that's compatible with your phone and the Android version you're running! Make completely sure ADB Debugging is disabled. This will be the fix until a better one is found.
 
-## Problems without a fix at the moment
-* 1. Corners haven't been fixed to the display panel's size, or just not round enough. (Attempted using Set corner size within PH Trebles settings but it hasn't done a single thing could be related to the device not having it's own overlay file in /system/product/overlays/)
-* 2. NFC's unresponsive behaviour that leads to confusion in whether or not it's functioning correctly. Yet to test payments with it but it's known that scanning or writing nfc tags through apps like 'NFC Tools Pro' is dysfunctional.
-
+### Test Log
 Tested By: os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13 Template created by @zguithues and @hackintosh5
 
-Modified after second test, by tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiements - Been daily driving since 10/11/2021, Template ever so slightly modified from the previous test.
+Second Tested By: tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiments - since 10/11/2021-18/11/2021 , Template ever so slightly modified from the previous test.
+
+Third Tested By: tristanbollard - SM-A205YN, Firmware Version Pixel_Experience_Plus_11_v313 from [github](https://github.com/ponces/treble_build_pe) which uses the base of phh_treble so it has the same bugs and issues as phh_treble, Since 18/11/2021-prior
