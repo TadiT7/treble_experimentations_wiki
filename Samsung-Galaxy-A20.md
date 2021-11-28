@@ -42,15 +42,13 @@
 
 ## Fixed Issues
 * Launcher keeps crashing: This happened to me and it might happen to you. I haven't tested the latest build but I will later. What you need to do is download gapps and flash it This will put the navigation bar gestures back and you can use the pixel launcher. ~ [os54656]
-* Overlay issues such as UI going off the Display: Installing a vendor_hardware_overlay will fix this. Device fingerprint must contain the device's details to activate the overlay which will be placed in /system/product/overlay. My overlay patch isn't currently available but soon it'll be placed on github along with the source code feel free to help once it's available.
-* General issues: vendor_hardware_overlay should be tried if that doesn't work create an issue on github that includes a description, device log and model name.
+* Overlay issues such as UI going off the Display: Installing a vendor_hardware_overlay will fix this. Device fingerprint must contain the device's details to activate the overlay which will be placed in /system/product/overlay. My overlay patch isn't currently available but soon it'll be placed on github along with the source code feel free to help once it's available. [Source](https://github.com/tristanbollard/vendor_hardware_overlay)
 
 ## Present Problems (More like to-do list)
 - [ ] Custom Kernel support for SM-A205YN? if it's just this model? (To further test for issues and maybe solve a few)
 - [ ] Solve the gpsd fatal crash (hasn't really affected me but looking to fix)
 - [ ] Hyper-HAL's constant nagging of "Couldn't Open Sysfs -- /sys/power/cpufreq_min_limit" and "Couldn't Open Sysfs - /sys/power/cstate_control" (Most likely due to not having that custom kernel)
-- [ ] Upload vendor_hardware_overlay to github and push to source.
-
+- [x] Upload vendor_hardware_overlay to github and being pushed to source. [Commit](https://github.com/phhusson/vendor_hardware_overlay/pull/417)
 ---
 
 ### Test Log
