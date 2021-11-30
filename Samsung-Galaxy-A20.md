@@ -12,12 +12,13 @@
 5. Move system image to your phone. And Flash system image to the "System Partition"
 6. Reboot to recovery after flashing to System Partition
 7. Flash Disable_DM_Verity which can be obtained [here](https://github.com/Zackptg5/Disable_Dm-Verity_ForceEncrypt) sometimes it's included in the system image but not always so it's best to just flash it.
-8. Permissiver_v5 should be flashed if your kernel's SELinux Status is Permissive.
+8. Permissiver_v5 should be flashed if you would like SELinux Status to be Permissive.
 9. If GApps or (GCore) aren't included and you would like them. Firstly resize the system partition through (Wipe>Resize or Format Partition>System>Resize)[if it says failed press repair then resize]. After doing all that you can now flash a GApps zip that's compatible with your android version. (You can find it easily yourself) 
 10. You're now ready to boot into the system. Reboot. (It might take a while 'approx 1-6 mins' as it's setting up it's environment for the first time.)
 11. Set up the device how you would like it.
 12. If you would like to install Magisk, Open settings > Phh_settings > misc settings and press securize, this should remove SuperSU if installed, Reboot into recovery and flash Magisk.
 13. You're Done (Hopefully!)
+14. Install custom kernel, if you would like to do so.
 
 ## Hardware support
 
@@ -38,16 +39,15 @@
 
 [\*\*] NFC seems to be really slow and sometimes even unresponsive.
 
-[\*\*\*] Previous tests showed that having usb debugging enable will crash the device, however it's unknown whether that is still the case. (Installing a custom kernel might help, not in my case however...)
+[\*\*\*] Previous tests showed that having USB debugging enabled whilst using MTP will crash the device. (Still the same with Eureka Kernel)
 
 ## Fixed Issues
 * Launcher keeps crashing: This happened to me and it might happen to you. I haven't tested the latest build but I will later. What you need to do is download gapps and flash it This will put the navigation bar gestures back and you can use the pixel launcher. ~ [os54656]
 * Overlay issues such as UI going off the Display: Installing a vendor_hardware_overlay will fix this. Device fingerprint must contain the device's details to activate the overlay which will be placed in /system/product/overlay. My overlay patch isn't currently available but soon it'll be placed on github along with the source code feel free to help once it's available. [Source](https://github.com/tristanbollard/vendor_hardware_overlay)
 
 ## Present Problems (More like to-do list)
-- [ ] Custom Kernel support for SM-A205YN? if it's just this model? (To further test for issues and maybe solve a few)
 - [ ] Solve the gpsd fatal crash (hasn't really affected me but looking to fix)
-- [ ] Hyper-HAL's constant nagging of "Couldn't Open Sysfs -- /sys/power/cpufreq_min_limit" and "Couldn't Open Sysfs - /sys/power/cstate_control" (Most likely due to not having that custom kernel)
+- [ ] Hyper-HAL's constant nagging of "Couldn't Open Sysfs -- /sys/power/cpufreq_min_limit" and "Couldn't Open Sysfs - /sys/power/cstate_control" (custom kernel doesn't help)
 - [x] Upload vendor_hardware_overlay to github and being pushed to source. [Commit](https://github.com/phhusson/vendor_hardware_overlay/pull/417)
 ---
 
@@ -56,4 +56,4 @@ Tested By: os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10
 
 Second Tested By: tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiments - since 10/11/2021-18/11/2021 , Template ever so slightly modified from the previous test.
 
-Third Tested By: tristanbollard - SM-A205YN, Firmware Version Pixel_Experience_Plus_11_v313 from [github](https://github.com/ponces/treble_build_pe) which uses the base of phh_treble so it has the same bugs and issues as phh_treble, Since 18/11/2021-prior
+Third Tested By: tristanbollard - SM-A205YN, Firmware Version Pixel_Experience_Plus_11_v313 from [github](https://github.com/ponces/treble_build_pe) which uses the base of phh_treble so it has the same bugs and issues as phh_treble, Since 18/11/2021-prior, Using Eureka-ONEUI3-Kernel-R8.0 as the kernel.
