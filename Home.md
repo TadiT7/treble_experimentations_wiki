@@ -303,7 +303,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy A10]]|a10|✓|A/B|arm_binder64 (arm64)|
 |[[Samsung Galaxy A10s]]|a10s|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A11]]|a11q|✓|A/B|arm_binder64|
-|[[Samsung Galaxy A20]]|a20|✓|A/B|arm64|
+|[[Samsung Galaxy A20]]|a20|✓|A|arm64|
 |[[Samsung Galaxy A21s]]|a21s|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30|✓|A/B|arm64|
 |[[Samsung Galaxy A30s]]|a30s|✓|A/B|arm64|
