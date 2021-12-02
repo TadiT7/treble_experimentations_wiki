@@ -256,6 +256,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus Nord CE 5G]]|n/a|✓|A/B|arm64|
 |[[OnePlus Nord N10]]|billie|✓|A/B|arm64|
 |[[OnePlus Nord N200]]|dre|✓|A/B|arm64|
+|[[OPPO Ace2]]|n/a|✓|A/B|arm64|
 |[[OPPO Find X2]]|n/a|✓|A/B|arm64|
 |[[OPPO Find X2 Pro]]|n/a|✓|A/B|arm64|
 |[[OPPO R11 / R11s]]|CPH1707 and CPH1719|✓|A|arm64|
@@ -264,7 +265,6 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OPPO Reno6 Pro+]]|n/a|✓|A/B|arm64|
 |[[OPPO Reno 10x Zoom]]|n/a|✓|A/B|arm64|
 |[[OPPO Reno Ace]]|n/a|✓|A/B|arm64|
-|[[OPPO Reno Ace 2]]|n/a|✓|A/B|arm64|
 |[[Oukitel C10]]|C10|✓|A|arm|
 |[[Oukitel C11 Pro]]|C11_pro|✓|A|arm64|
 |[[Oukitel C17 Pro]]|C17_pro|✓|A/B|arm64|
