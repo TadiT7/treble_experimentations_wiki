@@ -29,7 +29,7 @@ Summary of what works and doesn't
 | Camera                    | Working, except Macro                                     |
 | Speaker / Mic             | Working                                                   |
 | Bluetooth                 | Working                                                   |
-| WiFi                      | Working                                                   |
+| WiFi                      | Working, 5 & 2.4 GHz                                      |
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Not Working                                               |
 | Fingerprint               | Not Working                                               |
