@@ -37,4 +37,5 @@ Summary of what works and doesn't
 ---
 
 Tested By: ItsLynix - SM-A515F(NEE), A515FXXU5EUJ4 - 7/12/2021
+
 Template created by @zguithues and @hackintosh5
