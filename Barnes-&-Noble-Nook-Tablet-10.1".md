@@ -38,7 +38,7 @@ Link: [click here to continue to the download](https://drive.google.com/file/d/1
 | Bluetooth                 | Bluetooth audio works. Bluetooth file transfer is untested.                                                  |
 | WiFi                      | Working.                                                   |
 | Buttons                   | Working.                                            |
-| Display size              | You will have to set the screen size to 752dp in the developer opitions in the device settings.                                                   |
+| Display size              | You will have to set the screen size to 752dp in the developer options in the device settings.                                                   |
 | Display mode              | On first boot, the display shows in portrait mode. You'll have to fix this by allowing screen rotation in the display section of the device settings.                                                      |
 | Battery                   | Battery life seems to be bad on Treble, compared being on the stock firmware. Low battery power mode will somewhat help with this.       
 | OEM attachable keyboard case cover                   | The OEM attachable keyboard case cover doesn't seem to work on the Project Treble enabled GSIs.                                                   |
@@ -59,7 +59,7 @@ This is assuming your device is brand-new, with a locked bootloader. You should 
 
 > List of devices attached
 
-> 60901650008348  device
+> [your device's serial number here]  device
 
 _If you see an error message, double-check that your tablet has been authorized with your computer. You may need to disconnect/reconnect it, or restart the adb server (`adb kill-server`)._
 
@@ -72,14 +72,14 @@ _If you see an error message, double-check that your tablet has been authorized 
 ## Tested By:
 
 * izzy84075 (Phh-Treble v25 on 11/30/2018, Phh-Treble v107 on 11/30/2018)
-* secretwolf98 (Phh-Treble v119 on 10/4/2019)
-* secretwolf98 (Phh-Treble v121, Phh-Treble v120, Phh-Treble v204 on 11/30/2019)
-* secretwolf98 (Phh-Treble v205 on 12/3/2019)
-* secretwolf98 (Phh-Treble v122 on 12/9/2019)
-* secretwolf98 (Phh-Treble v123 on 12/12/2019)
-* secretwolf98 (Phh-Treble v208 on 12/26/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v119 on 10/4/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v121, Phh-Treble v120, Phh-Treble v204 on 11/30/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v205 on 12/3/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v122 on 12/9/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v123 on 12/12/2019)
+* Ryzen9-5950X-RTX3090 (Phh-Treble v208 on 12/26/2019)
 
 ## Device wiki notes:
 
 * Created by: izzy84075 (12/3/2018)
-* Last edited by: secretwolf98 (8/5/2020)
+* Last edited by: Ryzen9-5950X-RTX3090 (12/8/2021)
