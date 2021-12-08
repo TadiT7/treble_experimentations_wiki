@@ -1,33 +1,53 @@
-Xiaomi Mi Play
-Summary of what works and doesn't
+## Xiaomi Mi Play
+It's an arm64 A-only vndklite device.
 
-Steps to install
-Step 1
+Rom tested: lineage-16.0-20191017-UNOFFICIAL-treble_arm64_avN.img
 
-Step 2
+What does not work:
+* secure boot
 
-Step 3
+### Steps to install
 
-flash this image with the fastboot utility:
+You need an unlocked bootloader and the stock firmare
 
-$ a-command
-$ fastboot flash system system-arm64-aonly-gapps-su.img
+1. Download the stock firmware and lineage-16.0-20191017-UNOFFICIAL-treble_arm64_avN.img rom.
+
+1. Extract all files in the same folder.
+
+1. Flash this image with the fastboot utility:
+
+`$ fastboot --disable-verity --disable-verification flash vbmeta `
+
+`$ fastboot flash system lineage-16.0-20191017-UNOFFICIAL-treble_arm64_avN.img`
+
+`$ fastboot flash cache cache.img`
+
+`$ fastboot flash userdata userdata.img`
+
+`$ fastboot reboot`
+
 Some more info
 
 As an alternative you can flash via TWRP as "System Image" and format data.
 
-Hardware support
-Component	Comment
-Camera	Status
-Speaker / Mic	Status
-Bluetooth	Status
-WiFi	Status
-SIM / Mobile Data / Voice	Status
-VoLTE	Status
-Fingerprint	Status
-NFC	Status
-Offline Charging	Status
-Other feature	Status
-Tested By: username - Model-Number(region), Firmware Version - Date tested - Template created by @zguithues and @hackintosh5
+### Hardware support
+***
 
-!!!IF YOU'RE EDITING THIS TEMPLATE TO ADD YOUR DEVICE, CREATE ITS PAGE AND EDIT THERE, OTHERWISE YOU'LL DELETE THE TEMPLATE ITSELF!!!
+| Component     | Comment           |
+| ------------- |:-------------:|
+| Camera | Working | 
+| Speaker / Mic | Working |  
+| Bluetooth | Working | 
+| WiFi | Working | 
+| SIM / Mobile Data / Voice  | Working | 
+| VoLTE | Not Tested | 
+| Fingerprint | Working | 
+| NFC | N/A | 
+| Offline Charging | Working |
+| Camera | Working |   
+| Secure boot | Not working |   
+
+***
+
+Tested By: gokur20 - Xiaomi Mi Play(Europe), lotus_global_images_V11.0.10.0.OFIMIXM_20210108.0000.00_8.1_global  - 26/08/2021
+
