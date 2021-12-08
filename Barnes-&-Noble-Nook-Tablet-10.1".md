@@ -1,5 +1,5 @@
 # Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)
-![Nook Tablet 10.1](https://prodimage.images-bn.com/pimages/9780594827917_p0_v1_s600x595.jpg)
+![Nook Tablet 10.1](https://assets.goodereader.com/blog/uploads/images/2020/12/01001729/nook_main.jpg)
 
 ## Stock Android 8.1 Oreo v1.0.9 firmware files (excluding the userdata.img):
 
