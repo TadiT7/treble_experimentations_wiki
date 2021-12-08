@@ -448,6 +448,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Mi Note 10 / CC9 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Note 10 Lite]]|toco|✓|A/B|arm64|
 |[[Xiaomi Mi Pad 4]]|clover|✓|A|arm64|
+|[[Xiaomi Mi Play]]|lotus|✓|A|arm64|
 |[[Xiaomi Poco F1]]|beryllium|✓|A|arm64|
 |[[Xiaomi Poco M2]]|shiva|✓|A/B|arm64|
 |[[Xiaomi Poco M2 Pro]]|gram|✓|A/B|arm64|
