@@ -11,7 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|03-Dec|LeOS-S|Harvey186|[Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
+|09-Dec|LeOS-S|Harvey186|[Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
 |06-Nov|LineageOS|AndyYan|[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |02-Nov|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
 |22-Nov|Pixel Experience|Ponces|[Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
