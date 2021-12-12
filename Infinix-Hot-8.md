@@ -1,4 +1,4 @@
-# Infinix Hot 8 (x650B)
+# Infinix Hot 8 (x650C)
 
 Summary of what works and doesn't
 
