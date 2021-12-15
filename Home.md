@@ -208,6 +208,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
+|[[Motorola One Action]]|troika|✓|A/B|arm64|
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
