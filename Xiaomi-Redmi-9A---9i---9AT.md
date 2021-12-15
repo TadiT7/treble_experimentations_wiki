@@ -1,4 +1,4 @@
-# Xiaomi Redmi 9A/9i
+# Xiaomi Redmi 9A/9i/9AT
 ![](https://i.imgur.com/5YVQScz.png)
 
 Currently this device only have 2 working recovery, TWRP LR and PitchBlack Recovery.
