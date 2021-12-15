@@ -1,4 +1,3 @@
-_Also applicable for Motorola One Action(troika), they have same hardware_
 
 Flashing procedure:
 
@@ -13,7 +12,7 @@ Now we will have to refresh the boot partiton and for that, you will have to reb
 
 5.Once you reboot to recovery, again head over to Reboot > System. This time you won't notice the NO OS message. The first time the device might reboot once or twice, that is completely normal.
 
-That's it. Enjoy the GSI on your troika/kane.
+That's it. Enjoy the GSI on your kane.
 
 
 
