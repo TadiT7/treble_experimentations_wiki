@@ -1,4 +1,5 @@
-Tested LineageOS, only on Huawei P10 Plus (VKY-L29)
+Tested LineageOS on Huawei P10 Plus (VKY-L29)
+Tested AOSP 10 & AOSP 11 on Huawei P10 (VTR-L29 9.0.1.201)
 
 ## Hardware Support
 
@@ -12,7 +13,13 @@ On Oreo vendor:
 - P roms work great and I think it could be used as daily drivers.
 
 On Pie vendor:
-- Q roms boot, but do not have a functioning speaker/audio playback. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
+- Q and R roms boot (Android 12 not tested yet)
+
+* Speakers: Audio playback through speaker not working properly. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
+> See Fixes Below
+
+* Touchscreen: Left and Right edge of the screen might not respond to touch due to Huawei aptouch service.
+> See Fixes Below
 
 * Camera:
 > Ugly LineageOS stock camera app, OpenCamera is good but with slow autofocus.
@@ -71,3 +78,28 @@ Why MindTheGapps??? Because [OpenGApps](https://opengapps.org/) is not working. 
 
 #### Note: OpenGapps for Android 9.0 (Pie) is now working for Pie GSIs.
 
+## Fixes
+
+### Fix for Speakers
+Audio through speakers can be fixed by running these commands as root for every boot:
+
+    chown root:audio /dev/nxp_smartpa_dev
+    chmod 0660 /dev/nxp_smartpa_dev
+
+Or running commands using `adb shell`:
+
+    adb root
+    adb shell chown root:audio /dev/nxp_smartpa_dev
+    adb shell chmod 0660 /dev/nxp_smartpa_dev
+
+> Note: This issue has been addressed and has a fix for newer builds of Phh AOSP
+
+### Touchscreen Issue
+The touchscreen might be irresponsive on the left/right edge of the screen. Simple workaround is to stop aptouch service as root:
+
+    stop aptouch
+ 
+Or using `adb shell`:
+
+    adb root
+    adb shell stop aptouch
