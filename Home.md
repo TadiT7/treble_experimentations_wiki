@@ -259,6 +259,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
 |[[OnePlus Nord CE 5G]]|n/a|✓|A/B|arm64|
 |[[OnePlus Nord N10]]|billie|✓|A/B|arm64|
+|[[OnePlus Nord N100]]|n/a|✓|A/B|arm64|
 |[[OnePlus Nord N200]]|dre|✓|A/B|arm64|
 |[[OPPO Ace2]]|n/a|✓|A/B|arm64|
 |[[OPPO Find X2]]|n/a|✓|A/B|arm64|
