@@ -1,5 +1,4 @@
 # Samsung Galaxy J6
-Hello sir, am pie user. I hav U4. Where can i fdin twrp sir?
  ## Hardware Support
  * Camera 
 > Works after flashing a zip
