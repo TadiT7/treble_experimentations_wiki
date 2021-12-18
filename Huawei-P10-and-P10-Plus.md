@@ -1,4 +1,5 @@
 Tested LineageOS on Huawei P10 Plus (VKY-L29)
+
 Tested AOSP 10 & AOSP 11 on Huawei P10 (VTR-L29 9.0.1.201)
 
 ## Hardware Support
