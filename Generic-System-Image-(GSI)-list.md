@@ -12,7 +12,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |12-Dec|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
-|17-DEC|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
+|17-Dec|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |16-Dec|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |02-Nov|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
 
