@@ -19,6 +19,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|17-Dec|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm - arm64 - binder|
 |15-Dec|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
 |16-Dec|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |15-Oct|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |A - A/B|arm - arm64 - binder|
@@ -27,7 +28,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |18-Sep|OctaviOS|Yilliee|[Website](https://octavi-os.com/) / [Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|A - A/B|arm - arm64 - binder|
 |12-Sep|Descendant 11.5|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
 |29-Aug|NusantaraProject|wulan17|[Telegram](https://t.me/NusantaraUpdates/1634) / [Download](https://www.pling.com/p/1438186/)|A - A/B|arm - arm64 - binder|
-|25-Aug|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm - arm64 - binder|
 |06-Jun|Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A - A/B|arm - arm64 - binder|
 |21-May|Havoc|Braialindo|[Download](https://download.havoc-os.com/)/[Telegram](https://t.me/havocgsi)|A - A/B|arm - arm64 - binder|
 |02-May|BlissROMs|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS11-Project)|A - A/B|arm - arm64 - binder|
