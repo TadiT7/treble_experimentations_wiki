@@ -294,7 +294,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Realme C12]]|RMX2189|✓|A/B|arm64|
 |[[Realme C15]]|RMX2180|✓|A/B|arm64|
 |[[Realme GT]]|n/a|✓|A/B|arm64|
-|[[Realme GT Master Explorer]]|n/a|✓|A/B|arm64|
+|[[Realme GT Master Explorer]]|RMX3366|✓|A/B|arm64|
 |[[Realme Narzo 20 (aka Realme 7i EU)]]|RMX2193|✓|A/B|arm64|
 |[[Realme Narzo 30A]]|RMX3171|✓|A/B|arm64|
 |[[Realme Q2 Pro / X7]]|RMX2175|✓|A/B|arm64|
