@@ -7,11 +7,11 @@ Summary of what works and doesn't
 - Dual sim
 - Correct status bar height, punchhole, and rounded corners
 - SDCard as Portable Storage
+- Fingerprint (As of v400.e)
 
 ## Doesn't work (from what I've tested)
 - VoLTE
 - Lower megapixels on cameras
-- Fingerprint (On A12 GSIs)
 
 
 ## Steps to install
@@ -31,7 +31,7 @@ Summary of what works and doesn't
 | WiFi                      | Working, 5 & 2.4 GHz                                      |
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Not Working                                               |
-| Fingerprint               | Working (A11 only for now)                                             |
+| Fingerprint               | Working                                             |
 | NFC                       | Working                                                   |
 ---
 
