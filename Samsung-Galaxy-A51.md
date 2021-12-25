@@ -2,6 +2,7 @@
 
 Summary of what works and doesn't
 # Works
+- Bluetooth
 - WiFi
 - Always on display availability
 - Dual sim
@@ -13,6 +14,8 @@ Summary of what works and doesn't
 - VoLTE
 - Lower megapixels on cameras
 
+# Bluetooth issues
+If you are experiencing crashes when Bluetooth is connected on certain GSIs, please disable media recommendations.
 
 ## Steps to install
 
