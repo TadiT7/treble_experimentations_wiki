@@ -17,6 +17,8 @@ On Pie vendor:
 - Q and R roms boot (Android 12 not tested yet)
 
 * Speakers: Audio playback through speaker not working properly. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
+> Fixed on AOSP 12.0 v400.e
+
 > See Fixes Below
 
 * Touchscreen: Left and Right edge of the screen might not respond to touch due to Huawei aptouch service.
@@ -32,25 +34,27 @@ There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/
 
 > USSD (like *100#) requests are not working
 
+> USSD seems to be working fine on EMUI 9.0 vendor (Tested on P10, test for yourself)
+
 * WiFi, Mobile Data
 > Working perfectly
 
+> Mobile Data on Android 12 requires tuning on Phh Treble Settings > IMS features > Request IMS network
+
 * Fingerprint Reader
-> Working perfectly
+> Working perfectly (Broken on Android 12 v400.e)
 
 * Face unlock
-> no feature in LineageOS
+> Not available (Removed by Google)
 
 * Fast charging
 > Working perfectly
 
 ## Installation process
 
-Working image: LineageOS by phhusson from [here (XDA)](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/lineage-phh-treble-t3767690)
-
 ### Prerequisites:
 
-* Stock Android 8 (Oreo) by Huawei (tested from VKY-L29C10B362 and VKY-AL00C00 8.0.0.358)
+* Stock EMUI 8.0/EMUI 9.0 by Huawei (tested from VKY-L29C10B362/VKY-AL00C00 8.0.0.358/VTR-L29C185E3R1P9T8)
 * Unlocked bootloader
 
 ### Installation steps:
@@ -93,7 +97,7 @@ Or running commands using `adb shell`:
     adb shell chown root:audio /dev/nxp_smartpa_dev
     adb shell chmod 0660 /dev/nxp_smartpa_dev
 
-> Note: This issue has been addressed and has a fix for newer builds of Phh AOSP
+> Note: This issue has been fixed since AOSP 12.0 v400.e
 
 ### Touchscreen Issue
 The touchscreen might be irresponsive on the left/right edge of the screen. Simple workaround is to stop aptouch service as root:
