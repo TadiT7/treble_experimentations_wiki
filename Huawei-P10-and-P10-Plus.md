@@ -1,6 +1,6 @@
 Tested LineageOS on Huawei P10 Plus (VKY-L29)
 
-Tested AOSP 10 & AOSP 11 on Huawei P10 (VTR-L29 9.0.1.201)
+Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
 
 ## Hardware Support
 
@@ -14,7 +14,7 @@ On Oreo vendor:
 - P roms work great and I think it could be used as daily drivers.
 
 On Pie vendor:
-- Q and R roms boot (Android 12 not tested yet)
+- Q/R/S roms boot. Could be used as daily drivers.
 
 * Speakers: Audio playback through speaker not working properly. Audio works through the 3.5mm jack. (Tested with both 9.1.0.252 and 9.0.1.185)
 > Fixed on AOSP 12.0 v400.e
