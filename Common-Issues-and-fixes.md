@@ -42,6 +42,8 @@
 **6. Always On display Not working**
 `Possible solutions`
 1. Enable Force always on display in phh settings misc reboot go to lock screen settings in display settings scroll down and check if always on display can be configured 
+**7. Bluetooth Crashing Systemui**
+1. disable media recommendations under Sound & Vibration > Media > Show media recommendations
 
 
 
