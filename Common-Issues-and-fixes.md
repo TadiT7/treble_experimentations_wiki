@@ -37,12 +37,19 @@
 `2. adb shell -c service call SurfaceFlinger 1035 i32 0`
 
 **5. Bluetooth connecting to device and then disconnecting**
+
 `Possible solutions`
-1. `Try Disable  a2dp overload in PHH settings`
+
+1. `Try Disabling a2dp overload in PHH settings`
+
 **6. Always On display Not working**
+
 `Possible solutions`
+
 1. `Enable Force always on display in phh settings misc reboot go to lock screen settings in display settings scroll down and check if always on display can be configured`
+
 **7. Bluetooth Crashing Systemui**
+
 1. `disable media recommendations under Sound & Vibration > Media > Show media recommendations`
 
 
