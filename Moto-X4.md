@@ -35,15 +35,15 @@ Seems to work pretty well except problems with radio fm and sim detection.
 
 | Component                 | Status |
 |---------------------------|--------|
-| Camera                    | ✔️ |
-| Speaker / Mic             | ✔️ |
-| Bluetooth                 | ✔️ |
-| WiFi                      | ✔️ |
-| SIM / Mobile Data / Voice | ❌ |
-| VoLTE                     | ❔ |
-| Fingerprint               | ✔️ |
-| NFC                       | ❔ |
-| Offline Charging          | ❔ |
+| Camera                    | √ |
+| Speaker / Mic             | √ |
+| Bluetooth                 | √ |
+| WiFi                      | √ |
+| SIM / Mobile Data / Voice | X |
+| VoLTE                     | ? |
+| Fingerprint               | √ |
+| NFC                       | ? |
+| Offline Charging          | ? |
 ---
 
 @RFX-LEGEND - v400.e - 2021/12/26
