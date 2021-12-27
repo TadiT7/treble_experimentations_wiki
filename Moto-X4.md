@@ -1,6 +1,4 @@
-# Moto X4
-
-Works pretty well except problems with radio fm.
+Seems to work pretty well except problems with radio fm and sim detection.
 
 ## Steps to install
 **THIS WILL ERASE ALL YOUR DATA**
