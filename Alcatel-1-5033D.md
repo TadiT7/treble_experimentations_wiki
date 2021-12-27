@@ -6,7 +6,6 @@ Works exceptionally well with v32 gsi.
 ### Setup
 - Install
   - GSI rom ([v32](https://github.com/phhusson/treble_experimentations/releases/tag/v32) highly recommended)
-- Unlock [bootloader](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a)
 - Enable oem unlocking & USB debugging in developer settings
 - Boot into fastboot using `adb reboot fastboot`
   - [Adb & fastboot](https://developer.android.com/studio#downloads); install latest command-line tools for your system
