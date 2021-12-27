@@ -1,4 +1,4 @@
-Works really well
+Works exceptionally well with v32 gsi.
 
 ## Steps to install
 **THIS WILL ERASE ALL YOUR DATA**
