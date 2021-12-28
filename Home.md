@@ -405,6 +405,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Umidigi F2]]|F2|✓|A/B|arm64|
 |[[Umidigi Power]]|Power|✓|A/B|arm64|
 |[[Umidigi Power 3]]|Power_3|✓|A/B|arm64|
+|[[Umidigi X]]|Umidigi_X|✓|A/B|arm64|
 |[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
 |[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓|A|arm|
