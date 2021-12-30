@@ -5,7 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|22-Dec|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
+|22-Dec|Google GSI|Google|[Download](https://developer.android.com/about/versions/12/gsi-release-notes)|A/B|arm64 - x86|
 |25-Dec|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
 
 ## Unofficial Android 12
