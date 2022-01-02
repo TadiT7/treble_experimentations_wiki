@@ -76,7 +76,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 9 Pie:
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|AOSDP|RealAkito|[Download](https://downloads.aosdp.com/gsi/)|A - A/B|arm - arm64|
 |AOSiP|akhilnarang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|A - A/B|arm - arm64|
 |AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|A - A/B|arm - arm64 - binder|
