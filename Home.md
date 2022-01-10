@@ -90,7 +90,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
-|[[General Mobile GM 8]]|GM8_sprout|✓|A/B|arm64|
+|[[General Mobile GM 8]]|GM8_sprout|✓|A/B (VNDKLITE)|arm64|
 |[[General Mobile GM 8 Go]]|GM8_go_sprout|✓|A|arm|
 |[[General Mobile GM 9 Plus]]|v7101o|✓|A/B|arm64|
 |[[General Mobile GM 9 Pro]]|GM9PRO_sprout|✓|A/B|arm64|
