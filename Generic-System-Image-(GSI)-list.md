@@ -16,7 +16,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |16-Dec|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |21-Dec|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
 |29-Dec|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
-|12-Jan|Firmware collection|nippon|[Telegram](https://t.me/nippongsi_support)/[Download](https://t.me/nippongsi)/[Mirror](https://sourceforge.net/projects/nippongsi/files/)|A/B|arm64|
 
 ## Official Android 11
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
