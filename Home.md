@@ -337,13 +337,14 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
 |[[Samsung Galaxy M30s]]|m30s|✓|A/B|arm64|
 |[[Samsung Galaxy M51]]|m51lte|✓|A/B|arm64|
-|[[Samsung Galaxy Note 8 (Snapdragon)]]|greatqlte|✓|A|arm64|
-|[[Samsung Galaxy Note 9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
-|[[Samsung Galaxy Note 9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
-|[[Samsung Galaxy Note 10 and 10 Plus (Exynos)]]|d1 and d2|✓|A/B|arm64|
-|[[Samsung Galaxy Note 10 and 10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
-|[[Samsung Galaxy Note 20 and 20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
-|[[Samsung Galaxy Note 20 and 20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
+|[[Samsung Galaxy Note8 (Snapdragon)]]|greatqlte|✓|A|arm64|
+|[[Samsung Galaxy Note9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
+|[[Samsung Galaxy Note9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
+|[[Samsung Galaxy Note10 5G]]|d1x|✓|A/B|arm64|
+|[[Samsung Galaxy Note10 and Note10 Plus (Exynos)]]|d1 and d2|✓|A/B|arm64|
+|[[Samsung Galaxy Note10 and Note10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
+|[[Samsung Galaxy Note20 and Note20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
+|[[Samsung Galaxy Note20 and Note20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
