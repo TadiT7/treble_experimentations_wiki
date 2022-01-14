@@ -42,7 +42,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |19-Dec|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|
 |23-Dec|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder         
 |26-Dec|Pixel Experience/Plus|ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-11-pixel-experience.4269051/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A - A/B|arm - arm64 - binder|
-|Sep|Firmware collection|Project Treble Experience|[Telegram](https://t.me/trebleexperience) / [Download](https://sourceforge.net/projects/trebleexperience/files/)|A - A/B|arm64|
 |May|Firmware collection|Igor-s7|[Telegram](https://t.me/Ambergsi) / [Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 |May|Firmware collection|Braialindo|[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/)|A - A/B|arm64 - binder|
 
@@ -63,10 +62,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Firmware collection|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://sourceforge.net/projects/treblerom/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Trisquel|[Download](https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/)|A|arm64|
-|Firmware collection|Tunahan|[Download](https://sourceforge.net/projects/tunahan-s-builds/files/gsi/)|A - A/B|arm64|
-|Firmware collection|Project Treble Experience|[Download](https://sourceforge.net/projects/trebleexperience/files/)|A - A/B|arm64|
-|Firmware collection|nippon|[Download](https://sourceforge.net/projects/nippongsi/files/)|A - A/B|arm64|
-|Firmware collection|erfanoabdi|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3816659) / [Telegram](https://t.me/androidqgsi) / [Download](https://mirrors.lolinet.com/firmware/gsi/)|A - A/B|arm64|
 |Firmware collection|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/)|A - A/B|arm - arm64 - binder|
 |LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
 |Resurrection Remix Q|RobotHanzo|[Download](https://sourceforge.net/projects/resurrection-remix-q-gsi/files/old/20210117/)|A - A/B|arm - arm64 - binder|
