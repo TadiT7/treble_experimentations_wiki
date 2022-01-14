@@ -25,6 +25,17 @@ not done yet
 | SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | ×                                                         |
 
+## Hardware Support (AOSP 12)
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                                                          |
+| WiFi                      | √                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
+| VoLTE                     | untested                                                  |
+
 ***
 ## Additional Notes
 
@@ -40,8 +51,11 @@ Example:
 ***
 
 ## Tested By:
+
 AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 2.2 (TA-1179) 00WW_1_680 (WSP-1680-0-00WW-B01) @ 8/3/2021
 
 AOSP 11: * Areallydumbperson on xda @ Nokia 2.2 (TA-1188) 00WW_3_270) (WSP-3270-0-00WW-B01) @ 6/10/2021
+
+AOSP 12: * VR25 @ xda-developers, find updated installation instructions [here](https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-2-2.4244039/post-86251579).
 
 Template created by @zguithues
