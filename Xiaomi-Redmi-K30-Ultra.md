@@ -10,6 +10,15 @@
 ?AndyYan's LineageOS 17.1 20200511 (Doesn't Boot)
 
 ?Google GSI, Havoc, CrDroid, LineageOS (Credits Chaptsand from CoolApk, same w/ Xiaomi Mi 10 umi)
+  
+---
+**[Updated Jan 2022]**
+
+√[AndyYan's LineageOS 19.0 20220114](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)
+
+√[treble_build_pe v400.h self-build](https://github.com/AngelaCooljx/treble_build_pe/releases)
+
+√[Yillié's ArrowOS v400.g](https://sourceforge.net/projects/gsi-projects/files/)
 
 ## Flashing instructions (similar to K30 Pro, no working TWRP currently available for this model)
 
@@ -44,32 +53,33 @@ fastboot reboot
 
 I had difficulties reflashing the stock MIUI rom with Mi Flash Tool, and other MTK flash tools as this processor is unsupported.
 
-To reflash stock MIUI use the V12.0.8.0 Recovery/Fastboot ROM [link](https://bigota.d.miui.com/V12.0.8.0.QJNCNXM/miui_CEZANNE_V12.0.8.0.QJNCNXM_1ae9faa171_10.0.zip), unzip and run the flash_all script for your operating system while your device is in fastboot mode.
+(For early builds like AOSP 10.0) To reflash stock MIUI use the V12.0.8.0 Recovery/Fastboot ROM [link](https://bigota.d.miui.com/V12.0.8.0.QJNCNXM/miui_CEZANNE_V12.0.8.0.QJNCNXM_1ae9faa171_10.0.zip)
+  
+**(For newer builds) To reflash stock MIUI use the V12.5.7.0 Recovery/Fastboot ROM [link](https://bigota.d.miui.com/V12.5.7.0.RJNCNXM/miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip), unzip and run the flash_all script for your operating system while your device is in fastboot mode.**
 
 ## Hardware support
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √× Cameras work, but front camera does not popup at all, even using xiaomi-motor commands |
+| Camera                    | √? Cameras work, front lift-camera needs [GSI-patch-cezanne](https://github.com/AngelaCooljx/GSI-patch-cezanne/releases) module |
 | Audio                     | √? Speaker and microphone is working, otherwise untested |
-| Bluetooth                 | ? Bluetooth Speaker works fine, In-call is untested. |
+| Bluetooth                 | √? Bluetooth Speaker works fine, In-call is untested. Try settings -- Phh Treble Settings -- Misc features -- Choose Force-disable A2DP offload  -- reboot |
 | Display                   | √ Can be set to 120Hz in Phh Treble Settings, brightness slider broken |
 | WiFi / Hotspot            | √ |
 | GPS                       | √ |
-| SIM / Mobile Data / Voice | √x LTE working, SMS working, 5G not working [1] |
-| VoLTE                     | ? untested |
+| SIM / Mobile Data / Voice | √? LTE working, SMS working, 5G working with only NSA |
+| VoLTE                     | ?  VOLTE working but conflicts to SMS |
 | LED                       | √? it lights up |
-| Fingerprint               | x Not working |
-| NFC                       | ? |
+| Fingerprint               | x Options exist but record failed |
+| NFC                       | √ |
 | Offline Charging          | ?x It didn't show a charging indicator, uncertain if it was charging |
 | IR                        | √ IR blaster works |
 
-## Notes
-
-[1] Had to set preferred network type to LTE. While 5G is listed as an option, it doesn't work (`Invalid network mode 26. Ignore.`)
 
 ---
 
 Redmi K30 Ultra Tested By:
 
 Tom Golden (tbjgolden) @ Redmi K30 Ultra V12.0.8.0.QJNCNXM 
+
+AngelaCool (AngelaCooljx) @ Redmi K30 Ultra [V12.5.7.0.RJNCNXM](https://bigota.d.miui.com/V12.5.7.0.RJNCNXM/miui_CEZANNE_V12.5.7.0.RJNCNXM_207f23b3bf_11.0.zip) and newer version
