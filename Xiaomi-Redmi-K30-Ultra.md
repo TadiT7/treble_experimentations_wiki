@@ -49,6 +49,21 @@ Reboot phone
 fastboot reboot
 ```
 
+### Another way to flash GSI on cezanne
+Download [GSI-packer-tools](https://github.com/ChasonJiang/GSI-packer-tools/releases) and upzip it
+  
+Prepare a stock MIUI firmware(Android11 must)
+  
+Rename GSI to gsi.img, then copy the stock MIUI and it to the "input" directory in GSI-packer-tools
+  
+Click build.bat and choose '2'
+
+Wait a minute and you will get a gsi_rom.zip in "output" directory
+  
+Flash it via twrp,and disabled-vbmeta.zip is a must
+  
+Magisk 23+ if you need, flash it before disabled-vbmeta.zip
+
 # Important note about recovery
 
 I had difficulties reflashing the stock MIUI rom with Mi Flash Tool, and other MTK flash tools as this processor is unsupported.
