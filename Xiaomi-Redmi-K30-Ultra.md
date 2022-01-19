@@ -85,7 +85,7 @@ I had difficulties reflashing the stock MIUI rom with Mi Flash Tool, and other M
 | SIM / Mobile Data / Voice | √? LTE working, SMS working, 5G working with only NSA |
 | VoLTE                     | ?  VOLTE working but conflicts to SMS |
 | LED                       | √? it lights up |
-| Fingerprint               | x Options exist but record failed |
+| Fingerprint               | x Option exist but record failed |
 | NFC                       | √ |
 | Offline Charging          | ?x It didn't show a charging indicator, uncertain if it was charging |
 | IR                        | √ IR blaster works |
