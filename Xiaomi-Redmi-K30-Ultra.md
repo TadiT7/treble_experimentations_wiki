@@ -60,7 +60,7 @@ Click build.bat and choose '2'
 
 Wait a minute and you will get a gsi_rom.zip in "output" directory
   
-Flash it via twrp,and disabled-vbmeta.zip is a must
+Flash it via twrp, wipe data and disabled-vbmeta.zip is a must
   
 Magisk 23+ if you need, flash it before disabled-vbmeta.zip
 
