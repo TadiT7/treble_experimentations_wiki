@@ -24,7 +24,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |15-Dec|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
 |14-Jan|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |15-Oct|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |A - A/B|arm - arm64 - binder|
-|27-Dec|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|
+|22-Jan|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|
 |05-Oct|AOSP|Phhusson|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/phhusson/treble_experimentations/releases)|A - A/B|arm - arm64 - binder|
 |18-Sep|OctaviOS|Yilliee|[Website](https://octavi-os.com/) / [Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|A - A/B|arm - arm64 - binder|
 |12-Sep|Descendant 11.5|Dil3mm4|[Download](https://downloads.descendant.me/)|A - A/B|arm64|
