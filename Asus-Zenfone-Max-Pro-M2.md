@@ -4,13 +4,13 @@
 ## Hardware Support
 
 * Camera
-> Working, needed to enable "Use alternate camera profile" to get it work.
+> Working, read below to see how to get it working.
 
 * Fingerprint
 > Working
 
 * Wi-Fi
->Working
+> Working
 
 * SIM/Calling
 > Working
@@ -24,25 +24,27 @@
 * Flashlight
 > Working
 
+To use camera, you'll need to enable following settings in Phh Treble Settings:
+* Qualcomm Settings > Use Alternative Camera Profile
+* Misc Features > Expose Aux Camera & Force enable Camera2API
+
+Reboot after toggling these settings
+
 ## Bugs
 
 None yet.
 
-##
-_Please tell me if official Q beta works or not, I only checked on official Pie_
-##
-
 ## Requirements
 
 * [TWRP](https://dl.twrp.me/X01BD/) or any other custom recovery
-* Any custom rom that supports treble (In this case I used [LegionOS R](https://legionos.org/) for testing.)
+* Any custom rom that supports treble (In this case I used [LineageOS 18.1](https://download.lineageos.org/X01BD) for testing.)
 * Arm64 AB Image
 
 ## Installation
 
-* Boot into TWRP and flash the custom rom
+* Boot into TWRP and flash the rom
 * Wipe Cache, Data and System
-* Flash the image
+* Flash the image as System Image
 * Reboot
 
 ## Tested GSIs
@@ -52,7 +54,15 @@ _Please tell me if official Q beta works or not, I only checked on official Pie_
 * [Corvus](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvusos-v13-0-exalted.4212765/)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files)
 
+Booted:
+✓ Phh AOSP v313
+✓ Phh AOSP v400.c 
+✓ CAOS v315
+✓ LineageOS 18.1
+✓ LineageOS 19.0
+✓ ...and many more
+
 ##
-Tested by @asrieldashie ; Feb 16 2021
+Tested by @asrieldashie | Feb 16 2021 | Edited on Jan 30 2022
 
 ##
