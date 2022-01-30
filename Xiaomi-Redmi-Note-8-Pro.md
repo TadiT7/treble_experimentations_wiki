@@ -2,10 +2,6 @@ All information below is written on May 2020 and totally outdated!
 
 ***
 
-**Tested on:**
-- phh's AOSP v212, both vanilla and gappsed
-- AndyYan's LOS v17.1-20200227 
-
 ## Hardware support:
 | Component | Status |
 |-|-|
@@ -16,13 +12,14 @@ All information below is written on May 2020 and totally outdated!
 | Camera Front | Unknown |
 | Speaker | Unknown |
 | Mic | Unknown |
+| Stereo Mic | Unknown |
 | Bluetooth | Unknown |
 | Bluetooth Mic | Unknown |
 | WiFi | Unknown |
 | RIL | Unknown |
 | Double SIM | Unknown  |
 | Fingerprint | Unknown |
-| Offline Charging | Unknown |
+| Power-Off Charging | Unknown |
 | NFC | Unknown |
 | IR blaster | Unknown |
 | White LED indicator | Unknown |
@@ -65,4 +62,4 @@ Instruction removed because outdated.
 ### Tested By:
 Tests needed.
 
-Thanks to 'hopefullyidontgetbanned', 'tvardero' and 'timbortnik' on early stages of GSI testing (early 2020).
+Thanks to 'hopefullyidontgetbanned', 'tvardero' and 'timbortnik' on early stages of GSI testing (May 2020).
