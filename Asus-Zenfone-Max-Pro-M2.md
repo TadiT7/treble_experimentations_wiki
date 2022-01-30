@@ -55,12 +55,12 @@ None yet.
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/files)
 
 Booted:
-✓ Phh AOSP v313
-✓ Phh AOSP v400.c 
-✓ CAOS v315
-✓ LineageOS 18.1
-✓ LineageOS 19.0
-✓ ...and many more
+* ✓ Phh AOSP v313
+* ✓ Phh AOSP v400.c 
+* ✓ CAOS v315
+* ✓ LineageOS 18.1
+* ✓ LineageOS 19.0
+* ✓ ...and many more
 
 ##
 Tested by @asrieldashie | Feb 16 2021 | Edited on Jan 30 2022
