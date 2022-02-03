@@ -4,6 +4,9 @@ Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
 
 Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
 
+Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
+If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.
+
 ## Hardware Support
 
 No issues comparing stock Huawei ROM
@@ -112,11 +115,12 @@ Or using `adb shell`:
     adb shell stop aptouch
 
 
-### Magisk v24.1 is Supported Based EMUI 9 Devices
-You can install Magsik v24.1 for Based EMUI 9 Devices,Even you Use GSI.If you devices based EMUI 8,Magisk is doesn't work.
-You need download Magsik APP in [Github releases](https://github.com/topjohnwu/Magisk/releases/tag/v24.1).Then you cna use adb to install.
-But you need to know,EMUI 9 don't have RAMDISK.So,you need extract RECOVERY_RAMDIS.img in UPDATA.APP.If you don't know what is that.Follow this:[OpenKirin's Support Page](https://openkirin.net/support/)
-Then,follow the guide.Full install guide in here:[Installation](https://topjohnwu.github.io/Magisk/install.html)
+### Magisk v24.1 is Supported Based EMUI 9 Devices  
+You can install Magsik v24.1 for Based EMUI 9 Devices,Even you Use GSI.If you devices based EMUI 8,Magisk is doesn't work.  
+You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases/tag/v24.1).**Then you cna use adb to install.  
+Please note that,**EMUI 9 don't have RAMDISK**.  So,you need extract RECOVERY_RAMDIS.img in UPDATA.APP.If you don't know what is that.Follow this: 
+ **[OpenKirin's Support Page](https://openkirin.net/support/)**  
+Then,follow the guide.Full install guide in here:**[Installation](https://topjohnwu.github.io/Magisk/install.html)**
 
 
 
