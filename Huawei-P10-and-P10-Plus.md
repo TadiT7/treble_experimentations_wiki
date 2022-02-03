@@ -110,3 +110,13 @@ Or using `adb shell`:
 
     adb root
     adb shell stop aptouch
+
+
+### Magisk v24.1 is Supported Based EMUI 9 Devices
+You can install Magsik v24.1 for Based EMUI 9 Devices,Even you Use GSI.If you devices based EMUI 8,Magisk is doesn't work.
+You need download Magsik APP in [Github releases](https://github.com/topjohnwu/Magisk/releases/tag/v24.1).Then you cna use adb to install.
+But you need to know,EMUI 9 don't have RAMDISK.So,you need extract RECOVERY_RAMDIS.img in UPDATA.APP.If you don't know what is that.Follow this:[OpenKirin's Support Page](https://openkirin.net/support/)
+Then,follow the guide.Full install guide in here:[Installation](https://topjohnwu.github.io/Magisk/install.html)
+
+
+
