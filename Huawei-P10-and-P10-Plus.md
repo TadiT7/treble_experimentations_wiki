@@ -2,6 +2,8 @@ Tested LineageOS on Huawei P10 Plus (VKY-L29)
 
 Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
 
+Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
+
 ## Hardware Support
 
 No issues comparing stock Huawei ROM
