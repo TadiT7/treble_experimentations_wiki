@@ -213,7 +213,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
 |[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
-|[[Motorola Edge X30]]|hiphic|✓|A/B|arm64|
+|[[Motorola Edge X30(China Version Name) And Motorola Edge 30 Pro(Global Version Name)]]|hiphic|✓|A/B|arm64|
 |[[Nokia 1]]|FRT|✓|A|arm|
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
 |[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
