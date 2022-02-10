@@ -1,9 +1,9 @@
 # Cubot King Kong Mini 2
-The device generally works fine. The only problem I encountered were occasional instabilities of the WiFi connection: Once or twice a day the WiFi connection dis- and reconnects multiple times. Apart from that, the WiFi connection stays stable.
+The device generally works fine.
 Thanks to @highbiker for his tip on rebooting to fastboot, taken from [this XDA forum post](https://forum.xda-developers.com/t/installing-custom-rom-on-cubot-kingkong-mini.4050815/page-9#post-84445303).
 
 I successfully installed and tested the following ROMs, all of them work fine:
-* [system-roar-arm32_binder64-ab-vanilla.img](https://github.com/phhusson/treble_experimentations/releases) by @phhusson (AOSP 11.0 v309)
+* [system-squeak-arm32_binder64-ab-vanilla.img](https://github.com/phhusson/treble_experimentations/releases) by @phhusson (AOSP 12.0 v402)
 * [lineage-18.1-20210512-UNOFFICIAL-treble_a64_bvS.img](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/) by @AndyYan
 * [Havoc-OS-v3.8-20200821-Official-a64-ab.img](https://download.havoc-os.com/?dir=a64-ab) (I also tried v4.4 but it didn't boot)
 
@@ -33,7 +33,7 @@ I successfully installed and tested the following ROMs, all of them work fine:
 | Camera                    | OK                                                    |
 | Speaker / Mic             | OK                                                    |
 | Bluetooth                 | OK                                                    |
-| WiFi                      | OK (occasionally unstable)                            |
+| WiFi                      | OK                                                    |
 | SIM / Mobile Data / Voice | OK                                                    |
 | VoLTE                     | not tested                                            |
 | Fingerprint               | N/A                                                   |
@@ -41,7 +41,8 @@ I successfully installed and tested the following ROMs, all of them work fine:
 | Offline Charging          | OK                                                    |
 
 ## Issues
-Call echoing when using a bluetooth headset. (AOSP 11 v309)
+* Call echoing when using a bluetooth headset. (AOSP 11 v309)
+* Link negotiation fails for WPA3-enabled wifi networks ([fix](https://github.com/phhusson/device_phh_treble/commit/a4d6f5c8d35b61304c8e8dae0e68d243d39e7324))
 
 ## Direct link to OEM Firmware
 [CUBOT_KINGKONGMINI2_A061C_V07_20201113](https://mega.nz/file/YR9kiCya#iBLECZfQ2JwTVKqm8R4rOjRC8nTg2b6EU45TkeyN-UM)
