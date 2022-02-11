@@ -139,9 +139,9 @@ repo sync -c -j4 --force-sync --no-tags --no-clone-bundle
 
 4. Modify the source to fix issues in other devices using one of these methods:
 
-- Apply [phh patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches.zip):
+- Apply [phh patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip):
 
-Download [the patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches.zip)
+Download [the patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip)
 
 Then apply each path in its project
 
