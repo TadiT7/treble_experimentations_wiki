@@ -259,6 +259,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 9R]]|lemonades|✓|A/B|arm64|
 |[[OnePlus 10 Pro]]|negroni|✓|A/B|arm64|
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
+|[[OnePlus Nord 2]]|denniz|✓|A/B|arm64|
 |[[OnePlus Nord CE 5G]]|n/a|✓|A/B|arm64|
 |[[OnePlus Nord N10]]|billie|✓|A/B|arm64|
 |[[OnePlus Nord N100]]|n/a|✓|A/B|arm64|
@@ -421,6 +422,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[Xiaomi Black Shark 3]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3 Pro]]|n/a|✓|A/B|arm64|
 |[[Xiaomi Black Shark 3S]]|n/a|✓|A/B|arm64|
+|[[Xiaomi Civi]]|mona|✓|A/B|arm64|
 |[[Xiaomi Mi 6X]]|wayne|✓|A（A/B when using MoKee)|arm64|
 |[[Xiaomi Mi 8]]|dipper|✓|A|arm64|
 |[[Xiaomi Mi 8 EE]]|ursa|✓|A|arm64|
