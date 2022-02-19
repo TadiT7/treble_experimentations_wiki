@@ -1,40 +1,41 @@
 # Pre-flash info:
-- Device name: Xiaomi Redmi Note 10S (rosemary)
-- Earlier rom: MIUI 12.5.7 (India)
+- Device name: Xiaomi Redmi Note 10S (secret)
+- Earlier rom: MIUI 12.5.14 (Global)
 - Rooted?: No
 
 # Tested images:
 - Corvus OS
-- Android 12 Beta 5
+- phh's Android 12
 - DotOS
-
+- Pixel Experience
+- LineageOS
+- ProtonAOSP
+- CAOS 11
 # Steps to install 
-Refer to the guide here: https://forum.xda-developers.com/t/flashing-gsi-roms-on-redmi-note-10s-and-then-fixing-some-issues-all-without-any-custom-recovery.4337099/
+https://forum.xda-developers.com/t/flashing-gsi-roms-on-redmi-note-10s-and-then-fixing-some-issues-all-without-any-custom-recovery.4337099/
 
 # Hardware Support post flashing
 | Component | Comment|
 |---|---|
-|Camera| Works but Gcam is a little unstable |
-|Speaker/Mic | Works, headphone jack requires a tiny tweak|
-|Bluetooth | Not tested but I'm sure it works|
-|Wi-Fi| Works|
-|SIM/Mobile Data/ Voice| Not tested|
-|VoLTE| Not tested|
-|Fingerprint| Works |
-|NFC|Not tested|
-|Offline Charging| Works|
-|Display Refresh rate| 60hz (same as before)|
-|Screen Brightness| Works like before after a small tweak|
-|Volume scale| Works fine|
+|Camera | Works|
+|Speaker/Mic | Works (headphone jack requires tweak)|
+|Bluetooth | Works (audio requires tweak)|
+|Wi-Fi | Works|
+|SIM/Mobile Data/ Voice | Works|
+|VoLTE | Not tested|
+|Fingerprint | Works|
+|NFC|N/A|
+|Offline Charging | Works|
+|Display Refresh rate| 60Hz|
+|Screen Brightness| Works (buggy before tweak)|
+|Volume scale| Works|
 |5G|N/A|
-|SafetyNet post root?| :heavy_check_mark: (requires modification)|
-|WideVine certification post flash and root| L1 (requires modification)|
-
-# Personal Notes:
-- Battery life seems to have reduced a bit
-- Phone (extremely rarely) reboots out of nowhere.
-- Raven Launcher (Launcher that comes with Corvus OS) crashes from time to time, taking me back to the lock screen
-- I personally feel that the speakers are not as loud as they **could be** but I did not test it before flash so I can't tell precisely.
-
-Tested by: randomaccessvemuri (@Tanmay-V22315) ; 6/10/2021
-
+|SafetyNet post root?| Not tested|
+|WideVine certification post flash and root| L1|
+Notes:
+- For double tap to wake enable it in 'Xiaomi features > Enable DT2W'
+- For headphone jack enable 'Misc features > Use alternate way to detect headsets'
+- If you want AOD enable it in 'Misc features > Force allow Always-On Display
+- For brightness enable 'Misc features > Force alternative backlight scale'
+- For bluetooth audio enable 'Misc features > Force-disable A2DP offload'
+> Özcan Berk Çiftçi @ozberkcan
