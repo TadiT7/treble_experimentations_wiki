@@ -40,12 +40,12 @@ $ fastboot reboot
 | SIM / Mobile Data / Voice | OK                                                        |
 | VoLTE                     | Not checked                                               |
 | Fingerprint               | OK, but the scanner is a bit too sensitive                |
-| NFC                       | Not checked                                               |
-| Offline Charging          | OK                                                        |
+| NFC                       | Not checked, but is detected by the system itself         |
+| Offline Charging          | Not works, it just boots into the system                  |
 ---
 
 ## Tested
 
-| User                 |      Device Model  |  Tested AOSP GSI version  |  Firmware  |  Date      |
-|----------------------|--------------------|---------------------------|------------|------------|
-| Neko-Monika          |      HRY-LX1(C10)  |                 11.0 v302 |  9.1.0.290 | 14.03.2021 |
+| User                         |      Device Model  |  Tested AOSP GSI version  |  Firmware  |  Date      |
+|------------------------------|--------------------|---------------------------|------------|------------|
+| Inui-senpai (ex Neko-Monika) |      HRY-LX1(C10)  |                 11.0 v302 |  9.1.0.290 | 14.03.2021 |
