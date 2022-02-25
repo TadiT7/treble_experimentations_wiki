@@ -50,7 +50,7 @@ There is a way to run [stock camera app (XDA)](https://forum.xda-developers.com/
 > Working perfectly (Broken on Android 12 v400.e)
 
 * Face unlock
-> Not available (Removed by Google)
+> are now available on Pixel Experience v402 
 
 * Fast charging
 > Working perfectly
