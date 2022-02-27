@@ -1,4 +1,4 @@
-## OnePlus 7 Pro 5G <br> <img src="https://cdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg" alt="OnePlus 7 Pro" width="200"/>
+## OnePlus 7 Pro 5G <br> <img src="https://www.gizmochina.com/wp-content/uploads/2019/05/OnePlus-7-Pro-5G-500x500.jpg" alt="OnePlus 7 Pro" width="250"/>
 
 ## Preliminary information and warnings
 You will lose Widevine L1 after unlocking the bootloader, though it's pretty easy to re-flash [stock firmware](https://forum.xda-developers.com/showthread.php?t=3930585) & re-lock the bootloader to regain the functionality.
@@ -42,7 +42,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 
 [********] Offline Charging - works but if you unplug the device, you have to force reboot (power + vol up)
 
-**Most of this was tested with PE but should also work in other phh based GSIs if the options are present**
+**Most of this was tested with PE but should also work on other phh based GSIs if the options are present**
 
 ***
 ## Additional Notes
