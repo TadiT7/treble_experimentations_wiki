@@ -3,24 +3,43 @@
 ## Preliminary information and warnings
 You will lose Widevine L1 after unlocking the bootloader, though it's pretty easy to re-flash [stock firmware](https://forum.xda-developers.com/showthread.php?t=3930585) & re-lock the bootloader to regain the functionality.
 
-## Hardware Support
+## Hardware support
 
-* Camera: Works out of the box. All back cameras were tested to work (Google Camera). The front pop-up camera did not pop up
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Works*                                                    |
+| Speaker / Mic / Calls     | Works                                                     |
+| Bluetooth                 | AAC and SBC tested, everything else untested              |
+| WiFi                      | Works                                                     |
+| SIM / Mobile Data / Voice | Works                                                     |
+| VoLTE                     | Untested                                                  |
+| Fingerprint               | Untested**                                                |
+| NFC                       | Untested                                                  |
+| Bluetooth calls           | Works                                                     |
+| Charging                  | Works***                                                  |
+| USB-C Earbuds             | Works****                                                 |
+| Alert Slider              | Works*****                                                |
+| DT2W                      | No                                                        |
+| 90Hz                      | Works******                                               |
+---
 
-* Speaker / Microphone : Works out of the box
+[*] Camera - All back cameras were tested to be working in Android 11, in Android 12 main camera only seems to work in GCam. Pop-up selfie camera does not pop up at all in the  builds tested.
 
-* Bluetooth : Works out of the box
+[**] Fingerprint - untested. The location of the fingerprint isn't defined and says to touch the back of the device.
 
-* Wi-Fi : Works out of the box
+[***] Charging - WARP Charging does not work. Using WARP Charges does but it charges slower. PD Charging also works just fine. Max current measured was 2000mA in Ampere
 
-* SIM / Mobile Data / Voice / SMS : Works out of the box
+[****] USB-C Earbuds - works just fine if you tick Alernative Audio Policy in Qualcomm settings and Use Alernative Way to Detect Headsets in Misc settings. This may break calling audio in 3rd party apps though, untested.
 
-* VoLTE : Device supports VoLTE, but is untested
+[*****] Alert Slider - all modes but vibrate are work
 
-* Fingerprint Reader : Fingerprint sensor is not defined on tested GSI builds. Untested past this point
+[******] 90Hz - requires Force FPS in Misc Settings to 1440x3120@90.0. This breaks brightness so you also have to tick Force Alternative Backlight Scale.
 
 ***
 ## Additional Notes
+
+
+
 ### Flashing procedure for OnePlus 7 Pro 5G (guacamoleg and guacamoles) Sprint 5G and EE 5G retail unit (GM1925 and GM1920) running OxygenOS 10.0.15.GM27BA
 1. Enable USB debugging and OEM unlock in Developer options (If you are using the Sprint 5G firmware as a base, don't. Use the EU 5G firmware as a base. The OEM Unlock toggle is not greyed out on the EU 5G firmware)
 2. `adb reboot bootloader`
