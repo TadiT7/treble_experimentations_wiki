@@ -17,6 +17,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 | NFC                       | Untested                                                  |
 | Bluetooth calls           | Works                                                     |
 | Charging                  | Works***                                                  |
+| Offline Charging          | Untested                                                  |
 | USB-C Earbuds             | Works****                                                 |
 | Alert Slider              | Works*****                                                |
 | DT2W                      | No                                                        |
