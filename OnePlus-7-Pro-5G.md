@@ -61,7 +61,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 ***
 
 ## Tested By:
-* [TheChosenNopler](https://github.com/thechosennopler)
+* [Adrian](https://github.com/thechosennopler)
 * Tested with the following builds:
     * [Phh-Treble AOSP 400.e](https://github.com/phhusson/treble_experimentations/releases/tag/v400.e) (system-squeak-arm64-ab-gapps) (20220106)
     * [Phh-Treble AOSP 400.d](https://github.com/phhusson/treble_experimentations/releases/tag/v400.d) (system-squeak-arm64-ab-gapps) (20211213)
