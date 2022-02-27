@@ -67,6 +67,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
     * [Phh-Treble AOSP 400.d](https://github.com/phhusson/treble_experimentations/releases/tag/v400.d) (system-squeak-arm64-ab-gapps) (20211213)
     * [Pixel Experience 12.0 v402.1](https://github.com/ponces/treble_build_pe/releases/tag/v402.1) (PixelExperience_arm64-ab-12.0-20220226-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220226)
     * [Pixel Experience 12.0 v400.h](https://github.com/ponces/treble_build_pe/releases/tag/v400.h) (PixelExperience_arm64-ab-12.0-20220119-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220225) and (20220120)
+    * [Pixel Experience 12.0 v400.e](https://github.com/ponces/treble_build_pe/releases/tag/v400.e) (PixelExperience_arm64-ab-12.0-20211226-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220225)
     * [LeOS](https://leos-gsi.de/downloads/LeOS-S/Feb/) (LeOS-S-VNDK-arm64-bvS) by [Harvey186](https://t.me/harvey186) (20220212)
     * [OctaviOS](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/) (OctaviOS-v3.2-arm64_bgN-29122021-Unofficial) by [Yillié](https://github.com/Yilliee) (20211231)
     * [Pixel Experience v313](https://github.com/ponces/treble_build_pe/releases/tag/v313) (PixelExperience_arm64-ab-11.0-20211009-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220104)
