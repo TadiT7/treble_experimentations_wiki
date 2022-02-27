@@ -65,6 +65,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 * Tested with the following builds:
     * [Phh-Treble AOSP 400.e](https://github.com/phhusson/treble_experimentations/releases/tag/v400.e) (system-squeak-arm64-ab-gapps) (20220106)
     * [Phh-Treble AOSP 400.d](https://github.com/phhusson/treble_experimentations/releases/tag/v400.d) (system-squeak-arm64-ab-gapps) (20211213)
+    * [Phh-Treble AOSP 400.c](https://github.com/phhusson/treble_experimentations/releases/tag/v400.c) (system-squeak-arm64-ab-gapps) (20211126)
     * [Pixel Experience 12.0 v402.1](https://github.com/ponces/treble_build_pe/releases/tag/v402.1) (PixelExperience_arm64-ab-12.0-20220226-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220226)
     * [Pixel Experience 12.0 v400.h](https://github.com/ponces/treble_build_pe/releases/tag/v400.h) (PixelExperience_arm64-ab-12.0-20220119-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220225) and (20220120)
     * [Pixel Experience 12.0 v400.e](https://github.com/ponces/treble_build_pe/releases/tag/v400.e) (PixelExperience_arm64-ab-12.0-20211226-UNOFFICIAL) by [ponces](https://github.com/ponces) (20220225)
