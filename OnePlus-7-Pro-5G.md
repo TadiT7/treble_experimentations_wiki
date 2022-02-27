@@ -17,11 +17,11 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 | NFC                       | Untested                                                  |
 | Bluetooth calls           | Works                                                     |
 | Charging                  | Works***                                                  |
-| Offline Charging          | Untested                                                  |
 | USB-C Earbuds             | Works****                                                 |
 | Alert Slider              | Works*****                                                |
 | DT2W                      | Works******                                               |
 | 90Hz                      | Works*******                                              |
+| Offline Charging          | Works********                                             |
 ---
 
 [*] Camera - All back cameras were tested to be working in Android 11, in Android 12 main camera only seems to work in GCam. Pop-up selfie camera does not pop up at all in the  builds tested.
@@ -39,6 +39,8 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 [*******] 90Hz - requires Force FPS in Misc Settings to 1440x3120@90.0. This breaks brightness so you also have to tick Force Alternative Backlight Scale.
 
 [********] Auto brightness and battery stats - not working due to no overlay made.
+
+[********] Offline Charging - works but if you unplug the device, you have to force reboot (power + vol up)
 
 **Most of this was tested with PE but should also work in other phh based GSIs if the options are present**
 
