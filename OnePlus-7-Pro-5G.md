@@ -22,9 +22,9 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 ***
 ## Additional Notes
 ### Flashing procedure for OnePlus 7 Pro 5G (guacamoleg and guacamoles) Sprint 5G and EE 5G retail unit (GM1925 and GM1920) running OxygenOS 10.0.15.GM27BA
-1. Enable USB debugging and OEM unlock in Developer options
+1. Enable USB debugging and OEM unlock in Developer options (If you are using the Sprint 5G firmware as a base, don't. Use the EU 5G firmware as a base. The OEM Unlock toggle is not greyed out on the EU 5G firmware)
 2. `adb reboot bootloader`
-3. `fastboot oem unlock` (You may have to use a MSMDownloadTool to force the unlock if you are coming from the Sprint 5G firmware. If you're coming from EU 5G and are SIM Unlocked, this toggle should be toggleable)
+3. `fastboot oem unlock` 
 4. `fastboot flash system_a  _your_gsi_path_`
 5. `fastboot flash system_b  _your_gsi_path_`
 6. `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` (stock vbmeta.img extracted from official update package using Payload Dumper)
