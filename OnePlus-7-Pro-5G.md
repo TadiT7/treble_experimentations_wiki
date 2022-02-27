@@ -30,9 +30,9 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 
 [***] Charging - WARP Charging does not work. Using WARP Charges does but it charges slower. PD Charging also works just fine. Max current measured was 2000mA in Ampere
 
-[****] USB-C Earbuds - works just fine if you tick Alernative Audio Policy in Qualcomm settings and Use Alernative Way to Detect Headsets in Misc settings. This may break calling audio in 3rd party apps though, untested.
+[****] USB-C Earbuds - works just fine if you tick Alernative Audio Policy in Qualcomm settings and Use Alernative Way to Detect Headsets in Misc settings. This may break calling in 3rd party apps though, untested.
 
-[*****] Alert Slider - all modes but vibrate are work
+[*****] Alert Slider - all modes but vibrate are working
 
 [******] DT2W - enable DT2W in OnePlus Settings and Misc Settings
 
