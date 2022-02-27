@@ -9,7 +9,7 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Works*                                                    |
 | Speaker / Mic / Calls     | Works                                                     |
-| Bluetooth                 | AAC and SBC tested, everything else untested              |
+| Bluetooth                 | AAC and SBC tested, other bt accessories should work      |
 | WiFi                      | Works                                                     |
 | SIM / Mobile Data / Voice | Works                                                     |
 | VoLTE                     | Untested                                                  |
