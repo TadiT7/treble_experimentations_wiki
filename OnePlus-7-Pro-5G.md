@@ -35,6 +35,8 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 
 [******] 90Hz - requires Force FPS in Misc Settings to 1440x3120@90.0. This breaks brightness so you also have to tick Force Alternative Backlight Scale.
 
+[*******] Auto brightness and battery stats aren't working due to no overlay made.
+
 ***
 ## Additional Notes
 
