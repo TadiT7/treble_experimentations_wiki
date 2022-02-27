@@ -249,6 +249,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 |[[OnePlus 6T]]|fajita|✓|A/B|arm64|
 |[[OnePlus 7]]|guacamoleb|✓|A/B|arm64|
 |[[OnePlus 7 Pro]]|guacamole|✓|A/B|arm64|
+|[[OnePlus 7 Pro 5G]]|guacamoles and guacamoleg|✓|A/B|arm64|
 |[[OnePlus 7T]]|hotdogb|✓|A/B|arm64|
 |[[OnePlus 7T Pro]]|hotdog|✓|A/B|arm64|
 |[[OnePlus 8]]|instantnoodle|✓|A/B|arm64|
