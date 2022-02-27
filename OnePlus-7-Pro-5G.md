@@ -1,4 +1,4 @@
-## OnePlus 7 Pro 5G <br> <img src="https://www.gizmochina.com/wp-content/uploads/2019/05/OnePlus-7-Pro-5G-500x500.jpg" alt="OnePlus 7 Pro" width="250"/>
+## OnePlus 7 Pro 5G <br> <img src="https://www.gizmochina.com/wp-content/uploads/2019/05/OnePlus-7-Pro-5G-500x500.jpg" alt="OnePlus 7 Pro 5G" width="250"/>
 
 ## Preliminary information and warnings
 You will lose Widevine L1 after unlocking the bootloader, though it's pretty easy to re-flash [stock firmware](https://forum.xda-developers.com/showthread.php?t=3930585) & re-lock the bootloader to regain the functionality.
