@@ -40,6 +40,8 @@ You will lose Widevine L1 after unlocking the bootloader, though it's pretty eas
 
 [********] Auto brightness and battery stats - not working due to no overlay made.
 
+**Most of this was tested with PE but should also work in other phh based GSIs if the options are present**
+
 ***
 ## Additional Notes
 
