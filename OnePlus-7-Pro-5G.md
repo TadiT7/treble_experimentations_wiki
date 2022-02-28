@@ -19,7 +19,7 @@ And no, it is very unlikely that the 4G OnePlus 7 Pro firmware and files will wo
 | SIM / Mobile Data / Voice | Works                                                     |
 | Bluetooth                 | AAC and SBC tested, other bt accessories should work      |
 | VoLTE                     | Untested                                                  |
-| NFC                       | Untested                                                  |
+| NFC                       | Works, GPay tested                                                  |
 | Camera                    | Works*                                                    |
 | Fingerprint               | Untested**                                                |
 | Charging                  | Works***                                                  |
