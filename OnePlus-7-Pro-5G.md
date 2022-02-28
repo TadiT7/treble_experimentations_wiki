@@ -3,6 +3,12 @@
 ## Preliminary information and warnings
 You will lose Widevine L1 after unlocking the bootloader, though it's pretty easy to re-flash [stock firmware](https://forum.xda-developers.com/showthread.php?t=3930585) & re-lock the bootloader to regain the functionality.
 
+The device is also on a different branch of OxygenOS being on GM27BA or GM25CC compared to the 4G version of the OnePlus 7 Pro which is on GM21xA. 
+
+This also means the kernel is different due to the different modem which is why it is very important you extract and use files from the OnePlus 7 Pro 5G firmware instead.
+
+And no, it is very unlikely that the 4G OnePlus 7 Pro firmware and files will work without heavy modifications.
+
 ## Hardware support
 
 | Component                 |      Comment                                              |
