@@ -15,7 +15,7 @@ Devices where someone has claimed to have successfully booted a version of phh's
 
 **Why should I use GSI for A/B devices to some A-only devices?** : On Android 9, Google changed the requirements and all devices shipped with Android 9 must use "[system-as-root](https://source.android.com/devices/bootloader/partitions/system-as-root)". Before this change, only A/B devices were system-as-root and GSI name was separated by A-only and A/B. For this historical reasons, you have to use GSI for A/B on the devices shipped with Android 9+.
 
-Since the original device list is pretty long, all supported devices list are now categorized by brand. If you can't see your device's brand here, it could be placed at **Miscellaneous** category.
+Since the original device list is pretty long, all supported devices list are now categorized by brand. If you can't see your device's brand here, it might be placed at **Miscellaneous** page.
 
 * [[Asus]]
 * [[Google]]
