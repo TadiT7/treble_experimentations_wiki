@@ -18,7 +18,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |29-Dec|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
 |23-Feb|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/36)/[Download](https://sourceforge.net/projects/gsi-projects/files/v402/ArrowOS-12/)|A/B|arm64 - binder|
 |23-Jan|CherishOS|Nazim|[Telegram](https://t.me/naz_dev/31)/[Download](https://sourceforge.net/projects/gsi-projects/files/v400.h/CherishOS-v3.3.5/)|A/B|arm64 - binder|
-|20-Jan|SuperiorOS|Nazim|[Telegram](https://t.me/naz_dev/30)/[Download](https://sourceforge.net/projects/gsi-projects/files/v400.h/SuperiorOS-12/)|A/B|arm64 - binder|
 |12-Dec|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|A/B|arm64|
 
 ## Official Android 11
