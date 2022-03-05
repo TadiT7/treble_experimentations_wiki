@@ -35,13 +35,14 @@ I successfully installed and tested the following ROMs, all of them work fine:
 | Bluetooth                 | OK                                                    |
 | WiFi                      | OK                                                    |
 | SIM / Mobile Data / Voice | OK                                                    |
-| VoLTE                     | not tested                                            |
+| VoLTE                     | OK                                                    |
+| VoWifi                    | works with Stock-ROM, but not with LOS18.1            |
 | Fingerprint               | N/A                                                   |
 | NFC                       | N/A                                                   |
 | Offline Charging          | OK                                                    |
 
 ## Issues
-* Call echoing when using a bluetooth headset. (AOSP 11 v309)
+* Call echoing when using a bluetooth headset. (AOSP 11 v309, LOS18.1, ([Solution](https://github.com/phhusson/treble_experimentations/issues/1321)))
 * Link negotiation fails for WPA3-enabled wifi networks ([fix](https://github.com/phhusson/device_phh_treble/commit/a4d6f5c8d35b61304c8e8dae0e68d243d39e7324))
 
 ## Direct link to OEM Firmware
