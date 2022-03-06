@@ -40,6 +40,7 @@
 |[[Samsung Galaxy Note9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note10 5G]]|d1x|✓|A/B|arm64|
 |[[Samsung Galaxy Note10 and Note10 Plus (Exynos)]]|d1 and d2|✓|A/B|arm64|
+|[[Samsung Galaxy Note10 Lite (Exynos)]]|r7|✓|A/B|arm64|
 |[[Samsung Galaxy Note10 and Note10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
 |[[Samsung Galaxy Note20 and Note20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
 |[[Samsung Galaxy Note20 and Note20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
