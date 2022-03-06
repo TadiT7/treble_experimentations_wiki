@@ -15,6 +15,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |26-Feb|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |11-Feb|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |21-Dec|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
+|06-Mar|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-GSI-built-with-Phh-patches)|A/B|arm64 - binder|
 |29-Dec|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
 |23-Feb|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/36)/[Download](https://sourceforge.net/projects/gsi-projects/files/v402/ArrowOS-12/)|A/B|arm64 - binder|
 |23-Jan|CherishOS|Nazim|[Telegram](https://t.me/naz_dev/31)/[Download](https://sourceforge.net/projects/gsi-projects/files/v400.h/CherishOS-v3.3.5/)|A/B|arm64 - binder|
