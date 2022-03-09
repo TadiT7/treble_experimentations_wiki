@@ -37,7 +37,7 @@ Summary of what works and doesn't
 
 [\*] To enable the wide camera go to Phh Treble Settings-> Samsung Features-> Tick "Enable access to all cameras" (**Requires a Q/R vendor**) and reboot. You'll also have to use a camera app that supports it, like Open Camera.
 
-[\*\*] Headphones aren't detected on latest versions of AOSP 12. This should be fixed on the upcoming release (v403). For now, a workaround is to remove through TWRP the A20 vendor overlay located at `/system/product/overlay/treble-overlay-samsung-a20.apk`
+[\*\*] Headphones aren't detected on most versions of AOSP 12. This should have been fixed on AOSP 12.1.
 
 [\*\*\*] Having USB debugging enabled whilst using MTP will crash the device. (Still the same with Eureka Kernel)
 
