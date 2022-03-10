@@ -19,3 +19,4 @@
 |[[Realme X]]|RMX1901|✓|A/B|arm64|
 |[[Realme X2 Pro]]|RMX1931|✓|A/B|arm64|
 |[[Realme XT]]|RMX1921|✓|A/B|arm64|
+|[[Realme 8 5G / Narzo 30 5G]]|RMX3241 / RMX3242|✓|A/B|arm64|
