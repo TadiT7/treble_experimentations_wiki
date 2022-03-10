@@ -20,7 +20,7 @@ Overall useable. This device is misreported as A-only in some utilities. Use the
 | Speaker / Mic             | Working                                                                    |
 | Bluetooth                 | Working                                                                    |
 | WiFi                      | Working                                                                    |
-| SIM / Mobile Data / Voice | All working, mobile data needs 5 minutes to switch to LTE from cold boot   |
+| SIM / Mobile Data / Voice | Working, mobile data can be a little stubborn, turn it off and on to fix   |
 | VoLTE                     | Not working                                                                |
 | Fingerprint               | Not working                                                                |
 | NFC                       | Working                                                                    |
@@ -28,4 +28,4 @@ Overall useable. This device is misreported as A-only in some utilities. Use the
 | Other feature             | Battery seems to lose charge faster than factory, still usable. SPen works.|
 ---
 
-Tested By: thenxguy - SM-N986B (POLAND), Firmware Version - Latest Android 11, Date tested 3/10/2022, Template created by @zguithues and @hackintosh5
+Tested By: thenxguy - SM-N986B (POLAND), Firmware Version - v402, Date tested 3/10/2022, Template created by @zguithues and @hackintosh5
