@@ -24,7 +24,7 @@ Overall useable. This device is misreported as A-only in some utilities. Use the
 | VoLTE                     | Not working                                                                |
 | Fingerprint               | Not working                                                                |
 | NFC                       | Working                                                                    |
-| Offline Charging          | Working albeit slowly                                                      |
+| Offline Charging          | Working                                                                    |
 | Other feature             | Battery seems to lose charge faster than factory, still usable. SPen works.|
 ---
 
