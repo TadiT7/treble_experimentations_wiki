@@ -123,7 +123,7 @@ Download and install [Get ID](https://f-droid.org/en/packages/makeinfo.com.getid
 
 ```
 adb root
-adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db' \
+adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db \
     select * from main where name = \"android_id\"';
 ```
 - Then register [here](https://www.google.com/android/uncertified/) and reboot
