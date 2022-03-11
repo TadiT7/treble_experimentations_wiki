@@ -33,6 +33,7 @@
 |[[Xiaomi Mi A2]]|jasmine|✓|A/B|arm64|
 |[[Xiaomi Mi A2 Lite]]|daisy|✓|A/B|arm64|
 |[[Xiaomi Mi A3]]|laurel|✓|A/B|arm64|
+|[[Xiaomi Mi CC 9E]]|laurus|✓|A/B|arm64|
 |[[Xiaomi Mi CC9 / 9 Lite]]|pyxis / vela|✓|A/B|arm64|
 |[[Xiaomi Mi CC9 Pro / Note 10 Pro]]|tucana|✓|A/B|arm64|
 |[[Xiaomi Mi Max 3]]|nitrogen|✓|A (A/B when updated to Android 11)|arm64|
