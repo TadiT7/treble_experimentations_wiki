@@ -8,7 +8,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |12-Mar|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
 |09-Mar|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
 |09-Mar|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
-|13-Mar|Corvus OS|TipzTeam1| / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm64|
+|13-Mar|Corvus OS|TipzTeam1| / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Alpha/20220313/)|A - A/B|arm64|
 
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
