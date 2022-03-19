@@ -3,10 +3,10 @@
 ## Hardware Support
 
 * Camera:
-> Works (Mokkee Treble only, OOS Treble doesn't work.)
+> Works
 
 * Speaker / Microphone
-> Not tested
+> Works
 
 * Notification LED
 > Works
@@ -16,6 +16,8 @@
 
 * VoLTE
 > Not working *Tested on phh-v20-GSI with carrier Jio (IND)*
+
+> Still not working on v402 with LineageOS 18.1 boot & vendor
 
 * Brightness control
 > Works
@@ -30,6 +32,7 @@
 ## Tested By:
 * @p8tgames - 04 Jul 2018
 * @arvind-gr - 22 Jun 2018
+* @yejingchen - 19 March 2022
 
 Template created by @zguithues
 
