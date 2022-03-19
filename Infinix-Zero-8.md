@@ -23,5 +23,5 @@
 
 Tested By: @kusti420
 - Infinix Zero 8 X687
-- Tested on July 2021
+- Last tested march 2022
 - Template created by @zguithues and @hackintosh5
