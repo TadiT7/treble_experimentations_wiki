@@ -14,8 +14,10 @@
 | Fingerprint               | √                                                                            |
 | NFC                       | -                                                                            |
 | Offline Charging          | √                                                                            |
-| Micro SD                  | most GSIs only have FAT32 support, only few support ext4,                    |
-|                           | also format as internal isnt working perfectly in some GSIs                  |
+| Micro SD                  | sd card support is a bit questionable, on some roms it aint working at all,  |
+|                           | on most roms exFat isnt working, formating in these roms is a bit problematic|
+|                           | you have to format in a custom recovery for it to work properly,             |
+|                           | formating as ext4 is probably the best bet                                   |
 | OTG                       | -                                                                            |
 ---
 
