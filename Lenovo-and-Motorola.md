@@ -21,6 +21,7 @@
 |[[Moto G7 Power]]|ocean|✓|A/B|arm64|
 |[[Moto G8]]|rav|✓|A/B|arm64|
 |[[Moto G8 Plus]]|doha|✓|A/B|arm64|
+|[[Moto G31]]|cofud|✓|A/B|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Moto Z3]]|messi|✓|A/B|arm64|
