@@ -19,10 +19,10 @@ Flash vbmeta.img with `fastboot --disable-verity --disable-verification flash vb
 Reboot to fastbootd from fastboot with `fastboot reboot fastboot`
 Now we need to delete the 2 system partitions, and resize them, otherwise fastbootd will complain that we dont have enough space, even if we delete the product partitions.
 
-`fastboot delete-logical-partition system_a`
-`fastboot delete-logical-partition system_b`
-`fastboot create-logical-partition system_a 100000`
-`fastboot create-logical-partition system_b 100000`
+*`fastboot delete-logical-partition system_a`
+*`fastboot delete-logical-partition system_b`
+*`fastboot create-logical-partition system_a 100000`
+*`fastboot create-logical-partition system_b 100000`
 
 Flash the wanted GSI, in my case it was `system-squeak-arm64-ab-vndklite-vanilla-secure.img.xz`
 Extract it and flash with `fastboot flash system_a system-squeak-arm64-ab-vndklite-vanilla-secure.img`
