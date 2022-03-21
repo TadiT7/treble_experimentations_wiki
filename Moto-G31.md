@@ -1,6 +1,7 @@
 This device is kinda tricky to get working because of the super.img dynamic partition layout... Took me like 2 weeks of research to get everything working AFAIK
 
-Quick guide:
+# Quick guide:
+
 Toggle OEM Unlock in dev settings.
 Do everything thats explained here until you get the unlock code [Unlocking Bootloader Motorola](https://motorola-global-portal.custhelp.com/app/standalone/bootloader/unlock-your-device-a/)
 
@@ -15,8 +16,11 @@ Reboot to fastboot with power+volume down.
 **WARNING: If you wanna keep encryption support, DONT LET THE DEVICE BOOT AFTER UNLOCKING IT WITH OEM UNLOCK, ALL THE COMMANDS MUST BE DONE WITHOUT EXITING FASTBOOT AND WITHOUT FACTORY RESET OTHERWISE YOU WILL FORGET THE ABILITY TO SET ENCRYPTION AND LOCKSCREEN**
 
 Unlock your device with `fastboot oem unlock UNLOCKCODE`
+
 Flash vbmeta.img with `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img` (We don't have TWRP right now so everything will get messy now)
+
 Reboot to fastbootd from fastboot with `fastboot reboot fastboot`
+
 Now we need to delete the 2 system partitions, and resize them, otherwise fastbootd will complain that we dont have enough space, even if we delete the product partitions.
 
 * `fastboot delete-logical-partition system_a`
@@ -25,6 +29,7 @@ Now we need to delete the 2 system partitions, and resize them, otherwise fastbo
 * `fastboot create-logical-partition system_b 100000`
 
 Flash the wanted GSI, in my case it was `system-squeak-arm64-ab-vndklite-vanilla-secure.img.xz`
+
 Extract it and flash with `fastboot flash system_a system-squeak-arm64-ab-vndklite-vanilla-secure.img`
 Same for system_b just in case.
 
