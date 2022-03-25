@@ -11,7 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|15-Mar|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-Phh-GSI)|A/B|arm64 - binder|
+|24-Mar|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-Phh-GSI)|A/B|arm64 - binder|
 |13-Mar|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Alpha/20220315/)|A/B|arm64|
 |22-Mar|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |23-Feb|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/36)/[Download](https://sourceforge.net/projects/gsi-projects/files/v402/ArrowOS-12/)|A/B|arm64 - binder|
