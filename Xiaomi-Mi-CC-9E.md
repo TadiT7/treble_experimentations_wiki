@@ -18,7 +18,25 @@ _**DO NOT JUST COPY & PASTE COMMANDS , SHOULD HAVE KNOWLEDGE PRIOR TO FIDDLING W
 8. fastboot fotmat userdata
 9. fastboot reboot
 
+# **Another way
+Flash system.img via TWRP and wipe data
+
 **System should BOOT now.**
+
+## Hardware support
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | work                                                    |
+| Speaker / Mic             | work                                                    |
+| Bluetooth                 | work                                                    |
+| WiFi                      | work                                                    |
+| SIM / Mobile Data / Voice | work                                                    |
+| VoLTE                     | work                                                    |
+| Fingerprint               | bug                                                    |                     
+| Offline Charging          | work                                                    |                                  
+---
+
 ***
 Tested GSI images -
 1. AOSP 12.0 v402 by phh
