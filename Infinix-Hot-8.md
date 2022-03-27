@@ -41,6 +41,38 @@ Boots fine and everything works except the following
  Others i haven't tested
 
 
+* **Android 11** *
+
+Boots fine and everything is working
+
+* **Bugs** *
+
+No Bugs found
+
+* **Tested GSI** *
+
+ASOSP Phh 11 - Boots
+
+DOT OS 5.1 - Boots
+
+DOT OS 5.2 - Boots
+
+Others not tested
+
+* **Android 12** *
+
+Boots fine and everything is working except the following
+
+* **Bugs** *
+    1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
+
+* **Tested GSI** *
+
+ASOP Phh 12 - Boots
+
+Others not tested
+ 
+
 ## **Steps to install**
 
 * **1. Unlock Bootloader**
@@ -90,7 +122,7 @@ Boots fine and everything works except the following
 | Fingerprint               | WORKS                                                     |
 | NFC                       | NOT PRESENT                                               |
 | Offline Charging          | NOT WORKING                                               |
-| Hotspot                   | WORKS                                                     |
+| Hotspot                   | WORKS (Doesn't works on Android 12 X560C)                 |
 | Other feature             | All sensors work; Proximity, compass, gyro, etc           |
 ---
 
