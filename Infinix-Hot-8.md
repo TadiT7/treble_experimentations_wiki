@@ -120,13 +120,15 @@ Boots fine and everything is working except the following
 | Camera                    | WORKS                                                     |
 | Speaker / Mic             | WORKS on Pie (crackling sounds on Android 10)             |
 | Bluetooth                 | WORKS                                                     |
+| Bluetooth Tethering       | WORKS (Doesn't works on Android 12 on X650C)              |
 | WiFi                      | WORKS                                                     |
-| SIM / Mobile Data / Voice | WORKS                                                     |
-| VoLTE                     | NOT TESTED                                                |
+| SIM / Mobile Data / Voice | WORKS (after installing IMS APK on X650C)                 |
+| VoLTE                     | WORKS (after installing IMS APK  on X650C)                |
 | Fingerprint               | WORKS                                                     |
 | NFC                       | NOT PRESENT                                               |
 | Offline Charging          | NOT WORKING                                               |
-| Hotspot                   | WORKS (Doesn't works on Android 12 X560C)                 |
+| Hotspot                   | WORKS (Doesn't works on Android 12 X650C)                 |
+| USB tethering            | WORKS (Doesn't works on Android 12 X650C)                  |
 | Other feature             | All sensors work; Proximity, compass, gyro, etc           |
 ---
 
