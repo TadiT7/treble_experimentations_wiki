@@ -6,6 +6,8 @@ Summary of what works and doesn't
 
 Boots fine and everything is working fine except for offline charging.
 
+**Tested GSI**
+
 AOSP phh - BOOTS
 
 Havoc 2.9 - DOESN'T BOOT
@@ -41,13 +43,13 @@ Boots fine and everything works except the following
  Others i haven't tested
 
 
-* **Android 11** *
+* **Android 11**
 
 Boots fine and everything is working
 
-* **Bugs** *
+   **Bugs**
 
-No Bugs found
+   No Bugs found
 
 * **Tested GSI** *
 
@@ -63,7 +65,7 @@ Others not tested
 
 Boots fine and everything is working except the following
 
-* **Bugs** *
+    **Bugs**
     1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
 
 * **Tested GSI** *
