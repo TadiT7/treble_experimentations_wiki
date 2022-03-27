@@ -58,7 +58,7 @@ Boots fine and everything is working
 
    DOT OS 5.1 - Boots
 
-   DOT OS 5.2 - Boots - (* So far the most stable, bugfree and recent GSI tested on X650C)
+   DOT OS 5.2 - Boots - (So far the most stable, bugfree and recent GSI tested on X650C)
 
    Others not tested
 
