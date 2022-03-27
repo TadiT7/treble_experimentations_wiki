@@ -65,8 +65,8 @@ Others not tested
 
 Boots fine and everything is working except the following
 
-    **Bugs**
-    1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
+   **Bugs**
+   1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
 
 * **Tested GSI** *
 
