@@ -6,21 +6,21 @@ Summary of what works and doesn't
 
 Boots fine and everything is working fine except for offline charging.
 
-**Tested GSI**
+   **Tested GSI**
 
-AOSP phh - BOOTS
+   AOSP phh - BOOTS
 
-Havoc 2.9 - DOESN'T BOOT
+   Havoc 2.9 - DOESN'T BOOT
 
-RR Pie - BOOTS
+   RR Pie - BOOTS
 
-LOS 16 - BOOTS
+   LOS 16 - BOOTS
 
-Pixel Experience 9 - BOOTS
+   Pixel Experience 9 - BOOTS
 
-Descendant - DOESN'T BOOT
+   Descendant - DOESN'T BOOT
 
-Others i haven't tested
+   Others i haven't tested
 
 * **Android 10**
 
@@ -32,15 +32,17 @@ Boots fine and everything works except the following
    2. Crackling sound when playing media or even ringtones
    3. Media codec issue resulting to unplayable videos on WhatsApp, Telegram, Video player, etc
 
- AOSP Phh 10 - BOOTS
+   **Tested GSI** 
 
- Havoc 3.x.x - BOOTS
+   AOSP Phh 10 - BOOTS
 
- Pixel Experience 10 - BOOTS
+   Havoc 3.x.x - BOOTS
 
- LOS 17 - BOOTS
+   Pixel Experience 10 - BOOTS
 
- Others i haven't tested
+   LOS 17 - BOOTS
+
+   Others i haven't tested
 
 
 * **Android 11**
@@ -51,28 +53,28 @@ Boots fine and everything is working
 
    No Bugs found
 
-* **Tested GSI** *
+   **Tested GSI**
 
-ASOSP Phh 11 - Boots
+   ASOSP Phh 11 - Boots
 
-DOT OS 5.1 - Boots
+   DOT OS 5.1 - Boots
 
-DOT OS 5.2 - Boots
+   DOT OS 5.2 - Boots
 
-Others not tested
+   Others not tested
 
-* **Android 12** *
+* **Android 12**
 
 Boots fine and everything is working except the following
 
    **Bugs**
    1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
 
-* **Tested GSI** *
+   **Tested GSI**
 
-ASOP Phh 12 - Boots
+   ASOP Phh 12 - Boots
 
-Others not tested
+   Others not tested
  
 
 ## **Steps to install**
