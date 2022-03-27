@@ -50,8 +50,7 @@ Boots fine and everything works except the following
 Boots fine and everything is working
 
    **Bugs**
-
-   No Bugs found
+   1. VoLTE works after installing IMS APK.
 
    **Tested GSI**
 
@@ -59,7 +58,7 @@ Boots fine and everything is working
 
    DOT OS 5.1 - Boots
 
-   DOT OS 5.2 - Boots
+   DOT OS 5.2 - Boots - (* So far the most stable, bugfree and recent GSI tested on X650C)
 
    Others not tested
 
@@ -69,6 +68,7 @@ Boots fine and everything is working except the following
 
    **Bugs**
    1. Wifi Hotspot, USB Tethering and Bluetooth tethering not working.
+   2. VoLTE and Mobile Data works after installing IMS APK.
 
    **Tested GSI**
 
