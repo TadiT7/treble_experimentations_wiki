@@ -64,7 +64,6 @@ Front Camera | 8 MP (f/2.2, 1.12µm, HDR)
 | Fingerprint               | Working                                              |
 | NFC                       | Not Working                                          |
 | Offline Charging          | Working                                              |
-| Other feature             | Working                                              |
 | Boot                      | Working                                              |
 
 Tested By: Rajin Gangadharan [telegram: @rajinTechie]
