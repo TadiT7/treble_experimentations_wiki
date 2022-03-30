@@ -1,7 +1,3 @@
-This Device Boot
-Many GSI same as Flare S8 even Flare S8 Custom Recovery is also Bootable in Flare S8
+This device is interoperable and can boot many GSIs. Even the custom recovery for Flare S8 can be used on this device.
 
-For Root Guide
-Go to this FB Page
- 
-https://www.facebook.com/groups/468424323767473/?ref=share
+Please go to [this Facebook page](https://www.facebook.com/groups/468424323767473/?ref=share) for rooting guides and support.
