@@ -3,4 +3,4 @@
 - AOSP 10
 - AOSP 11
 
-Sinubok ni / Tested by Aljun Cortez
+Sinubok ni / Tested by Aljun Cortez.
