@@ -59,7 +59,7 @@
 |[[Xiaomi Redmi 8]]|olive|✓|A/B|arm64|
 |[[Xiaomi Redmi 8A]]|olivelite|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9 / 9 Prime]]|lancelot|✓|A/B|arm64|
-|[[Xiaomi Redmi 9A / 9i / 9AT]]|dandelion|✓|A/B|arm_binder64|
+|[[Xiaomi Redmi 9A / 9i / 9AT / 10A]]|dandelion|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9C]]|angelica|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9C NFC]]|angelican|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9T / 9 Power]]|lime|✓|A/B|arm64|
@@ -78,6 +78,10 @@
 |[[Xiaomi Redmi K40 / Poco F3 / Mi 11X]]|alioth|✓|A/B|arm64|
 |[[Xiaomi Redmi K40 Gaming / Poco F3 GT]]|ares|✓|A/B|arm64|
 |[[Xiaomi Redmi K40 Pro / Mi 11i / Mi 11X Pro]]|haydn|✓|A/B|arm64|
+|[[Xiaomi Redmi K40S / Poco F4]]|munch|✓|A/B|arm64|
+|[[Xiaomi Redmi K50]]|rubens|✓|A/B|arm64|
+|[[Xiaomi Redmi K50 Gaming / Poco F4 GT]]|ingres|✓|A/B|arm64|
+|[[Xiaomi Redmi K50 Pro / Poco F4 Pro]]|matisse|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 7 Pro]]|violet|✓|A/B|arm64|
