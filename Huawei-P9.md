@@ -8,7 +8,7 @@
 | O compatibility | Yes      |
 | P compatibility | Yes      |
 | Q compatibility | Yes      |
-| R compatibility | Unknown  |
+| R compatibility | Yes      |
 ---
 
 ## Feature Status
