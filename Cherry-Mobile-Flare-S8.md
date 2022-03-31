@@ -1,3 +1,51 @@
+# Device Info
+Cherry Mobile Flare S8
+  - Codename X930
+- MediaTek Helio P23
+  - MT6763V
+  - ARM64
+  - 2 GHz (big mode), 1.5 GHz (LITTLE mode)
+  - ARM Mali G71MP2 @700Mhz
+- A/B partitioning scheme, system-as-root
+- Android 9
+  - Linux 4.4.146
+
+# Pag-install ng mga GSI / Installing GSIs
+Sumangguni [rito](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/) / Refer [here](https://www.xda-developers.com/flash-generic-system-image-project-treble-device/).
+## Karagdagang impormasyon / Additional information
+- Galing sa QiKU ang firmware ng device na ito.
+- Sumangguni sa [opisyal na guide](https://topjohnwu.github.io/Magisk/install.html) para mag-install ng Magisk.
+- Kung may problema, huwag mahiyang magpatulong sa [Facebook group](https://topjohnwu.github.io/Magisk/install.html).
+- May guide sa pag-unlock ng bootloader [dito](https://forum.xda-developers.com/android/development/guide-cherry-mobile-flare-s8-rooting-t4133827).
+- [Narito](https://forum.xda-developers.com/android/development/recovery-twrp-3-4-0-cherry-mobile-flare-t4145129) naman ang TWRP builds at guide.
+- Inaasahang gumana ang VoLTE. 🇮🇳
+
+<details><summary>English</summary>
+
+- The firmware of this device is from QiKU.
+- Refer to the [official guide](https://topjohnwu.github.io/Magisk/install.html) on how to install Magisk.
+- Don't be shy to ask for help at our [Facebook group](https://topjohnwu.github.io/Magisk/install.html).
+- See [this guide](https://forum.xda-developers.com/android/development/guide-cherry-mobile-flare-s8-rooting-t4133827) for unlocking the bootloader.
+- [Here](https://forum.xda-developers.com/android/development/recovery-twrp-3-4-0-cherry-mobile-flare-t4145129) are the TWRP builds.
+- VoLTE is expected to work. 🇮🇳
+
+</details>
+
+# Hardware support
+| Component | 9.0 Pie | 10 Q |
+| --- | --- | --- |
+| Camera | Gumagana / Working | Gumagana / Working |
+| Speaker & Microphone | Gumagana / Working | Gumagana / Working |
+| Bluetooth | Gumagana / Working | Gumagana / Working |
+| Wi-Fi | Gumagana / Working | Gumagana / Working |
+| Mobile network services (call, text, data, etc.) | Gumagana / Working | Gumagana / Working |
+| Offline Charging | Gumagana / Working | Gumagana / Working |
+| Magisk¹ | Gumagana / Working | Gumagana / Working |
+| Phh-su¹ | Gumagana / Working | Gumagana / Working |
+| Adoptable storage | Gumagana / Working | Gumagana / Working |
+
+¹ *Sumangguni sa kanilang opisyal na guide para sa pag-install / Refer to their respective official guides for installation.*
+
 # Mga GSI na nakaka-boot / GSIs that can boot
 ## Android 9
 - AOSP 9
@@ -14,9 +62,8 @@
 - Resurrection Remix 8.6.4/8.6.5
 - LineageOS 17/17.1
 - Pixel Experience
-- ShapeShiftOS¹
-- Descendant X¹
-- Havoc OS 3.0/3.9/3.11/3.12
+- ShapeShiftOS²
+- Descendant X²
 - AOSP Extended 10
 - Komodo OS
 - MSM Extended 10 Q
@@ -29,25 +76,16 @@
 - Bliss OS 14
 - ConquerOS
 - LineageOS 18
-- Cherish OS²
+- Cherish OS³
 - MSM Extended 11
 ## Android 12
 - Phh Android 12 Alpha1/2
-- Phh Android 12 Alpha 3³
+- Phh Android 12 Alpha 3⁴
 
-¹*Kailangang i-resize ang system partition sa 4GB. / Needs resizing the system partition to 4GB.*
+² *Kailangang i-resize ang system partition sa 4GB. / Needs resizing the system partition to 4GB.*
 
-²*Mag-ingat, may mga problemang hindi pa nakikita at nasosolusyonan. / Look out, bugs are expected and not yet addressed.*
+³ *Mag-ingat, may mga problemang hindi pa nakikita at nasosolusyonan. / Look out, bugs are expected and not yet addressed.*
 
-³*Maaaring magkaproblema sa pag-mount ng system partition bilang read-write. / Some problems may occur when mounting the system partition as read-write.*
+⁴ *Maaaring magkaproblema sa pag-mount ng system partition bilang read-write. / Some problems may occur when mounting the system partition as read-write.*
 
 Ia-update ang listahang ito kapag may higit pang impormasyon. / This list will be updated soon.
-
-## Karagdagang mapagkukunan / Additional resources
-[PBRP para sa / for X930/X960](https://mega.nz/file/IYkggRIa#FKyIa6cs9gSBiia48ZLsTIXYoMHdaDcjdYbolGvGkUY)
-
-[Modded Vendor](https://drive.google.com/file/d/15La7qORak0hxSxDFdddYW5mKiOLMQwMy/view), inaayos ang nauulat na kapasidad ng baterya at itinatama ang notch parameter / fixes battery capacity and corrects the notch parameter.
-
-[Youtube Channel](https://youtube.com/channel/UCz7_Ymq3-iij8-1hj_GDTMw)
-
-Admin: Aljun Cortez (@RIO-S5501)
