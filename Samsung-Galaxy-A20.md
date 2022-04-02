@@ -20,7 +20,7 @@ Summary of what works and doesn't
 
 ## Hardware support
 
-### Android 12
+### Android 12/12.1
 | Component                 |      Comment                                                                                 |
 |---------------------------|----------------------------------------------------------------------------------------------|
 | Camera                    | Yes\*                                                                                        |
@@ -37,7 +37,7 @@ Summary of what works and doesn't
 
 [\*] To enable the wide camera go to Phh Treble Settings-> Samsung Features-> Tick "Enable access to all cameras" (**Requires a Q/R vendor**) and reboot. You'll also have to use a camera app that supports it, like Open Camera.
 
-[\*\*] Headphones aren't detected on most versions of AOSP 12. This should have been fixed on AOSP 12.1.
+[\*\*] Headphones aren't detected on most versions of AOSP 12 due to issues with the overlay. This is fixed on AOSP 12.1 and higher.
 
 [\*\*\*] Having USB debugging enabled whilst using MTP will crash the device. (Still the same with Eureka Kernel)
 
