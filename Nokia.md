@@ -2,6 +2,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[[Nokia 1]]|FRT|✓|A|arm|
 |[[Nokia 1 Plus]]|ANT|✓|A|arm|
+|[[Nokia 1.3]]|DRAX|✓|A/B|arm32-binder64|
 |[[Nokia 2.1 and 2 V]]|E2M and EVW|✓|A|arm|
 |[[Nokia 2.2]]|wasp / WSP|✓|A/B|arm64|
 |[[Nokia 2.3]]|ironman / IRM|✓|A/B|arm64|
