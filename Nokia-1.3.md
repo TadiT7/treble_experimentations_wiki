@@ -6,8 +6,7 @@
 - Mandatory: Insert SIM. Enable Developer Setting -> OEM unlock
 - If OEM unlock is greyed out then restart phone and try again. Unless it pings Nokia server it does not allow OEM unlock.
 - Power off (Important see last point)
-- Power + Volume UP
-- Boots into Bootloader mode
+- Hold Volume Down and then press power. You feel a vibration and then it boots into Bootloader mode
 - Verify if you are connected properly with `fastboot devices`
 - `fastboot flashing unlock`
 - Use Volume Keys to select Unlock. Scary message!
