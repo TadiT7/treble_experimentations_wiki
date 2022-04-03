@@ -2,6 +2,7 @@
 
 ### Bootloader unlock
 
+- Update to nokia android 11 (using updater).
 - Mandatory: Insert SIM. Enable Developer Setting -> OEM unlock
 - If OEM unlock is greyed out then restart phone and try again. Unless it pings Nokia server it does not allow OEM unlock.
 - Power off (Important see last point)
