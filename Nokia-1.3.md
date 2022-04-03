@@ -21,9 +21,11 @@
 - I tested squeak and roar both works properly
 - gzip in your PC
 - `adb push system-squeak-arm64-ab-vanilla.img.gz /storage/emulated/0/`
+- `adb shell setprop persist.sys.fflag.override.settings_dynamic_system true`
 - The next command is a single line. Note once you enter this, Nokia 1.3 becomes very slow. So wait... really wait.
 - `adb shell am start-activity -n com.android.dynsystem/com.android.dynsystem.VerificationActivity -a android.os.image.action.START_INSTALL -d file:///storage/emulated/0/system-roar-arm32_binder64-ab-vanilla.img.gz --el KEY_SYSTEM_SIZE  1014649136 --el KEY_USERDATA_SIZE 2147483648`
 - Look for the message: Dynamic system is ready. To start using it, restart your device.
+- Notes: Inside developer options there is DSU loader but it is empty (as Nokia does not provide it). 
 
 
 ## Hardware Support (Android 11/12)
