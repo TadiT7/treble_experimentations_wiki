@@ -64,6 +64,7 @@
 
 
 - Select **recovery** in the menu. Do **wipe data/factory reset**
+- After restart; Set **Phh Treble Settings** -> _Misc features_ -> `rounded corners diameter` to 40
 
 
 ### Results
