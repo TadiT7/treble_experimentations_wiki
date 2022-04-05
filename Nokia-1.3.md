@@ -76,7 +76,8 @@
 
 ### Results
 
-- I tested squeak and roar both works properly
+- Roar all hardware OK
+- Squeak: Initial check does not detect SIM, WiFi or Bluetooth. TODO.
 
 ### Dynamic System Updates (DSU) 
 
@@ -92,7 +93,6 @@
 
 ## Hardware Support  
 
-- Squeak: Initial check does not detect SIM, WiFi or Bluetooth. TODO.
 
 | Component                 |      roar                                              |     
 |---------------------------|-----------------------------------------------------------| 
