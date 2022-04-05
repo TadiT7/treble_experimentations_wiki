@@ -66,6 +66,13 @@
 - Select **recovery** in the menu. Do **wipe data/factory reset**
 - After restart; Set **Phh Treble Settings** -> _Misc features_ -> `rounded corners diameter` to 40
 
+### Squeak
+
+- Image size is big, so read this https://github.com/phhusson/treble_experimentations/issues/1466
+- `fastboot delete-logical-partition product`
+- `fastboot erase system`
+- `fastboot flash system system-squeak-arm32_binder64-ab-vanilla.img`
+- Select **recovery** in the menu. Do **wipe data/factory reset**
 
 ### Results
 
