@@ -90,16 +90,18 @@
 - Notes: Inside developer options there is DSU loader but it is empty (as Nokia does not provide it). 
 
 
-## Hardware Support (Android 11/12)
+## Hardware Support  
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | √                                                         |
-| Speaker / Mic             | √                                                         |
+- Squeak: Initial check does not detect SIM, WiFi or Bluetooth. TODO.
+
+| Component                 |      roar                                              |     
+|---------------------------|-----------------------------------------------------------| 
+| Camera                    | √                                                         |   
+| Speaker / Mic             | √                                                         |   
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
-| SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | I do not know (no available from my provider)               |
+| SIM / Mobile Data / Voice | √                                                         |       
+| VoLTE                     | I do not know (no available from my provider)             |    
 
 
 ### Remarks
