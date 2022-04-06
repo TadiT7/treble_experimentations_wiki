@@ -22,7 +22,7 @@
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei MediaPad M5 Wifi]]|SHT-W09|✓|A/B|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
-|[[Huawei P Smart (2019)]]|pot|✓|A|arm64|
+|[[Huawei P Smart (2019)]]|pot|✓|A/B|arm64|
 |[[Huawei P Smart Z]]|stk|✓|A|arm64|
 |[[Huawei P8 Lite (2017)]]|prague / pra|✓|A|arm64|
 |[[Huawei P9]]|eva|✓|A|arm64|
