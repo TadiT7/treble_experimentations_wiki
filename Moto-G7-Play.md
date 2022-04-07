@@ -60,14 +60,14 @@ Installation is as easy as it can get:
 
 ## Hardware support (Android 12 GSI)
 
-* only versions up to v400.h work, v401 and v402 result in a boot loop
+* use at least version v412 to get everything working as shown below
 
 | Component                 | coming from stock Android 10 |
 |---------------------------|------------------------------|
 | Camera                    | Works                        |
 | Speaker / Mic             | Works                        |
 | Bluetooth                 | Works                        |
-| A2DP                      | Not working, see [#1404](https://github.com/phhusson/treble_experimentations/issues/1404) |
+| A2DP                      | Works                        |
 | WiFi                      | Works                        |
 | SIM / Mobile Data / Voice | Works                        |
 | VoLTE                     | Unknown, disabled in stock ROM |
