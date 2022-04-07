@@ -35,4 +35,5 @@
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
 |[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
+|[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
 |[[Motorola Edge X30]]|hiphic|✓|A/B|arm64|
