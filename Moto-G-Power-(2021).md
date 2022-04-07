@@ -25,7 +25,7 @@ If you recently purchased a bootloader unlockable device, it must be connected t
 
 ## Notes
 * Device must be booted to fastbootd in order to flash the GSI (Can be done via PC by typing in either `adb reboot fastboot` (If booted to Android) or `fastboot reboot fastboot` (If booted to bootloader)
-* Logical partitions system_a and system_b may need to be deleted and recreated in order to flash the GSI, otherwise the flash may fail with `insufficient storage on system_a/b`. That can be done by doing `fastboot delete-logical-partition system_a` and `fastboot delete-logical-partition system_b`, then recreating the partitions by doing `fastboot create-logical-partition system_a 100000` and `fastboot create-logical-partition system_b 100000`. After that, you can flash as normal by doing `fastboot flash system IMAGENAMEGOESHERE.img`
+* Logical partitions system_a and system_b may need to be deleted and recreated in order to flash the GSI, otherwise the flash may fail with `insufficient space on system_a/b`. That can be done by doing `fastboot delete-logical-partition system_a` and `fastboot delete-logical-partition system_b`, then recreating the partitions by doing `fastboot create-logical-partition system_a 100000` and `fastboot create-logical-partition system_b 100000`. After that, you can flash as normal by doing `fastboot flash system IMAGENAMEGOESHERE.img`
 
 ## Testing Information
 * Tested by Alvin64DD on 04/05/2022 on AOSP 12.1 v411
