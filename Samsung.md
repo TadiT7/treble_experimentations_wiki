@@ -30,6 +30,7 @@
 |[[Samsung Galaxy J6]]|j6lte|✓|A/b|arm64|
 |[[Samsung Galaxy J6 Plus]]|j6primelte|✓|A|arm|
 |[[Samsung Galaxy J8 (2018)]]|j8y18lte|✓|A (A/B after updated to One UI 2.0)|arm_binder64|
+|[[Samsung Galaxy M01 Core]]|m013f|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M01]]|m01q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M11]]|m11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
