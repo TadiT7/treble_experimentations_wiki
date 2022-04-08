@@ -17,6 +17,7 @@
 |[[Moto G6 Play]]|aljeter/jeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
 |[[Moto G7 Play]]|channel|✓|A/B|arm (arm_binder64)|
+|[[Moto G7]]|river|✓|A/B|arm64|
 |[[Moto G7 Plus]]|lake|✓|A/B|arm64|
 |[[Moto G7 Power]]|ocean|✓|A/B|arm64|
 |[[Moto G8]]|rav|✓|A/B|arm64|
