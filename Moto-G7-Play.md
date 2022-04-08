@@ -77,6 +77,11 @@ Installation is as easy as it can get:
 | Display                   | Works                        |
 | Automatic screen brightness | Works                      |
 
+* If you encounter an annoyingly long swipe distance until the keypad is shown on the lock screen, you can change the maximum distance for the falsing manager with the following command (defaults to 0.8):
+
+```
+adb shell cmd device_config put systemui brightline_falsing_distance_screen_fraction_max_distance 0.1
+```
 
 ## Stock ROMs
 
