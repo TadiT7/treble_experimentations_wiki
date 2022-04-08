@@ -1,5 +1,6 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
+|[[OPPO A12]]|CPH2083|✓|A/B|arm64|
 |[[OPPO Ace2]]|n/a|✓|A/B|arm64|
 |[[OPPO Find X2]]|PDEM10 and PDET10|✓|A/B|arm64|
 |[[OPPO Find X2 Pro]]|PDEM30|✓|A/B|arm64|
