@@ -13,8 +13,10 @@
 | WiFi                      | Works                                                    |
 | SIM / Mobile Data / Voice | Works for accessing the internet, making phone calls disconnects it |
 | VoLTE                     | Untested                                                 |
-| Fingerprint               | Works                                                    |
-| Offline Charging          | Works                                                   |
+| Fingerprint               | Does not work                                                |
+| Offline Charging          | Works   
+|
+| Headphone Jack            | Does not work
 ---
 
 ## Requirements
