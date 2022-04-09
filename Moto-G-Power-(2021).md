@@ -11,12 +11,12 @@
 | Speaker / Mic             | Works                                                    |
 | Bluetooth                 | Works                                                    |
 | WiFi                      | Works                                                    |
+| Headphone Jack            | Does not work |
 | SIM / Mobile Data / Voice | Works for accessing the internet, making phone calls disconnects it |
 | VoLTE                     | Untested                                                 |
 | Fingerprint               | Does not work                                                |
 | Offline Charging          | Works   
 |
-| Headphone Jack            | Does not work
 ---
 
 ## Requirements
