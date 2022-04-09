@@ -16,7 +16,6 @@
 | VoLTE                     | Untested                                                 |
 | Fingerprint               | Does not work                                                |
 | Offline Charging          | Works   
-|
 ---
 
 ## Requirements
