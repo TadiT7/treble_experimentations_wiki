@@ -54,7 +54,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Last Updated |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Feb 2022|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|
-|Dec 2021|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
+|Apr 2022|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|
 |Oct 2020|BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|
