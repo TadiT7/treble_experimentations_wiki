@@ -39,6 +39,6 @@ Flash system.img via TWRP and wipe data
 
 ***
 Tested GSI images -
-1. AOSP 12.0 v402 by phh
-2. Pixel Experience 12.0 v402.1 by ponces
+1. AOSP 12.0 v412 by phh
+2. Pixel Experience 12.1 v412 by ponces
 ***
