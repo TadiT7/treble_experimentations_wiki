@@ -16,7 +16,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |13-Mar|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Alpha/20220315/)|A/B|arm64|
 |11-Apr|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |09-Apr|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/36)/[Download](https://sourceforge.net/projects/gsi-projects/files/)|A/B|arm64 - binder|
-|20-Mar|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
+|10-Apr|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |01-Jan|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
 |Dec 2021|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|A/B|arm64|
