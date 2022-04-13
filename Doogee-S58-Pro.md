@@ -11,6 +11,10 @@ fastboot --disable-verification flash vbmeta vbmeta.img
 fastboot flash system system-roar-arm64-ab-vanilla.img
 fastboot reboot
 ```
+
+If you get `Writing 'system' FAILED (remote: 'This partition doesn't exist')` then you are probably in the wrong fastboot mode (there is more than one), where you get 1 small line of text on a black screen. `fastboot reboot fastboot` reboots into the right one where you get a bootmenu that says "fastbootd" at the top. You can flash while at the menu, no need to choose an option.
+
+
 ## Hardware Support
 
 * Camera:
