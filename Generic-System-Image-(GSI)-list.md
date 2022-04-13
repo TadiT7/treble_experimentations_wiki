@@ -11,7 +11,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|11-Apr|Project Arcana|Matvey|[Telegram](https://t.me/arcanagsi)/[Download](http://tqmatvey.ddns.net/)|A/B|arm64|
+|13-Apr|Project Arcana|Matvey|[Telegram](https://t.me/arcanagsi)/[Download](http://tqmatvey.ddns.net/)|A/B|arm64|
 |25-Mar|BlissOS-15.3|Nazim|[Telegram](https://t.me/naz_dev/46)/[Download](https://sourceforge.net/projects/gsi-projects/files/v402.1/BlissOS-15.3/)|A/B|arm64 - binder|
 |24-Mar|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-Phh-GSI)|A/B|arm64 - binder|
 |13-Mar|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Alpha/20220315/)|A/B|arm64|
