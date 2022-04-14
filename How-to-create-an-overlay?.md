@@ -43,7 +43,7 @@ Inside the `overlay.mk` of main directory add your `LOCAL_PACKAGE_NAME`, in the 
 
 Then if you want (but you should), go into `vendor_hardware_overlay/build/` and run:
 `bash build.sh`
-It'll build you an overlay which you should put in `/system/overlay/` on your device.
+It'll build you an overlay which you should put in `/system/product/overlay/` on your device.
 
 ## Build with Jenkins
 
