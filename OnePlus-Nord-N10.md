@@ -4,11 +4,11 @@ This device uses A/B Partition
 
 ## Tested image
 √AOSP 11.0 v309
+√AOSP 12.1 v412
 
 _**Prerequisites**_
 * OnePlus Nord N10 5G with unlocked bootloader and default recovery
-* Latest platform-tools installed `https://developer.android.com/studio/releases/platform-tools`
-* Download This Vbmeta `https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img`
+* Latest platform-tools installed `https://developer.android.com/studio/releases/platform-tools`fas
 * Latest Oxygen update `https://www.oneplus.com/support/softwareupgrade/details?code=PM1605857280263`
 * Payloader dumper to extract img files from update `https://github.com/vm03/payload_dumper`**(This will allow you to get the boot.img, modem.img, vbmeta_system.img, and vendor.img)**
 
@@ -71,6 +71,7 @@ _**Steps to Install**_
 | Fingerprint               | √ |
 | NFC                       | √ |
 | Offline Charging          | √ |
+
 
 Device tested by:
 Coaleb2
