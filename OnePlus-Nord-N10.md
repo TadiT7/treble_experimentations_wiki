@@ -4,6 +4,7 @@ This device uses A/B Partition
 
 ## Tested image
 √AOSP 11.0 v309
+
 √AOSP 12.1 v412
 
 _**Prerequisites**_
