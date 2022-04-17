@@ -8,14 +8,14 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |13-Apr|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
 |22-Mar|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
 |06-Apr|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
+|17-Apr|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://www.ancientrom.xyz/)|A/B|arm64 - binder|
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|25-Mar|BlissOS-15.3|Nazim|[Telegram](https://t.me/naz_dev/46)/[Download](https://sourceforge.net/projects/gsi-projects/files/v402.1/BlissOS-15.3/)|A/B|arm64 - binder|
 |24-Mar|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-Phh-GSI)|A/B|arm64 - binder|
 |13-Mar|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Alpha/20220315/)|A/B|arm64|
 |13-Apr|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
-|09-Apr|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/36)/[Download](https://sourceforge.net/projects/gsi-projects/files/)|A/B|arm64 - binder|
+|09-Apr|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/)|A/B|arm64 - binder|
 |10-Apr|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |01-Jan|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
