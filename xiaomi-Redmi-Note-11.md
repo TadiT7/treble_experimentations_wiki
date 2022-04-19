@@ -5,10 +5,12 @@
 
 # Steps to install
 
-`fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`
-`fastboot reboot fastboot`
-`fastboot flash system your_gsi_rom_of_choice.img`
-`fastboot -w`
+```
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+fastboot reboot fastboot
+fastboot flash system your_gsi_rom_of_choice.img
+fastboot -w
+```
 
 
 # Hardware Support post flashing
