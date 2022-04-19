@@ -17,7 +17,7 @@
 | --- | --- |
 | Camera | Works |
 | Speaker/Mic | Works (headphone jack requires [tweak](#notes)) |
-| Bluetooth | Works (audio requires [tweak](#notes)) |
+| Bluetooth | Works |
 | Wi-Fi | Works |
 | SIM/Mobile Data/Voice | Works |
 | VoLTE | Not tested |
@@ -25,7 +25,7 @@
 | NFC | Works |
 | Offline Charging | Not tested |
 | Display Refresh rate | 60Hz (90Hz in phh settings) |
-| Screen Brightness | Works (but auto-brightness is weird sometimes)) |
+| Screen Brightness | Works (but auto-brightness is weird sometimes) |
 | Volume scale | Works |
 | 5G | N/A |
 | SafetyNet post root | Passed (with safetynet-fix in magisk) |
