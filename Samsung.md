@@ -68,6 +68,7 @@
 |[[Samsung Galaxy S21 Plus (Snapdragon)]]|t2q|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Ultra (Exynos)]]|p3s|✓|A/B|arm64|
 |[[Samsung Galaxy S21 Ultra (Snapdragon)]]|p3q|✓|A/B|arm64|
+|[[Samsung Galaxy S22 (Exynos)]]|r0s|✓|A/B|arm64|
 |[[Samsung Galaxy S22 (Snapdragon)]]|r0q|✓|A/B|arm64|
 |[[Samsung Galaxy Tab A 8.0 (2019)]]|gtowifi and gto|✓|A (A/B after updated to One UI 2.1)|arm64|
 |[[Samsung Galaxy Tab A 10.1 (2019)]]|gta3xlwifi and gta3xl|✓|A/B|arm_binder64|
