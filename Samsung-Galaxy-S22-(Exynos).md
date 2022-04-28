@@ -23,15 +23,15 @@
 |---------------------------|-------------------------------------------------------------------|
 | Camera                    | Works (Front and Back) - Haven't tested other back cams **           |
 | Speaker / Mic             | Works                                                             |
-| Bluetooth                 | Works (Haven't tested audio)                                      |
+| Bluetooth                 | Works (Tested only audio playback)                                      |
 | WiFi                      | Works                                                             |
 | SIM / Mobile Data / Voice | Works                                                             |
 | VoLTE                     | Unknown                                                           |
 | Fingerprint               | broken (but works in PE Plus, PHH apparently fixed it )      |
 | NFC                       | Works (Used 2FA key)                                              |
-| Offline Charging          | Unknown                                                           |
+| Offline Charging          | Broken                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
-| Autobrightness            | Broken (PHH apparently fixed it)               |
+| Auto-brightness            | Broken (PHH apparently fixed it)               |
 | Proximity sensor            | Broken              |
 | Audio in video recording            | Broken              |
 ---
