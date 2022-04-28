@@ -7,7 +7,7 @@
 
 * To flash the patched recovery, download Heimdall ( https://glassechidna.com.au/heimdall/ )
 * Extract it and put the patched recovery.img into the same directory as the heimdall.exe (or the Linux equivalent)
-* Follow the README file, specifically the "Driver Installation Instructions" , in my case I had to replace the SAMSUNG USB device's with the WinUSB one (make sure it's NOT the "modem" one
+* Follow the README file, specifically the "Driver Installation Instructions" , in my case I had to replace the SAMSUNG USB device's with the WinUSB one (make sure it's NOT the "modem" one)
 *  After that, try executing the following command within the root of Heimdall's directory: 
      `heimdall flash --RECOVERY r.img` 
                   
