@@ -36,8 +36,10 @@
 | Audio in video recording            | Broken              |
 ---
 
-**Give the GCam a try: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
-Feel free to edit if you find a better port/config
+**In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
+ - I personally recommend the 8.4 one (with its config and lib), and make sure to find and enable the "Exynos fix" to remove the color banding from photos.
+
+Feel free to edit if you find a better port/config.
 
 Tested By: https://github.com/JeikWazTaken - SM-901B, PE Plus GSI 2022-04-12 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
 
