@@ -12,4 +12,5 @@
 |[[ZTE Nubia Red Magic 3S]]|n/a|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 5G]]|nx659j|✓|A/B|arm64|
 |[[ZTE Nubia Red Magic 6 / 6 Pro]]|nx669j|✓|A/B|arm64|
+|[[ZTE Nubia Red Magic 7]]|nx679j|✓|A/B|arm64|
 |[[ZTE Nubia Z20]]|n/a|✓|A/B|arm64|
