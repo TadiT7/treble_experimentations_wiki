@@ -27,6 +27,7 @@
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Unknown                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
+| Autobrightness            | Broken (Phhusson apparently fixed it)               |
 ---
 
 Tested By: https://github.com/JeikWazTaken - SM-901B, PE Plus GSI 2022-04-12 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
