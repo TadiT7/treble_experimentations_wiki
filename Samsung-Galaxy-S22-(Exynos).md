@@ -27,11 +27,11 @@
 | WiFi                      | Works                                                             |
 | SIM / Mobile Data / Voice | Works                                                             |
 | VoLTE                     | Unknown                                                           |
-| Fingerprint               | broken (but works in PE Plus, Phhusson apparently fixed it )      |
+| Fingerprint               | broken (but works in PE Plus, PHH apparently fixed it )      |
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Unknown                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
-| Autobrightness            | Broken (Phhusson apparently fixed it)               |
+| Autobrightness            | Broken (PHH apparently fixed it)               |
 | Proximity sensor            | Broken              |
 | Audio in video recording            | Broken              |
 ---
