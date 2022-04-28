@@ -27,11 +27,12 @@
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Unknown                                                           |
 | 120Hz                     | Broken, 60Hz is the highest, and 10Hz is the lowest**               |
----
-
-Tested By: https://github.com/JeikWazTaken - SM-901B, PE Plus GSI 2022-04-12 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
 
 **You can enforce 120Hz via ADB:
 adb shell
 settings put system peak_refresh_rate 120
 settings put system min_refresh_rate 120
+---
+
+Tested By: https://github.com/JeikWazTaken - SM-901B, PE Plus GSI 2022-04-12 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
+
