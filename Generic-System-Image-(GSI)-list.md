@@ -15,7 +15,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|19-Apr 2022|Superiour OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B| arm64|
+|19-Apr 2022|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B| arm64|
 |13-Apr|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |13-Apr|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v412/crDroid-8.4/)|A/B|arm64 - binder|
 |10-Apr|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
