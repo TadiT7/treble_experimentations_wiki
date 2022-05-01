@@ -23,7 +23,8 @@
 * Fingerprint Reader
 > Works
 
-## Tested By:
-* Guilherme2041 - Asus Max Shot on Official AOSP 10.0
-
+## Tested aosp phh's android 9,10,11,12 By:
+* Guilherme2041 - Asus Max Shot on Official StockRom android 9/stockmod
+* Jhonatanmiikael - Asus Max Shot on Official StockRom android 9/stockmod
+* Jhonatanmiikael - Asus Max Shot on custom roms compile for guilianoS and Jhonatanmiikael
 Template created by @zguithues
