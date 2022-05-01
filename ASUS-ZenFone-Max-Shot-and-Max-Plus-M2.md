@@ -27,4 +27,5 @@
 * Guilherme2041 - Asus Max Shot on Official StockRom android 9/stockmod
 * Jhonatanmiikael - Asus Max Shot on Official StockRom android 9/stockmod
 * Jhonatanmiikael - Asus Max Shot on custom roms compile for guilianoS and Jhonatanmiikael
+
 Template created by @zguithues
