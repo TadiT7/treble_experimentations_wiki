@@ -41,13 +41,13 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Jun 2021|Ancient OS|ankitkene|[Telegram](https://t.me/ancientofficialgsi) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A - A/B|arm - arm64 - binder|
 |May 2021|Havoc|Braialindo|[Download](https://download.havoc-os.com/)/[Telegram](https://t.me/havocgsi)|A - A/B|arm - arm64 - binder|
 |May 2021|BlissROMs|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS11-Project)|A - A/B|arm - arm64 - binder|
-|Apr 2021|CherishOS|Braialindo|[Website](https://cherishos.com/) /[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
+|Apr 2021|CherishOS 2.6|Braialindo|[Website](https://cherishos.com/) /[Telegram](https://t.me/treblechat) / [Download](https://sourceforge.net/projects/braiagsi/files/CherishOS/)|A - A/B|arm - arm64 - binder|
 |Feb 2021|Havoc|xEugW|[XDA](https://forum.xda-developers.com/t/11-official-havoc-os-4-1-arm64-arm-a64-a-ab-ab-vndklite-gapps-vanilla.4076903/) /Discontinued|A - A/B|arm - arm64 - binder|
 
 ## Unofficial Android 11:
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Apr 2022|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
+|Apr 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|
 |Mar 2022|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|         
 |Dec 2021|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1837) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI)|A/B|arm64|
@@ -73,8 +73,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|A - A/B|arm - arm64 - binder|
 |Firmware collection|Trisquel|[Download](https://sourceforge.net/projects/gsi-albus/files/arm64-aonly/android10/)|A|arm64|
 |Firmware collection|Diust|[Download](https://sourceforge.net/projects/androidgsi/files/)|A - A/B|arm - arm64 - binder|
-|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
-|Resurrection Remix Q|RobotHanzo|[Download](https://sourceforge.net/projects/resurrection-remix-q-gsi/files/old/20210117/)|A - A/B|arm - arm64 - binder|
+|LineageOS 17.1|AndyYan|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t4004673) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-17.x/)|A - A/B|arm - arm64 - binder|
+|Resurrection Remix 8.7.3|RobotHanzo|[Download](https://sourceforge.net/projects/resurrection-remix-q-gsi/files/)|A - A/B|arm - arm64 - binder|
 |POSP|twsunset|[Download](https://drive.google.com/drive/folders/1K3TiZ8QhxaAlyNR6SA5JQyVj2hWO8-Ps)|A - A/B|arm64|
 |Firmware collection|Braialindo|[Download](https://sourceforge.net/projects/braiagsi/files/) / [Telegram](https://t.me/stragoOS)|A - A/B|arm - arm64 - binder|
 
