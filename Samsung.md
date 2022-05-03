@@ -35,6 +35,7 @@
 |[[Samsung Galaxy M11]]|m11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
 |[[Samsung Galaxy M30s]]|m30s|✓|A/B|arm64|
+|[[Samsung Galaxy M31s]]|m31s|✓|A/B|arm64|
 |[[Samsung Galaxy M51]]|m51lte|✓|A/B|arm64|
 |[[Samsung Galaxy Note8 (Snapdragon)]]|greatqlte|✓|A|arm64|
 |[[Samsung Galaxy Note9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
