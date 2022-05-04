@@ -36,5 +36,5 @@ generic flash guide
 ---
 
 Tested By: khushtaur3123 - SM-M317F(INS), Bootloader/Radio - M317FXXU3CVC2
-           rufus582 (Fingerprint) - SM-M317F(INS), Bootloader/Radio - M317FXXU3CUL1
+rufus582 (Fingerprint) - SM-M317F(INS), Bootloader/Radio - M317FXXU3CUL1
 
