@@ -27,7 +27,7 @@
 | WiFi                      | Works                                                             |
 | SIM / Mobile Data / Voice | Works                                                             |
 | VoLTE                     | Unknown                                                           |
-| Fingerprint               | broken (but works in PE Plus, PHH apparently fixed it )      |
+| Fingerprint               | Works                                                             |
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Broken                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
@@ -41,5 +41,5 @@
 
 Feel free to edit if you find a better port/config.
 
-Tested By: https://github.com/JeikWazTaken - SM-901B, PE Plus GSI 2022-04-12 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
+Tested By: https://github.com/JeikWazTaken - SM-901B, AOSP GSI 2022-05-03 v413 build - Tested on 28/04/2022 - Template created by @zguithues and @hackintosh5
 
