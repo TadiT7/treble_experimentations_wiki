@@ -26,6 +26,6 @@ Summary of what works and doesn't
 [\*] To Enable Fingerprint, 1. `DO NOT SETUP A PASSCODE DURING SETUP` 2. Disable "com.google.android.setupwizard" (App Name: Android Setup)
 
 ### Test Log
-Tested By: @yafia - SM-A217F , Firmware Version - arm64_ab_gapps v413 and Corvus OS vS1.0 , Date tested - 2022-05-05
+Tested By: [@yafia](https://github.com/yafia) - SM-A217F , Firmware Version - arm64_ab_gapps v413 and Corvus OS vS1.0 , Date tested - 2022-05-05
 
-Created By @yafia
+Created By [@yafia](https://github.com/yafia)
