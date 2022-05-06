@@ -31,9 +31,9 @@
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Broken                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
-| Auto-brightness            | Broken (PHH apparently fixed it)               |
+| Auto-brightness            | Broken (fixed in future builds)               |
 | Proximity sensor            | Broken              |
-| Audio in video recording            | Broken              |
+| Audio in video recording playback           | Broken              |
 ---
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
