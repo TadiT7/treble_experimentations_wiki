@@ -48,7 +48,7 @@ FLOSS versions include the following open source alternatives to GAPPS:
 * [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)
 * [Silence](https://f-droid.org/en/packages/org.smssecure.smssecure/)
 * [OsmAnd~](https://f-droid.org/en/packages/net.osmand.plus/)
-* [Lightning](https://f-droid.org/en/packages/acr.browser.lightning/)
+* [Bromite](https://github.com/bromite/bromite/)
 * [Etar](https://f-droid.org/en/packages/ws.xsoh.etar/)
 * [Transportr](https://f-droid.org/en/packages/de.grobox.liberario/)
 * [MuPDF viewer](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)
