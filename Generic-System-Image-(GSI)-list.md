@@ -6,17 +6,17 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |04-May|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
-|23-Apr|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220423/)|A/B|arm64|
-|03-May|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
-|17-Apr|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://www.ancientrom.xyz/)|A/B|arm64 - binder|
-|06-May|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Download](https://downloads.descendant.me/)|A/B|arm64|
+|04-May|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Download](https://downloads.descendant.me/)|A/B|arm64|
 |03-May|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
+|03-May|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
+|23-Apr|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220423/)|A/B|arm64|
+|17-Apr|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A/B|arm64 - binder|
 
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|07-May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|
 |05-May|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/164) / [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|
-|07-May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B| arm64|
 |13-Apr|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |13-Apr|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v412/crDroid-8.4/)|A/B|arm64 - binder|
 |10-Apr|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
