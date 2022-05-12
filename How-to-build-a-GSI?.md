@@ -7,7 +7,7 @@ So, let's start:
 **What you’ll need:**
 
 * A treble enabled device, basically all devices that come with Android 8.1 out of box support it.
-* A relatively recent 64-bit computer (Linux, OS X, or Windows) with a reasonable amount of RAM and about 100 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 16 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
+* A relatively recent 64-bit computer (Linux, OS X, or Windows) with a reasonable amount of RAM and about 120 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 16 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
 * A USB cable compatible with your device
 * A decent internet connection & reliable electricity :)
 * Some familiarity with basic Android operation and terminology. It would help if you’ve installed custom ROMs on other devices and are familiar with recovery. It may also be useful to know some basic command line concepts such as cd for “change directory”, the concept of directory hierarchies, that in Linux they are separated by /. etc.
@@ -108,11 +108,11 @@ If you encounter problems with the build-rom.sh script, you might consider using
 git clone https://github.com/phhusson/treble_experimentations
 ```
 
-2. Start the build. We will create a folder named AOSP11, enter it and then call the build script.
+2. Start the build. We will create a folder named AOSP12, enter it and then call the build script.
 
 ```
-mkdir AOSP11; cd AOSP11
-bash ../treble_experimentations/build.sh android-11.0
+mkdir AOSP12; cd AOSP12
+bash ../treble_experimentations/build.sh android-12.0
 ```
 The resulting system images will be stored in the release folder.
 
@@ -123,19 +123,19 @@ In simple steps:
 1. Repo init the rom you want to build GSI for.
 ```
 mkdir ~/rom &&  cd ~/rom
-repo init -u https://github.com/LineageOS/android.git -b lineage-18.1
+repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
 ```
 
 2. Add phh repos to your local_manifest
 ```
-git clone https://github.com/phhusson/treble_manifest .repo/local_manifests -b android-11.0
+git clone https://github.com/phhusson/treble_manifest .repo/local_manifests -b android-12.0
 ```
 After git clone you need to remove or delete replace.xml (.repo/local_manifests/replace.xml) if you're building any rom except AOSP GSI.
 
 3. Sync the source
 
 ```
-repo sync -c -j4 --force-sync --no-tags --no-clone-bundle
+repo sync -c -j6 --force-sync --no-tags --no-clone-bundle
 ```
 
 4. Modify the source to fix issues in other devices using one of these methods:
@@ -157,7 +157,7 @@ git am patch
 ```
 . build/envsetup.sh
 lunch treble_arm64_avN-userdebug
-WITHOUT_CHECK_API=true make -j8 systemimage
+WITHOUT_CHECK_API=true make -j$(nproc) systemimage
 ```
 
 7. If you want to compress the system image after build finishes, go to out/target/product/phh_*/ folder and run
@@ -179,3 +179,4 @@ That's all ;)
 **Edit Notes:**
 - @Dualkem - added the build.sh build guide (point 7).
 - @00p513-dev - Initial changes for 2021
+- @TQMatvey Updated everything to Android 12 and other minor tweaks
