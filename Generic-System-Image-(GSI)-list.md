@@ -15,11 +15,11 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|10-May|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |07-May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|
 |05-May|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/164) / [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|
 |13-Apr|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
 |13-Apr|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v412/crDroid-8.4/)|A/B|arm64 - binder|
-|10-Apr|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
 |09-Apr|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/)|A/B|arm64 - binder|
 |Mar 2022|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp/wiki/ProtonAOSP-Phh-GSI)|A/B|arm64 - binder|
 |Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
