@@ -3,8 +3,7 @@
 ## Steps to install
 
 * Flash GSI image with `Fastboot`:
-* (Optional But Recommended) ADB sideload the custom kernel `KawaKernel` [A217F](https://drive.google.com/file/d/12F-1mDKqio9j6NTCdddL1YDs6WQ2eCJa/view?usp=sharing)  [A217M](https://drive.google.com/file/d/1yFBIeErICu1BAjr7LE-jsRhsUvF-31OC/view?usp=sharing)
-
+* (Optional But Recommended) ADB sideload the custom kernel `KawaKernel` [A217F/M](https://github.com/DozNaka/KawaKernel-A217X/releases/download/KawaKernel-v1.3.1/KawaKernel-A217X-GSI.zip)
 ## Hardware support
 
 | Component                 |      Comment                                              |
