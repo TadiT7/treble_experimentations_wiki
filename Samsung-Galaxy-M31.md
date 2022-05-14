@@ -1,7 +1,7 @@
 # Samsung Galaxy M31 (SM-M315F)
 Summary of what works and doesn't.
 # Installation guide
-* Fastboot installation is untested since I'm having issues with Yillie's TWRP.
+* Fastboot installation is tested and works.
 ### Flashing guide using Fastboot.
 Enable USB debugging. Reboot your device into Fastbootd if your recovery supports it:
   ```
