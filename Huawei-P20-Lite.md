@@ -1,7 +1,7 @@
 ![](https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125076744/125076744_0_MC/8799298355250_1557493302288.jpg)
 ***
 
-AOSP 12.1 v413: Everything works except NFC. Offline Charging and Volte
+AOSP 12.1 v413: Everything works except NFC Offline Charging and Volte
 
 ## Steps to install
 
