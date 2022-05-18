@@ -27,5 +27,5 @@ This device runs roms with all phh gsi builds. For example: Pixel Experience
 ---
 
 Tested By: @FintasticMan and @Montelion - ANE-LX1(C432) - AOSP 10.0 v214 arm64-ab-gapps - Date tested (DD/MM/YY): 16/03/20 - Template created by @zguithues and @hackintosh5 
-Edit by
-@strongteam
+ Edit by
+@strongteam480
