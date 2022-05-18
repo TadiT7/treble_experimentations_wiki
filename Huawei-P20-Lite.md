@@ -7,6 +7,8 @@ AOSP 12.1 v413: Everything works except NFC Offline Charging and Volte
 
 *Flash this image with the `fastboot` utility: ```fastboot flash system <image_name>```
 As an alternative you can flash via TWRP as "System Image" and format data.
+When installing with twrp, you need to factory reset over stock recovery.
+This device runs roms with all phh gsi builds. For example: Pixel Experience
 
 ## Hardware support (AOSP 12.1 v413)
 
@@ -24,4 +26,6 @@ As an alternative you can flash via TWRP as "System Image" and format data.
 | USB OTG                   | ✓ |
 ---
 
-Tested By: @FintasticMan and @Montelion - ANE-LX1(C432) - AOSP 10.0 v214 arm64-ab-gapps - Date tested (DD/MM/YY): 16/03/20 - Template created by @zguithues and @hackintosh5
+Tested By: @FintasticMan and @Montelion - ANE-LX1(C432) - AOSP 10.0 v214 arm64-ab-gapps - Date tested (DD/MM/YY): 16/03/20 - Template created by @zguithues and @hackintosh5 
+Edit by
+@strongteam
