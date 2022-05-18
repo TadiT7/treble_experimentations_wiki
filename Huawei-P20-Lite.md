@@ -26,6 +26,4 @@ This device runs roms with all phh gsi builds. For example: Pixel Experience
 | USB OTG                   | ✓ |
 ---
 
-Tested By: @FintasticMan and @Montelion - ANE-LX1(C432) - AOSP 12.1 v413 arm64-ab-gapps - Date tested (DD/MM/YY): 18/05/22 - Template created by @zguithues and @hackintosh5 
- Edit by
-@strongteam480
+Tested By: @FintasticMan and @Montelion @strongteam480 - ANE-LX1(C432) - AOSP 12.1 v413 arm64-ab-gapps - Date tested (DD/MM/YY): 18/05/22 - Template created by @zguithues and @hackintosh5 
