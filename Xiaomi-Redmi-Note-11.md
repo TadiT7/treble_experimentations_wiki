@@ -1,4 +1,3 @@
-
 # Tested images
 
 Not working:
@@ -43,4 +42,3 @@ fastboot -w
 # Notes
 
 - For headphone jack enable `Qualcomm > Use alternate audio policy`
-
