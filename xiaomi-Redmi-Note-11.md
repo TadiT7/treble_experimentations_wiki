@@ -1,7 +1,14 @@
 
 # Tested images
 
+Not working:
+
+- AOSP 12.1 (white screen on boot, with some blue/purple noise on interaction)
+
+Mostly working fine (see Hardware support bellow)
+
 - PixelExperience_arm64-ab-vndklite-12.1-20220329-UNOFFICIAL
+- lineage-19.1-20220510-UNOFFICIAL-arm64_bvS.img
 
 # Steps to install
 
@@ -15,7 +22,7 @@ fastboot -w
 
 # Hardware Support post flashing
 
-| Component | Comment|
+| Component | Comment |
 | --- | --- |
 | Camera | Works |
 | Speaker/Mic | Works (headphone jack requires [tweak](#notes)) |
