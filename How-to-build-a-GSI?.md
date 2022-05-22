@@ -94,7 +94,7 @@ export CCACHE_COMPRESS=1
 export CCACHE_MAXSIZE=50G # 50 GB
 ```
 
-And adding these lines to your ~/.bashrc file. 
+And adding these lines to your ~/.bashrc OR ~/.zshrc file. 
 
 You can configure the maximum amount of disk space you want the cache to use by editing `CCACHE_MAXSIZE` consequently. Anywhere from 25GB-100GB will result in very noticeably increased build speeds (for instance, a typical 1hr build time can be reduced to 20min). If you’re only building for one device, 25GB-50GB is fine. If you plan to build for several devices that do not share the same kernel source, aim for 75GB-100GB. This space will be permanently occupied on your drive, so take this into consideration.
 
