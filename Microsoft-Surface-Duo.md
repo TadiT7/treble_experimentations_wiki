@@ -9,7 +9,7 @@
 | Bluetooth                 | √                                                         |
 | WiFi                      | √                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | ×                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 | Dual Screen               | √                                                         |
 | Surface Pen               | ?                                                         |
