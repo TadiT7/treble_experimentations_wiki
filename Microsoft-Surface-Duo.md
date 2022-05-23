@@ -23,7 +23,7 @@ The Surface Pen feature cannot be tested due to lack of device.
 
 ## Tested By:
 
-@HikariCalyx @ Microsoft Surface Duo 2022.215.137 @ 23/05/2022
+@HikariCalyx @ Microsoft Surface Duo (US Variant GEN) 2022.215.137 @ 23/05/2022
 
 
 Template created by @zguithues
