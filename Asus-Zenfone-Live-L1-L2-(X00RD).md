@@ -24,7 +24,7 @@
 > no available Hardware
 
 ## Tested By:
-* [no woman no cry]( - Asus Zenfone Live L1 (8917)
+* [no woman no cry](https://github.com/murdika/wynmrdk) - Asus Zenfone Live L1 (8917)
 * didi Tzy - Asus Zenfone Live L2 (8937)
 * All member telegram group zenfone live x00rd
 
@@ -36,4 +36,4 @@
 
 Kredit & Thanks for phh
 
-Template created & edit by @semeton_dewata
+Template created & edit by [@semeton_dewata](https://t.me/semeton_dewata)
