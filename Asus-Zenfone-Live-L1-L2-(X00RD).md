@@ -32,7 +32,7 @@
 * All AOSP 11, 12/12.1 - by PHH (arm64ab_vndklite) with 408 vendor
 * Gsi A11,A12/12.1 base PHH (arm64_vndklite) with 408 vendor
 * Gsi A8.1-A10 base PHH (arm64 A) with 119 & 34 vendor
-* For more information joint telegram group
+* For more information [joint telegram group](https://t.me/livel1asusx00rd)
 
 Kredit & Thanks for phh
 
