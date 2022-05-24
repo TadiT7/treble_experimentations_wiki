@@ -20,8 +20,8 @@
 * VoLTE
 > VoLTE working with enable phh ims apn & download ims apk Qualcomm
 
-* Fingerprint Reader
-> Working
+* Fingerprint
+> no available
 
 ## Tested By:
 * Wyn Murdika - Asus Zenfone Live L1
