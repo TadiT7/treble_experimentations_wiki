@@ -24,14 +24,14 @@
 > no available Hardware
 
 ## Tested By:
-* no woman no cry - Asus Zenfone Live L1 (8917)
+* [no woman no cry]( - Asus Zenfone Live L1 (8917)
 * didi Tzy - Asus Zenfone Live L2 (8937)
 * All member telegram group zenfone live x00rd
 
 ## Tested ROMs:
 * All AOSP 11, 12/12.1 - by PHH (arm64ab_vndklite) with 408 vendor
-* Gsi A11,A12/12.1 base phh (vndklite) with 408 vendor
-* Gsi A8.1-A10 base phh (arm64 A) with 119 & 34 vendor
+* Gsi A11,A12/12.1 base PHH (arm64_vndklite) with 408 vendor
+* Gsi A8.1-A10 base PHH (arm64 A) with 119 & 34 vendor
 * For more information joint telegram group
 
 Kredit & Thanks for phh
