@@ -19,3 +19,4 @@
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD/X01BDA|✓|A (A/B when updated to Android 10)|arm64|
 |[Asus Zenfone Max Shot and Max Plus M2](https://github.com/phhusson/treble_experimentations/wiki/ASUS-ZenFone-Max-Shot-and-Max-Plus-M2)|A001D|✓|A|arm64|
+|[Asus Zenfone Live/Lite (ZA550KL)]]|X00R|✓|A/B|arm64|
