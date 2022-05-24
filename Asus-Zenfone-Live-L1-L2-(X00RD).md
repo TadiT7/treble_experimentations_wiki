@@ -1,4 +1,5 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xB7blrKsK8MQyXudz0dqLbNyPpUHWq3R4Q&usqp=CAU) ZenFone Live L1-L2 (X00RD)
+## Asus Zenfone Live L1-L2(X00RD)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xB7blrKsK8MQyXudz0dqLbNyPpUHWq3R4Q&usqp=CAU)
 
 ## Hardware Support
 
