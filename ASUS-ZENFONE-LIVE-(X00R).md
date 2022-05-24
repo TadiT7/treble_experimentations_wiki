@@ -2,7 +2,7 @@
 
 ## Hardware Support
 
-* Camera:
+* Camera & flash
 > Working, with enable cam2api on props & phh treble settings
 
 * Speaker / Microphone
