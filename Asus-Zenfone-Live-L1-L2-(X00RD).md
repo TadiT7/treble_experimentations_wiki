@@ -1,4 +1,4 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xB7blrKsK8MQyXudz0dqLbNyPpUHWq3R4Q&usqp=CAU)# ZenFone Live L1&L2 (X00R)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xB7blrKsK8MQyXudz0dqLbNyPpUHWq3R4Q&usqp=CAU)# ZenFone Live L1&L2 (X00RD)
 
 ## Hardware Support
 
@@ -35,4 +35,5 @@
 * For more information joint telegram group
 
 Kredit & Thanks for phh
+
 Template created & edit by @semeton_dewata
