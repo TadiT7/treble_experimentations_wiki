@@ -25,7 +25,7 @@
 
 ## Tested By:
 * [no woman no cry](https://github.com/murdika/wynmrdk) - Asus Zenfone Live L1 (8917)
-* didi Tzy - Asus Zenfone Live L2 (8937)
+* [didi Tzy](https://t.me/JalanNinjaQ) - Asus Zenfone Live L2 (8937)
 * All member telegram group zenfone live x00rd
 
 ## Tested ROMs:
