@@ -5,7 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 12
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|17-May|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
+|25-May|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|
 |04-May|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Download](https://downloads.descendant.me/)|A/B|arm64|
 |03-May|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|
 |03-May|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|
