@@ -5,7 +5,7 @@
 * After successful bootloader unlock, downgrade to EMUI 9.0 following the guide provided before. **THIS IS AN OBLIGATORY STEP, OTHERWISE WHEN YOU TRY TO FLASH GSI IT WILL TELL YOU THERE'S NOT ENOUGH SPACE AND YOUR PHONE WILL BE BRICKED!**
 
 ## Procedure: 
-* Get an **arm64-A/B** GSI.
+* Get an **arm64-A/B** GSI (it should be 2.6gb or less, otherwise it won't flash)
 * Get platform-tools from [this link](https://developer.android.com/studio/releases/platform-tools).
 * Get `vbmeta.img` from [this link](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img).
 * Reboot to fastboot mode `adb reboot bootloader`.
