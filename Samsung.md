@@ -47,6 +47,7 @@
 |[[Samsung Galaxy Note10 and Note10 Plus (Snapdragon)]]|d1q and d2q|✓|A/B|arm64|
 |[[Samsung Galaxy Note20 and Note20 Ultra (Exynos)]]|c1 and c2|✓|A/B|arm64|
 |[[Samsung Galaxy Note20 and Note20 Ultra (Snapdragon)]]|c1q and c2q|✓|A/B|arm64|
+|[[Samsung Galaxy Quantum2]]|a82xq|✓|A/B|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Exynos)]]|starlte and star2lte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy S9 and S9 Plus (Snapdragon)]]|starqlte/chn and star2qlte/chn|✓|A|arm64|
 |[[Samsung Galaxy S10 (Exynos)]]|beyond1lte|✓|A/B|arm64|
