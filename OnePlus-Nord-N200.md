@@ -1,1 +1,1 @@
-Same as the Nord N100. WiFi, camera, calls, speakers, bluetooth works of the box. Headphone jack doesn't seem to function and may require additional configuration.
+Same as the Nord N100. WiFi, camera, calls, speakers, bluetooth works out of the box. Headphone jack doesn't seem to function and may require additional configuration.
