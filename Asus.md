@@ -19,4 +19,4 @@
 |[[Asus Zenfone Max Pro M1]]|X00TD|✓|A|arm64|
 |[[Asus Zenfone Max Pro M2]]|X01BD/X01BDA|✓|A (A/B when updated to Android 10)|arm64|
 |[Asus Zenfone Max Shot and Max Plus M2](https://github.com/phhusson/treble_experimentations/wiki/ASUS-ZenFone-Max-Shot-and-Max-Plus-M2)|A001D|✓|A|arm64|
-|[Asus Zenfone Live (ZA550KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-Zenfone-Live-L1-L2-(X00RD))|X00RD|✓|AB|arm64/lite|
+|[Asus Zenfone Live (ZA550KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-Zenfone-Live-L1-L2-(X00RD))|X00RD|✓|A(A/B when update to Android 9 or 10/lite vendor)|arm64|
