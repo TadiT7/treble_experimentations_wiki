@@ -13,6 +13,21 @@
 `fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img`
 * Flash the GSI you downloaded executing the following command (don't forget to decompress it): `fastboot flash system gsi.img`
 * Reboot and enjoy 👍
+* As an alternative you can flash via TWRP as "System Image".
 
-## What's working: 
-**soon™**
+## Hardware support
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | Doesn't works on Android 12.                                                    |
+| Speaker / Mic             | ✓                                                    |
+| Bluetooth                 | Partially working on Android 12 (can't pair new devices **but** you can transfer files to the phone).                                                     |
+| WiFi                      | ✓                                                    |
+| SIM / Mobile Data / Voice | need test                                                    |
+| VoLTE                     | need test                                                    |
+| Fingerprint               | ✓                                                    |                                         |
+| Offline Charging          | Not working                                                    |
+| Other feature             | Status                                                    |
+---
+# 
+Tested by Angel Castillo :)
