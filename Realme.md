@@ -13,6 +13,7 @@
 |[[Realme C15]]|RMX2180|✓|A/B|arm64|
 |[[Realme GT]]|RMX2202|✓|A/B|arm64|
 |[[Realme GT Master Explorer]]|RMX3366|✓|A/B|arm64|
+|[[Realme 8i]]|RMX3151|✓|A/B|arm64|
 |[[Realme Narzo 20 (aka Realme 7i EU)]]|RMX2193|✓|A/B|arm64|
 |[[Realme Narzo 30A]]|RMX3171|✓|A/B|arm64|
 |[[Realme Q2 Pro / X7]]|RMX2175|✓|A/B|arm64|
