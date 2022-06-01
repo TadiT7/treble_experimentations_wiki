@@ -31,9 +31,8 @@ generic flash guide
 | VoWiFi                    | Not Working/Implemented                                   |
 | Fingerprint               | Works on PHH AOSP v413                                    |
 | Offline Charging          | Maybe                                                     |
-| Wi-Fi Hotspot             | 2.4 GHz Works, 5 GHz doesn't work on Corvus OS            |
-| Other feature             | Status                                                    |
+| Wi-Fi Hotspot             | Doesn't work on One UI 4 firmware            |                                                 
 ---
 
-Tested By: khushtaur3123 - SM-M317F(INS), Bootloader/Radio - M317FXXU3CVC2 and rufus582 (Fingerprint) - SM-M317F(INS), Bootloader/Radio - M317FXXU3CUL1
+Tested By: khushtaur3123 - SM-M317F(INS), Bootloader/Radio - M317FXXU3CVC2 and rufus582 - SM-M317F(INS), Bootloader/Radio - M317FXXU3DVD4
 
