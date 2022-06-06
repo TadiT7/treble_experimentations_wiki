@@ -28,6 +28,8 @@
 |[[Nokia 9 PureView]]|AOP|✓|A/B|arm64|
 |[[Nokia C2 Tava / Tennen and 2V Tella]]|armstrong|✓|A/B|arm64|
 |[[Nokia C5 Endi]]|paramore / PMC|✓|A/B|arm64|
+|[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
+|[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia XR20]]|thething / TTG|✓|A/B|arm64|
