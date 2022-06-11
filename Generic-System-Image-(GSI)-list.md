@@ -7,7 +7,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |11-Jun|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|June 2022|
 |10-Jun|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|June 2022|
-|10-Jun|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Download](https://downloads.statixos.com/12-GSI/)|A/B|arm64|unknown|
+|10-Jun|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Download](https://downloads.statixos.com/12-GSI/)|A/B|arm64|No information|
 |07-Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|June 2022|
 |03-Jun|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220603/)|A/B|arm64|May 2022|
 |04-May|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Download](https://downloads.descendant.me/)|A/B|arm64|May 2022|
