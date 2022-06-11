@@ -14,15 +14,15 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |17-Apr|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A/B|arm64 - binder|February 2022| 
 
 ## Unofficial Android 12/12L
-|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|12-Jun|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/164) / [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|
-|10-Jun|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|A/B|arm64|
-|18-May|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|
-|14-May|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v413/crDroid-8.5/)|A/B|arm64 - binder|
-|12-May|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/v413/ArrowOS-12.1/)|A/B|arm64 - binder|
-|10-May|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|
-|07-May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:| 
+|12-Jun|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/164) / [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|June 2022
+|10-Jun|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|A/B|arm64|May 2022|
+|18-May|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|May 2022| 
+|14-May|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v413/crDroid-8.5/)|A/B|arm64 - binder|May 2022| 
+|12-May|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/v413/ArrowOS-12.1/)|A/B|arm64 - binder|May 2022|
+|10-May|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|May 2022|
+|07-May|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|May 2022|
 |Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|
 |Dec 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|A/B|arm64|
