@@ -5,6 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|12-Jun|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|A/B|June 2022|
 |11-Jun|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|A/B|arm64 - binder|June 2022|
 |10-Jun|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|A/B|arm64 - binder|June 2022|
 |10-Jun|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Download](https://downloads.statixos.com/12-GSI/)|A/B|arm64|No information|
