@@ -59,7 +59,7 @@
 
 * Install TWRP by typing `fastboot flash recovery [TWRP Image]`
 * Boot into TWRP, ignore if it shows data encrypted warning
-* Choose `Wipe -> Advanced Wipe` and wipe every partition except `Internal Storage`
+* Choose `Wipe -> Format Data`
 * Now choose `Reboot -> Bootloader`, It's fine if it gives a "No OS installed" error
 * Type `fastboot flash system [Image File]`
 * Boot into TWRP again, you can flash additional files now if you want:
@@ -82,14 +82,6 @@
 * [BlessRoms](https://sourceforge.net/projects/treblerom/files/BLESS)
 * [Diust's GSI](https://sourceforge.net/projects/androidgsi/files/)
 * [eremitein's GSI](https://sourceforge.net/projects/treblerom/files/)
-
-## Not booting
-
-* All semi-gsi
-
-## Untested
-
-None
 
 ##
 Tested By: @asrieldashie ; Feb 7 2021
