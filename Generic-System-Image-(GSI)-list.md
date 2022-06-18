@@ -16,8 +16,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|A/B|arm64 - binder|June 2022| 
-|13-Jun|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/ArrowOS-12.1/)|A/B|arm64 - binder|June 2022|
+|18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/67)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|A/B|arm64 - binder|June 2022| 
+|13-Jun|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/64)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/ArrowOS-12.1/)|A/B|arm64 - binder|June 2022|
 |13-Jun|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|June 2022|
 |12-Jun|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|A/B|arm64|June 2022|
 |12-Jun|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|June 2022|
