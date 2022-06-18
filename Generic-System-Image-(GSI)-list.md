@@ -15,7 +15,8 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 
 ## Unofficial Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:| 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|18-June|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|A/B|arm64 - binder|June 2022| 
 |13-Jun|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/50)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/ArrowOS-12.1/)|A/B|arm64 - binder|June 2022|
 |13-Jun|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|A/B|arm64 - binder|June 2022|
 |12-Jun|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|A/B|arm64|June 2022|
@@ -23,7 +24,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |11-Jun|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/161?single) / [Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|June 2022|
 |11-Jun|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/164) / [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|June 2022|
 |10-Jun|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|A/B|arm64|May 2022| 
-|14-May|crDroid|Nazim|[Telegram](https://t.me/naz_dev/52) / [Download](https://sourceforge.net/projects/gsi-projects/files/v413/crDroid-8.5/)|A/B|arm64 - binder|May 2022| 
 |Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|December 2021|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|December 2021|
 |Dec 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|A/B|arm64|December 2021|
