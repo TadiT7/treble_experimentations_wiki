@@ -3,6 +3,8 @@ This guide is made for devices providing Treble with **stock vendor**. For devic
 
 Set up a **Linux machine** – it may be the newest Ubuntu or Mint. If you aren't planning to run it alongside Windows, use a virtual machine, for example VirtualBox, or build with Jenkins.
 
+You can install all needed deps with this command `sudo apt install git xmlstarlet aapt apktool`
+
 ## Make overlay
 
 Install **apktool** by following its guide.
@@ -31,12 +33,16 @@ Where brand and device for property value is what you got from that `getprop` co
 
 Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (if exists) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
 
+Then you need to merge all .xml into config.xml (copy all file content within `<resources></resources>`).
+
 ## Build with your own PC
 
 Install **xmlstarlet** if you don't have it by:
 `sudo apt install xmlstarlet`
 Then go into `vendor_hardware_overlay/tests`, open terminal and run:
 `bash tests.sh`
+
+If you see lines like this `defines a non-existing attribute APKTOOL_DUMMY_36` after test you need to delete this attribute from config.xml
 
 As a result, you'll get a recommended priority level which you should replace in your `AndroidManifest.xml`.
 Inside the `overlay.mk` of main directory add your `LOCAL_PACKAGE_NAME`, in the alphabetic order.
