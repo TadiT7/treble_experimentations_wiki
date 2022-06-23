@@ -13,6 +13,7 @@
 |[[Lenovo Z6 Youth Edition]]|kunlun2|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
+|[[Moto E7 Plus]]|hovatek|✓|A/B|arm64|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter/jeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
