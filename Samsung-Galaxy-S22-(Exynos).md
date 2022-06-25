@@ -17,6 +17,13 @@
 * Go back into recovery and Wipe Data and Cache
 * Reboot!
 
+## Optional steps to fix video recording audio (the end result is that you pretty much get the audio fixed in exchange for broken encryption...I'm not happy about this either, but manually shoving the fix via adb push somehow doesn't do the trick...)
+
+* Install the TWRP recovery by following this guide: https://github.com/Johx22/Patch-Recovery
+* Download this: https://forum.xda-developers.com/attachments/microphone_fix_gsi_exynos2100-zip.5640617/
+* Go into TWRP and flash the zip you downloaded in the previous step
+* Reboot.
+
 ## Hardware support
 
 | Component                 |      Comment                                                      |
@@ -31,9 +38,9 @@
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Broken                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
-| Auto-brightness            | Broken (fixed in future builds)               |
+| Auto-brightness            | Broken (fixed in future builds?)               |
 | Proximity sensor            | Broken              |
-| Audio in video recording playback           | Broken              |
+| Audio in video recording playback           | Broken unless you're willing to break encryption for the time being (see optional instructions  )            |
 ---
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
