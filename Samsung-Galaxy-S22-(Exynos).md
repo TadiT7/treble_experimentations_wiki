@@ -17,13 +17,36 @@
 * Go back into recovery and Wipe Data and Cache
 * Reboot!
 
-## Optional steps to fix video recording audio 
-***this breaks encryption and sets SELinux to permissive***
+## Steps to root a GSI
 
-* Install the TWRP recovery by following this guide: https://github.com/Johx22/Patch-Recovery
-* Download this: https://forum.xda-developers.com/attachments/microphone_fix_gsi_exynos2100-zip.5640617/
-* Go into TWRP and flash the zip you downloaded in the previous step
-* Reboot.
+* Download and install 7-Zip zstandard from here:https://github.com/mcmilk/7-Zip-zstd/releases
+* Open the AP firmware file (that you'd usually flash via Odin) with 7-zip ZS
+* Extract the boot.img.lz4
+* Open the the boot.img.lz4 with 7-zip ZS
+* Extract the boot.img
+* Download and install the latest Magisk Manager apk:https://github.com/topjohnwu/Magisk/releases
+* Copy boot.img to your phone
+* Open the Magisk app
+* Choose "Select and Patch a file"
+* Pick your boot.img
+* Take that patched image from Downloads and put it on your PC
+* Boot into fastboot via the recovery
+* `fastboot flash boot <patched boot image name or whatever>.img` 
+* Reboot
+* It will bootloop so make the phone go into recovery once more, where it'll offer you to Factory Reset since the phone is having a seizure
+* Perform that factory reset and reboot
+
+## Steps to fix video recording audio 
+***You need to be rooted for this (don't worry, you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1)***
+* Download the fixed audio_policy_configuration.xml from here: https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration.xml/file
+* Connect your phone with ADB enabled
+* Copy the audio policy file to your phone
+* Open up a terminal on your PC and write:
+* `adb shell`
+* `su`
+* `mkdir -p /data/adb/modules/audio_policy_fix/system/vendor/etc`
+* `cp /sdcard/audio_policy_configuration.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
+* Reboot
 
 ## Hardware support
 
@@ -41,7 +64,7 @@
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
 | Auto-brightness            | Broken (fixed in future builds?)               |
 | Proximity sensor            | Broken              |
-| Audio in video recording playback           | Broken unless you're willing to break encryption for the time being (see optional instructions  )            |
+| Audio in video recording playback           | Fixed (see instructions above)            |
 ---
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
