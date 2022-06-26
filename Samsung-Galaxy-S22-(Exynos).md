@@ -37,7 +37,7 @@
 * Perform that factory reset and reboot
 
 ## Steps to fix video recording audio 
-***You need to be rooted for this (don't worry, you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1)***
+***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1)***
 * Download the fixed audio_policy_configuration.xml from here (huge thanks to @haridhayal11 for creating the fix): https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration.xml/file
 * Connect your phone with ADB enabled
 * Copy the audio policy file to your phone
