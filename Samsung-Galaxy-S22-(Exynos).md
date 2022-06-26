@@ -17,7 +17,8 @@
 * Go back into recovery and Wipe Data and Cache
 * Reboot!
 
-## Optional steps to fix video recording audio (the end result is that you pretty much get the audio fixed in exchange for broken encryption...I'm not happy about this either, but manually shoving the fix via adb push somehow doesn't do the trick...)
+## Optional steps to fix video recording audio 
+#(the end result is that you pretty much get the audio fixed in exchange for broken encryption...I'm not happy about this either, but manually shoving the fix via adb push somehow doesn't do the trick...)
 
 * Install the TWRP recovery by following this guide: https://github.com/Johx22/Patch-Recovery
 * Download this: https://forum.xda-developers.com/attachments/microphone_fix_gsi_exynos2100-zip.5640617/
