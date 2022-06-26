@@ -19,12 +19,12 @@
 
 ## Steps to root a GSI
 
-* Download and install 7-Zip zstandard from here:https://github.com/mcmilk/7-Zip-zstd/releases
+* Download and install 7-Zip zstandard from here: https://github.com/mcmilk/7-Zip-zstd/releases
 * Open the AP firmware file (that you'd usually flash via Odin) with 7-zip ZS
 * Extract the boot.img.lz4
 * Open the the boot.img.lz4 with 7-zip ZS
 * Extract the boot.img
-* Download and install the latest Magisk Manager apk:https://github.com/topjohnwu/Magisk/releases
+* Download and install the latest Magisk Manager apk: https://github.com/topjohnwu/Magisk/releases
 * Copy boot.img to your phone
 * Open the Magisk app
 * Choose "Select and Patch a file"
