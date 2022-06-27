@@ -3,9 +3,9 @@
 ## Steps to install
 
 *  Unlock Bootloader (Enable OEM Unlocking, power-off, hold Vol+&- while plugging in to PC)
-* Patch and Flash recovery with fastbootd (you can patch recovery with https://github.com/Johx22/Patch-Recovery)
+* Patch and Flash recovery with fastbootd (you can patch recovery with **[Johnx22's Patch-Recovery Tool](https://github.com/Johx22/Patch-Recovery)**)
 
-* To flash the patched recovery, download Heimdall ( https://glassechidna.com.au/heimdall/ )
+* To flash the patched recovery, download **[Heimdall](https://glassechidna.com.au/heimdall/)**
 * Extract it and put the patched recovery.img into the same directory as the heimdall.exe (or the Linux equivalent)
 * Follow the README file, specifically the "Driver Installation Instructions" , in my case I had to replace the SAMSUNG USB device's with the WinUSB one (make sure it's NOT the "modem" one)
 *  After that, try executing the following command within the root of Heimdall's directory: 
@@ -19,12 +19,12 @@
 
 ## Steps to root a GSI
 
-* Download and install 7-Zip zstandard from here: https://github.com/mcmilk/7-Zip-zstd/releases
+* Download and install **[7-Zip Z Standard](https://github.com/mcmilk/7-Zip-zstd/releases)**
 * Open the AP firmware file (that you'd usually flash via Odin) with 7-zip ZS
 * Extract the boot.img.lz4
 * Open the the boot.img.lz4 with 7-zip ZS
 * Extract the boot.img
-* Download and install the latest Magisk Manager apk: https://github.com/topjohnwu/Magisk/releases
+* Download and install the latest **[Magisk Manager apk](https://github.com/topjohnwu/Magisk/releases)**
 * Copy boot.img to your phone
 * Open the Magisk app
 * Choose "Select and Patch a file"
@@ -37,15 +37,18 @@
 * Perform that factory reset and reboot
 
 ## Steps to fix video recording audio 
-***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1)***
-* Download the fixed audio_policy_configuration.xml from here (huge thanks to @haridhayal11 for creating the fix and for the help): https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration.xml/file
+***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: [Kdragon's SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1))***
+* Download the fixed `audio_policy_configuration.xml` from **[the following MediaFire link](https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration.xml/file)** (huge thanks to @haridhayal11 for creating the fix and for the help): 
+* Duplicate the `audio_policy_configuration.xml` and rename its copy to `audio_policy_configuration_base.xml` 
+(this way, if one fails to mount, you can enforce the other one via **Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy**)
 * Connect your phone with ADB enabled
-* Copy the audio policy file to your phone
+* Copy the audio policy files to your phone
 * Open up a terminal on your PC and write:
 * `adb shell`
 * `su`
 * `mkdir -p /data/adb/modules/audio_policy_fix/system/vendor/etc`
 * `cp /sdcard/audio_policy_configuration.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
+* `cp /sdcard/audio_policy_configuration_base.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
 * Reboot
 
 ## Hardware support
@@ -69,6 +72,7 @@
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
  - I personally recommend the 8.4 one (with its config and lib), and make sure to find and enable the "Exynos fix" to remove the color banding from photos.
+ - As an alternative, try [MGC_8.1.101_A9_GV1zfix_MGC.apk](https://1-dontsharethislink.celsoazevedo.com/file/filesc/MGC_8.1.101_A9_GV1zfix_MGC.apk) along with the following config 
 
 Feel free to edit if you find a better port/config.
 
