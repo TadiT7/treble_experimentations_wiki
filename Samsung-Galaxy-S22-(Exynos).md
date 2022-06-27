@@ -38,17 +38,15 @@
 
 ## Steps to fix video recording audio 
 ***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: [Kdragon's SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1))***
-* Download the fixed `audio_policy_configuration.xml` from **[the following MediaFire link](https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration.xml/file)** (huge thanks to @haridhayal11 for creating the fix and for the help): 
-* Duplicate the `audio_policy_configuration.xml` and rename its copy to `audio_policy_configuration_base.xml` 
-(this way, if one fails to mount, you can enforce the other one via **Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy**)
+* Download the fixed `audio_policy_configuration_base.xml` from **[the following MediaFire link](https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration_base.xml/file)** (huge thanks to @haridhayal11 for creating the fix and for the help): 
 * Connect your phone with ADB enabled
 * Copy the audio policy files to your phone
 * Open up a terminal on your PC and write:
 * `adb shell`
 * `su`
 * `mkdir -p /data/adb/modules/audio_policy_fix/system/vendor/etc`
-* `cp /sdcard/audio_policy_configuration.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
 * `cp /sdcard/audio_policy_configuration_base.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
+* Got to Settings-> Phh Treble Settings -> Samsung features and enable **Use alternate audio policy**
 * Reboot
 
 ## Hardware support
