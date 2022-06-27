@@ -63,7 +63,7 @@
 | NFC                       | Works (Used 2FA key)                                              |
 | Offline Charging          | Broken                                                           |
 | 120Hz                     | Enable in Settings > Phh Treble Settings > Misc features > Force FPS               |
-| Auto-brightness            | Works (the overlay is created, it has been merged by phh yet some roms utterly break it...it works fine for me on Descendant based on v414)               |
+| Auto-brightness            | Works (It can be a bit wonky so do personalize the brightness levels to your needs once and you should be good)               |
 | Proximity sensor            | Broken              |
 | Audio in video recording playback           | Fixed (see instructions above)            |
 ---
