@@ -70,7 +70,7 @@
 
 **In the stock camera, everything should work (except the nightmare fuel audio from video recordings) but the quality is ass. With GCam, however, you get better quality at the cost of instability that you yourself have to tinker with to reach some stability: https://www.ytechb.com/google-camera-for-samsung-galaxy-s22-plus-and-s22-ultra/
  - I personally recommend the 8.4 one (with its config and lib), and make sure to find and enable the "Exynos fix" to remove the color banding from photos.
- - As an alternative, try [MGC_8.1.101_A9_GV1zfix_MGC.apk](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/) along with [This XML config](https://www.mediafire.com/file/54ebe3prtq8y61b/Eric_JaJo_BSG_V8.1_%25283%2529.xml/file) (double tap between the shutter button and the gallery button while in the camera app in order to apply the config)
+ - As an alternative, try [MGC_8.1.101_A9_GV1zfix_MGC.apk](https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl75/2/) along with [This XML config](https://www.mediafire.com/file/54ebe3prtq8y61b/Eric_JaJo_BSG_V8.1_%25283%2529.xml/file) (double tap between the shutter button and the gallery button while in the camera app in order to apply the config)
 
 Feel free to edit if you find a better port/config.
 
