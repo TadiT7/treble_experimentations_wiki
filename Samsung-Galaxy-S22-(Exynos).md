@@ -37,17 +37,11 @@
 * Perform that factory reset and reboot
 
 ## Steps to fix video recording audio 
-***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: [Kdragon's SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases/tag/v2.2.1))***
-* Download the fixed `audio_policy_configuration_base.xml` from **[the following MediaFire link](https://www.mediafire.com/file/l1efqndhlvev920/audio_policy_configuration_base.xml/file)** (huge thanks to @haridhayal11 for creating the fix and for the help): 
-* Connect your phone with ADB enabled
-* Copy the audio policy files to your phone
-* Open up a terminal on your PC and write:
-* `adb shell`
-* `su`
-* `mkdir -p /data/adb/modules/audio_policy_fix/system/vendor/etc`
-* `cp /sdcard/audio_policy_configuration_base.xml /data/adb/modules/audio_policy_fix/system/vendor/etc`
-* Got to Settings-> Phh Treble Settings -> Samsung features and enable **Use alternate audio policy**
+***You need to be rooted for this (you can hide Magisk from banking apps via Zygisk and pass CTS with the Kdragon's fix: [Kdragon's SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix/releases))***
+* Download and install the following Magisk module within the Magisk app: [Samsung Galaxy S22(+)/Ultra Audio Policy Fix](https://www.mediafire.com/file/jxa62gta5tnf9pn/galaxy-s22-audio-policy-fix.zip/file)
 * Reboot
+* Go to Settings-> Phh Treble Settings -> Samsung features and enable **Use alternate audio policy**
+
 
 ## Hardware support
 
