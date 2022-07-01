@@ -23,7 +23,7 @@ generic flash guide
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Works(but with no pixel binning)                          |
-| Speaker / Mic             | Works                                                     |
+| Speaker / Mic             | Works(Volume Control not working on Corvus OS May 2022)   |
 | Bluetooth                 | Works                                                     |
 | WiFi                      | Works                                                     |
 | SIM / Mobile Data / Voice | Works                                                     |
@@ -31,7 +31,7 @@ generic flash guide
 | VoWiFi                    | Not Working/Implemented                                   |
 | Fingerprint               | Works on PHH AOSP v413                                    |
 | Offline Charging          | Maybe                                                     |
-| Wi-Fi Hotspot             | Doesn't work on One UI 4 firmware            |                                                 
+| Wi-Fi Hotspot             | Doesn't work on One UI 4 firmware                         |                                                 
 ---
 
 Tested By: khushtaur3123 - SM-M317F(INS), Bootloader/Radio - M317FXXU3CVC2 and rufus582 - SM-M317F(INS), Bootloader/Radio - M317FXXU3DVD4
