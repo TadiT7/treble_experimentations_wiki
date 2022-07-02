@@ -51,6 +51,8 @@ Then if you want (but you should), go into `vendor_hardware_overlay/build/` and 
 `bash build.sh`
 It'll build you an overlay which you should put in `/system/product/overlay/` on your device.
 
+(if you see errors like this when you build overlays `Error: No resource found that matches the given name (at 'storageDescription' with value '@string/storage_usb').` you need to remove this attributes from files)
+
 ## Build with Jenkins
 
 Before building, you should push your commit into Github first.
