@@ -3,9 +3,9 @@
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Official Android 13
-|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|16-Jun|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|A/B|arm64 - x86|June 2022|
+|Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Phh Base|Security Patch|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|16-Jun|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|A/B|arm64 - x86|❌|June 2022|
 
 ## Official Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
@@ -16,7 +16,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |10-Jun|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Download](https://downloads.statixos.com/12-GSI/)|A/B|arm64|June 2022|
 |07-Jun|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|A/B|arm64 - x86|June 2022|
 |03-Jun|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Beta/20220603/)|A/B|arm64|May 2022|
-|17-Apr|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A/B|arm64 - binder|February 2022| 
+|Apr 2022|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|A/B|arm64 - binder|February 2022| 
 
 ## Unofficial Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
