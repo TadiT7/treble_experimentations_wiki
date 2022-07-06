@@ -43,10 +43,10 @@ For extended support, join the narzo 20 community at telegram [here](https://t.m
 | Speaker / Mic             | working|working| sound quality isn't as impressive in GSIs out of the box like in  stock ROM, though it can be improved with tweaks and all|
 | Bluetooth                 | working|broken in some cases including wireless headphones| I'll update this column if the issue(s) are fixed |
 |headphone jack |working|working|incase doesn't work, turn on 'alternate headset detection' from settings/phh settings |
-| WiFi                      | working|working- slightly buggy |I'll update this column if the issue(s) are fixed |
-|Hotspot|working|Turns on, but no device can connect to |I'll update this column if the issue(s) are fixed |
+| WiFi                      | working|working ~slightly buggy~ | fixed |
+|Hotspot|working|Turns on, but no device can connect to |There exists a magisk module with custom hostapd build to fix it, join the realme narzo community at Telegram to fix that|
 | SIM / Mobile Data / Voice | working |working | If no sound in calls, disable a2dp overload from phh settings |
-| VoLTE                     | working |working |**doesnt work** out-of-box, enable all three toggles in phh settings/ims for VoLTE to work |
+| VoLTE                     | working |working in A11, sometimes in A12 GSIs, doesnt work in >=A12L GSIs |**doesnt work** out-of-box, enable all three toggles in phh settings/ims for VoLTE to work (in A11 and maybe A12 too, no hope for >=A12L right now) |
 | Fingerprint               | works if silead (only Android 10 A23 vendor) (et512 doesn't)|works if silead on all Android 11 vendors| use [this ](https://www.mediafire.com/file/szpnddw5ltm5gda/A11+EGIS_ET512+fix+for+realme+RMX2193.zip/file) magisk module to fix fp if et512 on android 10 A23 vendor|
 | NFC                       | not NFC Hardware in Narzo 20 |not NFC Hardware in Narzo 20 | -|
 | Offline Charging          | works | works| offline charging works, but no animation showing percentage |                                                   |
