@@ -48,7 +48,7 @@ Long story short, this would encompass building a customized GSI.
 I have made a modified device tree and a build script for building a Pixel Experience GSI, so feel free to clone this if you're feeling frisky:
 https://github.com/jgudec/treble_build_pe
 
-If you're too lazy, I've made rootless Pixel Experience (Plus) builds with Google Apps and uploaded them [HERE - PE](https://www.mediafire.com/file/fnoknfqjddlqbe8/PixelExperience_Galaxy_S22_Lineup-GSI-12.1-20220705-UNOFFICIAL.img.xz/file) and [HERE - PE Plus](https://www.mediafire.com/file/ahpzrlrui4ulwfg/PixelExperience_Plus_arm64-ab-12.1-20220706-UNOFFICIAL.img.xz/file)
+If you're too lazy, I've made a rootless Pixel Experience Plus build with Google Apps and uploaded it [HERE - PE Plus](https://www.mediafire.com/file/easo5aurweecwze/PixelExperience_Plus_arm64-ab-12.1-20220709-UNOFFICIAL.img.xz/file)
 
 
 ## Hardware support
