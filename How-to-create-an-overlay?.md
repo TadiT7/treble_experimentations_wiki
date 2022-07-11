@@ -107,7 +107,7 @@ Open up terminal in `vendor_hardware_overlay`, then type:
 
 `git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
 
-`git push myrepo master`
+`git push myrepo pie`
 
 
 Then use **pull request** function on GitHub and **apply to tips and guidance** by people commenting :)
@@ -116,7 +116,7 @@ If you do extra changes, repeat:
 
 `git commit -m "Your change description"`
 
-`git push myrepo master`
+`git push myrepo pie`
 
 If you create a messy pile of commits or your git "stops working", copy your changes somewhere else, clone **original** (phhusson) repo again, paste your changes into the newly downloaded one and force push them by:
 `git add --all`
@@ -125,4 +125,4 @@ If you create a messy pile of commits or your git "stops working", copy your cha
 
 `git remote add myrepo https://github.com/yourusername/vendor_hardware_overlay.git`
 
-and: `git push -f myrepo master`
+and: `git push -f myrepo pie`
