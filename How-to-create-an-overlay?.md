@@ -33,8 +33,6 @@ Where brand and device for property value is what you got from that `getprop` co
 
 Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (if exists) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
 
-Then you need to merge all .xml into config.xml (copy all file content within `<resources></resources>`).
-
 ## Build with your own PC
 
 Install **xmlstarlet** if you don't have it by:
