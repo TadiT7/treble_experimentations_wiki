@@ -31,7 +31,7 @@ On PC, copy `AndroidManifest.xml` and replace in it:
 
 Where brand and device for property value is what you got from that `getprop` command.
 
-Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (if exists) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
+Then inside your device's directory, create a `res` folder and copy inside the `xml` folder (If there is no `power_profile.xml` in **decompile** `system/framework/framework-res.apk` and copy its `res/xml/power_profile.xml` into it) from apk **decompiled** by apktool. Then inside the `res`, also copy the `values` folder. Inside it, delete every file which isn't called `arrays`, `bools`, `integers`, `strings` (.xml).
 
 ## Build with your own PC
 
