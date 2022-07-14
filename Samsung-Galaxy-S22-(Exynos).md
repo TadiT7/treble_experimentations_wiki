@@ -51,6 +51,10 @@ https://github.com/jgudec/treble_build_pe
 If you're too lazy, I've made a rootless Pixel Experience Plus build with Google Apps and uploaded it [HERE - PE Plus](https://www.mediafire.com/file/easo5aurweecwze/PixelExperience_Plus_arm64-ab-12.1-20220709-UNOFFICIAL.img.xz/file)
 
 
+## Telegram Group
+
+[Telegram Group](https://t.me/+Ehf3IgzJw0k0NmE8)
+
 ## Hardware support
 
 | Component                 |      Comment                                                      |
