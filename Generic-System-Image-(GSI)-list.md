@@ -5,7 +5,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Official Android 13
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Phh Base|Security Patch|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|16-Jun|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|A/B|arm64 - x86|❌|June 2022|
+|13-Jul|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|A/B|arm64 - x86|❌|July 2022|
 
 ## Official Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
