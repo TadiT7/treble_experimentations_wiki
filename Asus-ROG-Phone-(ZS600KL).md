@@ -19,7 +19,7 @@ To have a noob-friendly guide, [check here.](https://forum.xda-developers.com/t/
 | 90Hz Refresh Rate         | Works                                                          |
 | Proximity sensor          | Works                                                          |
 | Vibration                 | Broken                                                         |
-| RGB backlight on the logo | Works** (Basic functions with an app on google play)           |
+| RGB backlight on the logo | Works** (Basic functions with an [app](https://github.com/ArtiomSu/Asus-ROG-Phone-2-RGB) on google play)           |
 | HDR content playback      | Broken (Have some wired lines on the screen)                   |
 ---
 
