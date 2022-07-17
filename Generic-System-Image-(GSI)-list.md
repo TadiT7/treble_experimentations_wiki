@@ -38,11 +38,24 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Dec 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|arm64|December 2021|	
 
 
+## Maintained Older Android GSIs
+|Last Updated|Version|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
+|July 2022|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|	
+|July 2022|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|	
+|July 2022|11|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|	
+|June 2022|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
+|June 2022|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|	
+
+
+<br>
+<details>
+<summary>Unmaintained Older Android GSIs</summary>
+<br>
+
 ## Official Android 11	
 |Last Updated|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|Apr 2022|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|	
-|Apr 2022|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|	
 |Mar 2022|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|A - A/B|arm - arm64 - binder|	
 |Dec 2021|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|A - A/B|arm - arm64 - binder|	
 |Oct 2021|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |A - A/B|arm - arm64 - binder|	
@@ -60,7 +73,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 11:	
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|Apr 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|	
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|	
 |Mar 2022|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|         	
 |Dec 2021|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1837) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI)|A/B|arm64|	
@@ -71,8 +83,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 10:	
 |Last Updated |ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|Apr 2022|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
-|Apr 2022|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|	
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |A - A/B|arm - arm64 - binder|	
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|A - A/B|arm - arm64 - binder|	
 |Oct 2020|BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|A - A/B|arm - arm64 - binder|	
@@ -184,4 +194,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Resurrection Remix|phhusson|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/resurrection-remix-phh-treble-t3767688)|A - A/B|arm - arm64|	
 |Resurrection Remix|pchatzop|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-treble-enabled-resurrection-t3761279)|A - A/B|arm - arm64|	
 |Pixel Experience|jhenrique09|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|	
-|XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A - A/B|arm - arm64|	
+|XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A - A/B|arm - arm64|
+
+</details>	
