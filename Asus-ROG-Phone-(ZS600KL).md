@@ -26,4 +26,5 @@ To have a noob-friendly guide, [check here.](https://forum.xda-developers.com/t/
 ## Tested by
 * [Rocky7842](https://github.com/Rocky7842) - Z01QD, WW-16.0420.2009.39, crDroid GSI 8.6 by Nazim (Phh Treble v414), 2022/07/17
 * [xspx](https://forum.xda-developers.com/m/xspx.9622697/) - Z01QD, WW-16.0420.2009.39, Pixel Experience, 2022/06/20
+
 Template created by [Rocky7842](https://github.com/Rocky7842)
