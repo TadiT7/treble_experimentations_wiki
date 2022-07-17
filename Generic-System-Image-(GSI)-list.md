@@ -21,6 +21,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 ## Unofficial Android 12/12L
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|17-Jul|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/168)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B|arm64|July 2022|
 |23-Jun|SparkOS|Nazim|[Telegram](https://t.me/naz_dev/70)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|A/B|arm64 - binder|June 2022|
 |18-Jun|AwakenOS|Unofficial Maintainer|[Download](https://xiaomemeindex.com/treble/?dir=Awaken/20220618)|A/B|arm64|June 2022|
 |18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/67)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|A/B|arm64 - binder|June 2022| 
@@ -29,7 +30,6 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |12-Jun|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|A/B|arm64|June 2022|
 |12-Jun|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|A/B|arm64 - binder|June 2022|
 |11-Jun|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/169)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|A/B|arm64|June 2022|
-|11-Jun|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/168)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B| arm64|June 2022|
 |10-Jun|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|A/B|arm64|May 2022| 
 |Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|A/B|arm64 - binder|December 2021|
 |Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|A/B|arm64 - binder|December 2021|
