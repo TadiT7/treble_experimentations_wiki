@@ -24,4 +24,4 @@ To have a noob-friendly guide, [check here.](https://forum.xda-developers.com/t/
 ---
 
 ## Tested by
-* Rocky7842 - Z01QD, WW-16.0420.2009.39, crDroid GSI 8.6 by Nazim (Phh Treble v414), 2022/07/17
+* Rocky7842 - Z01QD, WW-16.0420.2009.39, crDroid GSI 8.6 by Nazim (Phh Treble v414), 17/07/2022
