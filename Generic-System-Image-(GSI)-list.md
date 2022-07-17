@@ -22,7 +22,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|Security Patch|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |17-Jul|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/168)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|A/B|arm64|July 2022|
-|23-Jun|SparkOS|Nazim|[Telegram](https://t.me/naz_dev/70)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|A/B|arm64 - binder|June 2022|
+|23-Jun|SparkOS|Nazim|[Telegram](https://t.me/elranchodecornelio/171/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|A/B|arm64 - binder|June 2022|
 |18-Jun|AwakenOS|Unofficial Maintainer|[Download](https://xiaomemeindex.com/treble/?dir=Awaken/20220618)|A/B|arm64|June 2022|
 |18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/67)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|A/B|arm64 - binder|June 2022| 
 |13-Jun|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/64)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/ArrowOS-12.1/)|A/B|arm64 - binder|June 2022|
