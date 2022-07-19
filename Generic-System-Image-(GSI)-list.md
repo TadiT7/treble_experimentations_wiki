@@ -22,12 +22,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|19-Jul|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/76)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/ArrowOS-12.1/)|arm64 - binder|July 2022|
 |17-Jul|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/172)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|arm64|July 2022|	
 |17-Jul|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/171)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|arm64|July 2022|	
 |23-Jun|SparkOS|Nazim|[Telegram](https://t.me/naz_dev/70)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|arm64 - binder|June 2022|	
 |18-Jun|AwakenOS|Unofficial Maintainer|[Download](https://xiaomemeindex.com/treble/?dir=Awaken/20220618)|arm64|June 2022|	
-|18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/67)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|arm64 - binder|June 2022| 	
-|13-Jun|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/64)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/ArrowOS-12.1/)|arm64 - binder|June 2022|	
+|18-Jun|crDroid|Nazim|[Telegram](https://t.me/naz_dev/67)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/crDroid-8.6/)|arm64 - binder|June 2022|
 |13-Jun|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|arm64 - binder|June 2022|	
 |12-Jun|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|arm64|June 2022|	
 |12-Jun|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases)|arm64 - binder|June 2022|
