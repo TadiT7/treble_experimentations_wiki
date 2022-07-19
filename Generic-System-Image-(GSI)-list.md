@@ -1,13 +1,13 @@
 Here's a collection of available GSIs, in order to keep it easy to choose what you want.	
+##### _Note : all Images here are of A/B Partition Style only unless otherwise specified through a column._
 
 ## Official Android 13	
-|Last Updated|Image|Maintainer|Thread/Download|Partition Style|Architecture|Phh Base|Security Patch|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|13-Jul|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|A/B|arm64 - x86|❌|July 2022|	
+|Last Updated|Image|Maintainer|Thread/Download|Architecture|Phh Base|Security Patch|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
+|13-Jul|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|arm64 - x86|❌|July 2022|	
 
 
 ## Official Android 12/12L	
-##### _Note : all Images here are of A/B Partition Style only._
 |Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
 |17-Jul|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
@@ -20,8 +20,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 ## Unofficial Android 12/12L
-##### _Note: all Images here are of A/B Partition Style only._
-|Last Updated|ROM|Maintainer|Thread/Download|Architecture|Security Patch|	
+|Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |17-Jul|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/172)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|arm64|July 2022|	
 |17-Jul|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/171)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|arm64|July 2022|	
@@ -40,12 +39,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 ## Maintained Older Android GSIs
 |Last Updated|Version|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|July 2022|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|	
-|July 2022|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|	
-|July 2022|11|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|	
-|June 2022|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
-|June 2022|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|		
+|17 Jul|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
+|15 Jul|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|		
+|15 Jul|11|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|	
+|30 Jun|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
+|17 Jun|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
 
 
 <br>
