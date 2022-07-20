@@ -61,6 +61,7 @@
 |[[General Mobile GM 20]]|G301|✓|A/B|arm64|
 |[[General Mobile GM 20 Pro]]|G501|✓|A/B|arm64|
 |[[GOME U9]]|n/a|✓|A|arm64|
+|[[Hot Pepper Serrano]]|HPP-L55B|not sure|A/B|arm_binder64|
 |[[Infinix Hot 8]]|x650|✓|A/B|arm_binder64|
 |[[Infinix Note 5]]|x604|✓|A/B|arm64|
 |[[Infinix Note 6]]|x610|✓|A/B|arm64|
