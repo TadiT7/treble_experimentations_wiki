@@ -4,7 +4,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 13	
 |Last Updated|Image|Maintainer|Thread/Download|Architecture|Phh Base|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|13-Jul|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|arm64 - x86|❌|July 2022|	
+|25-Jul|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|arm64 - x86|❌|July 2022|	
 
 
 ## Official Android 12/12L	
