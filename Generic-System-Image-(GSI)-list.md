@@ -10,6 +10,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 12/12L	
 |Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|27-Jul|KaleidoscopeOS|alk3p|[Download](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
 |20-Jul|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/)|arm64 - binder|July 2022|		
 |17-Jul|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
 |09-Jul|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|arm64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|
