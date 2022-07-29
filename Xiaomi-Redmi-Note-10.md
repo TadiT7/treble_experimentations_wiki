@@ -34,5 +34,5 @@ fastboot -w
 | Auto Brightness | Doesn't exist ([PR to merge the fix](https://github.com/phhusson/vendor_hardware_overlay/pull/605)) |
 | Volume scale | Works |
 | 5G | N/A |
-| SafetyNet post root | Passed (with [Redfin-Props](https://github.com/Pixel-Props/redfin/releases) & [safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases) in magisk) |
+| SafetyNet post root | Passed (with [Redfin-Props](https://github.com/Pixel-Props/redfin/releases), [safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases), Zygisk, Enforce Denylist & Hiding magisk) |
 | WideVine certification post flash and root | L1 |
