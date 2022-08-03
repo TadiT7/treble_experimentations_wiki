@@ -2,50 +2,50 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ##### _Note: All images here are of A/B Partition Style only, unless otherwise specified through a column._
 
 ## Official Android 13	
-|Last Updated|Image|Maintainer|Thread/Download|Architecture|Phh Base|Security Patch|	
+|Last Updated|Image|Maintainer|Thread / Download|Architecture|Phh Base|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|25 July|Google GSI|Google|[Download](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|arm64 - x86|❌|July 2022|	
+|25 July|Google GSI|Google|[Downloads](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|ARM64 - X86|❌|July 2022|	
 
 
 ## Official Android 12/12L	
-|Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
+|Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|02 Aug|LeOS-S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
-|27 July|KaleidoscopeOS|alk3p|[Download](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
-|25 July|LeOS-19.1|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Download](https://leos-gsi.de/downloads/LeOS-19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|		
-|17 July|AOSP|Phhusson|[Download](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
-|09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|arm64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|
-|07 July|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|arm64 - x86|July 2022|	
-|13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Download](https://downloads.descendant.me/)|arm64|May 2022|	
-|10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Download](https://downloads.statixos.com/12-GSI/)|arm64|June 2022|	
-|17 April|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Download](https://sourceforge.net/projects/ancientrom/files/gsi/)|arm64 - binder|February 2022| 	
+|02 Aug|LeOS S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
+|27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
+|25 July|LeOS-19.1|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|		
+|17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
+|09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|arm64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|
+|07 July|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|arm64 - x86|July 2022|	
+|13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|arm64|May 2022|	
+|10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|arm64|June 2022|	
+|17 April|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/55) / [Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/)|arm64 - binder|February 2022| 	
 
 
 ## Unofficial Android 12/12L
-|Last Updated|Image|Maintainer|Thread/Download|Architecture|Security Patch|	
+|Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|26-Jul|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|arm64|July 2022|
-|20-Jul|crDroid|Nazim|[Telegram](https://t.me/naz_dev/78)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/crDroid-8.7/)|arm64 - binder|July 2022|
-|19-Jul|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|arm64 - binder|July 2022|
-|19-Jul|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|arm64|July 2022|
-|19-Jul|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/76)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/ArrowOS-12.1/)|arm64 - binder|July 2022|
-|17-Jul|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/172)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|arm64|July 2022|	
-|17-Jul|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/171)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|arm64|July 2022|	
-|23-Jun|SparkOS|Nazim|[Telegram](https://t.me/naz_dev/70)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|arm64 - binder|June 2022|	
-|18-Jun|AwakenOS|Unofficial Maintainer|[Download](https://xiaomemeindex.com/treble/?dir=Awaken/20220618)|arm64|June 2022|	
-|10-Jun|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|arm64|May 2022| 	
-|Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|arm64 - binder|December 2021|	
-|Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|arm64 - binder|December 2021|	
-|Dec 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|arm64|December 2021|	
+|26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|arm64|July 2022|
+|20 July|crDroid|Nazim|[Telegram](https://t.me/naz_dev/78)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/crDroid-8.7/)|arm64 - binder|July 2022|
+|19 July|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|arm64 - binder|July 2022|
+|19 July|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|arm64|July 2022|
+|19 July|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/76)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/ArrowOS-12.1/)|arm64 - binder|July 2022|
+|17 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/172)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|arm64|July 2022|	
+|17 July|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/171)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|arm64|July 2022|	
+|23 June|SparkOS|Nazim|[Telegram](https://t.me/naz_dev/70)/[Download](https://sourceforge.net/projects/gsi-projects/files/v414/SparkOS-12.4/)|arm64 - binder|June 2022|	
+|18 June|AwakenOS|Unofficial Maintainer|[Download](https://xiaomemeindex.com/treble/?dir=Awaken/20220618)|arm64|June 2022|	
+|10 June|ProtonAOSP|Haridhayal|[Telegram](https://t.me/+HaJyLljCORQwODM9)/[Download](https://github.com/haridhayal11/treble_proton_aosp)|arm64|May 2022| 	
+|January 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|arm64 - binder|December 2021|	
+|December 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|arm64 - binder|December 2021|	
+|December 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|arm64|December 2021|	
 
 
 ## Maintained Older Android GSIs
-|Last Updated|Version|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
+|Last Updated|Version|Image|Maintainer|Thread / Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|		
-|17 Jul|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
-|15 Jul|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|		
-|30 Jun|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
-|17 Jun|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
+|17 July|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
+|15 July|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|		
+|30 June|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
+|17 June|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
 
 
 <br>
