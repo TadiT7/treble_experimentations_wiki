@@ -2,55 +2,42 @@
 
 > ***This sub page gives many fixes within phh settings which can be located in settings***
 
-**1. can't listen to anything on phone calls**
+> ***NOTE: provided solutions are NOT GUARANTEED to fix the issue, although they have been tested to work for most users***
 
-`Possible solutions:`
+## can't listen to anything on phone calls
+Try disabling a2dp overload from phh settings in settings and reboot
 
-`1. Try disabling a2dp overload from phh settings in settings and reboot `
+## Maximum brightness is too low
+Enable alternate backlight scale and linear in phh settings
 
-**2. Maximum brightness is too low**
+## Wired headphones not getting detected
+### Solution 1
+Enable alternative headphones detection in phh settings and reboot
 
-`Possible solutions:`
+### Solution 2
+`adb shell setprop persist.sys.overlay.devinputjack true`
 
-`1. Enable alternate backlight scale and linear in phh settings`
+## Fingerprint setting is present, but crashes when opened
+Open your settings > apps > show system apps (in the top-right 3 dot menu) > disable `com.google.android.setupwizard` (Android Setup)
 
-**3. Wired headphones not getting detected**
+## Fingerprint sensor not getting detected
+`adb shell setprop persist.sys.phh.fingerprint.nocleanup true`
 
-`Possible solutions:`
+## High refresh rate not working
+### Solution 1
+Check force refresh rate option in phh settings
 
-`1. Enable alternative headphones detection in phh settings and reboot`  
-`2. adb shell setprop persist.sys.overlay.devinputjack true`
+### Solution 2 (tested only on some oppo/realme/oneplus, **proceed with caution**)  
+`adb shell -c service call SurfaceFlinger 1035 i32 0`
 
-**4. Fingerprint sensor not getting detected**
+## Bluetooth connecting to device and then disconnecting
+Try Disabling a2dp overload in PHH settings
 
-`Possible solutions:`
+## Always On display Not working
+Enable Force always on display in phh settings misc reboot go to lock screen settings in display settings scroll down and check if always on display can be configured
 
-`1. adb shell setprop persist.sys.phh.fingerprint.nocleanup true`
-
-**5. High refresh rate not working**
-
-`Possible solutions`
-
-`1. Check force refresh rate option in phh settings`  
-
-(Method 2 tested only on some oppo/realme/oneplus, do with caution)  
-`2. adb shell -c service call SurfaceFlinger 1035 i32 0`
-
-**5. Bluetooth connecting to device and then disconnecting**
-
-`Possible solutions`
-
-1. `Try Disabling a2dp overload in PHH settings`
-
-**6. Always On display Not working**
-
-`Possible solutions`
-
-1. `Enable Force always on display in phh settings misc reboot go to lock screen settings in display settings scroll down and check if always on display can be configured`
-
-**7. Bluetooth Crashing Systemui**
-
-1. `disable media recommendations under Sound & Vibration > Media > Show media recommendations`
+## Bluetooth Crashing Systemui
+disable media recommendations under Sound & Vibration > Media > Show media recommendations
 
 
 
