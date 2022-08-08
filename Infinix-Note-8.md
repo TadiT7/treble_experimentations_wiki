@@ -1,10 +1,10 @@
 # [Infinix Note 8] - [x692]
 
-Helio G80 (MT6768)
+Helio G80 (MT6769)
 
 Overall excellent, things are working as expected.
 
-Tested with Havoc-OS GSI, CAOS, and PixelExperience (Android 10 & 11)
+Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12)
 
 ## Steps to install
 
@@ -21,10 +21,9 @@ Tested with Havoc-OS GSI, CAOS, and PixelExperience (Android 10 & 11)
     $ fastboot flash system system-image.img
     ```
 
-* Tip: If you're running out of space, you could resize the `product` partition to be smaller by doing this:
+* Tip: If you're running out of space, you could remove the `product` partition by doing this (this might be destructive):
     ```
-    $ fastboot resize-logical-partition product [SIZE]
-    $ fastboot format:ext4 product
+    $ fastboot delete-logical-partition product
     ```
 
 ## Hardware support
@@ -37,7 +36,7 @@ Tested with Havoc-OS GSI, CAOS, and PixelExperience (Android 10 & 11)
 | WiFi                      | OK                                                        |
 | Hotspot / Tethering       | OK                                                        |
 | SIM / Mobile Data / Voice | OK                                                        |
-| VoLTE                     | OK (Only works for Android 11)                            |
+| VoLTE                     | OK (Only works on Android ≥11)                            |
 | Fingerprint               | OK                                                        |
 | NFC                       | Unsupported                                               |
 | Offline Charging          | OK                                                        |
@@ -45,7 +44,6 @@ Tested with Havoc-OS GSI, CAOS, and PixelExperience (Android 10 & 11)
 
 ## Additional Notes
 
-* `product` partition must NOT be deleted. Otherwise it wouldn't boot.
 * This device uses ARM64 CPU architecture and A/B image (because of system-as-root partition scheme), but does not support seamless update.
 
-Tested By: [リェンーゆく (ryenyuku)](https://github.com/ryenyuku) @ Infinix Note 8 (x692), X692-H694KLMX-Q-GL-201016V237 - 28/03/2021 - Template created by @zguithues and @hackintosh5
+Tested By: [リェンーゆく (ryenyuku)](https://github.com/ryenyuku) @ Infinix Note 8 (x692), X692-H694KLMX-Q-GL-220311V412 - Last edited on 08/08/2022 - Template created by @zguithues and @hackintosh5
