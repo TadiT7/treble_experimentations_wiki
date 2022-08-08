@@ -9,11 +9,10 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12
 ## Steps to install
 
 * Grab an ARM64 A/B GSI ROM image [here](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list) or from other source
-* Grab the modified vbmeta image from [here](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img)
 * Unlock the bootloader and go into bootloader mode
-* Flash the vbmeta image with the `fastboot` utility:
+* Reflash the original vbmeta image but with verification disabled using the `fastboot` utility:
     ```
-    $ fastboot flash vbmeta vbmeta.img
+    $ fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
     ```
 * Reboot to fastbootd
 * Flash the system image with the `fastboot` utility:
