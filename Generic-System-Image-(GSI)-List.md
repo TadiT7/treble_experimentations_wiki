@@ -11,6 +11,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |02 Aug|LeOS S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
+|25 July|LeOS S|Harvey186| [Downloads](https://leos-gsi.de/downloads/LeOS--19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
 |17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
 |09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|arm64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|
@@ -38,13 +39,15 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |December 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|arm64|December 2021|	
 
 
-## Maintained Older Android GSIs
-|Last Updated|Version|Image|Maintainer|Thread / Download|Partition Style|Architecture|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|		
-|17 July|11|Google GSI|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
-|15 July|10|Google GSI| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|		
-|30 June|10|/e/ OS|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
-|17 June|11|LeOS|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
+## Latest Android 10, 11 GSIs
+|Last Updated|Image|Maintainer|Thread / Download|Partition Style|Architecture|	
+|:-:|:-:|:-:|:-:|:-:|:-:|		
+|Aug|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
+|July|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
+|July|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|A - A/B|arm - arm64 - binder|	
+|July|LeOS R|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A - A/B|arm - arm64 - binder|
+|July|LeOS Q|harvey186|[Info](https://t.me/LeOS_Support) / [Download](http://leos-gsi.de/downloads/)|A/B|arm64 - binder|
+|July|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|		
 
 
 <br>
@@ -72,7 +75,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 11:	
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|A - A/B|arm - arm64 - binder|		
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|A - A/B|arm - arm64 - binder|	
 |Mar 2022|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|A - A/B|arm - arm64 - binder|         	
 |Dec 2021|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1837) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI)|A/B|arm64|	
