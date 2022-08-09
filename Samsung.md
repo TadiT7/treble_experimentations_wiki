@@ -11,6 +11,7 @@
 |[[Samsung Galaxy A10s]]|a10s|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A11]]|a11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy A20]]|a20|✓|A/B|arm64|
+|[[Samsung Galaxy A20s]]|a20s|✓|A/B|arm64|
 |[[Samsung Galaxy A21s]]|a21s|✓|A/B|arm64|
 |[[Samsung Galaxy A30]]|a30|✓|A/B|arm64|
 |[[Samsung Galaxy A30s]]|a30s|✓|A/B|arm64|
