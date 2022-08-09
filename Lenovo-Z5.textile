@@ -1,7 +1,7 @@
 Hardware Support
 
 LED:
-Not work
+Work
 
 FM:
 Not work
@@ -13,29 +13,32 @@ Speaker / Microphone:
 Work
 
 Bluetooth:
-Work (earphone not tested)
+Work
 
 Wifi:
-Work (5.0Ghz not tested)
+Work(Both 2.4Ghz and 5Ghz)
 
 SIM / Mobile Data / Voice:
-Work(only test China Unicom)
+Work(Tested China Mobile , China Unicom and China Telecom)
 
-VoLTE:
-Not supported yet
+VoLTE and IMS
+Flash this <a href="https://github.com/perillamint/magisk-volte-fix/releases/tag/v0.0.3">zip</a> in Magisk or flash these two <a href="https://github.com/khrj/volte-fix/releases/tag/v5">zips</a> in TWRP (The Uninstaller first and the fix second)
 
 Fingerprint Reader:
 Work
 
 Headphone:
-Not tested
+Work
 
 adb:
 Work
 
+Network Speed and stat:
+See Lenovo Z5 in Coolapk
+
 Additional Notes:
-Had test AOSP 9.0 vallina no su
-flash stock rom version 075 by QFIL then unlock the bootloader.
+Had test Superior OS based on Phh treble v415 Android 12L
+flash stock rom version 075 by QFIL then unlock the bootloader and flash Mokee 100
 
 
 Template created by @zguithues
