@@ -1,6 +1,7 @@
 # [Huawei Y6 (2018)/Y6 Prime (2018)](https://www.gsmarena.com/huawei_y6_(2018)-9162.php)
 ![Huawei Y6 (2018)](https://cdn2.gsmarena.com/vv/bigpic/huawei-y6-2018.jpg)
-Updating pkease wait for my new changelogs
+
+
 
 Device supported.
 
@@ -16,6 +17,7 @@ Devices tested:
 
 * Bootloop on Android 9.0 GSIs **based on v127 below** (requires vendor patching to fix).
 * Bootloop on all Android 8.x GSIs based on Phh-AOSP **v25 and above**.
+* To Boot android 10 gsi need to remove magisk root on your boot ramdisk first (rename the magisk zip or magisk apk to uninstaller) and flash the [fix](https://drive.google.com/file/d/1GmWuBPvu4l0OdSWPzsNiKpof3Z98WHsA/view?usp=sharing) zip.
 
 ## Hardware support
 
