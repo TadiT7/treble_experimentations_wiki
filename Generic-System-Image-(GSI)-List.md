@@ -1,17 +1,18 @@
 Here's a collection of available GSIs, in order to keep it easy to choose what you want.	
-##### _Note: All images here are of A/B Partition Style only, unless otherwise specified through a column._
+##### _All images here are of A/B Partition Style only, unless otherwise specified through a column._
 
 ## Official Android 13	
-|Last Updated|Image|Maintainer|Thread / Download|Architecture|Phh Base|Security Patch|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|25 July|Google GSI|Google|[Downloads](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|ARM64 - X86|❌|July 2022|	
+##### _As of the moment, the only available Android 13 GSI builds are the ones provided by Google. Google GSI is not based on Phhusson's GSI sources and patches, and may contain significantly lesser features and optimizations._
+|Updated|Image|Maintainer|Links|Architecture|Security|	
+|:-:|:-:|:-:|:-:|:-:|:-:|	
+|25 July|Google GSI|Google|[Downloads](https://developer.android.com/about/versions/13/gsi-release-notes#downloads)|ARM64 - X86|July 2022|	
 
 
 ## Official Android 12/12L	
-|Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
+|Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |08 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|arm64 - x86|July 2022|
-|02 Aug|LeOS S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
+|05 Aug|LeOS S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
 |25 July|LeOS 19.1|Harvey186| [Downloads](https://leos-gsi.de/downloads/LeOS-19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|
 |17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
@@ -22,7 +23,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 ## Unofficial Android 12/12L
-|Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
+|Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|arm64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|arm64|July 2022|
@@ -41,7 +42,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 ## Latest Android 10, 11 GSIs
-|Last Updated|Image|Maintainer|Thread / Download|Partition Style|Architecture|	
+|Updated|Image|Maintainer|Links|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|		
 |Aug|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|A/B|arm64 - x86|
 |July|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| A - A/B| arm64 - x86|
