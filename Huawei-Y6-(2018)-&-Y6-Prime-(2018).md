@@ -11,7 +11,7 @@ Devices tested:
 * ATU-L22
 * ATU-L42
 
-**This device is A-only.**
+**This device is Arm64 A-only.**
 
 ## Known booting issues
 
