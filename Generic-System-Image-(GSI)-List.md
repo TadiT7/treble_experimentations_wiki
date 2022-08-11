@@ -13,7 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |08 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|arm64 - x86|July 2022|
 |02 Aug|LeOS S|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-gsi.de/downloads/LeOS-S/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|arm64|July 2022|
-|25 July|LeOS 19.1|Harvey186| [Downloads](https://leos-gsi.de/downloads/LeOS--19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|
+|25 July|LeOS 19.1|Harvey186| [Downloads](https://leos-gsi.de/downloads/LeOS-19.1/) / [Telegram](https://t.me/LeOS_Support)|arm64 - binder|July 2022|
 |17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|arm64 - binder|July 2022|
 |09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|arm64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|	
 |13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|arm64|May 2022|	
