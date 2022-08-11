@@ -24,6 +24,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Last Updated|Image|Maintainer|Thread / Download|Architecture|Security Patch|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|arm64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|arm64|July 2022|
 |20 July|crDroid|Nazim|[Telegram](https://t.me/naz_dev/78)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/crDroid-8.7/)|arm64 - binder|July 2022|
 |19 July|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|arm64 - binder|July 2022|
