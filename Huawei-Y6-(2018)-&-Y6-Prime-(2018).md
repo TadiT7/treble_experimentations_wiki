@@ -67,6 +67,8 @@ A list of working ROMs for the Huawei Y6 (2018) are available [here (XDA)](https
 
 * Stock Android 8 (Oreo) (tested from ATU-L22 8.0.0.143)
 * Bootloader is unlocked
+* Twrp recovery for flashing a gsi roms
+
 
 ### Installation steps:
 
