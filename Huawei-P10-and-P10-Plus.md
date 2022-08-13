@@ -5,13 +5,23 @@ Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
 Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
 
 Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
-If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.
+If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.  
+  
+**Recommended Android GSI version:Android Q(Android 10).**  
+> For example:Lineage OS 17,Havoc-OS v3.12 or else.  
+  
+## Kernel Require(Only For EMUI9.If you are in EMUI8,you can use command in terminal or adb.)  
+Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because Offical Kernel don't have permissive mode.  
+**Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
 
 ## Hardware Support
 
 No issues comparing stock Huawei ROM
 
-## Known issues
+## Known issues  
+  
+> If you have magisk, you can use this module to easily solve all the following problems.  
+> [Android10 and 11 GSI Generic Fix Module For Huawei P10(Support Android 12 too.)](https://github.com/Coconutat/GSI_Generic_Fix_Magisk_Module_For_Huawei_P10)  
 
 On Oreo vendor:
 - Q roms do not boot. (Tested with 8.0.0.386)
