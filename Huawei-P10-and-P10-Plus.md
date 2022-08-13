@@ -126,9 +126,9 @@ Or using `adb shell`:
 
 
 ### Magisk Support 
-You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.  
-You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**Then you cna use adb to install.  
-Please note that,**EMUI 9 don't have RAMDISK**.  So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.(HUAWEI FIRM FINDER V2.0)[https://professorjtj.github.io/v2/]  
+You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.    
+You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**Then you cna use adb to install.    
+Please note that,**EMUI 9 don't have RAMDISK**.  So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.      (HUAWEI FIRM FINDER V2.0)[https://professorjtj.github.io/v2/]    
 Then,follow the guide.Full install guide in here:**[Installation](https://topjohnwu.github.io/Magisk/install.html)**
 
 
