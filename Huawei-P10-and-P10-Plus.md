@@ -125,11 +125,10 @@ Or using `adb shell`:
     adb shell stop aptouch
 
 
-### Magisk v24.1 is Supported Based EMUI 9 Devices  
-You can install Magsik v24.1 for Based EMUI 9 Devices,Even you Use GSI.If you devices based EMUI 8,Magisk is doesn't work.  
-You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases/tag/v24.1).**Then you cna use adb to install.  
-Please note that,**EMUI 9 don't have RAMDISK**.  So,you need extract RECOVERY_RAMDIS.img in UPDATA.APP.If you don't know what is that.Follow this: 
- **[OpenKirin's Support Page](https://openkirin.net/support/)**  
+### Magisk Support 
+You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.  
+You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**Then you cna use adb to install.  
+Please note that,**EMUI 9 don't have RAMDISK**.  So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.(HUAWEI FIRM FINDER V2.0)[https://professorjtj.github.io/v2/]  
 Then,follow the guide.Full install guide in here:**[Installation](https://topjohnwu.github.io/Magisk/install.html)**
 
 
