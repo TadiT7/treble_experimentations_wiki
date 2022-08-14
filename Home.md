@@ -21,6 +21,7 @@ Since the original device list is pretty long, all supported devices list are no
 * [[Google]]
 * [[HTC]]
 * [[Huawei]]
+* [[Infinix]]
 * [[Lenovo and Motorola]]
 * [[LG]]
 * [[Nokia]]
