@@ -12,6 +12,8 @@ It might be a play on the Meghan Trainor song [All About That Bass](https://yout
 
 ### How can I check if my device is treble-enabled?
 
+Use Treble Info:
+
 [APK](https://gitlab.com/hackintosh5/TrebleInfo/-/releases)
 
 [Google Play](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)
