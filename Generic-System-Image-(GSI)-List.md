@@ -1,4 +1,7 @@
-Here's a collection of available GSIs, in order to keep it easy to choose what you want.	
+Here's a collection of available GSIs, in order to keep it easy to choose what you want.
+
+Note that you can only use images with an Android version higher or equal to the VNDK version on your device. If your device uses VNDK Lite, you *must* use vndklite images if available. Otherwise, you should use normal images. If in doubt about what image to install, check the "Required Image" section of [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled).
+
 ### _All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column._
 
 ## Official Android 13	
