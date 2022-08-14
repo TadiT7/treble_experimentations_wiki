@@ -12,9 +12,11 @@ It might be a play on the Meghan Trainor song [All About That Bass](https://yout
 
 ### How can I check if my device is treble-enabled?
 
-[Method 1 (preferred)](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck) - [Method 2](https://www.xda-developers.com/project-treble-android-oreo/)
+[APK](https://gitlab.com/hackintosh5/TrebleInfo/-/releases)
 
-Note that any device that launched with Android Oreo must be treble-enabled.
+[Google Play](https://play.google.com/store/apps/details?id=tk.hack5.treblecheck)
+
+Note that in order to be certified by Google, any device that launched with Android Oreo or higher must be treble-enabled. However, not all devices work properly.
 
 You can find an updated list with supported devices here: [[Home]].
 
