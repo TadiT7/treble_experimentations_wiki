@@ -35,7 +35,7 @@ Tested with Phh's GSI, LineageOS, CAOS, and PixelExperience (Android 10, 11 & 12
 | WiFi                      | OK                                                        |
 | Hotspot / Tethering       | OK                                                        |
 | SIM / Mobile Data / Voice | OK                                                        |
-| VoLTE                     | OK (Only works on Android ≥11)                            |
+| VoLTE.                    | OK (Android ≥11)                                          |
 | Fingerprint               | OK                                                        |
 | NFC                       | Unsupported                                               |
 | Offline Charging          | OK                                                        |
