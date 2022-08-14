@@ -110,9 +110,6 @@
 |[[Unihertz Titan]]|not sure|not sure|A/B|arm64|
 |[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
 |[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
-|[[vivo Y20 2021]]|PD2036|✓|A/B|arm64|
-|[[vivo Y12s]]|PD2036|✓|A/B|arm64|
-|[[vivo Y15]]|PD1901|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓|A|arm|
 |[[Wiko View Max]]|w_p200|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
