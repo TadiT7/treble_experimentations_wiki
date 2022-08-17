@@ -27,6 +27,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|17 Aug|ProjectBlaze|j7b3y|[Download](https://github.com/j7b3y/treble_pb/releases)|ARM64|July 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|ARM64|July 2022|
 |20 July|crDroid|Nazim|[Telegram](https://t.me/naz_dev/78)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/crDroid-8.7/)|ARM64 - Binder|July 2022|
