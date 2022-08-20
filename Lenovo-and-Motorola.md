@@ -41,4 +41,4 @@
 |[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
 |[[Motorola G200 5G / Edge S30]]|xpeng|✓|A/B|arm64|
 |[[Motorola Edge X30]]|hiphic|✓|A/B|arm64|
-|[[Motorola One Fusion+]]|liber|✓|A/B|arm64|
+|[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
