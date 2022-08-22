@@ -16,5 +16,5 @@ Tested with [crDroid-8.7-arm64_bvN-Unofficial.img.xz](https://sourceforge.net/pr
 | Fingerprint               | Works                                                     |
 | NFC                       | N/A                                                       |
 | Offline Charging          | Works                                            |
-| Other feature             | Screen sometimes can't wake up (reboot and leave screen on for a ~2-3 mins to fix this), charging indication in notification led is not working|
+| Other feature             | Monet support is broken, use https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme, screen sometimes can't wake up (reboot and leave screen on for a ~2-3 mins to fix this), charging indication in notification led is not working|
 ---
