@@ -32,7 +32,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|ARM64|July 2022|
 |20 July|crDroid|Nazim|[Telegram](https://t.me/naz_dev/78)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/crDroid-8.7/)|ARM64 - Binder|July 2022|
 |19 July|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|July 2022|
-|19 July|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|July 2022|
+|24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|August 2022|
 |19 July|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/76)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415/ArrowOS-12.1/)|ARM64 - Binder|July 2022|
 |17 July|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/172)/[Download](http://xiaomemeindex.com/treble/?dir=Superior/12L)|ARM64|July 2022|	
 |17 July|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/171)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|ARM64|July 2022|	
