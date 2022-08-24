@@ -28,7 +28,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|August 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|ARM64|July 2022| 	
-|20 Aug|Awaken OS|Unknown Maintainer|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|ARM64|August 2022|
+|20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|ARM64|August 2022|
 |20 Aug|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/87)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/ArrowOS-12.1/)|ARM64 - Binder|August 2022|
 |19 Aug|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/85) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|ARM64- Binder|August 2022|
 |17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|ARM64|August 2022|	
