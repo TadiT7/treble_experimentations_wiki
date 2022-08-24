@@ -14,7 +14,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/90)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|ARM64 - Binder|August 2022|
-|16 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|ARM64 - X86|July 2022|
+|16 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|ARM64 - X86|August 2022|
 |12 Aug|LeOS (19.1)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-19.1) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
 |05 Aug|LeOS (S)|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-S) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|ARM64|July 2022|
