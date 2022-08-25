@@ -35,9 +35,9 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |17 Aug|ProjectBlaze|j7b3y|[Download](https://github.com/j7b3y/treble_pb/releases)|ARM64|July 2022|
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|ARM64|July 2022|
 |14 Aug|crDroid|Nazim|[Telegram](https://t.me/naz_dev/82)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/crDroid-8.8/)|ARM64 - Binder|August 2022|
+|14 Aug|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|August 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|ARM64|July 2022|
-|19 July|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|July 2022|
 |January 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|ARM64 - Binder|December 2021|	
 |December 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|ARM64 - Binder|December 2021|	
 |December 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|ARM64|December 2021|	
