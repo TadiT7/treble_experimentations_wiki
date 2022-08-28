@@ -13,12 +13,14 @@
 |[[Huawei Honor 9]]|stf|✓|A|arm64|
 |[[Huawei Honor 9 Lite]]|lld|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Honor 10 Lite]]|hry|✓|A/B|arm64|
+|[[Huawei Honor 20]]|yal|✓|A/B|arm64|
 |[[Huawei Honor V8]]|knt|✓|A|arm64|
 |[[Huawei Honor View 10]]|berkeley / bkl|✓|A|arm64|
 |[[Huawei Mate 9]]|mha|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Mate 10]]|alp|✓|A (A/B when updated to EMUI 9)|arm64|
 |[[Huawei Mate 10 Lite]]|rne|✓|A|arm64|
 |[[Huawei Mate 10 Pro]]|blanc / bla|✓|A|arm64|
+|[[Huawei Mate 20 Pro]]|lya|✓|A/B|arm64|
 |[[Huawei Mate SE]]|bnd|✓|A|arm64|
 |[[Huawei MediaPad M5 Wifi]]|SHT-W09|✓|A/B|arm64|
 |[[Huawei P Smart]]|fig|✓|A|arm64|
