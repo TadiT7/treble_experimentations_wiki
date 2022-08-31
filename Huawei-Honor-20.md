@@ -5,7 +5,7 @@ Installation instruction and tests
 ## Steps to install
 ###  Downgrade to Magic UI 2.1 and unlock the bootloader
 (Software test points using DC-Phoneix and HCU clients etc...)  If you managed to get an unlock code, that's worth a try too.
-If you downgrade a device from EMUI 11 (errr maybe not this name on an Honor device) or above, you will need a harmony tp cable to reenable USB **2.0** transfer. Regular USB **3.0** cable is OK.
+If you downgrade a device from EMUI 11 (errr maybe not this name on an Honor device) or above, you will need a harmony tp cable to reenable USB **2.0** transfer. ~~Regular USB **3.0** cable is OK.~~ Honor 20 dosen't support USB 3.0! 
 
 If downgrading from EMUI 11,  Huawei SCP fast charging cannot be activated.
 
@@ -14,6 +14,7 @@ If downgrading from EMUI 11,  Huawei SCP fast charging cannot be activated.
 
 `fastboot flash system Havoc-OS-v3.12-20201230-Official-arm64-ab.img`
 
+Erase userdata.
 ## Hardware support
 
 | Component                 |      Comment                                              |
