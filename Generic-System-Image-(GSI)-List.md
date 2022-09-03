@@ -26,6 +26,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|03 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/99)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/crDroid-8.8-03092022/)|ARM64 - Binder|August 2022|
 |24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|August 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|ARM64|July 2022| 	
 |20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|ARM64|August 2022|
@@ -34,7 +35,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|ARM64|August 2022|	
 |17 Aug|ProjectBlaze|j7b3y|[Github](https://github.com/j7b3y/treble_pb)/[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|ARM64|July 2022|
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|ARM64|July 2022|
-|14 Aug|crDroid|Nazim|[Telegram](https://t.me/naz_dev/82)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/crDroid-8.8/)|ARM64 - Binder|August 2022|
 |14 Aug|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|August 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|ARM64|July 2022|
