@@ -11,7 +11,7 @@ If you want use **Pixel Experience (Based Android 12)** ,you only can install sl
 > For example:Lineage OS 17,Havoc-OS v3.12 or else.  
   
 ## Kernel Require(Only For EMUI9.If you are in EMUI8,you can use command in terminal or adb.)  
-Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because Offical Kernel don't have permissive mode.  
+Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.  
 **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
 
 ## Hardware Support
@@ -126,10 +126,11 @@ Or using `adb shell`:
 
 
 ### Magisk Support 
-You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.    
-You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**Then you cna use adb to install.    
-Please note that,**EMUI 9 don't have RAMDISK**.  
-So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.[HUAWEI FIRM FINDER V2.0](https://professorjtj.github.io/v2/)   
+You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.      
+You need download Magsik APP in **[Github releases](https://github.com/topjohnwu/Magisk/releases).**  
+Then you cna use adb to install.      
+Please note that,**EMUI 9 don't have RAMDISK**.    
+So,you need extract **RECOVERY_RAMDIS.img in UPDATA.APP**.You need this page to find your firmware.**[HUAWEI FIRM FINDER V2.0](https://professorjtj.github.io/v2/)**   
 Then,follow the guide.Full install guide in here:**[Installation](https://topjohnwu.github.io/Magisk/install.html)**
 
 
