@@ -18,7 +18,7 @@
 | SIM / Mobile Data / Voice | Working                                                   |
 | VoLTE                     | Untested                                               |
 | Fingerprint               | Working                                               |
-| Offline Charging          | Working                                                   |
+| Offline Charging          | Not Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Working                                                   |
 ---
