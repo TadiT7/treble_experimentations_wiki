@@ -13,16 +13,16 @@
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working                                                   |
 | Speaker / Mic             | Working                                                   |
-| Bluetooth                 | BT media doesn't work                                     |
+| Bluetooth                 | Working with audio                                    |
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Working                                                   |
-| VoLTE                     | Not Working                                               |
-| Fingerprint               | Not Working                                               |
+| VoLTE                     | Untested                                               |
+| Fingerprint               | Working                                               |
 | Offline Charging          | Working                                                   |
 | Tethering                 | Working                                                   |
 | Hotspot                   | Working                                                   |
 ---
 
-Tested By: Ajith - RMX1851 , Firmware version - RMX1851EX_11_A.18, Date tested - 05/06/2019.
+Tested By: nakiri13 - RMX1851 , Firmware version - RMX1851EX_F07, Date tested - 08/10/2022
 
 Template created by @zguithues and @hackintosh5
