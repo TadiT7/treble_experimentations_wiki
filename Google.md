@@ -9,3 +9,4 @@
 |[[Google Pixel 5]]|redfin|✓|A/B|arm64|
 |[[Google Pixel 5a]]|barbet|✓|A/B|arm64|
 |[[Google Pixel 6 and Pixel 6 Pro]]|oriole and raven|✓|A/B|arm64|
+|[[Google Pixel 6A]]|bluejay|✓|A/B|arm64|
