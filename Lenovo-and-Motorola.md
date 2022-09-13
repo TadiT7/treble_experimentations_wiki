@@ -4,6 +4,7 @@
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[Lenovo Tab M10 HD]]|TB-X505F|✓|A/B|arm64|
+|[[Lenovo Tab M10 Plus 3rd Gen (LTE) and Moto Tab g62]]|TB128XU / XT2261-2|✓|A/B|arm64|
 |[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
