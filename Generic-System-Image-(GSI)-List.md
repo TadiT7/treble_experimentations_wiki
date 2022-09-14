@@ -31,6 +31,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/105)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|ARM64 - Binder|August 2022|
 |03 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/99)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/crDroid-8.8-03092022/)|ARM64 - Binder|August 2022|
 |24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|August 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|ARM64|July 2022| 	
