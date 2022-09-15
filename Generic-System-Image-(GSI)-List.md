@@ -52,12 +52,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11 GSIs
 |Updated|Image|Maintainer|Links|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|		
-|Aug|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|SaR|ARM64 - X86|
-|July|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| non-SaR - SaR| ARM64 - X86|
-|July|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|non-SaR - SaR|ARM - ARM64 - Binder|	
-|July|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-R)|non-SaR - SaR|ARM - ARM64 - Binder|
-|July|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-Q)|SaR|ARM64 - Binder|
-|July|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|		
+|Sep|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|SaR|ARM64 - X86|
+|Sep|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)| non-SaR - SaR| ARM64 - X86|
+|Sep|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-R)|non-SaR - SaR|ARM - ARM64 - Binder|
+|Sep|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-Q)|SaR|ARM64 - Binder|
+|Aug|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|non-SaR - SaR|ARM - ARM64 - Binder|	
+		
 
 
 <br>
@@ -68,6 +68,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 11	
 |Last Updated|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
+|Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Dec 2021|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2021|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |non-SaR - SaR|arm - arm64 - binder|	
