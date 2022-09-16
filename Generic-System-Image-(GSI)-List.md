@@ -7,7 +7,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 13	
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|03 Sep|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|ARM64 - X86|Sep 2022|	
+|13 Sep|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|ARM64 - X86|Sep 2022|	
 
 ## Unofficial Android 13
 |Updated|Image|Maintainer|Links|Architecture|Security|	
@@ -18,10 +18,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|11 Sep|LeOS (19.1)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-19.1) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|Sep 2022|
+|07 Sep|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|ARM64 - X86|Sep 2022|
 |24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/90)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|ARM64 - Binder|August 2022|
-|16 Aug|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|ARM64 - X86|August 2022|
-|12 Aug|LeOS (19.1)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-19.1) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
-|05 Aug|LeOS (S)|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-S) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
+|05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|ARM64|July 2022|
 |17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|ARM64 - Binder|July 2022|
 |09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|ARM64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|	
@@ -68,7 +68,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 11	
 |Last Updated|Image|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Dec 2021|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2021|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |non-SaR - SaR|arm - arm64 - binder|	
@@ -86,6 +85,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 11:	
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Mar 2022|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|non-SaR - SaR|arm - arm64 - binder|         	
 |Dec 2021|exTHmUI Discontinued|xiaoleGun|[Telegram](https://t.me/LZYGSI/1837) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI)|SaR|arm64|	
