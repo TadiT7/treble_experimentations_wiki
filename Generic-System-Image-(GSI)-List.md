@@ -24,7 +24,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|ARM64 - Binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|ARM64|July 2022|
 |17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|ARM64 - Binder|July 2022|
-|09 July|Corvus OS (Not Based on Phh v415)|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|ARM64|July 2022 SPL for frameworks and June 2022 SPL for prebuilt Gapps|	
+|09 July|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Official/20220709/)|ARM64|July 2022|	
 |13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|ARM64|May 2022|	
 |10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|ARM64|June 2022|	
 
@@ -32,6 +32,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/105)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|ARM64 - Binder|August 2022|
+|12 Sep|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|Sep 2022|
 |03 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/99)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/crDroid-8.8-03092022/)|ARM64 - Binder|August 2022|
 |24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|ARM64|August 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|ARM64|July 2022| 	
@@ -41,7 +42,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|ARM64|August 2022|	
 |17 Aug|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|ARM64|July 2022|
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|ARM64|July 2022|
-|14 Aug|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|August 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|ARM64|July 2022|
 |January 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|ARM64 - Binder|December 2021|	
