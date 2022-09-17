@@ -13,7 +13,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |13 Sep|AOSP|SOOTI|[XDA](https://forum.xda-developers.com/t/13-0-gsi-rom-curtana-joyeuse-excalibur-aosp-gapps-13-09-22.4486097/) / [Download](https://drive.google.com/drive/folders/1Z4n80gKkrZVGycVB2gvHCxJkVPVKTPl6)|ARM64|Sep 2022|
-
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
