@@ -6,10 +6,6 @@
 - [MikuUI-SNOWLAND-0.7.0-arm64-ab-vndklite-gapps-secure-20220725-UNOFFICIAL.img.xz](https://github.com/xiaoleGun/treble_build_miku/releases)
 - [Kaleidoscope-sunflowerleaf-treble-20220726-OFFICIAL-system.zip](https://kaleidoscope.ink/download.html?device=meowmobile/treble)
 
-
-# Not working
-- [lineage-19.1-20220719-UNOFFICIAL-arm64_bvS-vndklite.img.xz](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x) `Does not boot at all`
-
 # Steps to install
 
 ```
