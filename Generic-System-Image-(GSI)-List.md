@@ -24,7 +24,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|17 Sep|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/87)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/ArrowOS-12.1/)|ARM64 - Binder|August 2022|
+|17 Sep|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/87)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/ArrowOS-12.1/)|ARM64 - Binder|Sep 2022|
 |16 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/99)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/crDroid-8.9/)|ARM64 - Binder|Sep 2022|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/105)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|ARM64 - Binder|August 2022|
 |12 Sep|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|ARM64 - Binder|Sep 2022|
