@@ -11,7 +11,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|	
-|21 Sep|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/87)/[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/21092022/)|ARM64 - X86|Sep 2022|
+|21 Sep|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/87)/[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/21092022/)|ARM64 - Binder|Sep 2022|
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
