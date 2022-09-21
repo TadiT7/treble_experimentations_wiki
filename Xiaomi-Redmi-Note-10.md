@@ -28,9 +28,9 @@ fastboot -w
 | SIM/Mobile Data/Voice | Works ( Misc > **Install IMS Apk for Qualcomm vendor** ) |
 | VoLTE | Works ( IMS features / **Request IMS network** & **Force the presense of 4G calling**) |
 | Fingerprint | Works |
-| NFC | Untested |
-| Screen Brightness | Buggy ([PR to merge the fix](https://github.com/phhusson/vendor_hardware_overlay/pull/605)) |
-| Auto Brightness | Doesn't exist ([PR to merge the fix](https://github.com/phhusson/vendor_hardware_overlay/pull/605)) |
+| NFC | N/A |
+| Screen Brightness | Works |
+| Auto Brightness | Works |
 | Volume scale | Works |
 | 5G | N/A |
 | SafetyNet post root | Passed (with [Redfin-Props](https://github.com/Pixel-Props/redfin/releases), [safetynet-fix](https://github.com/kdrag0n/safetynet-fix/releases), Zygisk, Enforce Denylist & Hiding magisk) |
