@@ -15,9 +15,15 @@ Mostly working fine (see Hardware support bellow)
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
-fastboot -w
+fastboot -w  # Wipe userdata
 ```
 
+# Steps to update (if OTA is not working)
+
+```
+fastboot reboot fastboot
+fastboot flash system your_gsi_rom_of_choice.img
+```
 
 # Hardware Support post flashing
 
