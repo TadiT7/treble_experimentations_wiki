@@ -1,3 +1,5 @@
+This page covered all supported Android devices under Lenovo brand, including Motorola and NEC.
+
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |[[Lenovo K5 Note / K9 Note]]|L38012|✓|A|arm64|
