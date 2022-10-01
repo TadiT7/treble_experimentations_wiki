@@ -1,6 +1,6 @@
 Tested LineageOS on Huawei P10 Plus (VKY-L29)
 Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
-## Tested **[PE Android 13] (https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)
+## Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)
 
 Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
 
