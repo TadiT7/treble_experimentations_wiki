@@ -1,5 +1,5 @@
 Tested LineageOS on Huawei P10 Plus (VKY-L29)
-
+Tested PE A13 (VTR-L29) 9.0.1.190
 Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
 
 Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
@@ -13,6 +13,8 @@ If you want use **Pixel Experience (Based Android 12)** ,you only can install sl
 ## Kernel Require(Only For EMUI9.If you are in EMUI8,you can use command in terminal or adb.)  
 Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.  
 **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
+
+## Android 13 won't boot without permissive kernel and fstab decrypt 
 
 ## Hardware Support
 
@@ -124,6 +126,8 @@ Or using `adb shell`:
     adb root
     adb shell stop aptouch
 
+### decrypt fstab for Huawei kirin 960
+In order for you to decrypt you need to use emui 9.0 base stock not 9.1(9.1 is erofs which it's read only filesystem that can't be mounted), find the fstab.hi3660 in vendor/etc, then edit the fstab just remove the "encrypxxxxxxxxxxxxxxxxxxxxxxxx20m" after do a factory reset from stock recovery 
 
 ### Magisk Support 
 You can install Magsik v25+ for Based EMUI 9 or EMUI 8 Devices,Even you Use GSI.      
