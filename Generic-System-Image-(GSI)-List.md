@@ -32,6 +32,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|28 Sep|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[Github](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
 |17 Sep|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/ArrowOS-12.1/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
 |16 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/crDroid-8.9/)|[Github](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Sep 2022|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[Github](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|August 2022|
@@ -41,7 +42,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|August 2022|
 |19 Aug|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|-|ARM64- Binder|August 2022|
 |17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|-|ARM64|August 2022|	
-|17 Aug|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[Github](https://github.com/j7b3y/blaze_patches_unified)|ARM64|July 2022|
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|-|ARM64|July 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|[Github](https://github.com/AngelaCooljx/treble_build_pe)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[Github](https://github.com/xiaoleGun/treble_build_miku)|ARM64|July 2022|
