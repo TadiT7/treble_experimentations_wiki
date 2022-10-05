@@ -53,11 +53,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11 GSIs
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|		
-|Sep|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SaR||ARM64 - X86|
+|Oct|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SaR||ARM64 - X86|
+|Sep|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Sep|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
 |Sep|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-R)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Sep|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-Q)|[Github](https://github.com/LeOS-GSI/treble-patches)|SaR|ARM64 - Binder|
-|Aug|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|	
+	
 		
 
 
