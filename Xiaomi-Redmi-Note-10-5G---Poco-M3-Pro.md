@@ -11,7 +11,7 @@
 | Bluetooth                 | Not tested, recommended to enable "Force disable A2DP off-load" and set "Bluetooth workarounds" to Mediatek at Phh Treble Settings. |
 | WiFi                      | Works.                                                    |
 | SIM / Mobile Data / Voice | Works.                                                    |
-| VoLTE                     | Not tested.                                               |
+| VoLTE                     | Not working.                                               |
 | Fingerprint               | Works.                                                    |
 | NFC                       | Works.                                                    |
 | Bluetooth calls           | Not Tested.                                               |
