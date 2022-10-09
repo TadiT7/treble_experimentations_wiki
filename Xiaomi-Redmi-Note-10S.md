@@ -45,3 +45,4 @@
 - If you want AOD enable it in `Misc features > Force allow Always-On Display`
 - For brightness enable `Misc features > Force alternative backlight scale`
 - For bluetooth audio enable `Misc features > Force-disable A2DP offload`
+- If the sim card does not connect to the network, check the IMEI. It's a common problem on MTK based devices. If it is not present, try to define it. (There are different methods to do this. Be aware of what you are touching Network related operations are quite sensitives.)
