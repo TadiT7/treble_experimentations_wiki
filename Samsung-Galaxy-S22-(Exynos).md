@@ -2,8 +2,10 @@
 
 ## Steps to install
 
-*  Unlock Bootloader (Enable OEM Unlocking, power-off, hold Vol+&- while plugging in to PC)
-* Patch and Flash recovery with fastbootd (you can patch recovery with **[Johnx22's Patch-Recovery Tool](https://github.com/Johx22/Patch-Recovery)**)
+* Unlock Bootloader (Enable OEM Unlocking in Developer Options, power the phone off, hold Vol+&- while plugging in to your PC)
+* Download the latest firmware for your device (You can use e.g. Samfirm - google it)
+* Extract the archive, open up the super archive via 7Zip Z-Standard (NOT THE REGULAR 7-Zip), extract the recovery archive and then extract that one to get your own recovery.img
+* Patch your recovery image (you can patch it with **[Johnx22's Patch-Recovery Tool](https://github.com/Johx22/Patch-Recovery)**
 
 * To flash the patched recovery, download **[Heimdall](https://glassechidna.com.au/heimdall/)**
 * Extract it and put the patched recovery.img into the same directory as the heimdall.exe (or the Linux equivalent)
