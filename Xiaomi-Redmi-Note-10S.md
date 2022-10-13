@@ -49,5 +49,5 @@
 
 # Useful links
 
-- IMEI Backup : 'https://drive.google.com/file/d/1krl_rG2G-wFg80nhBGtbuxpUICVGfNI2/view'
-- IMEI Write Procedure : 'https://youtu.be/dBChdd40EuU'
+- IMEI Backup : https://drive.google.com/file/d/1krl_rG2G-wFg80nhBGtbuxpUICVGfNI2/view
+- IMEI Write Procedure : https://youtu.be/dBChdd40EuU
