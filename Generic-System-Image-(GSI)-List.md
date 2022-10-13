@@ -33,12 +33,12 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|11 Oct|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[Github](https://github.com/AndyCGYan/lineage_build_unified)|ARM64 - Binder|Oct 2022|
 |03 Oct|Nitrogen OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/NitrogenOS/)|-|ARM64|Sep 2022|
 |28 Sep|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[Github](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
 |17 Sep|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/ArrowOS-12.1/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
 |16 Sep|crDroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Sep/crDroid-8.9/)|[Github](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Sep 2022|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[Github](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|August 2022|
-|12 Sep|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[Github](https://github.com/AndyCGYan/lineage_build_unified)|ARM64 - Binder|Sep 2022|
 |24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|ARM64|August 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|[Github](https://github.com/haridhayal11/treble_proton_aosp)|ARM64|July 2022| 	
 |20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|August 2022|
