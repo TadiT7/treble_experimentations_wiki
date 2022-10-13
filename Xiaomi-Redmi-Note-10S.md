@@ -17,7 +17,8 @@
 # Steps to install
 
 <https://forum.xda-developers.com/t/flashing-gsi-roms-on-redmi-note-10s-and-then-fixing-some-issues-all-without-any-custom-recovery.4337099/>
-`Experimental :` <https://youtu.be/hgLqxyvGYvI>
+
+`Experimental Android 13 :` <https://youtu.be/hgLqxyvGYvI>
 
 # Hardware Support post flashing
 
