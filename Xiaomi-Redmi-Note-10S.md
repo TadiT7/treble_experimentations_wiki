@@ -51,3 +51,5 @@
 
 - IMEI Backup : https://drive.google.com/file/d/1krl_rG2G-wFg80nhBGtbuxpUICVGfNI2/view
 - IMEI Write Procedure : https://youtu.be/dBChdd40EuU
+- Unbrick procedure : https://www.youtube.com/watch?v=2MgjBu5zyG4
+
