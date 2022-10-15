@@ -13,9 +13,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |11 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/184)/ [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases/tag/A13-v20221010)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Oct 2022|
-|10 Oct|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64 - Binder|Oct 2022|
+|10 Oct|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64 - Binder|Oct 2022|
+|09 Oct|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2022|
 |09 Oct|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Sept 2022|
-|03 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/03102022/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
+|03 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/03102022/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
 |08 Oct|LeOS-T (beta)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Oct 2022|
 
 ## Official Android 12/12L	
@@ -45,7 +46,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|[Github](https://github.com/haridhayal11/treble_proton_aosp)|ARM64|July 2022| 	
 |20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|August 2022|
 |19 Aug|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|-|ARM64- Binder|August 2022|
-|17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|-|ARM64|August 2022|	
+|17 Aug|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174)/[Download](https://xiaomemeindex.com/treble/?dir=Superior/12L)|-|ARM64|August 2022|
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|-|ARM64|July 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|[Github](https://github.com/AngelaCooljx/treble_build_pe)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[Github](https://github.com/xiaoleGun/treble_build_miku)|ARM64|July 2022|
