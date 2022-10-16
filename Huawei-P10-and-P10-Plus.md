@@ -34,11 +34,23 @@ Tips:
 **Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues **.  
 > For example:Lineage OS 17,Havoc-OS v3.12 or else.  
   
+## Unlock Bootloader Tool  
+**[PotatoNV](https://github.com/mashed-potatoes/PotatoNV)**  
+This is a Kirin SoC Unlock Bootloader Tool.Huawei Devices have double partition lock.One is called USER LOCK and the other is called BL LOCK.Unlock the BL LOCK only can flash the system，boot，recovery，userdata and more.Unlock the USER LOCK can flash the kernel，ODM，product and more.So you need unlock the all lock to flash the kernel or upgrade/downgrade to EMUI 7/8/9.  
+This tool will help you unlock all lock.  
+Tips:  
+* Check the FPR Lock box you will unlock USER LOCK.(In this time,you reboot to bootloader,you will see BL is unlocked,but is not unlocked.)  
+* Use this tool you will get random 16 bit unlock code, then enter the bootloader and enter  
+` fastboot oem unlock XXXXXXXXXXXXXXXX`  
+* This time is really unlock all partition.
+ 
 ## Kernel Require
 **Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.**  
 > EMUI 8 Version:  
 > > * [Proto8](https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/):Stable for All Version P10 or P10 Plus devices.  
 > > * [HyperPlus Kernel](https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/):Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
+
+  
 > EMUI 9 Version:  
 >> For CN Version:  
 >> * **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
