@@ -1,20 +1,47 @@
-Tested LineageOS on Huawei P10 Plus (VKY-L29)
-Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)
-## Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)
+# Device Version for Huawei P10 or P10 Plus  
+## VTR(P10)  
+* VTR-AL00 -- CN Version(No SIM card restriction)   
+* VTR-TL00 -- CN Version(China Mobile Company Customized version)  
+* VTR-L09 -- Europe Version  
+* VTR-L29 -- For Global Market Version  
+  
+## VKY(P10 Plus)  
+* VKY-AL00 -- CN Version(No SIM card restriction) 
+* VKY-TL00 -- CN Version(China Mobile Company Customized version)  
+* VKY-L09 -- Europe Version
+* VKY-L29 -- For Global Market Version  
+  
+***  
 
-Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))
-
+# GSI Test List  
+**This list will tell you which GSI systems have been tested. If you have some problems and functional errors, please browse the following content first.**  
+> Warning bulletin board：  
+>> * Android 13 For Huawei P10 or P10 Plus is instable.You will face no SIM card recognition, no signal, and some hardware cannot be used or even not boot.  
+>> There are two kinds of storage chips for CN version devices, EMMC and UFS.Europe and Global Market Version Only UFS Chips.So this sometimes leads to some hidden errors.  
+>> New Version Android 13 fixed the boot issues.(Pixel Experience(Android 13)).  
+  
+Europe or Global Version Tested List:  
+Tested LineageOS on Huawei P10 Plus (VKY-L29)  
+Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
+## Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
+  
+CN Version Tested List:  
+Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))  
 Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
 If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.  
-  
-**Recommended Android GSI version:Android Q(Android 10).**  
+ 
+Tips:  
+**Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues **.  
 > For example:Lineage OS 17,Havoc-OS v3.12 or else.  
   
-## Kernel Require(Only For EMUI9.If you are in EMUI8,you can use command in terminal or adb.)  
-Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.  
-**Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
-
-## Android 13 won't boot without permissive kernel and fstab decrypt 
+## Kernel Require
+**Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.**  
+> EMUI 8 Version:  
+> > (Proto8)[https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/]:Stable for All Version P10 or P10 Plus devices.  
+> > (HyperPlus Kernel )[https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/]:Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
+> EMUI 9 Version:  
+>> For CN Version:  
+>> **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
 
 ## Hardware Support
 
