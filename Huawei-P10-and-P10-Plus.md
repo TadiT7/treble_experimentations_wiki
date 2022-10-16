@@ -17,8 +17,8 @@
 **This list will tell you which GSI systems have been tested. If you have some problems and functional errors, please browse the following content first.**  
 > Warning bulletin board：  
 >> * Android 13 For Huawei P10 or P10 Plus is instable.You will face no SIM card recognition, no signal, and some hardware cannot be used or even not boot.  
->> There are two kinds of storage chips for CN version devices, EMMC and UFS.Europe and Global Market Version Only UFS Chips.So this sometimes leads to some hidden errors.  
->> New Version Android 13 fixed the boot issues.(Pixel Experience(Android 13)).  
+>> * There are two kinds of storage chips for CN version devices, EMMC and UFS.Europe and Global Market Version Only UFS Chips.So this sometimes leads to some hidden errors.  
+>> * New Version Android 13 fixed the boot issues.(Pixel Experience(Android 13)).  
   
 Europe or Global Version Tested List:  
 Tested LineageOS on Huawei P10 Plus (VKY-L29)  
@@ -37,11 +37,11 @@ Tips:
 ## Kernel Require
 **Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.**  
 > EMUI 8 Version:  
-> > (Proto8)[https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/]:Stable for All Version P10 or P10 Plus devices.  
-> > (HyperPlus Kernel )[https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/]:Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
+> > * (Proto8)[https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/]:Stable for All Version P10 or P10 Plus devices.  
+> > * (HyperPlus Kernel )[https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/]:Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
 > EMUI 9 Version:  
 >> For CN Version:  
->> **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
+>> * **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
 
 ## Hardware Support
 
