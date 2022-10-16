@@ -37,8 +37,8 @@ Tips:
 ## Kernel Require
 **Some GSI need SELinux is permissive mode.So you need flash the custom kernel. Because official Kernel don't have permissive mode.**  
 > EMUI 8 Version:  
-> > * (Proto8)[https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/]:Stable for All Version P10 or P10 Plus devices.  
-> > * (HyperPlus Kernel )[https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/]:Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
+> > * [Proto8](https://forum.xda-developers.com/t/kernel-eas-8-0-8-1-9-0-gpusc-proto8-kernel-ofast.3780551/):Stable for All Version P10 or P10 Plus devices.  
+> > * [HyperPlus Kernel](https://forum.xda-developers.com/t/kernel-eas-hyperplus-kernel-for-p10-p10-plus.3753128/):Stable for All Europe or Global Version P10 and P10 Plus devices.If your CN version device storage chip is ufs, you can use this kernel.Else you will get boot loop.   
 > EMUI 9 Version:  
 >> For CN Version:  
 >> * **Recommended kernel:[Pangu Kernel](https://github.com/maimaiguanfan/android_kernel_huawei_hi3660).**  
