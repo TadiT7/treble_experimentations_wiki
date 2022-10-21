@@ -17,7 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |09 Oct|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2022|
 |09 Oct|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Sept 2022|
 |08 Oct|LeOS-T (beta)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Oct 2022|
-|5 Oct|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.3.1)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
+|05 Oct|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.3.1)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
 |03 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/03102022/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
 
 ## Official Android 12/12L	
@@ -54,15 +54,15 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |16 Aug|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/173)/ [Download](https://xiaomemeindex.com/treble/?dir=Cherish)|-|ARM64|July 2022|
 |11 Aug|dotOS|AngelaCool|[Download](https://sourceforge.net/projects/dotos-6-0-phh-gsi/files/)|[Github](https://github.com/AngelaCooljx/treble_build_pe)|ARM64|July 2022|
 |26 July|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[Github](https://github.com/xiaoleGun/treble_build_miku)|ARM64|July 2022|
-|January 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|[Github](https://github.com/Yilliee/octavi_patches)|ARM64 - Binder|December 2021|	
-|December 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|-|ARM64 - Binder|December 2021|	
-|December 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|-|ARM64|December 2021|	
+|Jan 2022|OctaviOS|Yillié|[Telegram](https://t.me/dev_yilliee/163)/[Download](https://sourceforge.net/projects/yilliee-projects/files/GSIs/Octavi/v3.2/)|[Github](https://github.com/Yilliee/octavi_patches)|ARM64 - Binder|December 2021|	
+|Dec 2021|ProtonAOSP|Amy|[Download](https://sabina.amyrom.ml/phhgsis/protonaosp/)|-|ARM64 - Binder|December 2021|	
+|Dec 2021|exTHmUI (Discontinued)|xiaoleGun|[Telegram](https://t.me/LZYGSI/1851) / [Download](https://pan.xiaolegun.cn/GSI/Phh-Treble/exTHmUI/Android-12-Dev)|-|ARM64|Dec 2021|	
 
 
 ## Latest Android 10, 11 GSIs
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Oct 2022|Fork-LineageOS|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|		
+|Oct|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|		
 |Oct|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SaR|ARM64 - X86|
 |Sep|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Sep|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
