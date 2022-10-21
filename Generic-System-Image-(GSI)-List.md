@@ -29,7 +29,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
 |05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|-|ARM64|July 2022|
-|17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|ARM64 - Binder|July 2022|
+|17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases/tag/v415)|[Github](https://github.com/phhusson/treble_experimentations)|ARM64 - Binder|July 2022|
 |13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|[Github](https://github.com/Descendant/manifest)|ARM64|May 2022|	
 |10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|[Github](https://github.com/StatiXOS/android_manifest)|ARM64|June 2022|	
 
@@ -83,7 +83,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Mar 2022|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-r-mod-caos11.4265059/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS11-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Dec 2021|Corvus OS|TipzTeam1|[XDA](https://forum.xda-developers.com/t/gsi-alpha-11-phh-corvus-v12-5-xmas.4212765/) / [Telegram](https://t.me/CorvusGSI) / [Download](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/)|non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2021|Dot OS|Community|[Website](https://www.droidontime.com/) / [Telegram](https://telegram.me/dotos) / [Download](https://www.droidontime.com/devices) |non-SaR - SaR|arm - arm64 - binder|	
-|Oct 2021|AOSP|Phhusson|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/phhusson/treble_experimentations/releases)|non-SaR - SaR|arm - arm64 - binder|	
+|Oct 2021|AOSP|Phhusson|[Telegram](https://t.me/phhtreble) / [Download](https://github.com/phhusson/treble_experimentations/releases/tag/v313)|non-SaR - SaR|arm - arm64 - binder|	
 |Sep 2021|OctaviOS|Yilliee|[Website](https://octavi-os.com/) / [Telegram](http://t.me/octavigsi) / [Download](https://downloads.octavi-os.com/?dir=GSI)|non-SaR - SaR|arm - arm64 - binder|	
 |Sep 2021|Descendant 11.5|Dil3mm4|[Download](https://downloads.descendant.me/)|non-SaR - SaR|arm64|	
 |Aug 2021|NusantaraProject|wulan17|[Telegram](https://t.me/NusantaraUpdates/1634) / [Download](https://www.pling.com/p/1438186/)|non-SaR - SaR|arm - arm64 - binder|	
@@ -111,7 +111,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2020|BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|non-SaR - SaR|arm - arm64 - binder|	
-|Aug 2020|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases)|non-SaR - SaR|arm - arm64 - binder|	
+|Aug 2020|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3992559) / [Download](https://github.com/phhusson/treble_experimentations/releases/tag/v222)|non-SaR - SaR|arm - arm64 - binder|	
 
 ## Unofficial Android 10:	
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
@@ -130,7 +130,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|	
 |AOSiP|akhilnarang|[Download](https://sourceforge.net/projects/illusionproject/files/GSI/)|non-SaR - SaR|arm - arm64|	
-|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/) / [Download](https://github.com/phhusson/treble_experimentations/releases)|non-SaR - SaR|arm - arm64 - binder|	
+|AOSP|phhusson|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3831915/) / [Download](https://github.com/phhusson/treble_experimentations/releases/tag/v123)|non-SaR - SaR|arm - arm64 - binder|	
 |AospExtended|EnesSastim|[Download](https://sourceforge.net/projects/aospextended-rom/files/treble_gsi/)|non-SaR - SaR|arm - arm64 - binder|	
 |ArrowOS|ganesh varma|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3835111/) / [Download](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/)|non-SaR - SaR|arm64|	
 |Bliss OS|sixohtew|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/-t3918303/) / [Download](https://sourceforge.net/projects/blissroms/files/GSI/)|non-SaR - SaR|arm - arm64|	
