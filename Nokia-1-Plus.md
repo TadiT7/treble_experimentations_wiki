@@ -30,9 +30,12 @@ To install, follow these steps:
 2. Pull the patched boot image out of your device.
 3. Reboot to recovery mode and select wipe data/factory reset manually.
 4. Reboot to bootloader mode and install OS.
-```fastboot flash boot magisk_patched-25200_XXXXX.img
+```
+fastboot flash boot magisk_patched-25200_XXXXX.img
 fastboot flash system system-squeak-arm32_binder64-ab-vndklite-vanilla.img
-fastboot reboot```
+fastboot reboot
+```
+
 ***
 
 
