@@ -35,6 +35,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
 |16 Oct|crDroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/crDroid-8.10/16102022/)|[Github](https://github.com/naz664/crDroid_gsi)|ARM64 - Binder|Oct 2022|
 |13 Oct|RiceDroid™|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/riceDroid/)|-|ARM64|Oct 2022|
 |11 Oct|Xdroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/xdroid/)|-|ARM64|Aug 2022|
