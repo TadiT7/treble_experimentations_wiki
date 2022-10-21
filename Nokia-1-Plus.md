@@ -22,7 +22,7 @@ Only "arm32_binder64-ab-vanilla" flavor is known working.
 
 You must wipe data / factory reset under stock recovery + stock ROM before flashing this treble GSI, don't use fastboot to erase userdata (either format userdata, -w or flash userdata are not acceptable). Otherwise you'll only get less than 1GB free storage space to use.
 
-To install Android 12 based custom ROM under [last Android 11 firmware](https://android.googleapis.com/packages/ota-api/package/0abc215a4a29b1800c35cbc27fe36767a03b1977.zip), you need to extract boot.img and flash it to your phone with following command:
+To install Android 12 based custom ROM under [last Android 11 firmware](https://android.googleapis.com/packages/ota-api/package/0abc215a4a29b1800c35cbc27fe36767a03b1977.zip), you need to extract boot.img and flash it to your phone with following command before you flash system:
 
 ```fastboot --disable-verity --disable-verification flash boot boot.img```
 ***
