@@ -38,6 +38,6 @@
 |[[Huawei P30]]|ele|✓|A/B|arm64|
 |[[Huawei P30 Lite]]|mar|✓|A/B|arm64|
 |[[Huawei P30 Pro]]|vog|✓|A/B|arm64|
-|[[Huawei P50]]|abr|✓|A/B|arm64|
+|[[Huawei P50]]|amber / abr|✓|A/B|arm64|
 |[Huawei Y6 / Y6 Prime (2018)](https://github.com/phhusson/treble_experimentations/wiki/Huawei-Y6-(2018)-&-Y6-Prime-(2018))|atu|✓|A|arm64|
 |[[Huawei Y9 (2018)]]|fla|✓|A (A/B when updated to EMUI 9)|arm64|
