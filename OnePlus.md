@@ -15,6 +15,7 @@
 |[[OnePlus 9 Pro]]|lemonadep|✓|A/B|arm64|
 |[[OnePlus 9R]]|lemonades|✓|A/B|arm64|
 |[[OnePlus 10 Pro]]|negroni|✓|A/B|arm64|
+|[[OnePlus Ace Pro / 10T]]|ovaltine|✓|A/B|arm64|
 |[[OnePlus Nord]]|avicii|✓|A/B|arm64|
 |[[OnePlus Nord 2]]|denniz|✓|A/B|arm64|
 |[[OnePlus Nord 2T]]|karen|✓|A/B|arm64|
