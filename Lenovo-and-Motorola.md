@@ -18,6 +18,8 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah|✓|A|arm|
 |[[Moto E7 Plus]]|guam|✓|A/B|arm64|
+|[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
+|[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter/jeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
@@ -30,10 +32,10 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto G9]]|guamp|✓|A/B|arm64|
 |[[Moto G31]]|cofud|✓|A/B|arm64|
 |[[Moto G71s / G82]]|rhodep|✓|A/B|arm64|
+|[[Moto S30 Pro / Edge 30 Fusion]]|tundra|✓|A/B|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Moto Z3]]|messi|✓|A/B|arm64|
-|[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
 |[[Motorola One]]|deen|✓|A/B|arm64|
 |[[Motorola One Power]]|chef|✓|A/B|arm64|
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
@@ -42,7 +44,6 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
 |[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
-|[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
 |[[Motorola G200 5G / Edge S30]]|xpeng|✓|A/B|arm64|
 |[[Motorola Edge X30]]|hiphic|✓|A/B|arm64|
 |[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
