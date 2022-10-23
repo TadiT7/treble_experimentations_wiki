@@ -19,6 +19,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |08 Oct|LeOS-T (beta)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Oct 2022|
 |05 Oct|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.3.1)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
 |03 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/03102022/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Sep 2022|
+|23 Oct|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[Github](https://github.com/AndyCGYan/lineage_build_unified)|ARM64|Oct 2022|
 
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
