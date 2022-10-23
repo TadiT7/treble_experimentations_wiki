@@ -15,6 +15,7 @@
 |[[Realme GT Master]]|RMX3360 / RMX3361 / RMX3363|✓|A/B|arm64|
 |[[Realme GT Master Explorer]]|RMX3366|✓|A/B|arm64|
 |[[Realme GT Neo3]]|RMX3560 / RMX3562|✓|A/B|arm64|
+|[[Realme GT2 Pro]]|RMX3300 / RMX3301|✓|A/B|arm64|
 |[[Realme 8i]]|RMX3151|✓|A/B|arm64|
 |[[Realme Narzo 20 (aka Realme 7i EU)]]|RMX2193|✓|A/B|arm64|
 |[[Realme Narzo 30A]]|RMX3171|✓|A/B|arm64|
