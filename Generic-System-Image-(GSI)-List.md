@@ -37,6 +37,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|23 Oct|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
 |20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
 |19 Oct|Arrow OS|Nazim|[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/ArrowOS-12.1/19102022/)|-|ARM64 - Binder|Oct 2022|
 |15 Oct|KomodoOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/KomodoOS/)|-|ARM64|Aug 2022|
