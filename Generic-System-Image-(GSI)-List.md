@@ -12,6 +12,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|25 Oct|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/25102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |23 Oct|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|ARM64|Oct 2022|
 |23 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Oct 2022|
 |11 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/184)/ [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases/tag/A13-v20221010)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Oct 2022|
