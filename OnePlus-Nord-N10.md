@@ -7,6 +7,8 @@ This device uses A/B Partition
 
 √AOSP 12.1 v412
 
+√Lineageos 12 20221011
+
 _**Prerequisites**_
 * OnePlus Nord N10 5G with unlocked bootloader and default recovery
 * Latest platform-tools installed `https://developer.android.com/studio/releases/platform-tools`fas
@@ -72,7 +74,15 @@ _**Steps to Install**_
 | Fingerprint               | √ |
 | NFC                       | √ |
 | Offline Charging          | √ |
+### **_How to update_**
+**1. Flash system_a**
+`fastboot flash system_a system.img`
 
+**2. Flash system_b**
+`fastboot flash system_b system.img`
+
+**3. Reboot to system**
+`fastboot reboot`
 
 Device tested by:
 Coaleb2
