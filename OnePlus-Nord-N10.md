@@ -74,7 +74,7 @@ _**Steps to Install**_
 | Fingerprint               | √ |
 | NFC                       | √ |
 | Offline Charging          | √ |
-### **_How to update_**
+### **_How to update without built in updater_**
 **1. Flash system_a**
 `fastboot flash system_a system.img`
 
