@@ -76,8 +76,8 @@
 |[[MBI S10]]|s10|✓|A|arm64|
 |[[Meizu 18]]|meizu_18|✓|A/B|arm64|
 |[[Micromax In 1]]|E6746|✓|A/B|arm64|
-|[[Microsoft Surface Duo]]|duo|✓|A/B|arm64|
-|[[Microsoft Surface Duo 2]]|duo2|✓|A/B|arm64|
+|[[Microsoft Surface Duo]]|epsilon|✓|A/B|arm64|
+|[[Microsoft Surface Duo 2]]|zeta|✓|A/B|arm64|
 |[[QRD750 and QRD765]]|lito|✓|A/B|arm64|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
