@@ -1,5 +1,7 @@
 # Samsung Galaxy A11 
 
+![galaxya11](https://user-images.githubusercontent.com/46762446/199036043-3ffd82ce-db40-493e-b423-cdc000e3a3a5.png)
+
 
 ###   Summary: This device uses `a64` GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later. 
 
