@@ -1,6 +1,7 @@
-# Samsung Galaxy A11
+# Samsung Galaxy A11 
 
-   Summary: This device uses `a64` GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later. 
+
+###   Summary: This device uses `a64` GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later. 
 
    Note: Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12-based GSI images do not have this issue.
 
@@ -8,7 +9,7 @@
 
 ## Flashing Quirks
 
-   **You will need to install GSI images using TWRP or OrangeFox's `Flash as System Image` option.**
+### You will need to install GSI images using TWRP or OrangeFox's `Flash as System Image` option.
 
    Some ROMs may need to be resized using `resize2fs` before they'll fit on /system_root. See below for hardware and partition support information.
    
@@ -39,10 +40,11 @@
 | /product       | 692MB                       |
 | /vendor        | 522MB                       |
 
-## Resizing GSI Images
+## Resizing GSI Images **(Experimental, not supported!)**
   * `e2fsck -f /path/to/GSI/image.img`
-  * `resize2fs /path/to/GSI/image.img -s <partition size, 2.5G for example>`
+  * `resize2fs /path/to/GSI/image.img 2590M`
 
+![image](https://user-images.githubusercontent.com/46762446/199031383-da9319df-02d4-4008-842a-3435b212a47e.png)
 
 
 ***
