@@ -44,6 +44,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
 |[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
+|[[Motorola G100 5G / Edge S]]|nio|✓|A/B|arm64|
 |[[Motorola G200 5G / Edge S30]]|xpeng|✓|A/B|arm64|
 |[[Motorola Edge 30 Pro / Edge X30]]|hiphi / hiphic / hiphid|✓|A/B|arm64|
 |[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
