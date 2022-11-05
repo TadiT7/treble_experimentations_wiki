@@ -3,7 +3,8 @@
 |[[Alldocube M5]]|n/a|✓|A|arm64|
 |[[Alldocube Power M3]]|n/a|✓|A|arm64|
 |[AllView V3 Viper](https://github.com/phhusson/treble_experimentations/wiki/Casper-Via-M4-(AllView-V3-Viper))|V3_Viper|✓|A|arm64|
-|[[Amazon Kindle Fire HD 10 2019]]|maverick|✓|A|arm_binder64||[Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
+|[[Amazon Kindle Fire HD 10 2019]]|maverick|✓|A|arm_binder64|
+|[Barnes & Noble Nook Tablet 10.1" 2018 (BNTV650)](https://github.com/phhusson/treble_experimentations/wiki/Barnes-&-Noble-Nook-Tablet-10.1%22)|st18c10bnn|✓|A|arm64|
 |[[Barnes & Noble Nook Tablet 7" 2018 (BNTV460)]]|st18c7bnn|✓|A|arm|
 |[[Blackview A20]]|a20|✓|A|arm|
 |[[Blackview A60]]|a60|✓|A|arm|
