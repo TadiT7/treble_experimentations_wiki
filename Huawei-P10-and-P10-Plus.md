@@ -21,26 +21,28 @@
 >> * New Version Android 13 fixed the boot issues.(Pixel Experience(Android 13)).  
   
 Europe or Global Version Tested List:  
-Tested LineageOS on Huawei P10 Plus (VKY-L29)  
-Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
-## Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
+* Tested LineageOS on Huawei P10 Plus (VKY-L29)  
+* Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
+* Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
   
 CN Version Tested List:  
-Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))  
-Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
-If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.  
+* Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))  
+* Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
+* If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.  
  
 Tips:  
-**Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues **.  
+**Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues**.  
 > For example:Lineage OS 17,Havoc-OS v3.12 or else.  
   
 ## Unlock Bootloader Tool  
 **[PotatoNV](https://github.com/mashed-potatoes/PotatoNV)**  
-This is a Kirin SoC Unlock Bootloader Tool.Huawei Devices have double partition lock.One is called USER LOCK and the other is called BL LOCK.Unlock the BL LOCK only can flash the system，boot，recovery，userdata and more.Unlock the USER LOCK can flash the kernel，ODM，product and more.So you need unlock the all lock to flash the kernel or upgrade/downgrade to EMUI 7/8/9.  
+This is a Kirin SoC Unlock Bootloader Tool.Due to the particularity of partition locking designed by Huawei, Huawei mobile phones actually include two types of partition locking.One is called USER LOCK and the other is called BL LOCK.Unlock the BL LOCK only can flash the system,boot，recovery,userdata and more.Unlock the USER LOCK can flash the kernel，ODM，product and more.So you need unlock the all lock to flash the kernel or upgrade/downgrade to EMUI 5/8/9.  
 This tool will help you unlock all lock.  
 Tips:  
-* Check the FPR Lock box you will unlock USER LOCK.(In this time,you reboot to bootloader,you will see BL is unlocked,but is not unlocked.)  
-* Use this tool you will get random 16 bit unlock code, then enter the bootloader and enter  
+* First, please follow the official text and video tutorial of PotatoNV.
+* Then,When you use the engineering boot file to enter a special fastboot mode, select the **Disable FBLock** option.This option will let you unlock the **USER LOCK**.  
+* Next, you will restart to enter the normal fastboot mode. This is where you will see your device display unlocked. But you haven't completely unlocked it.At the same time, the PotatoNV will display a random 16 bit unlock code.
+* Use the unlock code,in fastboot mode,enter the code. XXXXXXXXXXXXXXXX is your 16 bit unlock code. 
 ` fastboot oem unlock XXXXXXXXXXXXXXXX`  
 * This time is really unlock all partition.
  
