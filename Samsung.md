@@ -21,7 +21,7 @@
 |[[Samsung Galaxy A51 5G]]|a51x|✓|A/B|arm64|
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70q|✓|A/B|arm64|
-|[[Samsung Galaxy A71]]|a71q|✓|A/B|arm64|
+|[[Samsung Galaxy A71]]|a71|✓|A/B|arm64|
 |[[Samsung Galaxy A71 5G]]|a71xq|✓|A/B|arm64|
 |[[Samsung Galaxy A90 5G]]|r3q|✓|A/B|arm64|
 |[[Samsung Galaxy Fold]]|winner|✓|A/B|arm64|
