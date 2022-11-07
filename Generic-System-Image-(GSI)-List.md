@@ -13,7 +13,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |06 Nov|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Kalamay/06112022/)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
-|04 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/04112022-test/)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64  - Binder|Oct 2022|
+|04 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64  - Binder|Oct 2022|
+|30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
 |29 Oct|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |23 Oct|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Oct 2022|
 |25 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Oct 2022|
