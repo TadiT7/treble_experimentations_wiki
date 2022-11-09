@@ -8,7 +8,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
 |Nov|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Oct 2022|
-|09 Nov|ASOP GSI|TrebleDroid® Builders•Team|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 -Binder|Nov 2022|
+|09 Nov|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 -Binder|Nov 2022|
 
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
@@ -18,7 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |06 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64  - Binder|Oct 2022|
 |30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
-|23 Oct|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Oct 2022|
+|09 Nov|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Nov 2022|
 |25 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Oct 2022|
 |17 Oct|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.4.0)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
 |11 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/184)/ [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases/tag/A13-v20221010)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Oct 2022|
