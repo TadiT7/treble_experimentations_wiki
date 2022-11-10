@@ -13,18 +13,18 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|09 Nov|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Nov 2022|
 |08 Nov|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
+|07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
 |06 Nov|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Kalamay/06112022/)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |06 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi)|ARM64  - Binder|Oct 2022|
-|30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
+|05 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.4.0)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
-|09 Nov|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Nov 2022|
+|01 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2022|
+|30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
 |25 Oct|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/)|[Github](https://github.com/naz664/ArrowOS_gsi)|ARM64 - Binder|Oct 2022|
-|17 Oct|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA_0.4.0)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Oct 2022|
 |11 Oct|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/184)/ [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases/tag/A13-v20221010)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Oct 2022|
 |10 Oct|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64 - Binder|Oct 2022|
-|09 Oct|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2022|
-|08 Oct|LeOS-T (beta)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Oct 2022|
 
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
