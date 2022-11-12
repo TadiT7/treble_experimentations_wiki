@@ -30,13 +30,13 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|12 Oct|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Sep 2022|
+|09 Nov|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|ARM64 - Binder|July 2022|
+|07 Nov|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Nov 2022|
 |10 Oct|LeOS (19.1)|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-19.1) / [Telegram](https://t.me/LeOS_Support)|[Github](https://github.com/LeOS-GSI/LeOS-S-patches)|ARM64 - Binder|Sep 2022|
 |09 Oct|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Unofficial/20221008/)|[Gitlab](https://gitlab.com/TipzTeam/vendor_generify)|ARM64|July 2022|
 |24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
 |05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|August 2022|
 |27 July|KaleidoscopeOS|alk3p|[Downloads](https://kaleidoscope.ink/download.html?device=meowmobile/treble)|-|ARM64|July 2022|
-|17 July|AOSP|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases/tag/v415)|[Github](https://github.com/phhusson/treble_experimentations)|ARM64 - Binder|July 2022|
 |13 June|DescendantOS|Dil3mm4|[Telegram](https://t.me/joinchat/UVg3KMbRfu4cV2lp) / [Downloads](https://downloads.descendant.me/)|[Github](https://github.com/Descendant/manifest)|ARM64|May 2022|	
 |10 June|StatiXOS|StatiX Team|[Telegram](https://t.me/StatiXOSReleases) / [Downloads](https://downloads.statixos.com/12-GSI/)|[Github](https://github.com/StatiXOS/android_manifest)|ARM64|June 2022|	
 
