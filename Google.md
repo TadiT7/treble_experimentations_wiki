@@ -10,3 +10,4 @@
 |[[Google Pixel 5a]]|barbet|✓|A/B|arm64|
 |[[Google Pixel 6 and Pixel 6 Pro]]|oriole and raven|✓|A/B|arm64|
 |[[Google Pixel 6A]]|bluejay|✓|A/B|arm64|
+|[[Google Pixel 7 and Pixel 7 Pro]]|panther and cheetah|✓|A/B|arm64|
