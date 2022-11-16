@@ -19,16 +19,28 @@
 >> * Android 13 For Huawei P10 or P10 Plus is instable.You will face no SIM card recognition, no signal, and some hardware cannot be used or even not boot.  
 >> * There are two kinds of storage chips for CN version devices, EMMC and UFS.Europe and Global Market Version Only UFS Chips.So this sometimes leads to some hidden errors.  
 >> * New Version Android 13 fixed the boot issues.(Pixel Experience(Android 13)).  
+>> * LineageOS 20 - Light Version won't boot!!(2022.11.09)
   
 Europe or Global Version Tested List:  
+***
+Before Android 13:  
 * Tested LineageOS on Huawei P10 Plus (VKY-L29)  
 * Tested AOSP 10/11/12 on Huawei P10 (VTR-L29 9.0.1.201)  
+***
+Andriod 13+:
 * Tested **[Pixel Experience (Android 13)](https://sourceforge.net/projects/altairfr-huawei/files/PixelExp/PixelExperience-13.0-20220930-iceows-ane.7z/download)** (VTR-L29 9.0.1.190)  
-  
+ 
+***
+ 
 CN Version Tested List:  
+***
+Before Android 13:  
 * Tested AOSP 12 on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12))  
-* Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),  
-* If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.  
+* Tested **[Pixel Experience (Based Android 12)](https://github.com/ponces/treble_build_pe/releases)** on Huawei P10 (VTR-AL00 9.0.1.179(C00E65R1P12)),If you want use **Pixel Experience (Based Android 12)** ,you only can install slim version.Because system partition too small.Unless you use **TWRP + Parted** for system partition expansion.   
+***    
+Android 13+：
+* Tested **[Pixel Experience (Based Android 13)](https://github.com/ponces/treble_build_pe/tree/thirteen)**.Version 2022.11.13.Work and fine.SIM Card,NFC,WLAN,Audio is work fine.
+
  
 Tips:  
 **Recommended Android GSI version:Android Q(Android 10).**  For Kirin 960, this version of Android can be used daily and is the most fluent.Some errors can be corrected in **Known issues**.  
