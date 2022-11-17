@@ -41,5 +41,8 @@ Reupdated on Nov 18, 2022
 | Hotspot / Usb tethering   | Working(Except for 5GHz Hotspot)                           |
 | MTP                       | Not Working                                                |
 | USB Debugging             | Working                                                    |
+
+
+
 Tested By(updated):  khushtaur3123, SM-A750F/DS(INS), Bootloader(A750FXXU5CTK1), rest of the firmware(A750FXXU5CVI1), ForkLineage-19.1 GSI from https://xiaomemeindex.com/treble/?dir=ForkLineage, download related from ChonDoe CherishOS in Unofficial Android 12/12L.
 The mismatched Bootloader is for installation of unofficial TWRP as mentioned here, https://forum.xda-developers.com/t/updated-september-2022-how-to-root-a7-2018.4488289/
