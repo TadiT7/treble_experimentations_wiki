@@ -5,11 +5,19 @@
 
 ###   Summary: This device uses `a64` GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later. 
 
-   Note: Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12-based GSI images do not have this issue.
+   Please note the following: 
+* Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12-based GSI images do not have this issue.
+* This device has multiple variants, but this doc only applies to the North American version of the Galaxy A11. 
+* **Other variants (ie. SM-A115F/DS) may have different OEM unlock instructions and methods,** but the rest of the information here should still apply.
 
 
 
 ## Flashing Quirks
+
+### This device will require cross-flashing to enable the OEM Unlock toggle.
+
+   Currently the SM-A115U and SM-A115U1 models are common, but the A115U variant has no unlock toggle. 
+   Both variants have interchangeable firmware, luckily, and will need to be switched to continue. **Please check XDA if you don't know how to do this, as the Telegram group may not provide reliable support.**
 
 ### You will need to install GSI images using TWRP or OrangeFox's `Flash as System Image` option.
 
@@ -27,7 +35,7 @@
 | Speaker / Mic             | OK                                                        |
 | Bluetooth                 | OK                                                        |
 | WiFi                      | OK                                                        |
-| SIM / Mobile Data / Voice | OK                                                        |
+| SIM / Mobile Data / Voice | SIM/Data OK, but VoLTE is required for calls.             |
 | VoLTE                     | Not available on Samsung devices with Qualcomm processors. See [this message](https://t.me/phhtreble/570295) from the official Telegram group.|
 | Fingerprint               | OK                                                        |
 | NFC                       | Not applicable for this device.                           |
