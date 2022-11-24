@@ -6,7 +6,7 @@
 ###   Summary: This device uses `a64` GSI variants. GSI images should work, so long as they're based on [v413](https://github.com/phhusson/treble_experimentations/releases/tag/v413) or later. 
 
    Please note the following: 
-* Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12-based GSI images do not have this issue.
+* Android 11-based GSI images (ie. dotOS 5.2) may suffer from watchdog issues related to /dev/watchdog0. Android 12.1-based GSI images do not have this issue.
 * This device has multiple variants, but this doc only applies to the North American version of the Galaxy A11. 
 * **Other variants (ie. SM-A115F/DS) may have different OEM unlock instructions and methods,** but the rest of the information here should still apply.
 
