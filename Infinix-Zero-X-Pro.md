@@ -10,7 +10,7 @@
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working |
 | Speaker / Mic / Calls     | Working  |
-| Bluetooth                 | Working |
+| Bluetooth / BT Audio                | Working |
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working                                                    |
 | VoLTE                     | Device Not Support                                              |
