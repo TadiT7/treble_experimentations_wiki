@@ -13,8 +13,9 @@
 | Bluetooth                 | Working |
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working                                                    |
-| VoLTE                     | Not working                                               |
+| VoLTE                     | Device Not Support                                              |
 | Fingerprint               | No FOD Support                                                   |
 | Bluetooth calls           | Not Tested                                               |
 | Brightness                | Working |
+| Sensors | Working |
 ---
