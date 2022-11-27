@@ -19,3 +19,5 @@
 | Brightness                | Working |
 | Sensors | Working |
 ---
+## Dry audio issue in headset / earphone
+Enable "disable audio effects" in phh settings
