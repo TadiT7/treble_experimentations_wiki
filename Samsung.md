@@ -19,6 +19,7 @@
 |[[Samsung Galaxy A50]]|a50|✓|A/B|arm64|
 |[[Samsung Galaxy A51]]|a51|✓|A/B|arm64|
 |[[Samsung Galaxy A51 5G]]|a51x|✓|A/B|arm64|
+|[[Samsung Galaxy A53 5G]]|a53x|✓|A/B|arm64|
 |[[Samsung Galaxy A60]]|a60q|✓|A/B|arm64|
 |[[Samsung Galaxy A70]]|a70q|✓|A/B|arm64|
 |[[Samsung Galaxy A71]]|a71|✓|A/B|arm64|
