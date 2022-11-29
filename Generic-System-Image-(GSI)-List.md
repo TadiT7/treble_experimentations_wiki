@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|29 Nov|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/29112022/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Nov 2022|
 |22 Nov|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Nov 2022|
 |13 Nov|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio)/ [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
 |13 Nov|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
@@ -22,7 +23,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |11 Nov|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Nov 2022|
 |09 Nov|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Nov 2022|
 |07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) / [Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
-|06 Nov|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Kalamay/06112022/)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |01 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/174) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Oct 2022|
 |30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
