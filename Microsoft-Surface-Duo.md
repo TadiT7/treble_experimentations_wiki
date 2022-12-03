@@ -1,4 +1,4 @@
-# [Microsoft Surface Duo] - [duo]
+# [Microsoft Surface Duo] - [epsilon]
 
 ## Hardware Support (Android 12.1)
 
