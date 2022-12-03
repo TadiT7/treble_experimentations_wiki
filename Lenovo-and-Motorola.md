@@ -32,6 +32,8 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto G9]]|guamp|✓|A/B|arm64|
 |[[Moto G31]]|cofud|✓|A/B|arm64|
 |[[Moto G71s / G82]]|rhodep|✓|A/B|arm64|
+|[[Moto g50 5G XT2137]]|ibiza|✓|A/B|arm64|
+|[[Moto g50 5G XT2149]]|saipan|✓|A/B|arm64|
 |[[Moto S30 Pro / Edge 30 Fusion]]|tundra|✓|A/B|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
