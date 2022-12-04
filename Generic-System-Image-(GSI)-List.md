@@ -14,9 +14,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |04 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/)|-|ARM64|Nov 2022|
-|04 Dec|PixelExtended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
+|04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
 |03 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64 - A64|Nov 2022|
 |30 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA-0.6.0)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Nov 2022|
+|24 Nov|Pixel Experience Plus|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/tag/v2022.11.24-plus)/[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
 |24 Nov|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
 |22 Nov|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Nov 2022|
 |17 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
