@@ -46,6 +46,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|17 Nov|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases/tag/v416) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|ARM64|July 2022|
 |23 Oct|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
 |20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
 |19 Oct|Arrow OS|Nazim|[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/ArrowOS-12.1/19102022/)|-|ARM64 - Binder|Oct 2022|
@@ -57,7 +58,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |03 Oct|Nitrogen OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/NitrogenOS/)|-|ARM64|Aug 2022|
 |28 Sep|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[Github](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[Github](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|Aug 2022|
-|24 Aug|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Download](https://github.com/ponces/treble_build_pe/releases) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|ARM64|Aug 2022|
 |21 Aug|ProtonAOSP|Haridhayal|[Telegram](https://t.me/c/1772196556/5526)/[Download](https://github.com/haridhayal11/treble_proton_aosp/releases/tag/v415-21-08-2022)|[Github](https://github.com/haridhayal11/treble_proton_aosp)|ARM64|Jul 2022| 	
 |20 Aug|Awaken OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/175)/[Download](https://xiaomemeindex.com/treble/?dir=Awaken)|-|ARM64|Aug 2022|
 |19 Aug|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Download](https://sourceforge.net/projects/gsi-projects/files/v415-Aug/SparkOS-12.6-Experimental/)|-|ARM64- Binder|Aug 2022|
