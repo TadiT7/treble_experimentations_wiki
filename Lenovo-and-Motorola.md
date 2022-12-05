@@ -20,6 +20,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto E7 Plus]]|guam|✓|A/B|arm64|
 |[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
 |[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
+|[[Moto G Stylus 5G (2021)]]|denver|✓|A/B|arm64|
 |[[Moto G6]]|ali|✓|A|arm|
 |[[Moto G6 Play]]|aljeter/jeter|✓|A|arm|
 |[[Moto G6 Plus]]|evert|✓|A/B|arm64|
