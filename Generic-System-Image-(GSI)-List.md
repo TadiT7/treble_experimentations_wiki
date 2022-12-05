@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|04 Dec|FLOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/ForkLos/)|-|ARM64|Nov 2022|
 |04 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/)|-|ARM64|Nov 2022|
 |04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
 |03 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64 - A64|Nov 2022|
