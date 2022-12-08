@@ -47,3 +47,5 @@ Safetynet does not pass out of the box. Use Universal SafetyNet fix module by kd
 Tested By: khushtaur3123 - rufus582 - SM-M317F(INS), Bootloader/Radio - M317FXXU3DVF3 and SM-M317F(INS), Bootloader/Radio - M317FXXU3CVC2
 Updated Date: 27 July 2022
 
+Temporary Update - 
+TrebleDroid Based ROM have working Bluetooth as well as hotspot for 2.4GHz, not for 5Ghz, tested on Dec 08, 2022, SM-M317F(INS) M317FXXU3DVH2
