@@ -13,7 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|07 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/07.12.22/)|https://github.com/TheAtt1la/patches-xdroid|ARM64|Nov 2022|
+|07 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/07.12.22/)|[GitHub](https://github.com/TheAtt1la/patches-xdroid)|ARM64|Nov 2022|
 |04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
 |05 Dec|DerpFest|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/DerpFest/)|-|ARM64|Nov 2022|
 |04 Dec|FLOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/ForkLos/)|-|ARM64|Nov 2022|
