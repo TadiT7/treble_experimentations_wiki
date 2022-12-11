@@ -26,16 +26,18 @@
 > no available Hardware
 
 ## Tested By:
+* [YohanYuan](http://t.me/Yohanyuan) - test Gsi A13 and modified vndk28
 * [no woman no cry](https://github.com/murdika/wynmrdk) - Asus Zenfone Live L1 (8917)
 * [didi Tzy](https://t.me/JalanNinjaQ) - Asus Zenfone Live L2 (8937)
 * All member telegram group zenfone live x00rd
 
 ## Tested ROMs:
+* The good news is, this device can run gsi A13 arm64 ab / lite, with the addition of the patch file from Yohan (find on telegram group)
 * All AOSP 11, 12/12.1 - by PHH (arm64ab_vndklite) with 408 vendor
 * Gsi A11,A12/12.1 base PHH (arm64_vndklite) with 408 vendor
 * Gsi A8.1-A10 base PHH (arm64 A) with 119 & 34 vendor
 * For more information [joint telegram group](https://t.me/livel1asusx00rd)
 
-Kredit & Thanks for phh
+Kredit & Thanks for Phh,all Developer and maintainer
 
 Template created & edit by [@semeton_dewata](https://t.me/semeton_dewata)
