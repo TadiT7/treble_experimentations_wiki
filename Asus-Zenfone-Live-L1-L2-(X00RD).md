@@ -5,7 +5,7 @@
 
 * Camera & flash
 > Working,
-> Android 12/12.1 with enable cam2api on system/vendor build.prop & enable on phh treble settings
+> Android 12/12.1/13 with enable cam2api on system/vendor build.prop & enable on phh treble settings
 
 * Speaker / Microphone
 > Loudspeaker (bottom) works, Microphone works
