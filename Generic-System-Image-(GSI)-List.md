@@ -59,6 +59,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |13 Oct|RiceDroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/riceDroid/)|-|ARM64|Aug 2022|
 |11 Oct|Xdroid|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/xdroid/)|-|ARM64|Aug 2022|
 |11 Oct|LineageOS|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|ARM64 - Binder|Oct 2022|
+|10 Oct|PixysOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixysOS/)|-|ARM64|Aug 2022|
 |03 Oct|Nitrogen OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/NitrogenOS/)|-|ARM64|Aug 2022|
 |28 Sep|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/)|[Github](https://github.com/j7b3y/blaze_patches_unified)|ARM64|Sep 2022|
 |14 Sep|Xdroid|Nazim|[Telegram](https://t.me/naz_dev/)/[Download](https://github.com/naz664/xdroid_gsi/releases/tag/v1)|[Github](https://github.com/naz664/xdroid_gsi)|ARM64 - Binder|Aug 2022|
