@@ -15,6 +15,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |13 Dec|exTHmUI|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/exTHmUI/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-exthm)|ARM64 - Binder|Nov 2022|
 |12 Dec|Pixel OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelOS/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-pixel)|ARM64 - Binder|Nov 2022|
+|12 Dec|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Dec 2022|
 |07 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/07.12.22/)|[GitHub](https://github.com/TheAtt1la/patches-xdroid)|ARM64|Nov 2022|
 |05 Dec|DerpFest|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/DerpFest/)|[GitHub](https://github.com/TheAtt1la/DerpFest-patches)|ARM64|Nov 2022|
 |04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
@@ -30,7 +31,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |12 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/12112022/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |11 Nov|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/11112022/)|[Github](https://github.com/naz664/ArrowOS_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |11 Nov|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) /[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Nov 2022|
-|09 Nov|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) /[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Nov 2022|
 |07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 |30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
