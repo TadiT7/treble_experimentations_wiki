@@ -31,7 +31,7 @@ Since the original device list is pretty long, all supported devices list are no
 * [[Realme]]
 * [[Samsung]]
 * [[Sony]]
-* [[Vivo]]
+* [[vivo]]
 * [[Xiaomi]]
 * [[ZTE and Nubia]]
 * [[Miscellaneous]]
