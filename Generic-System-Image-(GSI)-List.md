@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|17 Dec|Xtended XT|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xtended/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-xtended)|ARM64 - Binder|Nov 2022|
 |13 Dec|exTHmUI|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/exTHmUI/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-exthm)|ARM64 - Binder|Nov 2022|
 |12 Dec|Pixel OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelOS/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-pixel)|ARM64 - Binder|Nov 2022|
 |12 Dec|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Dec 2022|
