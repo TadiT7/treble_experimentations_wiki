@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|18 Dec|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |17 Dec|Xtended XT|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xtended/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-xtended)|ARM64 - Binder|Nov 2022|
 |13 Dec|exTHmUI|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/exTHmUI/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-exthm)|ARM64 - Binder|Nov 2022|
 |12 Dec|Pixel OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelOS/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-pixel)|ARM64 - Binder|Nov 2022|
@@ -29,7 +30,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |17 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) /[Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
 |16 Nov|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64 - Binder|Nov 2022|
 |13 Nov|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) /[Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
-|12 Nov|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/12112022/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |11 Nov|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/11112022/)|[Github](https://github.com/naz664/ArrowOS_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |11 Nov|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) /[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Nov 2022|
 |07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
