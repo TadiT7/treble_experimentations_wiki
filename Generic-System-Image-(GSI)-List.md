@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|22 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Nata-de-Coco/22122022/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Dec 2022|
 |18 Dec|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |17 Dec|Xtended XT|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xtended/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-xtended)|ARM64 - Binder|Nov 2022|
 |13 Dec|exTHmUI|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/exTHmUI/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-exthm)|ARM64 - Binder|Nov 2022|
@@ -22,7 +23,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |05 Dec|DerpFest|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/DerpFest/)|[GitHub](https://github.com/TheAtt1la/DerpFest-patches)|ARM64|Nov 2022|
 |04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
 |04 Dec|FLOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/ForkLos/)|[GitHub](https://github.com/TheAtt1la/ForkLos-patches)|ARM64|Nov 2022|
-|03 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64 - A64|Nov 2022|
 |30 Nov|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA-0.6.0)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Nov 2022|
 |24 Nov|Pixel Experience Plus|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) /[Download](https://github.com/ponces/treble_build_pe/releases/tag/v2022.11.24-plus)/ [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
 |24 Nov|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) /[Download](https://github.com/ponces/treble_build_pe/releases)/ [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Nov 2022|
