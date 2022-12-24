@@ -1,4 +1,5 @@
-Tested images:
+### **Tested images:**
+
 AOSP
 DerpFest
 Corvus
@@ -7,12 +8,14 @@ SparkOS
 PixelExperience 
 CherishOs
 
-Not working:
+### **Not working:**
+
 FOD not working everywhere
 Everything works fine except for the fingerprint. 
 
 
-Steps to install
+### **Steps to install:**
+
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
