@@ -103,3 +103,4 @@
 |[[Xiaomi Redmi Note 11]]|spesn|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Xiaomi 11T Pro]]|vili|✓|A/B|arm64|
+|[[Xiaomi 12 Pro]]|zeus|✓|A/B|arm64|
