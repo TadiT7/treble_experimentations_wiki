@@ -11,7 +11,7 @@
 ### **Not working:**
 
 * _**FOD not working everywhere**_
-* Everything works fine except for the fingerprint. 
+* Everything works fine except for the fingerprint. Need [two ](https://mega.nz/folder/mEhWlZIS#hrI1QyOOkRk6nmKPx79rfg) overlays for normal statusbar display
 
 
 ### **Steps to install:**
@@ -21,7 +21,7 @@ fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
 fastboot -w  # Wipe userdata
 
-**### Steps to update (if OTA is not working)**
+### **Steps to update (if OTA is not working)**
 
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
