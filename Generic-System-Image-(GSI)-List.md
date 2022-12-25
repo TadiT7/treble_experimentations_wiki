@@ -81,12 +81,10 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11 GSIs
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Nov|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|
-|Oct|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
-|Oct|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|		
-|Oct|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-R)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|
-|Oct|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-Q)|[Github](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|
-|Sep|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
+|Dec|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|
+|Dec|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
+|Dec|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2F%2FLeOS-R)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|
+|Dec|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
 
 	
 		
@@ -117,6 +115,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 11:	
 |Last Updated|ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|Oct 2022|FLOS (A11)|Chondoe|[Download](https://github.com/ChonDoit/treble_flos_patches/releases/tag/A11)/[Telegram](https://t.me/elranchodecornelio/187)|[GitHub](https://github.com/ChonDoit/treble_flos_patches/tree/11)|SaR|ARM64|		
 |Jul 2022|LineageOS 18.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-11-lineageos-18-x-gsi-all-archs.4205461/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/)|non-SaR - SaR|ARM - ARM64 - Binder|
 |Mar 2022|LineageOS R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/LiR-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Mar 2022|crDroid R Mod|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/crDRom11-Project)|non-SaR - SaR|arm - arm64 - binder|         	
@@ -127,7 +126,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 ## Official Android 10:	
 |Last Updated |ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
-|:-:|:-:|:-:|:-:|:-:|:-:|	
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Nov 2022|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-Q--Sorry-NoFurther-Updates%2FNovember)|[Github](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|	
 |Dec 2020|Havoc| skulshady, zenixxx|[Download](https://sourceforge.net/projects/havoc-os/files/) |non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2020|CAOS|eremitein|[XDA](https://forum.xda-developers.com/t/official-aosp-q-mod-caos.4137289/) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/CAOS-Project)|non-SaR - SaR|arm - arm64 - binder|	
 |Oct 2020|BlissROMs|eremitein|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-blissroms-q-mod-bless-t4138687) / [Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://github.com/eremitein/treble-patches/wiki/BLESS-Project)|non-SaR - SaR|arm - arm64 - binder|	
