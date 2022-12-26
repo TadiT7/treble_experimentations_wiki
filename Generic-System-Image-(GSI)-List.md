@@ -39,8 +39,9 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 ## Latest Android 10, 11, 12L GSIs
-|Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|	
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Dec 23|exTHmUI-10|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|[Github](https://github.com/exthmui-10-treble)|non-SaR - SaR|ARM64|Dec 2022|	
 |Dec|AOSP 12.1|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|
 |Dec|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|
 |Dec|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
