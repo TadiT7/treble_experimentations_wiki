@@ -1,17 +1,16 @@
 # How to build a Project Treble GSI ROM from source?
 
-In this guide I'll try to simplify building Treble GSI process.
-As you read this guide now I'll assume you already have a previous knowledge about How to build android from source, so I won't cover some points with too many basic details. **(Some contents of this tutorial were outdated. If you have any problems go to [the builders' group](https://t.me/phhtreblebuilders).) Do not use dakkar or build-rom anymore!**
+In this guide I'll try to simplify the process of building a Treble GSI.
+As you read this guide now I'll assume you already have a previous knowledge about how to build Android from source, so I won't cover some points with too many basic details.
 So, let's start:
 
 **What you’ll need:**
 
 * A treble enabled device, basically all devices that come with Android 8.1 out of box support it.
-* A relatively recent 64-bit computer (Linux, macOS, or Windows) with a reasonable amount of RAM and about 120 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 16 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
+* A relatively recent 64-bit computer running Linux with a reasonable amount of RAM and about 120 GB of free storage (more if you enable ccache or build for multiple devices). The less RAM you have, the longer the build will take (aim for 16 GB or more). Using SSDs results in considerably faster build times than traditional hard drives.
 * A USB cable compatible with your device
-* A decent internet connection & reliable electricity :)
-* Some familiarity with basic Android operation and terminology. It would help if you’ve installed custom ROMs on other devices and are familiar with recovery. It may also be useful to know some basic command line concepts such as cd for “change directory”, the concept of directory hierarchies, that in Linux they are separated by /. etc.
-
+* A decent Internet connection & reliable electricity :)
+* Some familiarity with basic Android operation and terminology. It would help if you’ve installed custom ROMs on other devices and are familiar with recovery. It may also be useful to know some basic command line concepts such as cd for “change directory”, the concept of directory hierarchies, that in Linux they are separated by /, etc.
 
 **Summary**
 * 1. Install SDK
@@ -19,8 +18,7 @@ So, let's start:
 * 3. Install the repo command
 * 4. Configure git
 * 5. Turn on caching to speed up build
-* 6. Build using phhusson's script (AOSP only)
-* 8. Build using the manual way (Custom ROMs and AOSP)
+* 6. Build the GSI
 
 ### 1. Install SDK
 If you haven’t previously installed `adb` and `fastboot`, you can [download them from Google](https://dl.google.com/android/repository/platform-tools-latest-linux.zip).
@@ -34,7 +32,6 @@ if [ -d "$HOME/platform-tools" ] ; then
     PATH="$HOME/platform-tools:$PATH"
 fi
 ```
-
 
 Then, run this to update your environment. ```source ~/.profile```
 
@@ -78,7 +75,7 @@ Then, use this to update your environment.
 
 ### 4. Configure git
 
-You’ll need to set up git identity in order to sync the source, run these commands:
+You’ll need to set up your git identity in order to sync the source, run these commands:
 
 ```
 git config --global user.name "your username"
@@ -87,42 +84,23 @@ git config --global user.email yourmail@example.com
 
 ### 5. Turn on caching to speed up build
 
-You can speed up subsequent builds by running:
+You can speed up subsequent builds by adding these lines to your ~/.bashrc OR ~/.zshrc file:
 
 ```
 export USE_CCACHE=1
 export CCACHE_COMPRESS=1
 export CCACHE_MAXSIZE=50G # 50 GB
-```
-
-And adding these lines to your ~/.bashrc OR ~/.zshrc file. 
+``` 
 
 You can configure the maximum amount of disk space you want the cache to use by editing `CCACHE_MAXSIZE` consequently. Anywhere from 25GB-100GB will result in very noticeably increased build speeds (for instance, a typical 1hr build time can be reduced to 20min). If you’re only building for one device, 25GB-50GB is fine. If you plan to build for several devices that do not share the same kernel source, aim for 75GB-100GB. This space will be permanently occupied on your drive, so take this into consideration.
 
-### 6. Build using phhusson's script - AOSP only (build.sh)
-
-If you encounter problems with the build-rom.sh script, you might consider using the newer script. Keep in mind that we'll need to modify it a bit, otherwise it will build system images for all possible options (all architectures, all partition options, all gapps choices,etc.).
-
-1- Start by cloning phh's Treble_Experimentations project:
-
-```
-git clone https://github.com/phhusson/treble_experimentations
-```
-
-2. Start the build. We will create a folder named AOSP12, enter it and then call the build script.
-
-```
-mkdir AOSP12; cd AOSP12
-bash ../treble_experimentations/build.sh android-12.0
-```
-The resulting system images will be stored in the release folder.
-
-### 7. Build using the manual way
+### 6. Build the GSI
 
 In simple steps:
 
 1. Repo init the rom you want to build GSI for.
 ```
+# LineageOS 19.1 is used for this example
 mkdir ~/rom &&  cd ~/rom
 repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
 ```
@@ -131,7 +109,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-19.1
 ```
 git clone https://github.com/phhusson/treble_manifest .repo/local_manifests -b android-12.0
 ```
-After git clone you need to remove or delete replace.xml (.repo/local_manifests/replace.xml) if you're building any rom except AOSP GSI.
+After git clone you need to remove or delete replace.xml (.repo/local_manifests/replace.xml) if you're building any ROM except AOSP GSI.
 
 3. Sync the source
 
@@ -139,24 +117,20 @@ After git clone you need to remove or delete replace.xml (.repo/local_manifests/
 repo sync -c -j6 --force-sync --no-tags --no-clone-bundle
 ```
 
-4. Modify the source to fix issues in other devices using one of these methods:
+4. Modify the source to fix issues in other devices using [phh patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip):
 
-- Apply [phh patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip):
-
-Download [the patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip)
-
-Then apply each path in its project
+* Download [the patches](https://github.com/phhusson/treble_experimentations/releases/latest/download/patches-for-developers.zip), then apply each patch in its project:
 
 ```
 git am patch
 ```
 
-5. Go to the phh device repo and run `bash generate.sh vendor/lineage/config/common_full_phone.mk` - adapting for the rom you wish to build for. 
+5. Go to the phh device repo and run `bash generate.sh vendor/lineage/config/common_full_phone.mk` - adapting for the ROM you wish to build for. 
 
 6. Lunch the [build variant](https://github.com/phhusson/treble_experimentations/blob/master/build.sh#L380) you want (ex. treble_arm64_avN-userdebug) and start the build
 
 ```
-. build/envsetup.sh
+.build/envsetup.sh
 lunch treble_arm64_avN-userdebug
 WITHOUT_CHECK_API=true make -j$(nproc) systemimage
 ```
@@ -181,3 +155,4 @@ That's all ;)
 - @Dualkem - added the build.sh build guide (point 7).
 - @00p513-dev - Initial changes for 2021
 - @TQMatvey Updated everything to Android 12 and other minor tweaks
+- @evolutech7711 - Reworded some of the guide and removed outdated content (notably the build.sh build guide).
