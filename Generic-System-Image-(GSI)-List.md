@@ -13,6 +13,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|30 Dec|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Dec 2022|
 |25 Dec|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/176) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/24122022/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64|Dec 2022|
 |22 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Nata-de-Coco/22122022/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Dec 2022|
 |18 Dec|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Nov 2022|
