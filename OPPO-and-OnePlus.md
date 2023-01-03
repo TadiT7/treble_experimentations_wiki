@@ -21,6 +21,7 @@
 |[[OnePlus Nord 2T]]|karen|✓|A/B|arm64|
 |[[OnePlus Nord CE 5G]]|ebba|✓|A/B|arm64|
 |[[OnePlus Nord N10]]|billie8 and billie8t|✓|A/B|arm64|
+|[[OnePlus Nord N20]]|holi|✓|A/B|arm64|
 |[[OnePlus Nord N100]]|billie2 and billie2t|✓|A/B|arm64|
 |[[OnePlus Nord N200]]|dre8t and dre9|✓|A/B|arm64|
 |[[OPPO A9]]|PCAM00|✓|A|arm64|
