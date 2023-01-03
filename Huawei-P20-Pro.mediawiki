@@ -1,0 +1,8 @@
+Boots with EMUI 9 vendor (P & Q), need to factory reset in stock recovery after flashing GSI, otherwise it does not boot.
+
+* Stock AOSP camera works, GCam port works a bit. Can install the Huawei camera app via TWRP, but it can not take pictures for some reason (however, it *can* take video).
+* Adaptive brightness works, but minimum brightness a bit too high to my liking.
+* Fingerprint sensor seems to work, but can not enroll fingerprint on P-based ROMs (same on all non-native ROMs for this devices). Also the fingerprint navigation does not work on Android P based-ROMs (however, on the ROMs based on Q and up, e.g. LOS 17.1, all the functions work properly).
+* Android 10 GSI builds come with maximum funtionality, most of the functions work (you know, except ims).
+* On Android 11 GSI builds, most of the USB functions don't work (e.g. MTP file transfer, adb via usb...). On AndyYan's LOS18 builds, the Mobile Network option in settings seems to cause the settings crash.
+* On Android 12 GSI builds, the cameras won't work. And according to phhusson, it might *will not* fixed at all.
