@@ -4,11 +4,11 @@ Tested on:
 ## Hardware support
 | Component | Status |
 | --------- | ------ |
-| WiFi (2.4 and 5 GHz) | Working |
+| Wi-Fi (2.4 and 5 GHz) | Working |
 | RIL | Working |
 | Bluetooth | Working |
 | USB tethering | Working |
-| WiFi hotspot (2.4 and 5 GHz) | Working |
+| Wi-Fi hotspot (2.4 and 5 GHz) | Working |
 | Fingerprint | Working |
 | Encryption | Working |
 | Speaker / Microphone | Working |
@@ -44,13 +44,13 @@ You should have platform-tools and ADB/Fastboot driver installed
 11. Reboot
 
 ## Fixing bugs
-Currently Phh Treble settings cant apply presets for some reason, so you have to enable these options:  
+Currently Phh Treble settings can't apply presets for some reason, so you have to enable these options:  
 Misc features->Use alternative way to detect headsets (fixes headphone jack)  
 Misc features->Force alternative backlight scale (fixes backlight)  
 Misc features->Force-disable A2DP offload (fixes Bluetooth audio)
 
 ## Bugs and glitches
-### Cant remount system as RW
+### Can't remount system as RW
 For some reason blockdev errors out:
 ```
 merlinnfc:/ # mount -o rw,remount /
@@ -61,4 +61,4 @@ blockdev: ioctl 125d: Permission denied
 ```
 
 ### UI lagging
-This problem was fixed by [this commit](https://github.com/notmyst33d/device_phh_treble/commit/81af8dbf47dcb1f20b836f9a9b22addae4d6e19e), however UI is still a bit laggy.
+This problem was fixed by [this commit](https://github.com/notmyst33d/device_phh_treble/commit/81af8dbf47dcb1f20b836f9a9b22addae4d6e19e), however the UI is still a bit laggy.
