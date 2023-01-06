@@ -64,7 +64,6 @@
 |[[Xiaomi Redmi 9C NFC]]|angelican|✓|A/B|arm_binder64|
 |[[Xiaomi Redmi 9T / 9 Power]]|lime|✓|A/B|arm64|
 |[[Xiaomi Redmi 10C / 10 - India]]|fog|✓|A/B|arm64|
-|[[Xiaomi Redmi 10X 4G / Note 9]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X 5G]]|atom|✓|A/B|arm64|
 |[[Xiaomi Redmi 10X Pro]]|bomb|✓|A/B|arm64|
 |[[Xiaomi Redmi Go]]|tiare|✓|A|arm|
@@ -90,6 +89,7 @@
 |[[Xiaomi Redmi Note 8]]|ginkgo|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8 Pro]]|begonia|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 8T]]|willow|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 9]]|merlin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro]]|joyeuse|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro 5G / Mi 10i / Mi 10T Lite]]|gauguin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9 Pro Max]]|excalibur|✓|A/B|arm64|
