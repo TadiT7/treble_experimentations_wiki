@@ -16,7 +16,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo Z6 Pro]]|zippo|✓|A/B|arm64|
 |[[Lenovo Z6 Youth Edition]]|kunlun2|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
-|[[Moto E5 Plus]]|hannah and ahannah|✓|A|arm|
+|[[Moto E5 Plus]]|hannah / ahannah|✓|A|arm|
 |[[Moto E7 Plus]]|guam|✓|A/B|arm64|
 |[[Moto G 5G Plus]]|nairo|✓|A/B|arm64|
 |[[Moto G Power (2021)]]|borneo|✓|A/B|arm64|
