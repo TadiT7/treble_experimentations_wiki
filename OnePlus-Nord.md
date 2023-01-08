@@ -10,6 +10,7 @@ what i did:
     by getting them out from payload.bin
 4) used following flash.sh
 
+~~~
 #!/bin/sh
 #
 # Done from Angelo Dureghello
@@ -20,3 +21,4 @@ fastboot --disable-verity flash vbmeta vbmeta.img
 fastboot --disable-verity flash vbmeta_system vbmeta_system.img
 fastboot -w
 fastboot reboot
+~~~
