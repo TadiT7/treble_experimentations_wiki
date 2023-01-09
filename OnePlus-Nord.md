@@ -22,3 +22,17 @@ fastboot --disable-verity flash vbmeta_system vbmeta_system.img
 fastboot -w
 fastboot reboot
 ~~~
+
+Adding some tests,
+
+camera: works
+lte: works
+wifi: works
+
+
+
+
+
+
+
+
