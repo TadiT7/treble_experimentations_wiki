@@ -14,7 +14,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|08 Jan|Firmware Collection|Nazim|[Telegram](https://t.me/naz_dev) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/)| [GitHub](https://github.com/naz_664/)|ARM64 - Binder|Dec 2022|
+|08 Jan|Firmware Collection|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Dec 2022|
 |05 Jan|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|
 |05 Jan|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) /[Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Jan 2023|
 |04 Jan|Pixel Experience Plus|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) /[Download](https://github.com/ponces/treble_build_pe/releases/tag/v2023.01.04-plus)/ [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Jan 2023|
