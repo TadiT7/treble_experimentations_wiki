@@ -25,10 +25,11 @@ fastboot reboot
 
 Adding some tests,
 
+~~~
 camera: works
 lte: works
 wifi: works
-
+~~~
 
 
 
