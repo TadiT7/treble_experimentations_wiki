@@ -1,10 +1,9 @@
 Here's a collection of available GSIs, in order to keep it easy to choose what you want.
 
-- ###### There is now new Gsi with erofs format "Egs,Evs" if your phone kernel support erofs then you can use it if not then don't it will not boot, Take note Erofs is R/O only, better stay in normal Gsi like Bgs,Bvs...
-
 - ###### Only use GSI images with an Android version that's higher or equal to the version of Android that came with your device.
 - ###### If your device uses VNDKLite, only use VNDKLite GSIs. To verify what image is right for your device, check the "Required Image" section of the [Treble Info](https://github.com/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)#how-can-i-check-if-my-device-is-treble-enabled) app.
 - ###### All images here require a System-as-Root ("A/B") partition style, unless otherwise specified through a column.
+- ###### If your device kernel supports `Erofs` then you can use erofs format `EgS`, `EvS` GSIs, `Erofs` are R/O GSIs and therefore are not recommended over `BgS`,`BvS`.
 
 ## Official Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
@@ -15,29 +14,20 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|08 Jan|Firmware Collection|Nazim|[Telegram](https://t.me/naz_dev) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/)| [GitHub](https://github.com/naz_664/)|ARM64 - Binder|Dec 2022|
 |05 Jan|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|
 |05 Jan|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) /[Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Jan 2023|
 |04 Jan|Pixel Experience Plus|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) /[Download](https://github.com/ponces/treble_build_pe/releases/tag/v2023.01.04-plus)/ [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Jan 2023|
 |04 Jan|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) /[Download](https://github.com/ponces/treble_build_pe/releases/tag/v2023.01.04)/ [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Jan 2023|
 |02 Jan|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases/tag/TDA-0.7.1)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Dec 2022|
-|27 Dec|crDroid|Nazim|[Telegram](https://t.me/naz_dis/66283) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/)| [GitHub](https://github.com/naz664/crDroid_gsi/tree/13)|ARM64 - Binder|Dec 2022|
-|25 Dec|Spark OS|Nazim|[Telegram](https://t.me/naz_dev/176) / [Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/SparkOS/24122022/)|[Github](https://github.com/naz664/SparkOS_gsi)|ARM64|Dec 2022|
+|30 Dec|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Nov 2022|
 |22 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Nata-de-Coco/22122022/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Dec 2022|
-|17 Dec|Xtended XT|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xtended/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-xtended)|ARM64 - Binder|Nov 2022|
-|13 Dec|exTHmUI|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/exTHmUI/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-exthm)|ARM64 - Binder|Nov 2022|
-|12 Dec|Pixel OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelOS/)/[Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/patches-pixel)|ARM64 - Binder|Nov 2022|
 |12 Dec|LineageOS "Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Dec 2022|
-|07 Dec|xdroidOSS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Xdroid/07.12.22/)|[GitHub](https://github.com/TheAtt1la/patches-xdroid)|ARM64|Nov 2022|
-|05 Dec|DerpFest|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/DerpFest/)|[GitHub](https://github.com/TheAtt1la/DerpFest-patches)|ARM64|Nov 2022|
-|04 Dec|Pixel Extended|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/PixelExtended/)|-|ARM64|Nov 2022|
-|04 Dec|FLOS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/ForkLos/)|[GitHub](https://github.com/TheAtt1la/ForkLos-patches)|ARM64|Nov 2022|
 |17 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) /[Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
 |13 Nov|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) /[Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
-|11 Nov|Arrow OS|Nazim|[Telegram](https://t.me/naz_dev/) /[Downloads](https://sourceforge.net/projects/gsi-projects/files/A13/ArrowOS/11112022/)|[Github](https://github.com/naz664/ArrowOS_gsi/tree/13)|ARM64 - Binder|Nov 2022|
 |11 Nov|LineageOS TD-based|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/) /[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-td)|ARM64 - Binder|Nov 2022|
 |07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
-|30 Oct|BlissOS|Nazim|[Telegram](https://t.me/naz_dev/160) /[Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/)| [GitHub](https://github.com/naz664/Bliss_gsi)|ARM64  - Binder|Oct 2022|
 
 
 ## Latest Android 10, 11, 12L GSIs
