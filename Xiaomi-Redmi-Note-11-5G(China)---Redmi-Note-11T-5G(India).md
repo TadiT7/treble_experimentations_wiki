@@ -40,6 +40,6 @@ fastboot flash system your_gsi_rom_of_choice.img
 
 # Notes
 
-- For bluetooth, enable "Use System Wide BT HAL"
+- For bluetooth, enable "Use System Wide BT HAL", also see [here](https://github.com/phhusson/treble_experimentations/issues/2501)
 - When you using 5G, calls and sms aren't working
 - Camera works badly
