@@ -10,7 +10,7 @@ Mostly working fine (see Hardware support bellow)
 1. Unlock bootloader first
 2. Use miflash to flash latest fastboot package from xiaomi
 3. boot into MIUI first
-4. reboot to fastboot, and ```fastboot reboot fastboot```
+4. reboot to fastboot, and type "fastboot reboot fastboot"
 5. fastboot flash system your_gsi_rom_of_choice.img
 ```
 
