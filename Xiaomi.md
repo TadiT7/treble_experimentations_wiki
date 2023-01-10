@@ -101,6 +101,7 @@
 |[[Xiaomi Redmi Note 10 Pro 5G / Poco X3 GT]]|chopin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10S]]|rosemary|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 11]]|spesn|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 11 5G(China) / Redmi Note 11T 5G(India)]]|evergo|✓|A/B|arm64|
 |[[Xiaomi Redmi S2 / Y2 (India)]]|ysl|✓|A|arm|
 |[[Xiaomi 11T Pro]]|vili|✓|A/B|arm64|
 |[[Xiaomi 12 Pro]]|zeus|✓|A/B|arm64|
