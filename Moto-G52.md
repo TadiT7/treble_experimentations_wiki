@@ -8,3 +8,7 @@ Strange thing in this device is, even though it launched with Android 12, vndk a
 - Download vbmeta from [here](https://dl.google.com/developers/android/qt/images/gsi/vbmeta.img) and flash using `fastboot flash vbmeta vbmeta.img`
 - Wipe data using `fastboot erase userdata` and `fastboot erase metadata`
 - Reboot to newly flashed system using `fastboot reboot`
+
+For Indian Jio SIM Card users, signal may not show. To fix this, go to `Setting` -> `Network & internet` -> `SIMs` -> `Preferred network type` and choose `LTE (recommended)` instead of `3G`. Now Jio will work.
+
+To fix VoLTE goto `Settings` -> `Phh Treble Settings` -> `IMS features` and check available options, tap on `Install IMS APK for Qualcomm pre-S vendor (Motorola)`. It will download a apk(check notification area). After download finish, install it by tapping on notification(it is a bug which not installs automatically) and go back to IMS settings and tap on `Create IMS APN`. Now reboot to use VoLTE.
