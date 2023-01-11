@@ -20,6 +20,28 @@ Summary of what works and doesn't
 
 ## Hardware support
 
+### Android 13
+| Component                 |      Comment                                                                                 |
+|---------------------------|----------------------------------------------------------------------------------------------|
+| Camera                    | Yes\*                                                                                        |
+| Speaker / Mic             | Yes                                                                                          |
+| Headphones                | Yes\*\*                                                                                      |
+| Bluetooth                 | Yes                                                                                          | 
+| WiFi                      | Yes                                                                                          |
+| SIM / Mobile Data / Voice | Yes                                                                                          |
+| VoLTE                     | Untested                                                                                     |
+| Fingerprint               | Yes                                                                                          |
+| NFC                       | Untested                                                                                     |
+| Offline Charging          | No                                                                                           |
+| MTP & PTP                 | Kernel dependent\*\*\*                                                                       |
+
+[\*] To enable the wide camera go to Phh Treble Settings-> Samsung Features-> Tick "Enable access to all cameras" (**Requires a Q/R vendor**) and reboot. You'll also have to use a camera app that supports it, like Open Camera.
+
+[\*\*] Headphones may not work if you are using Eureka Kernel R11. In that case, downgrade to Eureka Kernel R10.
+
+[\*\*\*] Having USB debugging enabled whilst using MTP will crash the device
+
+***
 ### Android 12/12.1
 | Component                 |      Comment                                                                                 |
 |---------------------------|----------------------------------------------------------------------------------------------|
@@ -39,7 +61,7 @@ Summary of what works and doesn't
 
 [\*\*] Headphones aren't detected on most versions of AOSP 12 due to issues with the overlay. This is fixed on AOSP 12.1 and higher.
 
-[\*\*\*] Having USB debugging enabled whilst using MTP will crash the device. (Still the same with Eureka Kernel)
+[\*\*\*] Having USB debugging enabled whilst using MTP will crash the device
 
 ***
 ### Android 11
@@ -63,18 +85,20 @@ Summary of what works and doesn't
 
 [\*\*\*] NFC seems to be really slow and sometimes even unresponsive.
 
-[\*\*\*\*] Having USB debugging enabled whilst using MTP will crash the device. (Still the same with Eureka Kernel)
+[\*\*\*\*] Having USB debugging enabled whilst using MTP will crash the device
 
 ---
 
 ### Test Log
-Tested By: os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13
+First test by os54656 - SM-A205G , Firmware Version - treble_arm64_bgS-userdebug 10 QQ2A.200305.003 200314 test_keys - I think it is v214 Date tested - 2020-04-13
 
-Second Tested By: tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiments - since 10/11/2021-18/11/2021 , Template ever so slightly modified from the previous test.
+Second test by tristanbollard - SM-A205YN, Firmware Version system-squeak-arm64-ab-vndklite-gapps.img.xz from (AOSP 12.0 v400.c) of treble experiments - since 10/11/2021-18/11/2021 , Template ever so slightly modified from the previous test.
 
-Third Tested By: tristanbollard - SM-A205YN, Firmware Version Pixel_Experience_Plus_11_v313 from [github](https://github.com/ponces/treble_build_pe) which uses the base of phh_treble so it has the same bugs and issues as phh_treble, Since 18/11/2021-prior, Using Eureka-ONEUI3-Kernel-R8.0 as the kernel.
+Third test by tristanbollard - SM-A205YN, Firmware Version Pixel_Experience_Plus_11_v313 from [github](https://github.com/ponces/treble_build_pe) which uses the base of phh_treble so it has the same bugs and issues as phh_treble, Since 18/11/2021-prior, Using Eureka-ONEUI3-Kernel-R8.0 as the kernel.
 
-Fourth Tested By: TBM13 - SM-A205G, GSI: phhusson's AOSP 12.0 v400.h (system-squeak-arm64-ab-vndklite-gapps-secure.img.xz), using stock Kernel and Vendor from Android R (11).
+Fourth test by TBM13 - SM-A205G, GSI: phhusson's AOSP 12.0 v400.h (system-squeak-arm64-ab-vndklite-gapps-secure.img.xz), using stock Kernel and Vendor from Android R (11).
+
+Fifth test by TBM13 - SM-A205G, GSI: ponces's Pixel Experience Plus v2022.11.24, using Eureka Kernel R11 (OneUI3 variant) and stock Vendor from Android R (11).
 ***
 
 Template created by @zguithues and @hackintosh5
