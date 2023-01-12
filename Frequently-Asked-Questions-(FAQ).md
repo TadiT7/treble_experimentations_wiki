@@ -140,23 +140,3 @@ Follow [this guide](https://github.com/phhusson/treble_experimentations/wiki/How
 ### Why do the latest GSI packages have xz file extension? How to install it?
 
 Starting from v19 (2018-06-03), releases are now compressed with xz. Uncompress before flashing.
-
-***
-### How to magisk root AOSP Android 11 GSI ?
-
-> Warning ! Dont try this if you're an someone who don't know how to recover from a bricked device
-
-Guide to get magisk root working on @phhusson android 11 gsi
-
-1. install termux
-2. enter su
-3. enter echo $PATH
-4. copy the output path and paste inside init.environ.rc inside #root directory in the format "export PATH \<that path\>"
-(Use a files manager like Mixplorer or anything which can rw root) (ensure that you've atleast 15 MB free space on /root)
-5. if there's no sbin folder inside root , create one
-6. flash magisk 21.x and reboot
-7. you'll see magisk 21.x is installed
-8. update magisk manager to 22.0 from 21.x manager , then using newer manager , update magisk to 22.0 using direct method
-
-Bingo!
-this page will be updated soon with more...
