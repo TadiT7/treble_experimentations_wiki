@@ -25,14 +25,23 @@ fastboot reboot
 
 Adding some tests,
 
+A10 image, arm64-ab-vanilla v222
 ~~~
 camera: works
 lte: works
 wifi: works
+bt: mute, no way to have it working
 ~~~
 
-
-
+A12.1 image, arm64-ab-vanilla v416
+~~~
+camera: works
+lte: works
+wifi: works
+bt: probably work
+cannot install magisk 25.2
+cannot install magisk 24.3
+~~~
 
 
 
