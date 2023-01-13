@@ -8,6 +8,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Official Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
+|12 Jan|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/)/[Download](https://projectelixiros.com/download)/[Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Jan 2023|
 |04 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2023|
 |10 Nov|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Nov 2022|
 
