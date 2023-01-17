@@ -32,7 +32,7 @@ bt: works
 cannot install magisk 25.2, no signature spoofing
 ~~~
 
-A12.1 image, arm64-an-floss-vndklike
+A12.1 image, arm64-an-floss-vndklike v416
 ~~~
 All ok !
 Best image right now.
