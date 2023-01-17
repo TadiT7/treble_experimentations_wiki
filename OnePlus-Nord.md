@@ -40,5 +40,8 @@ All ok !
 Best image right now.
 ~~~
 
+Notes: do not install phh over stock-updated OOS12,
+you will get some error messages a "phhtreble app stopped to work".
+
 If you find this help useful, please send an email to 
-angelo AT kernel-space.org, it does const nothing.
+angelo AT kernel-space.org, a "thanks" is welcome.
