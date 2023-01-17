@@ -1,27 +1,15 @@
 Hello folks,
 
-i could have system-squeak-arm64-ab-vanilla.img image flashed, 
+i could have gsi image flashed, 
 what i did:
 
-1) installed twrp-3.7.0_12-0-avicii.img, flashed to recovery
-2) adb reboot fastboot
-3) get vbmeta and vbmeta_system.img from lineage
-    lineage-19.1-20221227-UNOFFICIAL-avicii-microG.zip
-    by getting them out from payload.bin
-4) used following flash.sh
-
-~~~
-#!/bin/sh
-#
-# Done from Angelo Dureghello
-
-fastboot reboot fastboot
-fastboot flash system system-squeak-arm64-ab-vanilla.img
-fastboot --disable-verity flash vbmeta vbmeta.img
-fastboot --disable-verity flash vbmeta_system vbmeta_system.img
-fastboot -w
-fastboot reboot
-~~~
+install OOS10 stock
+enable oem
+adb reboot fastboot
+fastboot flashing unlock
+fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
+fastboot flash recovery OrangeFox-R11.1_2_FBEv1-Unofficial-avicii.img
+fastboot flash system system-squeak-arm64-ab-vndklite-floss.img
 
 Adding some tests,
 
@@ -31,6 +19,8 @@ camera: works
 lte: works
 wifi: works
 bt: mute, no way to have it working
+can patch for signature spoofing (nanodroid patcher)
+can install magisk
 ~~~
 
 A12.1 image, arm64-ab-vanilla v416
@@ -38,11 +28,15 @@ A12.1 image, arm64-ab-vanilla v416
 camera: works
 lte: works
 wifi: works
-bt: probably work
-cannot install magisk 25.2
-cannot install magisk 24.3
+bt: works
+cannot install magisk 25.2, no signature spoofing
 ~~~
 
+A12.1 image, arm64-an-floss-vndklike
+~~~
+All ok !
+Best image right now.
+~~~
 
-
-
+If you find this help usefull, please send an email to 
+angelo AT kernel-space.org, it does const nothing.
