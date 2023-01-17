@@ -40,5 +40,5 @@ All ok !
 Best image right now.
 ~~~
 
-If you find this help usefull, please send an email to 
+If you find this help useful, please send an email to 
 angelo AT kernel-space.org, it does const nothing.
