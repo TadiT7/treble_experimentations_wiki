@@ -3,6 +3,7 @@ Hello folks,
 i could have gsi image flashed, 
 what i did:
 
+~~~
 install OOS10 stock
 enable oem
 adb reboot fastboot
@@ -10,6 +11,7 @@ fastboot flashing unlock
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 fastboot flash recovery OrangeFox-R11.1_2_FBEv1-Unofficial-avicii.img
 fastboot flash system system-squeak-arm64-ab-vndklite-floss.img
+~~~
 
 Adding some tests,
 
