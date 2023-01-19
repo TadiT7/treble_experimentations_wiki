@@ -1,10 +1,12 @@
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Asus ROG Phone (ZS600KL)]]|Z01QD|✓|A/B|arm64|
-|[[Asus ROG Phone II (ZS660KL)]]|I001D|✓|A/B|arm64|
-|[[Asus ROG Phone III]]|I003D|✓|A/B|arm64|
-|[[Asus ROG Phone 5/Pro/Ultimate]]|I005D|✓|A/B|arm64|
-|[[Asus Zenfone 4 (ZE554KL)]]|Z01KD|✓|A|arm64|
+|[[ASUS ROG Phone]]|Z01QD|✓|A/B|arm64|
+|[[ASUS ROG Phone 2]]|I001D|✓|A/B|arm64|
+|[[ASUS ROG Phone 3 / 3 Strix Edition]]|I003D / obiwan|✓|A/B|arm64|
+|[[ASUS ROG Phone 5 / 5S]]|I005D|✓|A/B|arm64|
+|[[ASUS ROG Phone 6 / 6 Pro]]|AI2201|✓|A/B|arm64|
+|[[ASUS ROG Phone 6D / 6D Ultimate]]|AI2203|✓|A/B|arm64|
+|[[Asus Zenfone 4]]|Z01KD|✓|A|arm64|
 |[[Asus Zenfone 5 (ZE620KL)]]|X00QD|✓|A|arm64|
 |[Asus Zenfone 5Z (ZS620KL/ZS621KL)](https://github.com/phhusson/treble_experimentations/wiki/Asus-ZenFone-5Z)|Z01R|✓|A/B|arm64|
 |[[Asus Zenfone 7/Pro (ZS670KS/ZS671KS)]]|I002D|✓|A/B|arm64
