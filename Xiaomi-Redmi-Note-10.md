@@ -20,10 +20,10 @@ fastboot -w
 
 | Component | State & Recommended tweaks  |
 | --- | --- |
-| Camera | Works (OpenCam & most of the GCam variants) |
+| Camera | Works ( Phh Settings > Qualcomm features > Alternate Camera Profile ) |
 | Speaker/Mic | Works ( Phh Settings > Qualcomm features > **Use alternate audio policy** & Misc features / **Disable audio effects** ) |
 | Bluetooth | Works |
-| Bluetooth Audio | Works ( Misc > **Force-disable A2DP offload** ) |
+| Bluetooth Audio | Works |
 | Wi-Fi | Works |
 | SIM/Mobile Data/Voice | Works ( Misc > **Install IMS Apk for Qualcomm vendor** ) |
 | VoLTE | Works ( IMS features / **Request IMS network** & **Force the presense of 4G calling**) |
