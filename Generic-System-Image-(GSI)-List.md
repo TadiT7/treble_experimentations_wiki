@@ -11,6 +11,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |12 Jan|Project Elixir|KrutosX & Lynix|[XDA](https://forum.xda-developers.com/t/gsi-rom-project-elixir-3-5-android-13-0-aosp-official-13-01-2023.4541063/) / [Download](https://www.pling.com/p/1960767/) / [Telegram](https://t.me/universalgsi)|[GitHub](https://github.com/projectelixir-devices/device_phhgsi_generic/)|ARM64|Jan 2023|
 |04 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2023|
 |10 Nov|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Nov 2022|
+|Jan|LeOS-20|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64/a64|monthly|
 
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
@@ -27,7 +28,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |22 Dec|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Nata-de-Coco/22122022/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Dec 2022|
 |17 Nov|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) /[Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
 |13 Nov|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) /[Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
-|07 Nov|LeOS-T|Harvey186| [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-T-beta) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Nov 2022|
+|Jan|LeOS-T|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Jan 2023|
 |03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) /[Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 
 
