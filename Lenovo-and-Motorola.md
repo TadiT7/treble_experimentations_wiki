@@ -2,19 +2,31 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 
 |Device Name|Codename|Support from OEM|Image Type|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
-|[[Lenovo K5 Note / K9 Note]]|L38012|✓|A|arm64|
+|[Lenovo K5 Note](https://github.com/phhusson/treble_experimentations/wiki/Lenovo-K5-Note---K9-Note)|austin2018|✓|A|arm64|
 |[[Lenovo K5 Play]]|L38011|✓|A|arm64|
+|[[Lenovo K5 Pro]]|kunlun|✓|A (A/B when updated to Android 11)|arm64|
+|[[Lenovo K6 / K6 Power]]|karate|✓|A/B|arm64|
+|[[Lenovo K6 Note / K6 Plus]]|karatep|✓|A/B|arm64|
+|[[Lenovo K8 Note]]|manning|✓|A|arm64|
+|[[Lenovo P2]]|kuntao|✓|A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
-|[[Lenovo Tab M10 HD]]|TB-X505F|✓|A/B|arm64|
-|[[Lenovo Tab M10 Plus 3rd Gen (LTE), XiaoXin Pad 2022 and Moto Tab g62]]|TB128XU / TB128FU / XT2261-2|✓|A/B|arm64|
-|[[Lenovo Tab M10 Plus 3rd Gen (Wi-Fi) and QiTian K10 Pro]]|maple|✓|A/B|arm64|
-|[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
+|[[Lenovo S5 Pro]]|sprout|✓|A|arm64|
+|[[Lenovo Tab M8]]|TB-8505|✓|A/B|arm64|
+|[[Lenovo Tab M10 FHD]]|TB-X605|✓|A|arm64|
+|[[Lenovo Tab M10 FHD Plus]]|TB-X606|✓|A/B|arm64|
+|[[Lenovo Tab M10 HD]]|TB-X505|✓|A/B|arm64|
+|[[Lenovo Tab M10 Plus (3rd Gen)]]|TB-125F / TB-128F|✓|A/B|arm64|
+|[[Lenovo Tab P10]]|TB-X705|✓|A|arm64|
+|[[Lenovo Tab P11]]|TB-J606|✓|A/B|arm64|
+|[[Lenovo Tab P11 Pro]]|TB-J706|✓|A/B|arm64|
+|[[Lenovo Tab V7]]|PB-6505|✓|A/B|arm64|
+|[[Lenovo Vibe A Plus]]|A1010||A|arm|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
 |[[Lenovo Z5s]]|jd2019|✓|A/B|arm64|
-|[[Lenovo Z6]]|L78121|✓|A/B|arm64|
+|[[Lenovo Z6]]|jd20|✓|A/B|arm64|
+|[[Lenovo Z6 Lite / K10 Note]]|kunlun2|✓|A/B|arm64|
 |[[Lenovo Z6 Pro]]|zippo|✓|A/B|arm64|
-|[[Lenovo Z6 Youth Edition]]|kunlun2|✓|A/B|arm64|
 |[[Moto E5]]|nora|✓|A|arm|
 |[[Moto E5 Plus]]|hannah / ahannah|✓|A|arm|
 |[[Moto E7 Plus]]|guam|✓|A/B|arm64|
