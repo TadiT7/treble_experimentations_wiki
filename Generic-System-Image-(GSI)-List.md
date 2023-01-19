@@ -12,7 +12,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |04 Jan|AOSP|TrebleDroid Builders|[Download](https://github.com/TrebleDroid/treble_experimentations/releases)|[GitHub](https://github.com/TrebleDroid)|ARM64 - Binder|Jan 2023|
 |10 Nov|Google GSI|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android13-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|ARM64 - X86|Nov 2022|
 |Jan|LeOS-20|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64/a64|monthly|
-|Jan|LeOS-T|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64|Jan 2023|
+|Jan|LeOS-T|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) /[Telegram](https://t.me/LeOS_Support)|[Github]()|ARM64/a64|Jan 2023|
 
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
