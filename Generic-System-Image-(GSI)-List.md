@@ -33,19 +33,19 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 
 ## Latest Android 10, 11, 12L GSIs
-|Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|20 Jan|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-18.1)|SaR|ARM64
-|18 Jan|Pixel Experience Plus 12|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/)|[Github](https://github.com/ponces/treble_build_pe/tree/twelve)|SaR|ARM64
+|Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|20 Jan|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-18.1)|SaR|ARM64|Jan 2023
+|18 Jan|Pixel Experience Plus 12|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/)|[Github](https://github.com/ponces/treble_build_pe/tree/twelve)|SaR|ARM64|Jan 2023
 |16 Jan|LeOS (19.1)|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) / [Telegram](https://t.me/LeOS_Support)|[Github](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|
 |13 Jan|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
-|12 Jan|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|
+|12 Jan|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Jan 2023
 |11 Jan|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|
 |06 Jan|AOSP 12.1|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|
 |23 Dec|exTHmUI 10|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|[Github](https://github.com/exthmui-10-treble)|SAR|ARM64|
 |14 Dec|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|
 |Jan|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|
-|18 Nov|Pixel Experience 12.1|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|
+|18 Nov|Pixel Experience 12.1|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022
 |Jan|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm)|[Github](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|	
 |09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|
 	
