@@ -35,6 +35,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12L GSIs
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|20 Jan|LineageOS 18.1|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/LineageOS/)|[Github](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-18.1)|SaR|ARM64
+|18 Jan|Pixel Experience Plus 12|MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/)|[Github](https://github.com/ponces/treble_build_pe/tree/twelve)|SaR|ARM64
 |16 Jan|LeOS (19.1)|Harvey186| [Downloads](https://drive.proton.me/urls/X1Q3XD36S4#Om7bcAHlUXtm) / [Telegram](https://t.me/LeOS_Support)|[Github](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|
 |13 Jan|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|
 |12 Jan|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|
