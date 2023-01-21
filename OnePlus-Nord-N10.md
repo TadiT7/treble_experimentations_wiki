@@ -27,7 +27,7 @@ _**Steps to Install**_
 **3. Flash modem**
 `fastboot flash --slot=all modem modem.img`
 
-**4. Flash boot_a**
+**4. Flash boot**
 `fastboot flash --slot=all boot boot.img`
 
 
