@@ -24,37 +24,32 @@ _**Steps to Install**_
 **2. Reboot to fastbootd**
 `fastboot reboot fastboot` **(This will show a screen with English at the bottom. This is the correct screen)**
 
-**3. Flash modem_a**
-`fastboot flash modem_a modem.img`
+**3. Flash modem**
+`fastboot flash --slot=all modem modem.img`
 
-**4. Flash modem_b**
-`fastboot flash modem_b modem.img`
+**4. Flash boot_a**
+`fastboot flash --slot=all boot boot.img`
 
-**5. Flash boot_a**
-`fastboot flash boot_a boot.img`
 
-**6. Flash boot_b**
-`fastboot flash boot_b boot.img`
-
-**7. Flash system**
+**6. Flash system**
 `fastboot flash --slot=all system system.img`
 
-**7.5. _If it says There isn't enough space do these commands_**
-` fastboot delete-logical-partition product`, `fastboot delete-logical-partition product_a`, `fastboot delete-logical-partition product_b`, Afterwards run commands 7 and 8 again
+**6.5. _If it says There isn't enough space do these commands_**
+` fastboot delete-logical-partition product`, `fastboot delete-logical-partition product_a`, `fastboot delete-logical-partition product_b`, Afterwards run commands 6 again
 
-**8. Disable verity on vbmeta**
+**7. Disable verity on vbmeta**
 `fastboot --disable-verity --disable-verification flash --slot=all vbmeta vbmeta.img`
 
-**9. Disable verity on vbmeta system**
+**8. Disable verity on vbmeta system**
 `fastboot --disable-verity --disable-verification flash --slot=all vbmeta_system vbmeta_system.img`
 
-**10. Flash vendor**
+**9. Flash vendor**
 `fastboot flash vendor vendor.img`
 
-**11. Wipe Data**
+**10. Wipe Data**
 `fastboot -w`
 
-**12. Reboot to system**
+**11. Reboot to system**
 `fastboot reboot`
 
 ### **_Hardware Support_**
