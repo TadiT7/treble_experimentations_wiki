@@ -67,10 +67,11 @@ _**Steps to Install**_
 | NFC                       | √ |
 | Offline Charging          | √ |
 ### **_How to update without built in updater_**
-**1. Flash system**
+**1. Reboot to fastboot**
+`adb reboot bootloader`
+**2. Flash system**
 `fastboot flash --slot=all system system.img`
-
-**2. Reboot to system**
+**3. Reboot to system**
 `fastboot reboot`
 
 
