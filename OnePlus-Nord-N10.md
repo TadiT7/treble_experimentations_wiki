@@ -36,28 +36,25 @@ _**Steps to Install**_
 **6. Flash boot_b**
 `fastboot flash boot_b boot.img`
 
-**7. Flash system_a**
-`fastboot flash system_a system.img`
+**7. Flash system**
+`fastboot flash --slot=all system system.img`
 
-**8. Flash system_b**
-`fastboot flash system_b system.img`
-
-**8.5. _If it says There isn't enough space do these commands_**
+**7.5. _If it says There isn't enough space do these commands_**
 ` fastboot delete-logical-partition product`, `fastboot delete-logical-partition product_a`, `fastboot delete-logical-partition product_b`, Afterwards run commands 7 and 8 again
 
-**9. Disable verity on vbmeta**
-`fastboot --disable-verity flash vbmeta vbmeta.img`
+**8. Disable verity on vbmeta**
+`fastboot --disable-verity --disable-verification flash --slot=all vbmeta vbmeta.img`
 
-**10. Disable verity on vbmeta system**
-`fastboot --disable-verity flash vbmeta_system vbmeta_system.img`
+**9. Disable verity on vbmeta system**
+`fastboot --disable-verity --disable-verification flash --slot=all vbmeta_system vbmeta_system.img`
 
-**11. Flash vendor**
+**10. Flash vendor**
 `fastboot flash vendor vendor.img`
 
-**12. Wipe Data**
+**11. Wipe Data**
 `fastboot -w`
 
-**13. Reboot to system**
+**12. Reboot to system**
 `fastboot reboot`
 
 ### **_Hardware Support_**
@@ -75,13 +72,10 @@ _**Steps to Install**_
 | NFC                       | √ |
 | Offline Charging          | √ |
 ### **_How to update without built in updater_**
-**1. Flash system_a**
-`fastboot flash system_a system.img`
+**1. Flash system**
+`fastboot flash --slot=all system system.img`
 
-**2. Flash system_b**
-`fastboot flash system_b system.img`
-
-**3. Reboot to system**
+**2. Reboot to system**
 `fastboot reboot`
 
 Device tested by:
