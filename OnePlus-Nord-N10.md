@@ -44,7 +44,7 @@ _**Steps to Install**_
 `fastboot --disable-verity --disable-verification flash --slot=all vbmeta_system vbmeta_system.img`
 
 **9. Flash vendor**
-`fastboot flash vendor vendor.img`
+`fastboot flash --slot=all vendor vendor.img`
 
 **10. Wipe Data**
 `fastboot -w`
