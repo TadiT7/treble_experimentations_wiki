@@ -78,6 +78,7 @@ _**Steps to Install**_
 **2. Reboot to system**
 `fastboot reboot`
 
+
 Device tested by:
 Coaleb2
 
