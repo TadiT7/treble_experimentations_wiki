@@ -69,8 +69,10 @@ _**Steps to Install**_
 ### **_How to update without built in updater_**
 **1. Reboot to fastboot**
 `adb reboot bootloader`
+
 **2. Flash system**
 `fastboot flash --slot=all system system.img`
+
 **3. Reboot to system**
 `fastboot reboot`
 
