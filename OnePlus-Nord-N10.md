@@ -12,7 +12,7 @@ This device uses A/B Partition
 _**Prerequisites**_
 * OnePlus Nord N10 5G with unlocked bootloader and default recovery
 * Latest platform-tools installed `https://developer.android.com/studio/releases/platform-tools`
-* Latest Oxygen update `https://www.oneplus.com/support/softwareupgrade/details?code=PM1605857280263`
+* Latest Oxygen update `https://service.oneplus.com/global/search/search-detail?id=2096329&articleIndex=1`
 * Payloader dumper to extract img files from update `https://github.com/vm03/payload_dumper`**(This will allow you to get the boot.img, modem.img, vbmeta_system.img, and vendor.img)**
 
 
