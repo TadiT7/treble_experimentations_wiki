@@ -2,10 +2,12 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[[LG G7 ThinQ]]|judyln|✓|A/B|arm64|
 |[[LG G8 ThinQ]]|alphalm|✓|A/B|arm64|
-|[[LG Stylo 7 5G]]|mfh505glm|✓|A/B|arm64|
-|[[LG V30 / V30 Plus]]|joan|✓|A|arm64|
+|[[LG G8S ThinQ]]|betalm|✓|A/B|arm64|
+|[[LG G8X ThinQ]]|mh2lm|✓|A/B|arm64|
+|[[LG K7]]|n/a||A|arm|
+|[[LG Stylo 7]]|n/a|✓|A/B|arm64|
+|[[LG V30]]|joan|✓|A|arm64|
 |[[LG V40 ThinQ]]|judypn|✓|A/B|arm64|
-|[[LG G8s ThinQ]]|g810|✓|A/B|arm64|
-|[[LG V50 ThinQ]]|flashlm and flashlmdd|✓|A/B|arm64|
-|[[LG V50s ThinQ]]|g850|✓|A/B|arm64|
-|[[LG V60 ThinQ]]|v600|✓|A/B|arm64|
+|[[LG V50 ThinQ]]|flashlm|✓|A/B|arm64|
+|[[LG V50S ThinQ]]|n/a|✓|A/B|arm64|
+|[[LG V60 ThinQ]]|timelm|✓|A/B|arm64|
