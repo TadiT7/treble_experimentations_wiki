@@ -10,3 +10,4 @@
 |[[Infinix Zero 6]]|x620|✓|A/B|arm64|
 |[[Infinix Zero 8]]|x687|✓|A/B|arm64|
 |[[Infinix Zero X Pro]]|x6811|✓|A/B|arm64|
+|[[Infinix SMART 5]] or [[Infinix Hot 10 Lite]]|X657B|✓|A/B (dynamic)|arm_binder64
