@@ -50,7 +50,6 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Moto G71s / G82]]|rhodep|✓|A/B|arm64|
 |[[Moto g50 5G XT2137]]|ibiza|✓|A/B|arm64|
 |[[Moto g50 5G XT2149]]|saipan|✓|A/B|arm64|
-|[[Moto S30 Pro / Edge 30 Fusion]]|tundra|✓|A/B|arm64|
 |[[Moto Z2 Force]]|nash|✓|A/B|arm64|
 |[[Moto Z3 Play]]|beckham|✓|A/B|arm64|
 |[[Moto Z3]]|messi|✓|A/B|arm64|
@@ -64,5 +63,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
 |[[Motorola G100 5G / Edge S]]|nio|✓|A/B|arm64|
 |[[Motorola G200 5G / Edge S30]]|xpeng|✓|A/B|arm64|
+|[[Motorola Edge 30 Fusion / Edge S30 Pro]]|tundra|✓|A/B|arm64|
 |[[Motorola Edge 30 Pro / Edge X30]]|hiphi / hiphic / hiphid|✓|A/B|arm64|
+|[[Motorola Edge 30 Ultra / Edge X30 Pro]]|eqs|✓|A/B|arm64|
 |[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
