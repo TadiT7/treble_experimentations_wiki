@@ -8,6 +8,7 @@ For TB128XU or XT2261-2 equipped with Snapdragon 680, please check [Lenovo Tab M
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
+| Stylus                    | ?                                                      |
 | Camera                    | ?                                                      |
 | Speaker / Mic             | ?                                                      |
 | Bluetooth                 | ?                                         |
@@ -19,6 +20,7 @@ For TB128XU or XT2261-2 equipped with Snapdragon 680, please check [Lenovo Tab M
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
+| Stylus                    | ?                                                      |
 | Camera                    | ?                                                      |
 | Speaker / Mic             | ?                                                      |
 | Bluetooth                 | ?                                         |
