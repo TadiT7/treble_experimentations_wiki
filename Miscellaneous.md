@@ -90,7 +90,7 @@
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
 |[[Sharp Aquos Zero 5G Basic]]|OJ6|✓|A/B|arm64|
-|[[Skyworth TV Box E900V22C]]|p291-iptv|✓|A/B|arm|
+|[[Skyworth TV Box E900V22C]]|p291_iptv|✓|A/B|arm|
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
