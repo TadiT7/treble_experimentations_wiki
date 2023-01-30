@@ -90,6 +90,7 @@
 |[[Sharp Aquos R3]]|NAX|✓|A/B|arm64|
 |[[Sharp Aquos Zero 2]]|n/a|✓|A/B|arm64|
 |[[Sharp Aquos Zero 5G Basic]]|OJ6|✓|A/B|arm64|
+|[[Skyworth TV Box E900V22C]]|p291-iptv|✓|A/B|arm|
 |[[Tecno Camon X]]|TECNO-CA7|✓|A|arm64|
 |[[Teracube One]]|v7101o|✓|A/B|arm64|
 |[[Timovi Insignia Delta 3]]|n/a|✓|A|arm|
@@ -101,7 +102,7 @@
 |[[Umidigi X]]|Umidigi_X|✓|A/B|arm64|
 |[[Unihertz Titan]]|not sure|not sure|A/B|arm64|
 |[[Vsmart Joy 2+]]|V420A|✓|A/B|arm64|
-|[[Vsmart  Joy 3+]]|V430|✓|A/B|arm64|
+|[[Vsmart Joy 3+]]|V430|✓|A/B|arm64|
 |[[Wiko Lenny5]]|w_k400|✓|A|arm|
 |[[Wiko View Max]]|w_p200|✓|A|arm|
 |[[Yandex Phone]]|amber|✓|A/B|arm64|
