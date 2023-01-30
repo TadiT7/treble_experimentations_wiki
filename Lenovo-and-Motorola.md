@@ -15,7 +15,9 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo Tab M10 FHD]]|TB-X605|✓|A|arm64|
 |[[Lenovo Tab M10 FHD Plus]]|TB-X606|✓|A/B|arm64|
 |[[Lenovo Tab M10 HD]]|TB-X505|✓|A/B|arm64|
-|[[Lenovo Tab M10 Plus (3rd Gen)]]|TB-125F / TB-128F|✓|A/B|arm64|
+|[[Lenovo Tab M10 Plus 3rd Gen (LTE), XiaoXin Pad 2022 and Moto Tab g62]]|TB128XU / TB128FU / XT2261-2|✓|A/B|arm64|
+|[[Lenovo Tab M10 Plus 3rd Gen (Wi-Fi) and QiTian K10 Pro]]|maple|✓|A/B|arm64|
+|[[Lenovo Tab V7]]|PB-6505M|✓|A/B|arm64|
 |[[Lenovo Tab P10]]|TB-X705|✓|A|arm64|
 |[[Lenovo Tab P11]]|TB-J606|✓|A/B|arm64|
 |[[Lenovo Tab P11 Pro]]|TB-J706|✓|A/B|arm64|
