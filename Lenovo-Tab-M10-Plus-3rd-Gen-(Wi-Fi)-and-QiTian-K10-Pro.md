@@ -9,12 +9,14 @@ For TB128XU or XT2261-2 equipped with Snapdragon 680, please check [Lenovo Tab M
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Stylus                    | ?                                                      |
-| Camera                    | ?                                                      |
-| Speaker / Mic             | ?                                                      |
-| Bluetooth                 | ?                                         |
-| SDCard                       | ?                                                    |
-| WiFi                      | ?                                                      |
-| FM Radio                  | ?                                                  |
+| Camera                    | √                                                      |
+| Speaker / Mic             | √                                                      |
+| Bluetooth                 | √                                         |
+| SDCard                       | √                                                    |
+| WiFi                      | √                                                      |
+
+==Additional Notes==
+* Stylus cannot be tested due to lack of hardware.
 
 Tested By: @HikariCalyx TB125FU TB125FU_S000139_221208_ROW @ 1/2/2023
 
