@@ -26,11 +26,11 @@ Summary of what works and doesn't
 | WiFi                      | Working                                                   |
 | SIM / Mobile Data / Voice | Depends on GSI                                            |
 | VoLTE                     | Not Working                                               |
-| Fingerprint               | Not Working                                               |
+| Fingerprint               | Working                                                   |
 | NFC                       | Working                                                   |
 | Offline Charging          | Working                                                   |
-| 5G                        | Depends on GSI                                            |
+| 5G                        | Not Working                                               |
 | 120Hz Refresh Rate        | Working                                                   |
 ---
 
-Tested By: ItsLynix - SM-A536B(EUX), A536BXXU4BVJG - 28/11/2022 - Template created by @zguithues and @hackintosh5
+Tested By: ItsLynix - SM-A536B(EUX), A536BXXU4BVL2 - 01/02/2023 - Template created by @zguithues and @hackintosh5
