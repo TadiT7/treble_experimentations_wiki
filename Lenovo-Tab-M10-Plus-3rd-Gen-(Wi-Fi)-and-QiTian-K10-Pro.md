@@ -14,6 +14,7 @@ For TB128XU or XT2261-2 equipped with Snapdragon 680, please check [Lenovo Tab M
 | Bluetooth                 | √                                         |
 | SDCard                       | √                                                    |
 | WiFi                      | √                                                      |
+| Rotation                  | √                                                      |
 
 ## Additional Notes
 * Stylus cannot be tested due to lack of hardware.
