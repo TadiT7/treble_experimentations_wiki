@@ -16,19 +16,6 @@ For TB128XU or XT2261-2 equipped with Snapdragon 680, please check [Lenovo Tab M
 | WiFi                      | ?                                                      |
 | FM Radio                  | ?                                                  |
 
-## Hardware support (AOSP 13)
-
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Stylus                    | ?                                                      |
-| Camera                    | ?                                                      |
-| Speaker / Mic             | ?                                                      |
-| Bluetooth                 | ?                                         |
-| SDCard                       | ?                                                    |
-| WiFi                      | ?                                                      |
-| FM Radio                  | ?                                                  |
-
-
-Tested By: @HikariCalyx TB125FU
+Tested By: @HikariCalyx TB125FU TB125FU_S000139_221208_ROW @ 1/2/2023
 
 Template created by @zguithues and @hackintosh5
