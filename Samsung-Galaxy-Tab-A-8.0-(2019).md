@@ -1,9 +1,13 @@
 # Samsung Galaxy Tab A 8.0 (2019)
 ![Samsung Galaxy Tab A 8.0 (2019)](https://image-us.samsung.com/SamsungUS/home/mobile/tablets/sm-t290-taba-8/gallery/Gallery-TabA8-Black-1.jpg?$product-details-jpg$)
 
-## Latest stock Android 10 OneUI 2.1 firmware:
+## Latest stock Android 11 OneUI 3.0 firmware for SM-T290:
 
-Link: [click here to continue to the download](https://samfrew.com/download/Galaxy__Tab__A__-8.0__inches,__2019,__Wi-Fi-__/djyb/XAR/T290XXU3BTG1/T290OXM3BTG1/)
+Link: [click here to continue to the download](https://samfrew.com/download/Galaxy__Tab__A__-8.0__inches,__2019,__Wi-Fi-__/hk1n/XAR/T290XXS4CWA1/T290OXM4CWA1/)
+
+## Latest stock Android 11 OneUI 3.0 firmware for SM-T295:
+
+Link: [click here to continue to the download](https://samfrew.com/download/Galaxy__Tab__A__-2019,__8.0,__LTE-__/j07p/BTU/T295XXU4CVG3/T295OXM4CVG2/)
 
 # Hardware support:
 
