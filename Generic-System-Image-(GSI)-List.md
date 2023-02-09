@@ -16,7 +16,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|29 Jan|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Jan 2022|
+|06 Feb|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Jan 2022|
 |28 Jan|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Jan 2023|
 |20 Jan|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
 |16 Jan|Firmware Collection|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
