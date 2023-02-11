@@ -12,7 +12,7 @@ Android 11 firmware is the only firmware that seems to work currently. Make sure
 | SDCard                    | Works                                                     |
 | MTP                       | Works                                                     |
 | WiFi                      | Works                                                     |
-| SIM / Mobile Data / Voice | None                                                      |
+| SIM / Mobile Data         | Untested                                                  |
 | VoLTE                     | None                                                      |
 | Fingerprint               | None                                                      |
 | NFC                       | None                                                      |
@@ -21,6 +21,6 @@ Android 11 firmware is the only firmware that seems to work currently. Make sure
 
 Tested By:
 1. 00p513-dev
-   - Model: Lenovo TB-X56C6F
+   - Model: Lenovo TB-X6C6F
    - Firmware: S000043_210430
    - Date: 11/02/2022
