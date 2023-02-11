@@ -11,6 +11,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo P2]]|kuntao|✓|A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[Lenovo S5 Pro]]|sprout|✓|A|arm64|
+|[[Lenovo Tab K10]]|TB-X6C6|✓|A/B|arm64|
 |[[Lenovo Tab M8]]|TB-8505|✓|A/B|arm64|
 |[[Lenovo Tab M10 FHD]]|TB-X605|✓|A|arm64|
 |[[Lenovo Tab M10 FHD Plus]]|TB-X606|✓|A/B|arm64|
