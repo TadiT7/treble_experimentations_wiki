@@ -1,4 +1,7 @@
-# Lenovo Tab K10 (Lenovo TB-X6C6F)
+# Lenovo Tab K10 LTE (TB-X6C6X)
+Seems to behave the same as its non-LTE counterpart. VoLTE/SIM not tested.
+
+# Lenovo Tab K10 (TB-X6C6F)
 
 Android 11 firmware is the only firmware that seems to work currently. Make sure to disable dm-verity, and use fastbootd to flash the image.
 
