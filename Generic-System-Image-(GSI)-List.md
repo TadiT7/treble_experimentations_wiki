@@ -18,6 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |14 Feb|LineageOS<br/>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Feb 2023|
 |13 Feb|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
+|11 Feb|NusantaraProject|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://itzkaguya.suzunetwork.workers.dev/0:/segawa-builds/GSI/NusantaraProject/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Dec 2022|
 |06 Feb|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Jan 2022|
 |28 Jan|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64|Jan 2023|
 |26 Jan|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
@@ -47,6 +48,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |13 Jan|/e/ OS q|[e Foundation](https://e.foundation/)|[Installation](https://doc.e.foundation/how-tos/install-GSI)|[Gitlab](https://gitlab.e.foundation/e)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
 |12 Jan|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Jan 2023|
 |23 Dec|exTHmUI 10|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|[Github](https://github.com/exthmui-10-treble)|SAR|ARM64|July 2022|
+|17 Dec|xdroidOSS|ItzKaguya|[Download](http://segawa.suzunetwork.workers.dev/0:/segawa-builds/INA.XD.12.1.r17-041712-.REL.img.xz)|[Github](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
 |14 Dec|AOSP 10| Google | [Download](https://ci.android.com/builds/branches/aosp-android10-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)| non-SaR - SaR| ARM64 - X86|Dec 2022|
 |18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
 |09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
