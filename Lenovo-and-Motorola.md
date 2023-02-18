@@ -24,6 +24,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo Tab P11 Pro]]|TB-J706|✓|A/B|arm64|
 |[[Lenovo Tab V7]]|PB-6505|✓|A/B|arm64|
 |[[Lenovo Vibe A Plus]]|A1010||A|arm|
+|[[Lenovo Yoga Tab 3]]|YT-X705F|✓|A/B|arm64|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
 |[[Lenovo Z5 Pro GT]]|heart|✓|A/B|arm64|
 |[[Lenovo Z5s]]|jd2019|✓|A/B|arm64|
