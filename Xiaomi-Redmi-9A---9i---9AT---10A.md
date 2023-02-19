@@ -23,7 +23,8 @@ Its safe to use.
 
 Once in the app , the app recommends you which IMAGE you should download, gives you CPU ARCH info and tells you if phone is Aonly or A/B
 
-In my case its A ONLY , but the app recommends me to download an A/B Image, specifically a " **system-arm32_binder64-ab-vanilla.img.xz**  " image.
+In my case its A ONLY , but the app recommends me to download an A/B Image, specifically a
+ " **system-arm32_binder64-ab-vanilla.img.xz**  " image.
 
 Since my last MIUI image installed was " **dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global** " **its based on Android 11**
 
