@@ -80,7 +80,7 @@ Congratulations you got rid of MIUI without any recovery, and  you got a nice de
 ### Features? = 
 
 Well its 967.60 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
-Since its so small , it should be very good on the battery and because of this performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
+Since its so small , it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
 It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
 
 ### (Interesting to try in the future)
