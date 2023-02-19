@@ -37,7 +37,7 @@ AOSP 11.0 v313 -- https://github.com/phhusson/treble_experimentations/releases/t
 you can only choose the same Android version or 1 that is above yours , bare in mind we might not be able to return to previous Android versions, so stick with your current version)
 
 
-I downloaded and used " **system-roar-arm32_binder64-ab-vanilla.img.xz** " Because our system uses arm32_binder64, and ab will work for us. 
+I downloaded and used " **system-roar-arm32_binder64-ab-vanilla.img.xz** " Because our CPU supports arm32_binder64, and ab will work for us. 
 
 Vanilla variant comes without gapps and has Root/SU, but you can download "system-roar-arm32_binder64-ab-gapps.img.xz " 
 the gapps variant. (I don't know if it has root)
