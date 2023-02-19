@@ -83,7 +83,7 @@ Well its 967.60 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at lea
 Since its so small , it should be very good on the battery and because of this performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
 It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
 
-(Interesting to try in the future)
+### (Interesting to try in the future)
 These images have A64 Variants (arm32_binder64)
 This " LeOS-VNDKLITE-A64-avS.img.xz " should work on our device for example (I haven't tried but it could be good to try, once i have the time i'll try it) avS means, a= Aonly, v = Vanilla , S = Has SuperUser
  b = A/B , N = No ROOT
