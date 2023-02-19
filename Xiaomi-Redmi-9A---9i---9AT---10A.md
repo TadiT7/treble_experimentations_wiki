@@ -37,12 +37,12 @@ LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.2
 you can only choose the same Android version or 1 that is above yours , bare in mind we might not be able to return to previous Android versions, so stick with your current version)
 
 
-I downloaded and used " **[lir-v316-220325-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab will work for us. 
+I downloaded and used " **[lir-v316-220325-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
 
 b = A/B , v = Vanilla , Z = Has Dynamical SuperUser ( Root can be disabled/enabled while using the phone )
 Vanilla variant comes without gapps and has Root/SU.
 
-But you can download and install any other as long as its compatible with the cpu and the partition.
+But you can download and install any other as long as its compatible with the cpu and the partition format.
 Feel free to try other Images and report.
 
 
