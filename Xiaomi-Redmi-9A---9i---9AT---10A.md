@@ -11,9 +11,9 @@ Requirements
 
 ## Step 1 - Choosing the correct image.
 
- choose a GSI image that matches your Android version and the CPU Architecture and Partition of the device. 
+Choose a GSI image that matches your Android version and the CPU Architecture and Partition of the device. 
 
-To discover what image should you use, this app makes it easier. 
+To discover what image you should use, this app makes it easier. 
 https://play.google.com/store/apps/details?id=tk.hack5.treblecheck&hl=&gl=US
 
 You can easily download it from here too 
