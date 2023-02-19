@@ -38,7 +38,7 @@ you can only choose the same Android version or 1 that is above yours , bare in 
 
 
 I downloaded and used " **system-roar-arm32_binder64-ab-vanilla.img.xz** " Because our CPU supports arm32_binder64, and ab will work for us. 
-This Vanilla variant comes without gapps and has Root/SU.
+Vanilla variant comes without gapps and has Root/SU.
 
 But you can download "system-roar-arm32_binder64-ab-gapps.img.xz " 
 the gapps variant. (I don't know if it has root)
