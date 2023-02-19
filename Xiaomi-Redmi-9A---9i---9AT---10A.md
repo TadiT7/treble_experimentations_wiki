@@ -46,7 +46,6 @@ But you can download and install any other as long as its compatible with the cp
 Feel free to try other Images and report.
 
 
-
 ## Step 2 - You have your Image time to flash it.
 
 Unpack your .img.xz , inside you will find your .img file , rename it to system.img
@@ -119,3 +118,6 @@ IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest
 * Tested [Pixel Experience 10 by ExpressLuke](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/A64/AB/)
 * Every  [eremitein](https://sourceforge.net/projects/treblerom/files/) builds
 
+More INFO can be found here:
+
+https://github-wiki-see.page/m/phhusson/treble_experimentations/wiki/Frequently-Asked-Questions-(FAQ)
