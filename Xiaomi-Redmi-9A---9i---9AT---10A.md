@@ -90,5 +90,7 @@ This " LeOS-VNDKLITE-A64-avS.img.xz " should work on our device for example (I h
 IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work , try with A/B
 
 " Another List of Generic GSI's " 
+
+https://github.com/phhusson/treble_experimentations/releases
 https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
