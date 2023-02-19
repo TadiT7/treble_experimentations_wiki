@@ -77,6 +77,9 @@ Once inside the default recovery, choose to wipe data, and now reboot to system.
 Allow your phone to boot, an image with donald ducks should suprise you, eventually it should boot into home in few secs.
 Congratulations you got rid of MIUI without any recovery, and  you got a nice debloated ROM.
 
+(Detail, once you've disabled dm-verity with fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img command
+You don't have to do it again for any of these ROMS, but in case you have dm-verity corruption/error, you can do this)
+
 ### Features? = 
 
 Well its 1.5GB size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
