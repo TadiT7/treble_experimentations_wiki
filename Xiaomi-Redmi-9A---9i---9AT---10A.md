@@ -87,9 +87,10 @@ It comes rooted by default. You won't really hard-brick ur device, or have to re
 This link has images with A64 Variants (arm32_binder64) https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp
 
 This " LeOS-VNDKLITE-A64-avS.img.xz " should work on our device for example (I haven't tried but it could be good to try, once i have the time i'll try it) avS means, a= Aonly, v = Vanilla , S = Has SuperUser, b = A/B , N = No ROOT
+
 IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work , try with A/B
 
-" Another List of Generic GSI's " 
+" Other Lists of Generic GSI's " 
 
 https://github.com/phhusson/treble_experimentations/releases
 
