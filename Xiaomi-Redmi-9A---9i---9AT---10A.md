@@ -38,13 +38,13 @@ you can only choose the same Android version or 1 that is above yours , bare in 
 
 
 I downloaded and used " **system-roar-arm32_binder64-ab-vanilla.img.xz** " Because our CPU supports arm32_binder64, and ab will work for us. 
-Vanilla variant comes without gapps and has Root/SU.
+This Vanilla variant comes without gapps and has Root/SU.
 
 But you can download "system-roar-arm32_binder64-ab-gapps.img.xz " 
 the gapps variant. (I don't know if it has root)
 
 
-system-roar-arm32_binder64-ab-vndklite-vanilla.img.xz  -- the vndklite variant should also work for us, but im not sure, this optimizes system memory, cpu usage and storage. (haven't tried it yet)
+" system-roar-arm32_binder64-ab-vndklite-vanilla.img.xz "  -- the vndklite variant should also work for us, but im not sure, this optimizes system memory, cpu usage and storage. (haven't tried it yet)
 
 ## Step 2 - You have your Image time to flash it.
 
