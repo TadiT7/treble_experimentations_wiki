@@ -92,5 +92,6 @@ IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest
 " Another List of Generic GSI's " 
 
 https://github.com/phhusson/treble_experimentations/releases
+
 https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
