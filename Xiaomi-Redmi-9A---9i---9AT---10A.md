@@ -74,7 +74,7 @@ Continue with these commands:
 
 Once inside the default recovery, choose to wipe data, and now reboot to system. 
 
-Allow your phone to boot, an image with LinageOS Logo should suprise you, eventually it should boot into start menu in a few secs.
+Give it time. Allow your phone to boot, patience, an image with LinageOS Logo should suprise you, eventually it should boot into start menu in a few secs.
 Congratulations you got rid of MIUI without any recovery, and  you got a nice debloated ROM (The best ROM or one of the BEST ROMS i should say)
 
 (Detail, once you've disabled dm-verity with fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img command
