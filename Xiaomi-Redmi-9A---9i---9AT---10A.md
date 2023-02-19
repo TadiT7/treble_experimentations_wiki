@@ -29,7 +29,7 @@ In my case its A ONLY , but the app recommends me to download an A/B Image, spec
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
-I HAVE to download an Android 11 image, so i went for a Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11 , it booted)
+I HAVE to download an Android 11 image, so i went for a Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11R , it booted)
 
 LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download
 
