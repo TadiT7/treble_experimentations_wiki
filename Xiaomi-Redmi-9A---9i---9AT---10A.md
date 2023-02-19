@@ -86,8 +86,7 @@ Well its 1.5GB size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least n
 Since its smaller, it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer. Its LOS + PHH-Treble combined, i mean its good.
 It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
 
-What Works / doesn't work
-Hardware Info
+What Works / Doesn't work / Hardware Info
 
 
 > Component             |   | Comment
@@ -107,7 +106,7 @@ In this LiR Image, RIL/SIM works perfectly, you have internet and calls 100% BUT
 "RIL/SIM Card is dead in many A11 and A12 images,  so we have to search for images that have RIL/SIM working, or make it work ourselves"
 *gulp*
 
-IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work or it's not available , try with A/B, (So far the A/B Image used in this guide works perfectly)
+IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesn't work or it's not available , try with A/B, (So far the A/B Image used in this guide works perfectly)
 
 " Other Lists of Generic GSI's " 
 
