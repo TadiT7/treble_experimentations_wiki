@@ -74,7 +74,9 @@ Once inside the default recovery, choose to wipe data, and now reboot to system.
 Allow your phone to boot, an image with donald ducks should suprise you, eventually it should boot into home in few secs.
 Congratulations you got rid of MIUI without any recovery, and  you got a nice debloated ROM.
 
-Features? = Well its 352.40 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
+### Features? = 
+
+Well its 352.40 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
 Since its so small , it should be very good on the battery and beccause of this performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
 It comes rooted by default.
 
