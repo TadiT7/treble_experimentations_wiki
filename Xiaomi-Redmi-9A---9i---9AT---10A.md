@@ -104,7 +104,7 @@ In this LiR Image, RIL/SIM works perfectly, you have internet and calls 100% BUT
 "RIL/SIM Card is dead in many A11 and A12 images,  so we have to search for images that have RIL/SIM working, or make it work ourselves"
 *gulp*
 
-IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work or it's not available , try with A/B
+IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work or it's not available , try with A/B, (So far the A/B Image used in this guide works perfectly)
 
 " Other Lists of Generic GSI's " 
 
