@@ -96,3 +96,10 @@ https://github.com/phhusson/treble_experimentations/releases
 
 https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
+"Other working GSI's" 
+
+    Tested [CrDroid v313 by eremitein](https://sourceforge.net/projects/treblerom/files/crDRom11/2021.09.21/)
+    Tested [Bless v306 by eremitein](https://sourceforge.net/projects/treblerom/files/BLESS11/2021.05.02/)
+    Tested [Pixel Experience 10 by ExpressLuke](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/A64/AB/)
+    Every  [eremitein](https://sourceforge.net/projects/treblerom/files/) builds
+
