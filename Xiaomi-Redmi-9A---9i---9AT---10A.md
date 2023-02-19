@@ -25,7 +25,7 @@ Once in the app , the app recommends you which IMAGE you should download, gives 
 
 In my case its A ONLY , but the app recommends me to download an A/B Image, specifically a
 
- " **system-arm32_binder64-ab.img.xz**  " image. (These arm32_binder64 images are also called A64 images)
+ " **system-arm32_binder64-ab-vanilla.img.xz**  " image. (These arm32_binder64 images are also called A64 images)
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
