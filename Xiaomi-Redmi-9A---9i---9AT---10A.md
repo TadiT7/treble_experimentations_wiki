@@ -29,22 +29,20 @@ In my case its A ONLY , but the app recommends me to download an A/B Image, spec
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
-I HAVE to download an Android 11 image, so i went with the latest android 11 that phhusson released.
+I HAVE to download an Android 11 image, so i went for a Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11 , it booted)
 
-AOSP 11.0 v313 -- https://github.com/phhusson/treble_experimentations/releases/tag/v313
+LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download
 
 (But if you are on Android 10, you have to download an android 10 image, if you're on 12 , you have to download an Android 12 image and so on,
 you can only choose the same Android version or 1 that is above yours , bare in mind we might not be able to return to previous Android versions, so stick with your current version)
 
 
-I downloaded and used " **system-roar-arm32_binder64-ab-vanilla.img.xz** " Because our CPU supports arm32_binder64, and ab will work for us. 
+I downloaded and used " **[lir-v316-220325-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab will work for us. 
 Vanilla variant comes without gapps and has Root/SU.
 
-But you can download "system-roar-arm32_binder64-ab-gapps.img.xz " 
-the gapps variant. (I don't know if it has root)
+But you can download and install any other as long as its compatible with the cpu and the partition.
 
 
-" system-roar-arm32_binder64-ab-vndklite-vanilla.img.xz "  -- the vndklite variant should also work for us, but im not sure, this optimizes system memory, cpu usage and storage. (haven't tried it yet)
 
 ## Step 2 - You have your Image time to flash it.
 
@@ -79,16 +77,32 @@ Congratulations you got rid of MIUI without any recovery, and  you got a nice de
 
 ### Features? = 
 
-Well its 967.60 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
-Since its so small , it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
+Well its 1.5GB size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
+Since its smaller, it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer. Its LOS + PHH-Treble combined, i mean its good.
 It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
 
-### (Interesting to try in the future)
-This link has images with A64 Variants (arm32_binder64) https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp
+What Works / doesn't work
+Hardware Info
 
-This " LeOS-VNDKLITE-A64-avS.img.xz " should work on our device for example (I haven't tried but it could be good to try, once i have the time i'll try it) avS means, a= Aonly, v = Vanilla , S = Has SuperUser, b = A/B , N = No ROOT
 
-IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work , try with A/B
+> Component             |   | Comment
+> -- | -- | --
+> Camera                    | √ |  
+> Audio                     | √/× | (headphone jack doesn't work, but can be fixed with a simple code on termux)
+> Bluetooth                 | √ |  
+> Display                   | √ | (brightness slider doesn't work / can also be fixed via termux)
+> WiFi / Hotspot            | √ |  
+> GPS                       | √ |  
+> SIM / Mobile Data / Voice | × | (RIL dead in GSI Phh of A11 and A12, only works in Eremitein's GSI's. )
+> VoLTE                     | ? | (Untested)
+> Fingerprint               | √ |  
+> Offline Charging          | × |  
+
+In this LiR Image, RIL/SIM works perfectly, you have internet and calls 100% BUT
+"RIL/SIM Card is dead in many A11 and A12 images,  so we have to search for images that have RIL/SIM working, or make it work ourselves"
+*gulp*
+
+IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work or it's not available , try with A/B
 
 " Other Lists of Generic GSI's " 
 
