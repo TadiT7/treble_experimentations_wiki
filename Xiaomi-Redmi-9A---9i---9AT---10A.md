@@ -25,7 +25,7 @@ Once in the app , the app recommends you which IMAGE you should download, gives 
 
 In my case its A ONLY , but the app recommends me to download an A/B Image, specifically a
 
- " **system-arm32_binder64-ab-vanilla.img.xz**  " image. (These arm32_binder64 images are also called A64-AB images)
+ " **system-arm32_binder64-ab-vanilla.img.xz**  " image. (These arm32_binder64 images are also called A64 images)
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
@@ -81,5 +81,15 @@ Congratulations you got rid of MIUI without any recovery, and  you got a nice de
 
 Well its 967.60 mb size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
 Since its so small , it should be very good on the battery and because of this performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer.
-It comes rooted by default.
+It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
+
+(Interesting to try in the future)
+These images have A64 Variants (arm32_binder64)
+This " LeOS-VNDKLITE-A64-avS.img.xz " should work on our device for example (I haven't tried but it could be good to try, once i have the time i'll try it) avS means, a= Aonly, v = Vanilla , S = Has SuperUser
+ b = A/B , N = No ROOT
+IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesnt work , try with A/B
+https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp
+
+
+https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list
 
