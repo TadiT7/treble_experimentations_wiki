@@ -26,7 +26,7 @@ All GSI images made by **Nazim** are secure! So don't use them!
 
 ##### Other important things :
 
-In GSI images made by **AndyYan**, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes!
+In some GSI images, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes!
 
 **Do not use Universal SafetyNet Fix or any other module or hack that does the same thing as above! This will also cause the same issue.**
 
