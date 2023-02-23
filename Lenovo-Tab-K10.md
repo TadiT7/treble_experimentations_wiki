@@ -90,5 +90,12 @@ fastboot delete-logical-partition product_a
 fastboot delete-logical-partition product_b
 fastboot flash system system-squeak-arm64-ab-gapps.img
 fastboot -w
-fastboot reboot
+fastboot reboot recovery
 ```
+## Format /data
+
+From recovery go to 'Wipe data/factory reset' -> 'Factory data reset'
+
+Alternatively if you boot in this state, the tablet should boot straight into recovery and offer to format /data, do so.
+
+Reboot to system, it should boot the GSI fine.
