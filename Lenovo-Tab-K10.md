@@ -29,10 +29,21 @@ Tested By:
    - Model: Lenovo TB-X6C6F
    - Firmware: S000043_210430
    - Date: 2022-02-11
+1. C0rn3j
+   - Model: Lenovo TB-X6C6X
+   - Firmware: S000043_210430
+   - Date: 2022-02-11
+2. C0rn3j
+   - Model: Lenovo TB-X6C6F
+   - Firmware: S000080_220410_ROW
+   - Date: 2022-02-23
+
 
 ## Flashing Android 11 stock firmware
 
-You will need to obtain `X6C6F_S000043_210430_ROW.zip` and extract it, sha256 checksum is `6e3f45628712749ad5e61e36fa1fffe4dbb6ac1730af8e4fcdd5902e07083d34`, then flash the following files via fastboot:
+The device ships with Android 11, if you didn't upgrade and are still on A11, not A12, you can skip this section.
+
+You will need to obtain `X6C6F_S000043_210430_ROW.zip` (or another A11 image) and extract it, sha256 checksum is `6e3f45628712749ad5e61e36fa1fffe4dbb6ac1730af8e4fcdd5902e07083d34`, then flash the following files via fastboot:
 ```terminal
 adb reboot bootloader
 fastboot flash boot boot.img
