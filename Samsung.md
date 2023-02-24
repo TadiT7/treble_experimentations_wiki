@@ -41,6 +41,7 @@
 |[[Samsung Galaxy M31s]]|m31s|✓|A/B|arm64|
 |[[Samsung Galaxy M51]]|m51lte|✓|A/B|arm64|
 |[[Samsung Galaxy Note8 (Snapdragon)]]|greatqlte|✓|A|arm64|
+|[[Samsung Galaxy Note8 (Exynos)]]|greatlte|✓|A|arm64|
 |[[Samsung Galaxy Note9 (Exynos)]]|crownlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note9 (Snapdragon)]]|crownqlte|✓|A (A/B after updated to One UI 2.0)|arm64|
 |[[Samsung Galaxy Note10 5G]]|d1x|✓|A/B|arm64|
