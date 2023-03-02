@@ -16,6 +16,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://itzkaguya.suzunetwork.workers.dev/0:/segawa-builds/GSI/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|
 |01 Mar|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Feb 2023|
 |24 Feb|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Feb 2023|
 |24 Feb|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|
