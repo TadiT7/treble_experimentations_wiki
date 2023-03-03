@@ -8,6 +8,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo K6 / K6 Power]]|karate|✓|A/B|arm64|
 |[[Lenovo K6 Note / K6 Plus]]|karatep|✓|A/B|arm64|
 |[[Lenovo K8 Note]]|manning|✓|A|arm64|
+|[[Lenovo Legion Y70]]|halo|✓|A/B|arm64|
 |[[Lenovo P2]]|kuntao|✓|A|arm64|
 |[[Lenovo S5]]|seoul|✓|A|arm64|
 |[[Lenovo S5 Pro]]|sprout|✓|A|arm64|
