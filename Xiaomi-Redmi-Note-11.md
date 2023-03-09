@@ -7,11 +7,13 @@ Not working:
 Mostly working fine (see Hardware support bellow)
 
 - PixelExperience_arm64-ab-vndklite-12.1-20220329-UNOFFICIAL
-- lineage-19.1-20220510-UNOFFICIAL-arm64_bvS.img
+- lineage-20.0-20230218-UNOFFICIAL-arm64_bvS.img
 
 # Steps to install
 
 ```
+unxz your_gsi_rom_of_choice.img.xz
+
 fastboot --disable-verity --disable-verification flash vbmeta vbmeta.img
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
@@ -21,6 +23,8 @@ fastboot -w  # Wipe userdata
 # Steps to update (if OTA is not working)
 
 ```
+unxz your_gsi_rom_of_choice.img.xz
+
 fastboot reboot fastboot
 fastboot flash system your_gsi_rom_of_choice.img
 ```
