@@ -8,10 +8,10 @@
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Front, back and auxiliary cam working. Recommended to enable "Expose Aux cameras" at Phh Treble Settings and use 3rd party GCam. |
 | Speaker / Mic / Calls     | All works, but sometimes can't switch properly from Call mode to Loudspeaker.  |
-| Bluetooth                 | Not tested, recommended to enable "Force disable A2DP off-load" and set "Bluetooth workarounds" to Mediatek at Phh Treble Settings. |
+| Bluetooth                 | Works, recommended to enable "Bluetooth workarounds" to Mediatek at Phh Treble Settings. |
 | WiFi                      | Works.                                                    |
 | SIM / Mobile Data / Voice | Works.                                                    |
-| VoLTE                     | Not working.                                               |
+| VoLTE                     | Works.                                               |
 | Fingerprint               | Works.                                                    |
 | NFC                       | Works.                                                    |
 | Bluetooth calls           | Not Tested.                                               |
@@ -57,3 +57,5 @@ fastboot set_active a
 
 ## Tested Roms
 * GemerFoxy - camellian @ PixelExperience_arm64-ab-12.0-20211218
+* KucingAbu - camellian @
+ProjectElixir-3.6-gsi-13.0-20230223-1108-OFFICIAL
