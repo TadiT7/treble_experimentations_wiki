@@ -99,3 +99,14 @@ From recovery go to 'Wipe data/factory reset' -> 'Factory data reset'
 Alternatively if you boot in this state, the tablet should boot straight into recovery and offer to format /data, do so.
 
 Reboot to system, it should boot the GSI fine.
+
+# Troubleshooting
+
+## No internet connection
+
+There is an MTK bug that Android 13 runs into, see https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773 for details.
+
+The fix is to execute the following to disable the feature:
+```
+adb shell settings put global restricted_networking_mode 0
+```
