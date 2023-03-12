@@ -43,7 +43,11 @@ fastboot delete-logical-partition product
 fastboot erase system
 ```
 7. After erase system partition, then we flash the GSI using command below:
-```fastboot flash system system-(prefix)*-arm64-ab-vanilla.img (change it to gsi file that you downloaded)```
+
+```
+fastboot flash system system-(prefix)*-arm64-ab-vanilla.img (change it to gsi file that you downloaded)
+```
+
 If there's invalid sparse file at flashing system, just ignore
 8. After that, we must flash vbmeta with the command below
 ```
@@ -56,6 +60,7 @@ fastboot set_active a
 
 
 ## Tested Roms
+*Feel free to contribute here if you ever tested other GSIs*
 * GemerFoxy - camellian @ PixelExperience_arm64-ab-12.0-20211218
 * KucingAbu - camellian @
 ProjectElixir-3.6-gsi-13.0-20230223-1108-OFFICIAL
