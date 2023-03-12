@@ -48,7 +48,8 @@ fastboot erase system
 fastboot flash system system-(prefix)*-arm64-ab-vanilla.img (change it to gsi file that you downloaded)
 ```
 
-If there's invalid sparse file at flashing system, just ignore
+If there's invalid sparse file at flashing system, just ignore.
+
 8. After that, we must flash vbmeta with the command below
 ```
 fastboot --disable-verity --disable-verification flash vbmeta (vbmeta.img mod or patch)
