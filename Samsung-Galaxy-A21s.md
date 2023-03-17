@@ -22,10 +22,9 @@
 ---
 
 
-[\*] To Enable Fingerprint:
+[\*] To Enable Fingerprint _(needs reverification, was working out of the box while installing v416)_:
 1. DON'T SETUP A PASSCODE/PATTERN OR ANY PASSWORD DURING SETUP
 2. Disable `com.google.android.setupwizard` (Android Setup)
-
 
 ### Test Log
 Tested by [@yafia](https://github.com/yafia) - SM-A217F, phh v413 Corvus OS vS1.0
@@ -35,5 +34,9 @@ Tested by [@yafia](https://github.com/yafia) - SM-A217F, phh v413 Corvus OS vS1.
 Tested by [@CanKolay3499](https://github.com/CanKolay3499) - SM-A217F, phh v415 crDroid 8.7
 
 > Date tested - 2022-08-14
+
+Tested by [@mytja](https://github.com/mytja)  - SM-A217F, phh v416 AOSP 12.1 (Magisk root)
+
+> Date tested - 2023-03-17
 
 Created By [@yafia](https://github.com/yafia)
