@@ -3,7 +3,7 @@
 ## Steps to install
 
 * Flash GSI image with `Fastboot` or [`TWRP`](https://github.com/DozNaka/android_device_samsung_a21s)
-* (Optional But Recommended) Flash or ADB sidelad [`KawaKernel`](https://github.com/DozNaka/KawaKernel-A217X/releases/download/KawaKernel-v1.3.1/KawaKernel-A217X-GSI.zip)
+* (Optional But Recommended) Flash or ADB sideload [`KawaKernel`](https://github.com/DozNaka/KawaKernel-A217X/releases/download/KawaKernel-v1.3.1/KawaKernel-A217X-GSI.zip)
 ## Hardware support
 
 | Component                 |      Comment                                              |
