@@ -96,7 +96,7 @@
 |[[Xiaomi Redmi Note 9S/ 9 Pro (India)]]|curtana|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 9T / 9 5G]]|cannon|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10]]|mojito|✓|A/B|arm64|
-|[[Xiaomi Redmi Note 10 5G / Poco M3 Pro]]|camellia|✓|A/B|arm64|
+|[[Xiaomi Redmi Note 10 5G / Redmi Note 10T 5G / Poco M3 Pro 5G / Redmi Note 11SE 5G]]|camellia|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10 Pro / 10 Pro Max]]|sweet|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10 Pro 5G / Poco X3 GT]]|chopin|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 10S]]|rosemary|✓|A/B|arm64|
