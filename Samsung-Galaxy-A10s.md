@@ -35,7 +35,7 @@ Baseband version :
 
 Installation Guide : 
 1. Unlock the bootloader (it's not that hard. ALL OF YOUR DATA IN INTERNAL STORAGE WILL BE ERASED!)
-2. Flash the empty vbmeta.img and TWRP recovery. (You can get it from [here](https://t.me/a107X) or [here](https://t.me/shirayuki_plygrnd/41519)
+2. Flash the empty vbmeta.img and TWRP recovery. (You can get it from [here](https://t.me/a107X) or [here](https://t.me/shirayuki_plygrnd/41519) )
 3. Flash A10s-encryption-disabler.zip if you want to full decrypt of your /data partition
 4. Wipe Data, Dalvik, Cache, System
 5. Flash the image
