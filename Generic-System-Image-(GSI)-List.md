@@ -18,7 +18,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |09 Mar|VoltageOS|Soli|[Download](https://github.com/Soli666/VoltageOS-GSI/releases) |[GitHub](https://github.com/Soli666)|ARM64 - Binder|Feb 2023|
 |04 Mar|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Feb 2023|
-|02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://itzkaguya.suzunetwork.workers.dev/0:/segawa-builds/GSI/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|
+|02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|
 |24 Feb|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Feb 2023|
 |24 Feb|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|
 |18 Feb|Pixel Experience|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v2023.02.18) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v2023.02.18-plus) / [Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe/tree/thirteen)|ARM64|Jan 2023|
@@ -28,7 +28,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |16 Feb|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Jan 2023|
 |14 Feb|LineageOS<br/>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Feb 2023|
 |13 Feb|SparkOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/SparkOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
-|11 Feb|Nusantara Project|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://itzkaguya.suzunetwork.workers.dev/0:/segawa-builds/GSI/NusantaraProject/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Dec 2022|
+|11 Feb|Nusantara Project|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/NusantaraProject/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Dec 2022|
 |10 Feb|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
 |23 Jan|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
 |20 Jan|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
@@ -51,7 +51,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |18 Jan|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
 |18 Jan|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[Github](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
 |23 Dec|exTHmUI 10|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|[Github](https://github.com/exthmui-10-treble)|SAR|ARM64|July 2022|
-|17 Dec|xdroidOSS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](http://segawa.suzunetwork.workers.dev/0:/segawa-builds/INA.XD.12.1.r17-041712-.REL.img.xz)|[Github](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
+|17 Dec|xdroidOSS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/xdroidOSS/)|[Github](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
 |18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
 |09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
 	
