@@ -25,6 +25,7 @@
 |[[OnePlus Nord N100]]|billie2 and billie2t|✓|A/B|arm64|
 |[[OnePlus Nord N200]]|dre8t and dre9|✓|A/B|arm64|
 |[[OPPO A9]]|PCAM00|✓|A|arm64|
+|[[OPPO A5s]]|CPH1909|✓|A|arm64|
 |[[OPPO A12]]|CPH2083|✓|A/B|arm64|
 |[[OPPO A54]]|CPH2239|✓|A/B|arm64|
 |[[OPPO Ace2]]|PDHM00|✓|A/B|arm64|
