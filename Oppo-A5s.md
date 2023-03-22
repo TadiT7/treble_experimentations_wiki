@@ -1,8 +1,5 @@
 # Device
-well fingerprint and face unlock do not work
-headphone jack needs a little fix with adb
-brightness is kinda broken but you can fix it with adb too
-auto brightness does not work
+well fingerprint and face unlock do not work, headphone jack needs a little fix with adb, brightness is kinda broken but you can fix it with adb too, auto brightness does not work
 
 ## Steps to install
 
@@ -13,10 +10,10 @@ the ones i tried are HavocOS(3.8), LineageOS(17/16), AOSP(8.1/9/10)
 * Step 2
 unlock bootloader using mtk client and flash twrp to your phone (phone does not have fastboot)
 * Step 3
-1.boot into TWRP and Install>System Image
-2.go to Wipe>System>Resize Partition x2
-3.wipe dalvik and cache and data partitions
-4.boot into system
+1. boot into TWRP and Install>System Image
+2. Go to Wipe>System>Resize Partition **X2**
+3. wipe dalvik and cache and data partitions
+4. boot into system
 
 ## Hardware support
 
