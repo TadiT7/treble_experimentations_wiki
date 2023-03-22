@@ -32,9 +32,6 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |10 Feb|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|
 |23 Jan|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Jan 2023|
 |20 Jan|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|
-|24 Dec|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
-|18 Dec|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
-|03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
 
 
 ## Latest Android 10, 11, 12 GSIs
@@ -50,10 +47,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |18 Jan|LeOS (19.1)|Harvey186| [Downloads](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp) / [Telegram](https://t.me/LeOS_Support)|[Github](https://github.com/LeOS-GSI/LeOS-S-patches)|SAR|ARM64 - Binder|Jan 2023|
 |18 Jan|LeOS (R)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[Github](https://github.com/LeOS-GSI/aosp_patches_leaos)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
 |18 Jan|LeOS (Q)|harvey186|[Info](https://t.me/LeOS_Support) / [Download](https://drive.proton.me/urls/JF352AYSS4#YkXliW8T03Cp)|[Github](https://github.com/LeOS-GSI/treble-patches)|non-SaR - SaR|ARM - ARM64 - Binder|Jan 2023|
-|23 Dec|exTHmUI 10|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|[Github](https://github.com/exthmui-10-treble)|SAR|ARM64|July 2022|
-|17 Dec|xdroidOSS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/xdroidOSS/)|[Github](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
-|18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
-|09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
+
 	
 		
 
@@ -63,10 +57,18 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 <summary>Legacy GSIs</summary>
 <br>
 
+## Unofficial Android 13	
+|Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|24 Dec|Bliss OS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://sourceforge.net/projects/gsi-projects/files/A13/BlissOS/v16.2/24122022/)| [GitHub](https://github.com/naz664/)|ARM64|Dec 2022|
+|18 Dec|Superior OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio/192) / [Download](https://github.com/ChonDoit/treble_superior_patches/releases)|[Github](https://github.com/ChonDoit/treble_superior_patches)|ARM64|Nov 2022|
+|03 Nov|YAAP|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/YAAP/29102022)|[Github](https://github.com/ItsLynix/multi_patch)|ARM64 - Binder|Oct 2022|
+
 
 ## Official Android 12/12L	
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|09 Nov|AOSP 12.1|Phhusson|[Downloads](https://github.com/phhusson/treble_experimentations/releases)|[Github](https://github.com/phhusson/treble_experimentations)|SAR|ARM64 - Binder|July 2022|
 |09 Oct|Corvus OS|TipzTeam2|[XDA](https://forum.xda-developers.com/t/gsi-beta-12-phh-corvusos-v1-0-thebeginning.4415529/) / [Telegram](https://t.me/CorvusGSI) / [Downloads](https://sourceforge.net/projects/tipzbuilds/files/GSIs/CorvusROM/Unofficial/20221008/)|[Gitlab](https://gitlab.com/TipzTeam/vendor_generify)|ARM64|July 2022|
 |24 Aug|Ancient OS|Nazim|[Telegram](https://t.me/naz_dev/)/[Downloads](https://sourceforge.net/projects/ancientrom/files/gsi/V6.4/)|-|ARM64 - Binder|August 2022|
 |05 Aug|LeOS (S) discontinued|Harvey186|[XDA](https://forum.xda-developers.com/t/aosp-12-0-leos-ungoogled-gsi.4356501/) / [Downloads](https://leos-cloud.de/s/JFrFgLgSSTEMtmL?path=%2FLeOS-S-discontinued) / [Telegram](https://t.me/LeOS_Support)|-|ARM64 - Binder|August 2022|
@@ -77,6 +79,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 12/12L
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|17 Dec|xdroidOSS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/xdroidOSS/)|[Github](https://github.com/Hirozuto)|SAR|Binder|Dec 2022|
+|18 Nov|Pixel Experience 12|Ponces|[XDA](https://forum.xda-developers.com/t/gsi-unofficial-beta-12-pixel-experience.4354695/) / [Base](https://github.com/ponces/treble_build_pe/releases/tag/v416) / [Plus](https://github.com/ponces/treble_build_pe/releases/tag/v416-plus) /[Telegram](https://t.me/pixelexperiencegsi)|[Github](https://github.com/ponces/treble_build_pe)|SAR|ARM64|Nov 2022|
 |23 Oct|Stag OS|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/StagOS/)|-|ARM64|Jul 2022|
 |20 Oct|Evolution X|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/Evolution-X/)|-|ARM64|Aug 2022|
 |19 Oct|Arrow OS|Nazim|[Download](https://sourceforge.net/projects/gsi-projects/files/A12.1/ArrowOS-12.1/19102022/)|-|ARM64 - Binder|Oct 2022|
@@ -139,7 +143,8 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 
 ## Unofficial Android 10:	
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|	
-|:-:|:-:|:-:|:-:|:-:|	
+|:-:|:-:|:-:|:-:|:-:|
+|exTHmUI 23/12/22|xiaoleGun|[Download](https://github.com/exthmui-10-treble/Release/releases)|SAR|ARM64|	
 |Firmware collection|turbolukex5|[XDA](https://forum.xda-developers.com/project-treble/trebleenabled-device-discussion/-t4003457) / [Telegram](https://t.me/expresslukegsi) / [Download](https://sourceforge.net/projects/expressluke-gsis/files/)|non-SaR - SaR|arm - arm64 - binder|	
 |Firmware collection|eremitein|[Telegram](https://t.me/joinchat/CdHnpVThoZCgvPZx7ESNBA) / [Download](https://sourceforge.net/projects/treblerom/files/)|non-SaR - SaR|arm - arm64 - binder|	
 |Firmware collection|Igor-s7|[Download](https://sourceforge.net/projects/amber-gsi/files/)|non-SaR - SaR|arm - arm64 - binder|	
