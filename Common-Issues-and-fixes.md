@@ -8,8 +8,11 @@
 Try disabling A2DP offload from phh settings in Settings and reboot
 
 ## Maximum brightness is too low
+### Solution 1
 Enable alternate backlight scale and linear brightness slider in phh settings
 
+### Solution 2
+`adb shell setprop persist.sys.qcom-brightness $(cat /sys/class/leds/lcd-backlight/max_brightness)`
 ## Wired headphones not getting detected
 ### Solution 1
 Enable alternative headphones detection in phh settings and reboot
