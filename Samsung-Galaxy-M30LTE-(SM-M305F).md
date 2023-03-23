@@ -12,4 +12,4 @@
 ### Tested GSI .img.xz [lineage-19.1-20230223-UNOFFICIAL-arm64_bgN.img.xz](https://kumisystems.dl.sourceforge.net/project/andyyan-gsi/lineage-19.x/lineage-19.1-20230223-UNOFFICIAL-arm64_bgN.img.xz)
 
 # Issues:
-- No issue detected yet!
+- After installing some apps and reboot, while it's showing a progress bar in center of screen, the system-UI crash continually!
