@@ -15,6 +15,7 @@
 |[[Nokia 3.4 and 5.4]]|doctorstrange / DRS and doctordoom / DRD|✓|A/B|arm64|
 |[[Nokia 4.2]]|panther / PAN|✓|A/B|arm64|
 |[[Nokia 5.1 Plus (X5)]]|PDA|✓|A/B|arm64|
+|[[Nokia 5.3]]|captainamerica / CAP|✓|A/B|arm64|
 |[[Nokia 6.1 / 6 (2018)]]|PL2|✓|A/B|arm64|
 |[[Nokia 6.1 Plus (X6)]]|DRG|✓|A/B|arm64|
 |[[Nokia 6.2]]|starlord / SLD|✓|A/B|arm64|
