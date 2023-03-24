@@ -16,7 +16,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|22 Mar|LineageOS<br/>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Feb 2023|	
+|22 Mar|LineageOS<br/>"Light"|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/) / [Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-light/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified/tree/lineage-20-light)|ARM64|Mar 2023|	
 |09 Mar|VoltageOS|Soli|[Download](https://github.com/Soli666/VoltageOS-GSI/releases) |[GitHub](https://github.com/Soli666)|ARM64 - Binder|Feb 2023|	
 |04 Mar|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Feb 2023|	
 |02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|	
@@ -37,7 +37,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Latest Android 10, 11, 12 GSIs	
 |Updated|Image|Maintainer|Links|Sources|Partition Style|Architecture|Security|	
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|	
-|23 Mar|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Jan 2023|
+|23 Mar|LineageOS 19.1|AndyYan|[XDA](https://forum.xda-developers.com/t/gsi-12-lineageos-19-x-gsi-a64b-64b.4358041/)/[Download](https://sourceforge.net/projects/andyyan-gsi/files/lineage-19.x/)|[GitHub](https://github.com/AndyCGYan/lineage_build_unified)|SAR|ARM64 - Binder|Mar 2023|
 |25 Feb|AOSP 12|Google|[Downloads](https://ci.android.com/builds/branches/aosp-android12-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|SAR|ARM64 - X86|Jan 2023|	
 |25 Feb|AOSP 11|Google|[Download](https://ci.android.com/builds/branches/aosp-android11-gsi/grid?)|[Android](https://android.googlesource.com/platform/manifest) / [Build](https://source.android.com/docs/setup/start/initializing)|non-SaR - SaR|ARM64 - X86|Jan 2023|
 |17 Feb|Pixel Experience 12 |MeowIce| [Download](https://sourceforge.net/projects/meowice-gsi/files/Pixel%20Experience%2012/) / [Telegram](https://t.me/meowicegsi)|-|SaR|ARM64|Feb 2023|	
