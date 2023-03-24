@@ -36,6 +36,7 @@
 |[[Samsung Galaxy M01]]|m01q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M11]]|m11q|✓|A/B|arm_binder64|
 |[[Samsung Galaxy M20]]|m20lte|✓|A|arm64|
+|[[Samsung Galaxy M21 (2020)]]|m21|✓|A/B|arm64|
 |[[Samsung Galaxy M30s]]|m30s|✓|A/B|arm64|
 |[[Samsung Galaxy M30LTE (SM-M305F)]]|m30lte|✓|A/B|arm64|
 |[[Samsung Galaxy M31]]|m31|✓|A/B|arm64|
