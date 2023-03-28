@@ -79,10 +79,10 @@ fastboot create-logical-partition system_a 1024
 fastboot flash vendor_a vendor.img
 fastboot flash system_ext_a system.img
 fastboot flash system_a D:\path\to\your\gsi\image.img
-fastboot reboot
+fastboot reboot-recovery
 ```
 
-3. After flashing you may see internal storage space only has 16GB. You'll need to perform regular factory reset so the storage space will display normally.
+3. Choose wipe data/factory reset there to perform a factory reset, and reboot, otherwise internal storage space will only have 16GB. If you forget to perform factory reset, then you'll need to perform regular factory reset in settings.
 
 To restore it back to stock firmware, you'll have to flash entire super partition under Bootloader mode (not Fastbootd):
 ```
