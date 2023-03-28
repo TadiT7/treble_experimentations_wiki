@@ -12,7 +12,7 @@ Bootloader Unlock : https://forum.xda-developers.com/t/guide-heres-how-to-unlock
 | WiFi                      | √                                                         |
 | NFC                       | ?                                                         |
 | SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | ?                                                         |
+| VoLTE                     | √                                                         |
 | Fingerprint               | √                                                         |
 
 
