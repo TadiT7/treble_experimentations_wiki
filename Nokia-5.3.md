@@ -72,7 +72,7 @@ fastboot --disable-verity --disable-verification flash vbmeta_a vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta_b vbmeta.img
 fastboot flash logfs logfs_ufs_8mb.bin
 fastboot flash storsec storsec.mbn
-fastboot reboot-fastboot
+fastboot --set-active=a reboot-fastboot
 fastboot create-logical-partition vendor_a 1024
 fastboot create-logical-partition system_ext_a 1024
 fastboot create-logical-partition system_a 1024
