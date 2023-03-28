@@ -6,14 +6,14 @@ Bootloader Unlock : https://forum.xda-developers.com/t/guide-heres-how-to-unlock
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | ?                                                         |
-| Speaker / Mic             | ?                                                         |
-| Bluetooth                 | ?                                                         |
-| WiFi                      | ?                                                         |
+| Camera                    | √                                                         |
+| Speaker / Mic             | √                                                         |
+| Bluetooth                 | √                                                         |
+| WiFi                      | √                                                         |
 | NFC                       | ?                                                         |
-| SIM / Mobile Data / Voice | ?                                                         |
+| SIM / Mobile Data / Voice | √                                                         |
 | VoLTE                     | ?                                                         |
-| Fingerprint               | ?                                                         |
+| Fingerprint               | √                                                         |
 
 
 ## Additional Notes
