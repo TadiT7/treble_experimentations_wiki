@@ -23,7 +23,7 @@ Stock firmware reinstallation is required after bootloader unlock.
 
 ## Tested By:
 
-@HikariCalyx @ Nokia 5.3 00WW_3_490 (CAP-3490-0-00WW-B01) @ 28/03/2023
+@HikariCalyx @ Nokia 5.3 TA-1223 00WW_3_490 (CAP-3490-0-00WW-B01) @ 28/03/2023
 
 
 Template created by @zguithues
