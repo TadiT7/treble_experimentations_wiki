@@ -22,7 +22,7 @@ Tested GSI: https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-b
 
 You'll need stock firmware for this phone to install GSI properly, to do that:
 1. The stock firmware I used has filename "HMDSW_TA-1229-340A-0-00WW-B01_user_devicekit.zip". Extract it twice.
-2. Assuming you're using Windows. Extract fastboot.exe, AdbUsbApi.dll and AdbWinUsbApi.dll from latest Platform Tools (DO NOT USE MINIMAL ADB AND FASTBOOT!) into the stock firmware directory. Edit `sm6125_fastboot_all_images.bat` as follows, then open it:
+2. Assuming you're using Windows. Extract fastboot.exe, AdbUsbApi.dll and AdbWinUsbApi.dll from latest Platform Tools (**DO NOT USE MINIMAL ADB AND FASTBOOT!**) into the stock firmware directory. Edit `sm6125_fastboot_all_images.bat` as follows, then open it:
 ```
 @echo off
 fastboot flash  xbl_a  xbl.elf
@@ -66,19 +66,28 @@ fastboot flash devcfg_a devcfg.mbn
 fastboot flash devcfg_b devcfg.mbn
 fastboot flash qupfw_a qupv3fw.elf
 fastboot flash qupfw_b qupv3fw.elf
-fastboot flash super super_empty.img
+fastboot flash super super.img
 fastboot flash userdata userdata.img
 fastboot --disable-verity --disable-verification flash vbmeta_a vbmeta.img
 fastboot --disable-verity --disable-verification flash vbmeta_b vbmeta.img
 fastboot flash logfs logfs_ufs_8mb.bin
 fastboot flash storsec storsec.mbn
 fastboot --set-active=a reboot-fastboot
+fastboot delete-logical-partition system
+fastboot delete-logical-partition product
+fastboot delete-logical-partition system_ext
+fastboot delete-logical-partition vendor
+fastboot delete-logical-partition system_a
+fastboot delete-logical-partition product_a
+fastboot delete-logical-partition system_ext_a
+fastboot delete-logical-partition vendor_a
+fastboot delete-logical-partition system_b
 fastboot create-logical-partition vendor_a 1024
 fastboot create-logical-partition system_ext_a 1024
 fastboot create-logical-partition system_a 1024
 fastboot flash vendor_a vendor.img
 fastboot flash system_ext_a system.img
-fastboot flash system_a D:\path\to\your\gsi\image.img
+fastboot flash system_a your_gsi_image.img
 fastboot reboot-recovery
 ```
 
