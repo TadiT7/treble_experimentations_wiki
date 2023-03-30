@@ -21,7 +21,7 @@ Bootloader Unlock : https://forum.xda-developers.com/t/guide-heres-how-to-unlock
 Tested GSI: https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/ , arm64 bgN variant.
 
 You'll need stock firmware for this phone to install GSI properly, to do that:
-1. The stock firmware I used has filename "HMDSW_TA-1229-340A-0-00WW-B01_user_devicekit.zip". Extract it twice.
+1. The stock firmware I used has filename "[HMDSW_TA-1229-340A-0-00WW-B01_user_devicekit.zip](https://www.androidfilehost.com/?fid=4279422670115731435)". Extract it twice.
 2. Assuming you're using Windows. Extract fastboot.exe, AdbUsbApi.dll and AdbWinUsbApi.dll from latest Platform Tools (**DO NOT USE MINIMAL ADB AND FASTBOOT!**) into the stock firmware directory. Edit `sm6125_fastboot_all_images.bat` as follows, then open it:
 ```
 @echo off
