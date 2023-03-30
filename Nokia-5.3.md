@@ -86,7 +86,7 @@ fastboot create-logical-partition vendor_a 1024
 fastboot create-logical-partition system_ext_a 1024
 fastboot create-logical-partition system_a 1024
 fastboot flash vendor_a vendor.img
-fastboot flash system_ext_a system.img
+fastboot flash system_ext_a system_ext.img
 fastboot flash system_a your_gsi_image.img
 fastboot reboot-recovery
 ```
