@@ -63,10 +63,13 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Motorola One Vision]]|kane|✓|A/B|arm64|
 |[[Motorola One Action]]|troika|✓|A/B|arm64|
 |[[Motorola One Zoom]]|parker|✓|A/B|arm64|
-|[[Motorola RAZR (2020)]]|voyager|✓|A/B|arm64|
+|[[Motorola Razr (2020)]]|voyager|✓|A/B|arm64|
 |[[Motorola Edge (2020) and Edge+]]|racer and burton|✓|A/B|arm64|
-|[[Motorola Edge (2021) And Motorola Edge 轻奢版]]|berlna|✓|A/B|arm64|
-|[[Motorola Edge 30 Fusion / Edge S30 Pro]]|tundra|✓|A/B|arm64|
+|[[Motorola Edge 20 And Motorola Edge 轻奢版]]|berlin|✓|A/B|arm64|
+|[[Motorola Edge 30 Fusion / S30 Pro]]|tundra|✓|A/B|arm64|
 |[[Motorola Edge 30 Pro / Edge X30]]|hiphi / hiphic / hiphid|✓|A/B|arm64|
-|[[Motorola Edge 30 Ultra / Edge X30 Pro]]|eqs|✓|A/B|arm64|
+|[[Motorola Edge 30 Ultra / X30 Pro]]|eqs|✓|A/B|arm64|
+|[[Motorola Razr 2022]]|oneli|✓|A/B|arm64|
+|[[Motorola Edge 40 Pro / X40]]|rtwo|✓|A/B|arm64|
+|[[Lenovo ThinkPhone by Motorola]]|bronco|✓|A/B|arm64|
 |[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
