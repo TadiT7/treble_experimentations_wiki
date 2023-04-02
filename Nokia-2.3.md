@@ -20,6 +20,11 @@ Please use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootload
 
 Tested GSI: https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-based.4517345/ , arm-binder64 (a64) bgN variant.
 
+```
+fastboot flash system /path/to/gsi/image.img
+fastboot --disable-verity --disable-verification flash vbmeta /path/to/vbmeta.img
+```
+
 After flashing it along with vbmeta, you must format userdata partition as f2fs filesystem, or the phone will bootloop:
 
 ```fastboot format:f2fs userdata```
