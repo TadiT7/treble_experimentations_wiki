@@ -8,14 +8,12 @@ Please use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootload
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | √                                                         |
-| Speaker / Mic             | √                                                         |
-| Bluetooth                 | √                                                         |
-| WiFi                      | √                                                         |
-| NFC                       | ?                                                         |
-| SIM / Mobile Data / Voice | √                                                         |
-| VoLTE                     | √                                                         |
-| Fingerprint               | √                                                         |
+| Camera                    | ?                                                         |
+| Speaker / Mic             | ?                                                         |
+| Bluetooth                 | ?                                                         |
+| WiFi                      | ?                                                         |
+| SIM / Mobile Data / Voice | ?                                                         |
+| VoLTE                     | ?                                                         |
 
 
 ## Additional Notes
