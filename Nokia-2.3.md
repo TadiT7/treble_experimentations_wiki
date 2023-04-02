@@ -25,7 +25,7 @@ Tested GSI: https://forum.xda-developers.com/t/gsi-13-lineageos-20-trebledroid-b
 
 ## Tested By:
 
-@HikariCalyx @ Nokia 2.3 TA-1206 00WW_3_310_SP10 (IRM-331J-0-00WW-B01) @ 02/04/2023
+@HikariCalyx @ Nokia 2.3 TA-1206 00WW_3_310_SP09 (IRM-331J-0-00WW-B01) @ 02/04/2023
 
 
 Template created by @zguithues
