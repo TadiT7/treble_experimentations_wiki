@@ -4,6 +4,8 @@ Bootloader Unlock :
 
 Please use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootloader unlock.
 
+To remove your device is corrupt warning, simply flash vbmeta image and disable verity/verification.
+
 ## Hardware Support (Android 13)
 
 | Component                 |      Comment                                              |
