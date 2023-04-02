@@ -29,7 +29,7 @@ Please refer https://github.com/phhusson/treble_experimentations/wiki/Nokia-1.3
 | NFC                       | ?                                                         |
 | Notch Display             | Unproperly in default configuration                       |
 
-## Hardware Support (AOSP 13)
+## Hardware Support (Android 13)
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | √                                                         |
@@ -75,6 +75,6 @@ AOSP 9: * Calyx Hikari (HikariCalyx) @ Nokia 4.2 00WW_1_36C @ 28/08/2019
 
 AOSP 10: * Calyx Hikari (HikariCalyx) @ Nokia 4.2 00WW_1_36C @ 09/11/2019 
 
-AOSP 13: * Calyx Hikari (HikariCalyx) @ Nokia 4.2 00WW_3_240 @ 02/04/2023
+Android 13: * Calyx Hikari (HikariCalyx) @ Nokia 4.2 00WW_3_240 @ 02/04/2023
 
 Template created by @zguithues
