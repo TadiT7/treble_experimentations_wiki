@@ -1,5 +1,7 @@
 # [Nokia 2.2] - [wasp]
-** Bootloader unlock for this phone: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-2-2.4244039/
+Bootloader unlock for this phone: https://forum.xda-developers.com/t/guide-how-to-unlock-the-bootloader-for-nokia-2-2.4244039/
+
+or, use [MTKClient](https://github.com/bkerler/mtkclient) to perform bootloader unlock.
 
 ## Hardware Support (AOSP 9)
 | Component                 |      Comment                                              |
