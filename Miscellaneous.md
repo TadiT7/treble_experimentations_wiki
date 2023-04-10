@@ -52,6 +52,9 @@
 |[[Elephone Soldier]]|n/a|✓|A|arm64|
 |[[Elephone U Pro]]|U_Pro|✓|A/B|arm64|
 |[[Essential PH-1]]|mata|✓|A/B|arm64|
+|[[eSurfing No. 1 (2020)]]|TYH201H|✓|A/B|arm64|
+|[[eSurfing No. 1 (2021)]]|TYH211H|✓|A/B|arm64|
+|[[eSurfing No. 1 (2022)]]|TYH212H|✓|A/B|arm64|
 |[[Fairphone 3]]|FP3|✓|A/B|arm64|
 |[[F(x)tec Pro1]]|QX1000|✓|A/B|arm64|
 |[[General Mobile GM 8]]|GM8_sprout|✓|A/B (VNDKLITE)|arm64|
