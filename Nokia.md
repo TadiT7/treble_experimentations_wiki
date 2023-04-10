@@ -23,6 +23,7 @@
 |[[Nokia 7 Plus]]|B2N|✓|A/B|arm64|
 |[[Nokia 7.1]]|CTL|✓|A/B|arm64|
 |[[Nokia 7.2]]|daredevil / DDV|✓|A/B|arm64|
+|[[Nokia 8]]|NB1||A/B|arm64|
 |[[Nokia 8 Sirocco]]|A1N|✓|A/B|arm64|
 |[[Nokia 8.1 (X7)]]|PNX|✓|A/B|arm64|
 |[[Nokia 8.3 5G]]|BabyGroot / BGT|✓|A/B|arm64|
