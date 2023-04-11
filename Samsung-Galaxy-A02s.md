@@ -24,6 +24,17 @@ If you flash a GSI image and it crashes after some seconds after booting up, thi
 
 All GSI images made by **Nazim** are secure! So don't use them!
 
+##### Flashing a GSI image :
+Either flash it as system image on TWRP (make sure it's a .img file).
+
+or
+
+Use fastboot to flash the image by using the following command :
+
+`fastboot flash system <your gsi img>`
+
+Note that you shouldn't erase data using fastboot as this will **brick the partition**. Use the **Format Data** option in TWRP to do it.
+
 ##### Other important things :
 
 In some GSI images, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes!
