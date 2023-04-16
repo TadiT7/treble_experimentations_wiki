@@ -23,8 +23,7 @@
 * Fingerprint Reader
 > Working
 
-* Everything working
-except Incoming SMS and VoLTE
+* Camera,VoLTE not working and the setup wizard is also broken but can be bypassed by opening settings when the popup appears saying settings keeps stopping and then launching chrome and updating the setup wizard to the latest by google that is compatible with this device i used the armv7 variant.
 ## Tested By:
 * SamarV-121
 
