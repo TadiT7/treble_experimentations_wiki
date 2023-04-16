@@ -35,5 +35,7 @@ After flashing it along with vbmeta, you must format userdata partition as f2fs 
 
 @HikariCalyx @ Nokia 2.3 TA-1206 00WW_3_310_SP09 (IRM-331J-0-00WW-B01) @ 02/04/2023
 
+@pcurz @ Nokia 2.3 TA-1214 00WW_3_310 @ 15/04/2023
+Latest build goes into bootloop (I formatted userdata to f2fs, fastboot always says something about that Partition is ext4 but continue with the process anyway, If there is something I forgot, ping me thanks)
 
 Template created by @zguithues
