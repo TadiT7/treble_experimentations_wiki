@@ -3,7 +3,7 @@
 ## Hardware Support
 
 * Camera:
-> Front and back both working.
+> Not working on AOSP 12.1 v416,not sure about other ones.
 
 * Bluetooth
 > Working
