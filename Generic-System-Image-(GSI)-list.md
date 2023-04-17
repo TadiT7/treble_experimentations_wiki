@@ -17,6 +17,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 ## Unofficial Android 13		
 |Updated|Image|Maintainer|Links|Sources|Architecture|Security|		
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|15 Apr|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Apr 2023|
 |15 Apr|ArrowOS|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/ArrowOS_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Apr 2023|
 |08 Apr|crDroid|Nazim|[Telegram](https://t.me/naz_dev) / [Download](https://github.com/naz664/crDroid_gsi/releases)| [GitHub](https://github.com/naz664/)|ARM64 - Binder|Mar 2023|
 |07 Apr|Miku UI|xiaoleGun|[Download](https://github.com/xiaoleGun/treble_build_miku/releases)|[GitHub](https://github.com/xiaoleGun/treble_build_miku)|ARM64 - Binder|Mar 2023|	
@@ -28,8 +29,7 @@ Here's a collection of available GSIs, in order to keep it easy to choose what y
 |04 Mar|Firmware Collection|TheAtt1la|[Download](https://sourceforge.net/projects/thegsis/files/) / [Telegram](https://t.me/the_gsis)|[GitHub](https://github.com/TheAtt1la/)|ARM64 - Binder|Feb 2023|	
 |02 Mar|OctaviOS|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/OctaviOS/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Feb 2023|	
 |24 Feb|ProjectBlaze|j7b3y|[Download](https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/)|[GitHub](https://github.com/j7b3y/treble_pb)|ARM64|Feb 2023|	
-|24 Feb|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|		
-|16 Feb|Evolution X|Ponces|[Telegram](https://t.me/pixelexperiencegsi) / [Download](https://github.com/ponces/treble_build_evo/releases)|[GitHub](https://github.com/ponces/treble_build_evo)|ARM64|Jan 2023|	
+|24 Feb|LeaOS OS|Iceows|[Telegram](https://t.me/leaos_group) / [Downloads](https://sourceforge.net/projects/altairfr-huawei/files/TrebleDroid-GSI/)|[GitHub](https://github.com/Iceows/aosp_patches_leaos/tree/android-13)|ARM64|Jan 2023|			
 |11 Feb|Nusantara Project|ItzKaguya|[Telegram](https://t.me/shirayuki_plygrnd) / [Download](https://yukiprjkt.itzkaguya.workers.dev/0:/NusantaraProject/)| [GitHub](https://github.com/Hirozuto/)|ARM64|Dec 2022|	
 |10 Feb|Cherish OS|ChonDoe|[Telegram](https://t.me/elranchodecornelio) / [Download](https://github.com/ChonDoit/treble_cherishos_patches/releases)|[GitHub](https://github.com/ChonDoit/treble_cherishos_patches)|ARM64|Nov 2022|		
 |20 Jan|RiceDroid|Lynix|[Telegram](https://t.me/lynixgsi/) / [Downloads](https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/)|[Github](https://github.com/universalx-devs/rice_treble)|ARM64|Jan 2023|	
