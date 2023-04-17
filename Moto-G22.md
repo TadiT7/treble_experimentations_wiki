@@ -5,7 +5,7 @@ Tested & Working with [android_13.0.0_r41 ci-20230417](https://github.com/Treble
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | ✓                                                         |
 | Speaker / Mic             | ✓ (Volume bar is too large so audio could distort, need workaround idk how atm)   |
-| Bluetooth                 | ✓                                                         |
+| Bluetooth                 | ✓ (Requires further testing)                                                        |
 | WiFi                      | ✓                                                         |
 | SIM / Mobile Data / Voice | ✓                                                         |
 | VoLTE                     | ? (Needs further testing, i will update)                  |
