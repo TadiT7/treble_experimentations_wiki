@@ -1,4 +1,14 @@
 Tested & Working with [android_13.0.0_r41 ci-20230417](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230417)
+## Hardware Support (Android 13)
+
+| Component                 |      Comment                                              |
+|---------------------------|-----------------------------------------------------------|
+| Camera                    | ✓                                                         |
+| Speaker / Mic             | ✓ (Volume bar is too large so audio could distort, need workaround idk how atm)   |
+| Bluetooth                 | ✓                                                         |
+| WiFi                      | ✓                                                         |
+| SIM / Mobile Data / Voice | ✓                                                         |
+| VoLTE                     | ? (Needs further testing, i will update)                  |
 
 Since this device has MTK SoC, i really suggest to dump all partitions using [MTKClient](https://github.com/bkerler/mtkclient)
 just type
@@ -17,3 +27,13 @@ Now the actual installation begins
 
 ## Workarounds
 If you don't have internet but wifi/mobile is really working, see [here](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773) for workaround 
+
+If 3.5mm jack is not detected
+- Go to Settings
+- Phh Treble Settings
+- Misc Features
+- Check Use alternate way to detect headsets
+- Reboot 
+
+No adaptative brightness
+Needs overlay, i will make one Soon™
