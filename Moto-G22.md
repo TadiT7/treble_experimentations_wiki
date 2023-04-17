@@ -1,7 +1,7 @@
 Tested & Working with [android_13.0.0_r41 ci-20230417](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230417)
 
 Since this device has MTK SoC, i really suggest to dump all partitions using [MTKClient](https://github.com/bkerler/mtkclient)
-just type "python mtk rl foldername" to dump all partitions, you and copy boot_*.bin, vbmeta_*.bin
+just type "python mtk rl foldername" to dump all partitions, copy boot_*.bin, vbmeta_*.bin
 after complete, follow the steps to unlock bootloader, search the commands in MTKClient readme
 and flash vbmeta_*.bin from dump in fastboot with this command
 -`fastboot --disable-verity --disable-verification flash vbmeta vbmeta_*.bin`
