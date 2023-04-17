@@ -14,3 +14,6 @@ Now the actual installation begins
 - if this command fails, image is too big, delete product partition to get some space with `fastboot delete-logical-partition product_a`, replace product_a to product_b if active slot is b and rerun the system flash command.
 - now in the phone move with vol and select with power, don't reboot yet, go to into recovery mode and here wipe data factory reset, dont wipe in fastboot to avoid encryption issues
 - reboot
+
+## Workarounds
+If you don't have internet but wifi/mobile is really working, see [here](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773) for workaround 
