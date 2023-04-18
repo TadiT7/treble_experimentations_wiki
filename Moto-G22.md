@@ -25,7 +25,7 @@ Now the actual installation begins
 - now in the phone move with vol and select with power, don't reboot yet, go to into recovery mode and here wipe data factory reset, dont wipe in fastboot to avoid encryption issues
 - reboot
 
-### Workarounds
+# Workarounds
 ## If you don't have internet but wifi/mobile is really working use this command to fix it
 `adb shell settings put global restricted_networking_mode 0`
 Context about why this happens[here](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773)
@@ -40,6 +40,6 @@ Context about why this happens[here](https://forum.xda-developers.com/t/gsi-13-l
 ## No adaptative brightness
 Needs overlay, i will make one Soon™
 
-## GSI Gotchas
+# GSI Gotchas
 Here i will document anything "weird" i encounter using this, with a workaround
 - If for some reason you installed GSI without deleting Google Accounts in your previous system, DON'T skip the SetupWizard with the "Corner Trick", or you will be trapped in a FRP Lock (phone will be fully usable but you can't install external .APKs), if you already did this mistake, format data in recovery and complete the SetupWizard.
