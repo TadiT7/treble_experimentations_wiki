@@ -24,6 +24,7 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Lenovo Tab P11]]|TB-J606|✓|A/B|arm64|
 |[[Lenovo Tab P11 Pro]]|TB-J706|✓|A/B|arm64|
 |[[Lenovo Tab V7]]|PB-6505|✓|A/B|arm64|
+|[[Lenovo ThinkPhone by Motorola]]|bronco|✓|A/B|arm64|
 |[[Lenovo Vibe A Plus]]|A1010||A|arm|
 |[[Lenovo Yoga Tab 3]]|YT-X705F|✓|A/B|arm64|
 |[[Lenovo Z5]]|jd2018|✓|A/B|arm64|
@@ -72,5 +73,4 @@ This page covered all supported Android devices under Lenovo brand, including Mo
 |[[Motorola Edge 30 Ultra / X30 Pro]]|eqs|✓|A/B|arm64|
 |[[Motorola Razr 2022]]|oneli|✓|A/B|arm64|
 |[[Motorola Edge 40 Pro / X40]]|rtwo|✓|A/B|arm64|
-|[[Lenovo ThinkPhone by Motorola]]|bronco|✓|A/B|arm64|
 |[[Motorola One Fusion Plus]]|liber|✓|A/B|arm64|
