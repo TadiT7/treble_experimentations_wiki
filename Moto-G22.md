@@ -37,3 +37,7 @@ If 3.5mm jack is not detected
 
 No adaptative brightness
 Needs overlay, i will make one Soon™
+
+## GSI Gotchas
+Here i will document anything "weird" i encounter using this, with a workaround
+If for some reason you installed GSI but didn't delete every Google Account in your previous system, DON'T skip the SetupWizard with the "Corner Trick", or you will be trapped in a FRP Lock (phone will be fully usable but you can't install external .APKs)
