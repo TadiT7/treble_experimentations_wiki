@@ -25,17 +25,19 @@ Now the actual installation begins
 - now in the phone move with vol and select with power, don't reboot yet, go to into recovery mode and here wipe data factory reset, dont wipe in fastboot to avoid encryption issues
 - reboot
 
-## Workarounds
-If you don't have internet but wifi/mobile is really working, see [here](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773) for workaround 
+### Workarounds
+## If you don't have internet but wifi/mobile is really working use this command to fix it
+`adb shell settings put global restricted_networking_mode 0`
+Context about why this happens[here](https://forum.xda-developers.com/t/gsi-13-lineageos-20-light.4509315/#post-87620773)
 
-If 3.5mm jack is not detected
+## If 3.5mm jack is not detected
 - Go to Settings
 - Phh Treble Settings
 - Misc Features
 - Check Use alternate way to detect headsets
 - Reboot 
 
-No adaptative brightness
+## No adaptative brightness
 Needs overlay, i will make one Soon™
 
 ## GSI Gotchas
