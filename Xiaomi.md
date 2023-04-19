@@ -82,6 +82,7 @@
 |[[Xiaomi Redmi K50]]|rubens|✓|A/B|arm64|
 |[[Xiaomi Redmi K50 Gaming / Poco F4 GT]]|ingres|✓|A/B|arm64|
 |[[Xiaomi Redmi K50 Pro / Poco F4 Pro]]|matisse|✓|A/B|arm64|
+|[[Xiaomi Redmi K50 Ultra / Xiaomi 12T Pro]]|diting|✓|A/B|arm64|
 |[[Xiaomi Redmi Note 5 Pro]]|whyred|✓|A|arm64|
 |[[Xiaomi Redmi Note 6 Pro]]|tulip|✓|A|arm64|
 |[[Xiaomi Redmi Note 7]]|lavender|✓|A/B|arm64|
