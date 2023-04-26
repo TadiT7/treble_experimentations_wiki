@@ -22,8 +22,8 @@ Xiaomi Redmi K50 Ultra / Xiaomi 12T Pro (diting)
 | Speaker / Mic             | Work.                                                     |
 | Bluetooth                 | Work.                                                     |
 | WiFi                      | Work.                                                     |
-| SIM / Mobile Data / Voice | Can't receive SMS. SIM2 can use VoLTE to receive SMS*.    |
-| VoLTE                     | Work, but only SIM2*.                                     |
+| SIM / Mobile Data / Voice | Can't receive SMS. SIM2 can receive SMS via VoLTE*.       |
+| VoLTE                     | Work.                                                     |
 | 2G                        | Can Voice, send SMS, can't receive SMS.                   |
 | 3G                        | No device to test                                         |
 | 4G/5G                     | Work.                                                     |
@@ -36,7 +36,7 @@ Xiaomi Redmi K50 Ultra / Xiaomi 12T Pro (diting)
 | Sensor                    | All work.                                                 |
 ---
 \* Notice:  
-Only SIM2 can use VoLTE and receive SMS use VoLTE. (Tested on China Mobile SIM)  
+Only SIM2 receive SMS via VoLTE. (Tested on China Mobile SIM)  
 Phh Treble Settings->IMS features-> install IMS APK, and all options need to be pressed, and you can use IMS and VoLTE.  
 The IMS & VoLTE work on [android_13.0.0_r24 ci-20230131](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230131),[android_13.0.0_r35 ci-20230315](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230315).   
 The IMS & VoLTE don't work on [android_13.0.0_r35 ci-20230324](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230324), [android_13.0.0_r35 ci-20230330](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230330) [android_13.0.0_r41 ci-20230417](https://github.com/TrebleDroid/treble_experimentations/releases/tag/ci-20230417).  
