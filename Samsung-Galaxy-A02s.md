@@ -69,7 +69,7 @@ Variants : VNDK-a64-bvN/bvS , VNDKLITE-a64-bvN/bvS
 
 ### [Lineage OS 20 TD-Based](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=18%20Feb-,LineageOS%0ATD%2Dbased,-AndyYan)
 
-Variants : a64_bvN/bvS , a64_bvN/bvS-vndklite
+Variants : a64_bvN/bvS , a64_bvN/bvS-vndklite, a64_bgN , a64_bgN-vndklite
 
 ### [Lineage 19.1](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=12%20Jan-,LineageOS%2019.1,-AndyYan)
 
