@@ -33,6 +33,7 @@
 |[[Nokia G10]]|rogue / ROG|✓|A/B|arm64|
 |[[Nokia G20]]|ronin / RNN|✓|A/B|arm64|
 |[[Nokia G50]]|punisher / PHR|✓|A/B|arm64|
+|[[Nokia X10]]|scarletwitch / SCW|✓|A/B|arm64|
 |[[Nokia X20]]|quicksilver / QKS|✓|A/B|arm64|
 |[[Nokia XR20]]|thething / TTG|✓|A/B|arm64|
 |[[Nokia X71]]|TAS|✓|A/B|arm64|
