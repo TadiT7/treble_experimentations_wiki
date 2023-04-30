@@ -9,7 +9,7 @@ This device uses A/B Partition
 
 √Lineageos 12 20221011
 
-√Project Elixir OS 13 v3.7 (5G, auto-brightness doesn't work)
+√Project Elixir OS 13 v3.7 (5G, auto-brightness don't work)
 
 _**Prerequisites**_
 * OnePlus Nord N10 5G with unlocked bootloader and default recovery
