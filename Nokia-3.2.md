@@ -24,7 +24,7 @@ For Nokia 3.2 unlocking bootloader is simple as:
 
 `fastboot oem unlock`
 
-Reboot bootloader with `fastboot reboot fastboot` or do it manually on device fastboot screen (should be visible already).
+Reboot bootloader with `fastboot reboot fastboot` or do it manually on device fastboot screen (visible after unlocking).
 
 Time to flash desired GSI. Let's disable AVB (Android Verified Boot) first:
 
