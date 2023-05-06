@@ -69,5 +69,5 @@ Enjoy!
 ***
 
 P.S. Since the device comes with (by today's standards) modest 16GB/32GB storage and 2GB/3GB RAM,
-you may consider installing crDRom11, which takes only 3.5 GB and is half size of CAOS11.
+you may consider installing crDRom11, which takes only 3.5 GB and is half size CAOS11.
 Both are vanilla (no Gapps) and run smoothly on my test device with lower specs, 16GB/2GB RAM.
