@@ -7,9 +7,9 @@ Currently, Mariko-based Switch (including Lite, OLED) are unsupported.
 ## Steps to install
 
 * Step 1
-    use linux and setup.sh to prepare your sdcard and build hybrid MBR
+    In Hekate, select Tools - Partition SD Card and create partitions for Android.
 * Step 2
-    use fastboot to install switchroot android pie completely
+    Copy Android installation files to your SD card via UMS.
 * Step 3 flash this image with the `fastboot` utility:
     ```
     $ fastboot devices
