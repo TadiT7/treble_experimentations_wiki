@@ -83,7 +83,7 @@
 |[[Micromax In 1]]|E6746|✓|A/B|arm64|
 |[[Microsoft Surface Duo]]|epsilon|✓|A/B|arm64|
 |[[Microsoft Surface Duo 2]]|zeta|✓|A/B|arm64|
-|[[Nintendo Switch]]|icosa||A/B|arm64|
+|[[Nintendo Switch]]|icosa, lowa, hoag and aula||A/B|arm64|
 |[[QRD750 and QRD765]]|lito|✓|A/B|arm64|
 |[[Rakuten Mini C330]]|C330|✓|A/B|arm64|
 |[[Razer Phone]]|cheryl|✓|A/B|arm64|
