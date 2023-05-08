@@ -2,7 +2,7 @@
 
 Nintendo Switch isn't an android device but switchroot team ported android for it. First release was android lineage os 15 8.1.0 but non-treble. Currently the compiled android 9 build from source is Treble compatible. But there will be some problems, as the devs said they have framework patches of switchroot android images but GSI images somehow works on this device. Running android requires hacked Nintendo Switch v1 (Erista) unit. Android on Switch runs from SDcard, not from eMMC, so there will be speed issue.
 
-Currently, Mariko-based Switch (including Lite, OLED) are unsupported.
+Currently, Mariko-based Switch (including Lite, OLED) are unsupported - codenames of them are lowa, hoag, aula respectively.
 
 ## Steps to install
 
