@@ -14,8 +14,8 @@ Since this device has MTK SoC, i really suggest to dump all partitions using [MT
 just type
 -`python mtk rl foldername --skip userdata` to dump all partitions except userdata, copy boot_*.bin, vbmeta_*.bin
 after complete, follow the steps to unlock bootloader, search the commands in MTKClient readme
-and flash vbmeta_*.bin from dump in fastboot with this command
--`fastboot --disable-verity --disable-verification flash vbmeta vbmeta_*.bin`
+and flash vbmeta.img.empty from mtkclient folder with this command
+-`python mtk w vbmeta vbmeta.img.empty`
 
 Now the actual installation begins
 - `fastboot reboot fastboot` to boot into fastbootd, this is necessary to access system/vendor/product/... partitions
