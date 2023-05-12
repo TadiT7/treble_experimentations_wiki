@@ -115,7 +115,9 @@ In both the CrDRom and LiR Images, RIL/SIM works perfectly, you have internet an
 To manually be sure if you should use A or A/B Rom, use the treble-check app or this command in fastboot mode or booted rom with adb shell
 
      fastboot getprop ro.boot.slot_suff 
-     or 
+
+     or
+ 
      adb shell getprop ro.boot.slot_suffix
 
 If it doesn't reply anything , its AB, if its A only it will reply saying its A only.
