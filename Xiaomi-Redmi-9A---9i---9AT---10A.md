@@ -116,7 +116,7 @@ What Works / Doesn't work / Hardware Info
 In both the CrDRom and LiR Images, RIL/SIM works perfectly, you have internet and calls 100% BUT
 "RIL/SIM Card is dead in many other A11 and A12 images,  so we have to search and test for images that have RIL/SIM working, or make it work ourselves" *gulp*
 
-To manually be sure if you should use A or A/B Rom, use the treble-check app or this command in fastboot mode or booted rom with adb shell
+To manually be sure if you should use A or A/B Rom, use the treble-check app or these commands in fastboot mode or booted rom with adb shell
 
 In fastboot or bootloader mode
 
