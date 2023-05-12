@@ -63,12 +63,17 @@ Unpack your .img.xz , inside you will find your .img file , rename it to system.
 
 Move this system.img and your vbmeta.img to your adb folder if necessary.
 
-Now reboot into Fastboot Mode (turn phone off, hold power and vol - ) or if you have usb debugging, use
+Now reboot into Fastbootd Mode (turn phone off, hold power and vol - ) and use
+     fastboot devices 
+     fastboot reboot fastboot
+
+ or if you have usb debugging, use from within the ROM
 
      adb devices
      adb reboot fastboot
 
-We're in fastbootd mode. Open terminal where you have system.img, vbmeta file, and use these commands:
+
+In fastbootd mode. Open terminal where you have system.img, vbmeta file, and use these commands:
 
      fastboot devices
      fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img
