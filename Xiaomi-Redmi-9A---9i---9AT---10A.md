@@ -1,4 +1,4 @@
-## I did it with a Xiaomi Redmi 9A (dandelion)
+## I did it with a Xiaomi Redmi 9A (dandelion) Global
 
 
 Requirements
@@ -44,8 +44,9 @@ I downloaded and used " **[crdrom-v316-220330-a64-bvZ.img.xz](https://sourceforg
 Short Explanation of Tags
 
 **a** = A-Only slot , **b** = A/B slot - **v** = Vanilla (No Gapps)  
-**Z** = Has Dynamical SuperUser (Root can be disabled/enabled from within the system options) - **G** = Has Gapps - **O** = Has Gapps-GO  
-**F** = Floss ( comes with free & open source apps instead gapps)  - **N** = No Super User - **S** = Has SuperUser - 
+**Z** = Has Dynamical SuperUser (Root can be disabled/enabled from within the system options) - **G** = Has Gapps - 
+**o** = Has Gapps-GO  **F** = Floss ( comes with free & open source apps instead gapps)  - 
+**n** = No Super User - **S** = Has SuperUser - 
 **Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
 
