@@ -39,13 +39,18 @@ LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.2
 you can only choose the same Android version or 1 that is above yours , bare in mind we cant return to previous Android versions, unless we use MiFlash, so stick with your current version)
 
 
-I downloaded and used " **[lir-v316-220325-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
+I downloaded and used " **[crdrom-v316-220330-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/crdrom-v316-220330-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
 
-b = A/B , v = Vanilla , Z = Has Dynamical SuperUser ( Root can be disabled/enabled while using the phone )
-Vanilla variant comes without gapps and has Root/SU.
+Short Explanation of Tags
+b = A/B partition , v = Vanilla , Z = Has Dynamical SuperUser ( Root can be disabled/enabled from within the system options )
+G = variant comes with gapps, O = gapps-go , F = floss ( comes with free & open source apps instead gapps) N = No Super User
+S = Non Dynamic SuperUser.
+Lite = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
-But you can download and install any other as long as its compatible with the cpu and the partition format.
-Feel free to try other Images and report.
+
+But you can download and install any other ROM as long as its compatible with the cpu arch and the partition format. 
+(In our case A64 arch and AB partition , also called arm32_binder64ab)
+Feel free to try other Images and report your experience.
 
 
 ## Step 2 - You have your Image time to flash it.
@@ -84,9 +89,9 @@ You don't have to do it again for any of these ROMS, but in case you have dm-ver
 
 ### Features? = 
 
-Well its 1.5GB size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
-Since its smaller, it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer. Its LOS + PHH-Treble combined, i mean its good.
-It comes rooted by default. You won't really hard-brick ur device, or have to return to MIUI ever again, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
+Well its 6GB size, Its debloated ! NO MORE GOOGLE, OR XIAOMI in it, at least not forced in our faces.
+Since its smaller, it should be very good on the battery and because of this, performance of the phone during usage of apps should be optimal too, the best performance these 2gb ram , this cpu can offer. Its CRDRom or LOS + PHH-Treble combined, they're both better than MIUI.
+It comes rooted by default. You won't really hard-brick ur device, or have to deal with Xiaomi permissions and accounts, you can always use these images, and try new ones, and easily flash them through fastbootd as we did before.
 
 What Works / Doesn't work / Hardware Info
 
@@ -94,21 +99,28 @@ What Works / Doesn't work / Hardware Info
 > Component             |   | Comment
 > -- | -- | --
 > Camera                    | √ |  
-> Audio                     | √/× | (headphone jack doesn't work, but can be fixed with a simple code on termux)
+> Audio                     | √/× | (headphone jack Sometimes doesn't work, but can be fixed with a simple code on termux)
 > Bluetooth                 | √ |  
 > Display                   | √ | (brightness slider doesn't work / can also be fixed via termux)
 > WiFi / Hotspot            | √ |  
 > GPS                       | √ |  
-> SIM / Mobile Data / Voice | × | (RIL dead in GSI Phh of A11 and A12, only works in Eremitein's GSI's. )
+> SIM / Mobile Data / Voice | × | (RIL dead in some Roms like GSI PHH A11 and A12 roms, works in Eremitein's GSI's. )
 > VoLTE                     | ? | (Untested)
 > Fingerprint               | √ |  
 > Offline Charging          | × |  
 
-In this LiR Image, RIL/SIM works perfectly, you have internet and calls 100% BUT
-"RIL/SIM Card is dead in many A11 and A12 images,  so we have to search for images that have RIL/SIM working, or make it work ourselves"
-*gulp*
+In both the CrDRom and LiR Images, RIL/SIM works perfectly, you have internet and calls 100% BUT
+"RIL/SIM Card is dead in many other A11 and A12 images,  so we have to search and test for images that have RIL/SIM working, or make it work ourselves" *gulp*
 
-IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest trying with A-Only first if it doesn't work or it's not available , try with A/B, (So far the A/B Image used in this guide works perfectly)
+To manually be sure if you should use A or A/B Rom, use the treble-check app or this command in fastboot mode or booted rom with adb shell
+     fastboot getprop ro.boot.slot_suff 
+or 
+     adb shell getprop ro.boot.slot_suffix
+
+If it doesn't reply anything , its AB, if its A only it will reply saying its A only.
+
+
+ Since my device is A/B, it works, i suggest verifying well your partition and making sure you've selected the right ROM, Because perhaps other versions of the Redmi 9A may have different partition slot formats, (So far the A/B Image used in this guide works perfectly)
 
 " Other Lists of Generic GSI's " 
 
@@ -117,7 +129,7 @@ IM NOT SURE YET IF WE SHOULD USE A or A/B , since our device is A-Only i suggest
 
 "Other working GSI's" 
 
-* Tested [CrDroid v313 by eremitein](https://sourceforge.net/projects/treblerom/files/crDRom11/2021.09.21/)
+* Tested [CrDroid v316 by eremitein](https://sourceforge.net/projects/treblerom/files/crDRom11/2021.09.21/)
 * Tested [Bless v306 by eremitein](https://sourceforge.net/projects/treblerom/files/BLESS11/2021.05.02/)
 * Tested [Pixel Experience 10 by ExpressLuke](https://sourceforge.net/projects/expressluke-gsis/files/PixelExperience/Ten/A64/AB/)
 * Every  [eremitein](https://sourceforge.net/projects/treblerom/files/) builds
