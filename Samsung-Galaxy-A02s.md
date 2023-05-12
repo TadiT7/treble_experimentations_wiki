@@ -1,35 +1,34 @@
 # Samsung A02s (SM-A025F, SM-A025G, SM-A025M)
 
-## Custom Recoveries Available :
+## Custom Recoveries/Kernels/Vendors :
 
 TWRP (Unofficial) : [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
 OrangeFox (Unofficial)**(Discontinued)***: [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
+Custom Vendor** : [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+
 ***VERY UNSTABLE AND DOESN'T WORK! USE TWRP!**
+
+**The vendor can be used to run arm64 GSIs and can also run Secure GSIs without any issue.
+But do note that it is in beta and is very unstable!
 
 ## NOTES (VERY IMPORTANT!) :
 
 ##### About choosing the right GSI image :
 
-Use binder GSI images! Binder GSI images will either be marked as **a64** or **arm32_binder64**.
+Use binder GSI images! Binder GSI images will either be marked as **a64** or **arm32_binder64**. If you're using custom vendor, use arm64 GSIs only!
 
 Some images might have **A/B(ab)** or **A-only** variants. Use **A/B(ab)** ones.
 
-Only **non-secure** GSI images works on the device!
-
-If the image is marked with **secure**, this means that it **doesn't support** the device!
-
-If you flash a GSI image and it crashes after some seconds after booting up, this might mean that the **GSI image is secure**!
-
-All GSI images made by **Nazim** are secure! So don't use them!
+Only **non-secure** GSI images works on the stock vendor of the device.
 
 ##### Flashing a GSI image :
 Either flash it as system image on TWRP (make sure it's a .img file).
 
 or
 
-Use fastboot to flash the image by using the following command :
+Use fastboot to flash the image by using the following command (Must have TWRP) :
 
 `fastboot flash system <your gsi img>`
 
@@ -41,13 +40,15 @@ First, do `fastboot erase product` and then, flash the [product_gsi.img](https:/
 
 ##### Other important things :
 
-In some GSI images, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes!
+In some GSI images, there will be an option to enable **Device Spoof Properties** in the **phh Treble Options** in **Settings**. **DO NOT TURN THAT ON!** Even if you did and you restarted your device, you'll have aproximately 30 secs to **turn it back off and restart to apply the changes** before the system crashes! (On Stock Vendor & Secure-on-demand GSIs only)
 
-**Do not use Universal SafetyNet Fix or any other module or hack that does the same thing as above! This will also cause the same issue.**
+**Do not use Universal SafetyNet Fix or any other module or hack that does the same thing as above! This will also cause the same issue.** (On Stock Vendor & Secure-on-demand GSIs only)
 
 Do not enable **Use alternate audio policy** in the **phh Treble Options**. This will result in the volume buttons not working! Disable it and restart for it to work again.
 
 If you want to be able to edit system files/make system files R/W, use **VNDKLITE** GSI images.
+
+If you're using the custom vendor above, make sure to use the Bootloop Fix .zip to be able to boot any arm64 GSI properly!
 
 ## Installing Magisk on GSI images.
 
@@ -62,7 +63,7 @@ Note that this method only works with non-superuser GSIs. See [this](https://git
 ***
 
 
-## List of known-working GSIs :
+## List of known-working GSIs (On Stock Vendor) :
 
 ### [LeOS](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list#:~:text=17%20Jan-,LeOS%2020%20%26%20T,-Harvey186)
 Variants : VNDK-a64-bvN/bvS , VNDKLITE-a64-bvN/bvS
@@ -84,3 +85,7 @@ Variants : arm32_binder64-ab-vanilla , arm32_binder64-ab-vndklite-vanilla
 Variants : arm32_binder64-ab-vanilla/gogapps , arm32_binder64-ab-vndklite-vanilla/gogapps
 
 **More GSI ROMs are being tested to see if they work! So use these ones for the time being!**
+
+## List of known-working GSIs (On Custom Vendor) :
+
+Almost any arm64 and secure GSIs can work on it! But, you can't run a64/arm32_binder64 GSIs on it.
