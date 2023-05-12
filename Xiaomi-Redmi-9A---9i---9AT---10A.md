@@ -68,15 +68,11 @@ Now reboot into Fastboot Mode (turn phone off, hold power and vol - ) or if you 
      adb devices
      adb reboot fastboot
 
-Open terminal where you have system.img, vbmeta file, and use these commands:
+We're in fastbootd mode. Open terminal where you have system.img, vbmeta file, and use these commands:
 
      fastboot devices
      fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img
      
-
-We're in fastbootd mode
-Continue with these commands:
-
     fastboot getvar is-userspace 
 ( it should reply with "is-userspace: yes" , this is good, it means we're good to go)
 
@@ -86,7 +82,7 @@ Continue with these commands:
     fastboot flash system system.img
     fastboot reboot recovery
 
-Once inside the default recovery, choose to wipe data, and now reboot to system. 
+Once inside the default recovery, navigate with vol buttons,choose to wipe data, and now reboot to system. 
 
 Give it time. Allow your phone to boot, patience, an image with CrDroid Logo should suprise you, eventually it should boot into start menu in a few secs.
 Congratulations you got rid of MIUI without any recovery, and  you got a nice debloated ROM (The best ROM or one of the BEST ROMS i should say)
