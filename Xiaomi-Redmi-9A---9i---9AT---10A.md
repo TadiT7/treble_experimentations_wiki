@@ -23,18 +23,20 @@ Its safe to use.
 
 Once in the app , the app recommends you which IMAGE you should download, gives you CPU ARCH info and tells you if phone is Aonly or A/B
 
-In my case its A ONLY , but the app recommends me to download an A/B Image, specifically a
+In my case its A-ONLY , but the app recommends me to download an A/B Image, specifically a
 
  " **system-arm32_binder64-ab-vanilla.img.xz**  " image. (These arm32_binder64 images are also called A64 images)
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
-I HAVE to download an Android 11 image, so i went for a Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11R , it booted)
+I HAVE to download an Android 11 image, so i went for a CrDRom v316 (Very Good Rom)
+https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/crdrom-v316-220330-a64-bvZ.img.xz/download
 
+Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11R , it booted)
 LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download
 
 (But if you are on Android 10, you have to download an android 10 image, if you're on 12 , you have to download an Android 12 image and so on,
-you can only choose the same Android version or 1 that is above yours , bare in mind we might not be able to return to previous Android versions, so stick with your current version)
+you can only choose the same Android version or 1 that is above yours , bare in mind we cant return to previous Android versions, unless we use MiFlash, so stick with your current version)
 
 
 I downloaded and used " **[lir-v316-220325-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
