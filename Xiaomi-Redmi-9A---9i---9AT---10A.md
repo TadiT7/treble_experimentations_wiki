@@ -64,6 +64,7 @@ Unpack your .img.xz , inside you will find your .img file , rename it to system.
 Move this system.img and your vbmeta.img to your adb folder if necessary.
 
 Now reboot into Fastbootd Mode (turn phone off, hold power and vol - ) and use
+
      fastboot devices 
      fastboot reboot fastboot
 
