@@ -47,9 +47,9 @@ Short Explanation of Tags
 
 **a** = A-Only slot , **b** = A/B slot - **v** = Vanilla (No Gapps)  
 **Z** = Has Dynamical SuperUser (Root can be disabled/enabled from within the system options) - **G** = Has Gapps - 
-**o** = Has Gapps-GO  **F** = Floss ( comes with free & open source apps instead gapps)  - 
-**n** = No Super User - **S** = Has SuperUser - 
-**Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
+**o** = Has Gapps-GO - **F** = Floss ( comes with free & open source apps instead gapps) - 
+**n** = No Super User - **S** = Has SuperUser -
+ **Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
 
 But you can download and install any other ROM as long as its compatible with the cpu arch and the partition format. 
@@ -68,7 +68,7 @@ Now reboot into Fastbootd Mode (turn phone off, hold power and vol - ) and use
      fastboot devices 
      fastboot reboot fastboot
 
- or if you have usb debugging, use from within the ROM
+ or if you have usb debugging, use from within the booted ROM/System
 
      adb devices
      adb reboot fastboot
