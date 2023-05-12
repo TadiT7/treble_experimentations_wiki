@@ -116,7 +116,7 @@ To manually be sure if you should use A or A/B Rom, use the treble-check app or 
 
      fastboot getprop ro.boot.slot_suff 
 
-     or
+or
  
      adb shell getprop ro.boot.slot_suffix
 
