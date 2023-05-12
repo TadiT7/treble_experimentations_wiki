@@ -42,8 +42,13 @@ you can only choose the same Android version or 1 that is above yours , bare in 
 I downloaded and used " **[crdrom-v316-220330-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/crdrom-v316-220330-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
 
 Short Explanation of Tags
-b = A/B partition , v = Vanilla , Z = Has Dynamical SuperUser ( Root can be disabled/enabled from within the system options )
-G = variant comes with gapps, O = gapps-go , F = floss ( comes with free & open source apps instead gapps) N = No Super User
+a = A-Only slot , **b** = A/B slot  
+v = Vanilla (No Gapps)  
+Z = Has Dynamical SuperUser ( Root can be disabled/enabled from within the system options )
+G = Has Gapps, 
+O = Has Gapps-GO  
+F = Floss ( comes with free & open source apps instead gapps) 
+N = No Super User 
 S = Non Dynamic SuperUser.
 Lite = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
@@ -81,7 +86,7 @@ Continue with these commands:
 
 Once inside the default recovery, choose to wipe data, and now reboot to system. 
 
-Give it time. Allow your phone to boot, patience, an image with LinageOS Logo should suprise you, eventually it should boot into start menu in a few secs.
+Give it time. Allow your phone to boot, patience, an image with CrDroid Logo should suprise you, eventually it should boot into start menu in a few secs.
 Congratulations you got rid of MIUI without any recovery, and  you got a nice debloated ROM (The best ROM or one of the BEST ROMS i should say)
 
 (Detail, once you've disabled dm-verity with fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img command
@@ -118,7 +123,8 @@ To manually be sure if you should use A or A/B Rom, use the treble-check app or 
 
 or
  
-     adb shell getprop ro.boot.slot_suffix
+     adb shell 
+     getprop ro.boot.slot_suffix
 
 If it doesn't reply anything , its AB, if its A only it will reply saying its A only.
 
