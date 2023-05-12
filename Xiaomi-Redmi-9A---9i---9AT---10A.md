@@ -138,8 +138,7 @@ Inside booted rom
 
 getvar current-slot -- If it doesn't reply anything , its A/B, if its A or B only it will reply saying its A only or B only.
 
-
- Since my device is A/B, nothing pops, these ROMS work, i suggest verifying well your partition and making sure you've selected the right ROM, Because perhaps other versions of the Redmi 9A may have different partition slot formats, (So far the A/B Image used in this guide works perfectly)
+These ROMS work, i suggest verifying well your partition and making sure you've selected the right ROM, Because perhaps other versions of the Redmi 9A may have different partition slot formats, (So far the A/B Image used in this guide works perfectly)
 
 " Other Lists of Generic GSI's " 
 
