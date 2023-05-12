@@ -42,15 +42,11 @@ you can only choose the same Android version or 1 that is above yours , bare in 
 I downloaded and used " **[crdrom-v316-220330-a64-bvZ.img.xz](https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/crdrom-v316-220330-a64-bvZ.img.xz/download)** " Because our CPU supports arm32_binder64, and ab works for us. 
 
 Short Explanation of Tags
-a = A-Only slot , **b** = A/B slot  
-v = Vanilla (No Gapps)  
-Z = Has Dynamical SuperUser ( Root can be disabled/enabled from within the system options )
-G = Has Gapps, 
-O = Has Gapps-GO  
-F = Floss ( comes with free & open source apps instead gapps) 
-N = No Super User 
-S = Non Dynamic SuperUser.
-Lite = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
+
+**a** = A-Only slot , **b** = A/B slot - **v** = Vanilla (No Gapps)  
+**Z** = Has Dynamical SuperUser (Root can be disabled/enabled from within the system options) - **G** = Has Gapps - **O** = Has Gapps-GO  
+**F** = Floss ( comes with free & open source apps instead gapps)  - **N** = No Super User - **S** = Has SuperUser - 
+**Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
 
 But you can download and install any other ROM as long as its compatible with the cpu arch and the partition format. 
