@@ -65,19 +65,19 @@ Move this system.img and your vbmeta.img to your adb folder if necessary.
 
 Now reboot into Fastbootd Mode (turn phone off, hold power and vol - ) and use
 
-     fastboot devices 
-     fastboot reboot fastboot
+    fastboot devices 
+    fastboot reboot fastboot
 
  or if you have usb debugging, use from within the booted ROM/System
 
-     adb devices
-     adb reboot fastboot
+    adb devices
+    adb reboot fastboot
 
 
 In fastbootd mode. Open terminal where you have system.img, vbmeta file, and use these commands:
 
-     fastboot devices
-     fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img
+    fastboot devices
+    fastboot --disable-verification --disable-verity flash vbmeta vbmeta.img
      
     fastboot getvar is-userspace 
 ( it should reply with "is-userspace: yes" , this is good, it means we're good to go)
