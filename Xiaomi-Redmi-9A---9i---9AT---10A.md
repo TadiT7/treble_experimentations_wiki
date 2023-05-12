@@ -21,18 +21,20 @@ https://www.apkmirror.com/apk/hackintosh-five/treble-info/treble-info-5-0-6-rele
 
 Its safe to use.
 
-Once in the app , the app recommends you which IMAGE you should download, gives you CPU ARCH info and tells you if phone is Aonly or A/B
+Once in the app , the app recommends you which IMAGE you should download, gives you CPU ARCH info and tells you if phone is Aonly or A/B (Sometimes it may give you wrong info about boot slot partition, if its A or A/B, if you wanna be sure use commands i posted below to verify) 
 
-In my case its A-ONLY , but the app recommends me to download an A/B Image, specifically a
+In my case its A/B , the app says its A64, and recommends me to download an A/B Image, specifically a
 
  " **system-arm32_binder64-ab-vanilla.img.xz**  " image. (These arm32_binder64 images are also called A64 images)
 
 Since my last MIUI image installed was "**dandelion_global_images_V12.5.4.0.RCDMIXM_20220421.0000.00_11.0_global**" **its based on Android 11**
 
-I HAVE to download an Android 11 image, so i went for a CrDRom v316 (Very Good Rom)
+I HAVE to download an Android 11 image, that is A64 and A/B partition boot slot, so i went for a CrDRom v316 (Very Good Rom for Gaming)
 https://sourceforge.net/projects/treblerom/files/crDRom11/2022.03.30/crdrom-v316-220330-a64-bvZ.img.xz/download
+(Since its Android 11R , it boots)
 
-Lineage OS R 18.1 with the latest android 11 available. (since 18.1 is based on Android 11R , it booted)
+CAOS v316 and Lineage OS R 18.1  are also good ROMS with the latest android 11 available. (18.1 is based on Android 11R , it booted)
+https://sourceforge.net/projects/treblerom/files/CAOS11/2022.03.21/
 LiR 2022.03.25 -- https://sourceforge.net/projects/treblerom/files/LiR/2022.03.25/lir-v316-220325-a64-bvZ.img.xz/download
 
 (But if you are on Android 10, you have to download an android 10 image, if you're on 12 , you have to download an Android 12 image and so on,
@@ -116,17 +118,23 @@ In both the CrDRom and LiR Images, RIL/SIM works perfectly, you have internet an
 
 To manually be sure if you should use A or A/B Rom, use the treble-check app or this command in fastboot mode or booted rom with adb shell
 
-     fastboot getprop ro.boot.slot_suff 
+In fastboot or bootloader mode
 
-or
+     fastboot getprop ro.boot.slot_suff 
+     fastboot getvar current-slot
+     fastboot getvar all
+
+Inside booted rom
  
      adb shell 
      getprop ro.boot.slot_suffix
+     getvar current-slot
+     getvar all
 
-If it doesn't reply anything , its AB, if its A only it will reply saying its A only.
+getvar current-slot -- If it doesn't reply anything , its A/B, if its A or B only it will reply saying its A only or B only.
 
 
- Since my device is A/B, it works, i suggest verifying well your partition and making sure you've selected the right ROM, Because perhaps other versions of the Redmi 9A may have different partition slot formats, (So far the A/B Image used in this guide works perfectly)
+ Since my device is A/B, nothing pops, these ROMS work, i suggest verifying well your partition and making sure you've selected the right ROM, Because perhaps other versions of the Redmi 9A may have different partition slot formats, (So far the A/B Image used in this guide works perfectly)
 
 " Other Lists of Generic GSI's " 
 
