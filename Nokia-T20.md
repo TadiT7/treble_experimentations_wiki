@@ -16,7 +16,7 @@ Bootloader Unlock : TBD (following test is performed on prototype unit with reta
 
 ## Additional Notes
 
-You'll need to delete product partition under fastbootd before flashing GSI:
+Due to unstable implementation of Fastboot on Unisoc devices, vbmeta and GSI flashing procedure must be done under Fastbootd.
 ```
 fastboot delete-logical-partition product
 ```
