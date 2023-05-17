@@ -18,19 +18,28 @@ Summary of what works and doesn't
 
 ## Hardware support
 
-| Component                 |      Comment                                              |
-|---------------------------|-----------------------------------------------------------|
-| Camera                    | Working                                                   |
-| Speaker / Mic             | Working                                                   |
-| Bluetooth                 | Working                                                   |
-| WiFi                      | Working                                                   |
-| SIM / Mobile Data / Voice | Depends on GSI                                            |
-| VoLTE                     | Not Working                                               |
-| Fingerprint               | Working                                                   |
-| NFC                       | Working                                                   |
-| Offline Charging          | Working                                                   |
-| 5G                        | Not Working                                               |
-| 120Hz Refresh Rate        | Working                                                   |
+| Component                        |      Comment                                                                                                 |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Camera                           | Working                                                                                                      |
+| Speaker / Mic                    | Working                                                                                                      |
+| Bluetooth                        | Working                                                                                                      |
+| WiFi                             | Working                                                                                                      |
+| SIM / Mobile Data / Voice        | Depends on GSI                                                                                               |
+| VoLTE                            | Not Working                                                                                                  |
+| Fingerprint                      | Working                                                                                                      |
+| NFC                              | Working                                                                                                      |
+| Offline Charging                 | Working                                                                                                      |
+| 5G                               | Not Working                                                                                                  |
+| 120Hz Refresh Rate               | Working                                                                                                      |
+| USB-C headphones and sound cards | Working with mitigations (Settings -> Phh Treble Settings -> Samsung features -> Use alternate audio policy) |
+
+## GSI support
+Android 13 GSIs don't seem to be supported. Bootloops while running on every Android 13 GSI (Lineage TD 20, PixelExperience 13, TrebleDroid 13).
+
+Android 12 GSIs are supported. Tested on LineageOS 19.1 GSI.
+
 ---
 
 Tested By: ItsLynix - SM-A536B(EUX), A536BXXU4BVL2 - 01/02/2023 - Template created by @zguithues and @hackintosh5
+
+Tested By: mytja - SM-A536B(EUX), A536BZKNEEE - 18/05/2023 - LineageOS GSI 19.1
