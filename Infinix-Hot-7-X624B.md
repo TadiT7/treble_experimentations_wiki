@@ -18,10 +18,10 @@
 > OK
 
 * Fingerprint Reader
-> OK
+> Nope
 
 * 3.5mm audio jack
-> Nope
+> OK
 
 ***
 ## Additional Notes
