@@ -18,7 +18,7 @@
 > OK
 
 * Fingerprint Reader
-> Nope
+> NOT working
 
 * 3.5mm audio jack
 > OK
