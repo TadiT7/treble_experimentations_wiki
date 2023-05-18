@@ -20,9 +20,9 @@
 
 | Component                 |      Comment                                              |
 |---------------------------|-----------------------------------------------------------|
-| Camera                    | Working but troublesome sometimes|
+| Camera                    | Troublesome|
 | Speaker / Mic / Calls     | Working  |
-| Bluetooth / BT Audio                | Not Working |
+| Bluetooth / BT Audio                | Troublesome |
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working                                                    |
 | VoLTE                     | Device Not Support                                              |
