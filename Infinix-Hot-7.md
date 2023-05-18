@@ -22,4 +22,4 @@
 | Brightness                | Working |
 | Sensors | Not tested |
 ---
-Template created by brostosjoined
+Template created by [brostosjoined](https://github.com/brostosjoined)
