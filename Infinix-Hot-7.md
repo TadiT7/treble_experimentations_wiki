@@ -1,7 +1,7 @@
 ## Infinix Hot 7(X624B)
 
 ## Installation
-- Remove dm-verity with magisk or any other sutable way
+- Remove dm-verity with magisk or any other suitable way
 - Make sure you have formatted the phone
 - Unlock your bootloader on the developer option then power off then phone.
 - Boot to fastboot by holding `power` and `volume down` buttons.
@@ -10,12 +10,16 @@
 - Run `fastboot flash system system-quack-arm-aonly-gapps.img`
 - Boom thats it. Simple right.
 
+**Dont try android 11 it doesnt boot**
+
 **Supported GSI : A only**
 
 **Tested GSI : [AOSP 10.0 v222](https://github.com/phhusson/treble_experimentations/releases/tag/v222) - [system-quack-arm-aonly-gapps.img.xz](https://github.com/phhusson/treble_experimentations/releases/download/v222/system-quack-arm-aonly-gapps.img.xz)**
 
 ## Issues
- Random device restart not frequently maybe cause am rooted using magisk and superuser was already available.
+ - Random device restart not frequently maybe cause am rooted using magisk and superuser was already available but you can remove it from settings.
+ - Sometimes network and simcard is not detected even when available, maybe i messed with the settings.
+ 
 
 ## Hardware Support
 
