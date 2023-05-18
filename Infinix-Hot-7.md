@@ -1,6 +1,7 @@
 ## Infinix Hot 7(X624B)
 
 ## Installation
+- Remove dm-verity with magisk or any other sutable way
 - Make sure you have formatted the phone
 - Unlock your bootloader on the developer option then power off then phone.
 - Boot to fastboot by holding `power` and `volume down` buttons.
