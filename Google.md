@@ -11,3 +11,4 @@
 |[[Google Pixel 6 and Pixel 6 Pro]]|oriole and raven|✓|A/B|arm64|
 |[[Google Pixel 6A]]|bluejay|✓|A/B|arm64|
 |[[Google Pixel 7 and Pixel 7 Pro]]|panther and cheetah|✓|A/B|arm64|
+|[[Google Pixel 7A]]|lynx|✓|A/B|arm64|
