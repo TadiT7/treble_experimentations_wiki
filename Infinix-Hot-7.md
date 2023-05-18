@@ -13,11 +13,11 @@
 |---------------------------|-----------------------------------------------------------|
 | Camera                    | Working but troublesome sometimes|
 | Speaker / Mic / Calls     | Working  |
-| Bluetooth / BT Audio                | Working |
+| Bluetooth / BT Audio                | Not Working |
 | WiFi                      | Working                                                    |
 | SIM / Mobile Data / Voice | Working                                                    |
 | VoLTE                     | Device Not Support                                              |
-| Fingerprint               | No working                                                   |
+| Fingerprint               | Not working                                                   |
 | Bluetooth calls           | Not Tested                                               |
 | Brightness                | Working |
 | Sensors | Not tested |
