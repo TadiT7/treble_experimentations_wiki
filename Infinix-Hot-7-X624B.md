@@ -26,7 +26,7 @@
 ***
 ## Additional Notes
 
-This has been tested with [system-quack-arm-aonly-gapps] (https://github.com/phhusson/treble_experimentations/releases/download/v222/system-quack-arm-aonly-gapps.img.xz)
+This has been tested with  Android 10[system-quack-arm-aonly-gapps](https://github.com/phhusson/treble_experimentations/releases/download/v222/system-quack-arm-aonly-gapps.img.xz)
 
 
 ***
