@@ -16,7 +16,7 @@ arm32(binder)/arm64 Custom Vendors: [Telegram](https://t.me/samsung_galaxy_m01_a
 
 The custom vendor mentioned above has been created for users to run secure GSIs on this device as phh thinks that maybe the script (found in TD) that disables secondary watchdog (which blocks secure GSIs) is non-functional or doesn't work on the following device.
 
-The custom vendor has secondary watchdog disabled so that users can run secure GSIs. But if phh fixes it, the arm32 vendor won't be required to disable it.
+The custom vendor has secondary watchdog disabled so that users can run secure GSIs. But if phh fixes it, the arm32 vendor won't be required anymore to run secure gsis.
 
 arm32(binder) vendor functions properly as expected without any issue as it's the stock vendor with watchdog disabled.
 
