@@ -6,22 +6,31 @@ TWRP (Unofficial) : [Click here](https://forum.xda-developers.com/t/recovery-uno
 
 OrangeFox (Unofficial)**(Discontinued)***: [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
-Custom Vendor** : [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+Custom Vendor (binder/arm64)** : [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
 
 ***VERY UNSTABLE AND DOESN'T WORK! USE TWRP!**
 
-**The vendor can be used to run arm64 GSIs and can also run Secure GSIs without any issue.
-But do note that it is in beta and is very unstable!
-
 ## NOTES (VERY IMPORTANT!) :
+
+##### About the custom vendor :
+
+The custom vendor mentioned above has been created for users to run secure GSIs on this device as phh thinks that maybe the script (found in TD) that disables secondary watchdog (which blocks secure GSIs) is non-functional or doesn't work on the following device.
+
+The custom vendor has secondary watchdog disabled so that users can run secure GSIs. But if phh fixes it, the arm32 vendor won't be required to disable it.
+
+arm32(binder) vendor functions properly as expected without any issue as it's the stock vendor with watchdog disabled.
+
+arm64 vendor doesn't function properly and has some issues such as fast-charging not working. Also has watchdog disabled.
 
 ##### About choosing the right GSI image :
 
-Use binder GSI images! Binder GSI images will either be marked as **a64** or **arm32_binder64**. If you're using custom vendor, use arm64 GSIs only!
+Use binder GSI images for **stock or arm32(binder) custom vendor**! Binder GSI images will either be marked as **a64** or **arm32_binder64**. 
+
+If you're using **arm64 custom vendor**, use arm64 GSIs only. arm64 GSIs will be marked as **arm64**.
 
 Some images might have **A/B(ab)** or **A-only** variants. Use **A/B(ab)** ones.
 
-Only **non-secure** GSI images works on the stock vendor of the device.
+Only **non-secure and secure-on-demand** GSI images works on the stock vendor of the device.
 
 ##### Flashing a GSI image :
 Either flash it as system image on TWRP (make sure it's a .img file).
@@ -88,4 +97,4 @@ Variants : arm32_binder64-ab-vanilla/gogapps , arm32_binder64-ab-vndklite-vanill
 
 ## List of known-working GSIs (On Custom Vendor) :
 
-Almost any arm64 and secure GSIs can work on it! But, you can't run a64/arm32_binder64 GSIs on it.
+Almost any GSI can run on it. But some report shows that some Semi-GSIs (made by nippon) do not work!
