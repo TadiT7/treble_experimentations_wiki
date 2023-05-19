@@ -6,7 +6,7 @@ TWRP (Unofficial) : [Click here](https://forum.xda-developers.com/t/recovery-uno
 
 OrangeFox (Unofficial)**(Discontinued)***: [Click here](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a02s-snapdragon.4294377/)
 
-Custom Vendor (binder/arm64)** : [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
+arm32(binder)/arm64 Custom Vendors: [Telegram](https://t.me/samsung_galaxy_m01_a01_m11_a11)
 
 ***VERY UNSTABLE AND DOESN'T WORK! USE TWRP!**
 
