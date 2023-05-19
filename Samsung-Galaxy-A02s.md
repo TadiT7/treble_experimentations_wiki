@@ -57,7 +57,7 @@ Do not enable **Use alternate audio policy** in the **phh Treble Options**. This
 
 If you want to be able to edit system files/make system files R/W, use **VNDKLITE** GSI images.
 
-If you're using the custom vendor above, make sure to use the Bootloop Fix .zip to be able to boot any arm64 GSI properly!
+If you're using the arm64 version of the custom vendor above, make sure to flash the Bootloop Fix.zip file on TWRP after flashing your GSI to be able to boot arm64 GSIs properly!
 
 ## Installing Magisk on GSI images.
 
