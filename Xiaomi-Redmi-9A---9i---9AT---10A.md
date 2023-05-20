@@ -49,7 +49,7 @@ Short Explanation of Tags
 **Z** = Has Dynamical SuperUser (Root can be disabled/enabled from within the system options) - **G** = Has Gapps - 
 **o** = Has Gapps-GO - **F** = Floss ( comes with free & open source apps (no gapps) - 
 **n** = No Super User - **S** = Has SuperUser -
- **Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
+          **Lite** = Sometimes space is more preserved at the cost of themes, functions. Other times the Rom is bigger than usual.
 
 
 But you can download and install any other ROM as long as its compatible with the cpu arch and the partition format. 
